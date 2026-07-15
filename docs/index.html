@@ -5,12 +5,17 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Ещё успеваешь</title>
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🤓</text></svg>">
+<link rel="stylesheet" href="nouislider.min.css">
 <link rel="stylesheet" href="style.css">
 </head>
-<body>
+<body data-page="main">
 <header>
   <h1>Ещё успеваешь</h1>
   <p class="subtitle">Агрегатор научных конференций — автоматически, без платы за страницу в сборнике</p>
+  <nav class="tabs">
+    <a href="index.html" class="active">Актуальные</a>
+    <a href="archive.html">Архив</a>
+  </nav>
 </header>
 
 <div class="about-group">
@@ -112,16 +117,14 @@
 
     <section class="fgroup" id="g-deadline">
       <h3>Дедлайн</h3>
-      <label><input type="radio" name="dl" value="" checked> все</label>
-      <label><input type="radio" name="dl" value="14"> ближайшие 2 недели</label>
-      <label><input type="radio" name="dl" value="30"> ближайший месяц</label>
+      <div id="dl-slider" class="range-slider"></div>
+      <div id="dl-label" class="range-label"></div>
     </section>
 
     <section class="fgroup" id="g-event">
       <h3>Время проведения</h3>
-      <label><input type="radio" name="ev" value="" checked> все</label>
-      <label><input type="radio" name="ev" value="14"> ближайшие 2 недели</label>
-      <label><input type="radio" name="ev" value="30"> ближайший месяц</label>
+      <div id="ev-slider" class="range-slider"></div>
+      <div id="ev-label" class="range-label"></div>
     </section>
 
     <section class="fgroup" id="g-fmt"><h3>Формат</h3></section>
@@ -135,7 +138,7 @@
   <div class="topbar">
     <input id="q" type="search" placeholder="Поиск по названию или организатору…"
            autocomplete="off">
-    <span id="counter" class="counter">показано 49 из 88</span>
+    <span id="counter" class="counter">показано 49 из 75</span>
   </div>
   <noscript><p class="muted">Без JavaScript работает только список ниже
   (конференции с открытым приёмом). Для фильтров и поиска откройте файл
@@ -194,14 +197,54 @@
 </main>
 </div>
 
+<style>
+  footer .people > p {
+    margin: 0;
+  }
+
+  footer .people ol {
+    margin: 0;
+    padding-left: 1.5rem;
+  }
+
+  footer .people li + li {
+    margin-top: 0rem;
+  }
+</style>
+
 <footer>
-  <p id="generated">Падальщик v0.13.0 · данные обновлены 15.07.2026 в 06:03 по МСК</p>
+  <p id="generated">Падальщик v0.14.0 · данные обновлены 15.07.2026 в 06:03 по МСК</p>
+
+  <div class="people">
+    <p><b>Важные люди</b>:</p>
+    <ol>
+      <li>
+        Вадим Устюжанин — создатель
+        (<a
+          href="https://orcid.org/0000-0003-3800-1108"
+          target="_blank"
+          rel="noopener noreferrer"
+        >orcid</a>)
+      </li>
+
+      <li>
+        Даниил Гончаренко — меценат
+        (<a
+          href="https://orcid.org/XXXX-XXXX-XXXX-XXXX"
+          target="_blank"
+          rel="noopener noreferrer"
+        >orcid</a>)
+      </li>
+    </ol>
+  </div>
 </footer>
 
+<script src="nouislider.min.js"></script>
 <script src="data.js"></script>
 <script>
 "use strict";
 const DATA = window.CONF_DATA || {conferences: []};
+const PAGE = document.body.dataset.page || "main";  // main | archive
 const MONTHS = ["января","февраля","марта","апреля","мая","июня",
                 "июля","августа","сентября","октября","ноября","декабря"];
 const NO_FORMAT = "не указан";
@@ -342,7 +385,46 @@ function render(items) {
 }
 
 // --- построение чекбоксов фильтров из данных ---
-const ALL = DATA.conferences;
+// главная — только не прошедшие (open+closed); архив — только прошедшие.
+// Статус считается на момент просмотра, а не сборки.
+const ALL = DATA.conferences.filter(c =>
+  PAGE === "archive" ? status(c) === "past" : status(c) !== "past");
+
+// --- слайдеры диапазона дат (noUiSlider); null-диапазон = фильтр неактивен ---
+let dlRange = null, evRange = null;
+
+function initSliders() {
+  if (!window.noUiSlider) return;  // без JS/библиотеки фильтры дат просто скрыты
+  const dayMs = 86400000;
+  const toISO = ts => new Date(+ts).toISOString().slice(0, 10);
+
+  function make(elId, labelId, dates, setRange) {
+    const el = document.getElementById(elId);
+    if (!el) return;
+    const uniq = [...new Set(dates.filter(Boolean))].sort();
+    if (uniq.length < 2) {                      // не из чего строить диапазон
+      el.closest(".fgroup").style.display = "none";
+      return;
+    }
+    const min = Date.parse(uniq[0]), max = Date.parse(uniq[uniq.length - 1]);
+    noUiSlider.create(el, {
+      start: [min, max], connect: true, step: dayMs, range: {min, max},
+    });
+    const label = document.getElementById(labelId);
+    el.noUiSlider.on("update", vals => {
+      const a = toISO(vals[0]), b = toISO(vals[1]);
+      label.textContent = `${fmtDate(a)} — ${fmtDate(b)}`;
+      const full = +vals[0] <= min && +vals[1] >= max;
+      setRange(full ? null : [a, b]);
+    });
+    el.noUiSlider.on("change", apply);   // пересчёт по отпусканию ручки
+  }
+
+  make("dl-slider", "dl-label",
+       ALL.map(c => c.submission_deadline), r => dlRange = r);
+  make("ev-slider", "ev-label",
+       ALL.map(c => c.event_start), r => evRange = r);
+}
 
 // span'ы счётчиков «(N)» у чекбоксов: {значение: элемент}
 const countSpans = { fmt: {}, disc: {} };
@@ -420,15 +502,20 @@ function byDeadline(a, b) {
          (a.event_start || "9999").localeCompare(b.event_start || "9999");
 }
 
+// архив: свежепрошедшие сверху (по дате окончания/начала, убыв.)
+function byEventDesc(a, b) {
+  return ((b.event_end || b.event_start || "")
+          .localeCompare(a.event_end || a.event_start || ""));
+}
+
 function apply() {
   const needle = document.getElementById("q").value.trim().toLowerCase();
   const wantOpen = checked("open")[0] === "yes";
-  const dlPreset = checked("dl")[0];
-  const evPreset = checked("ev")[0];
   const fmtSel = checked("fmt"), discSel = checked("disc");
 
   // предикаты фильтров по отдельности — нужны и для выдачи, и для счётчиков
-  const passStatus = c => wantOpen === (status(c) === "open");
+  // (в архиве прошедшие все — статус-фильтр не действует)
+  const passStatus = c => PAGE === "archive" || wantOpen === (status(c) === "open");
   // токены короче 3 букв (предлоги «по», «на») не делаем обязательными
   const qTokens = normText(needle).split(" ").filter(t => t.length >= 3);
   const passSearch = c => !qTokens.length ||
@@ -437,22 +524,19 @@ function apply() {
   const passFmt = c => !fmtSel.length || !c.format || fmtSel.includes(c.format);
   const passDisc = c => !discSel.length ||
     (c.disciplines || []).some(d => discSel.includes(d));
-  const passDl = c => {
-    if (!(wantOpen && dlPreset)) return true;
-    const dl = daysLeft(c.submission_deadline);
-    return dl !== null && dl <= +dlPreset;
-  };
-  const passEv = c => {
-    if (!evPreset) return true;
-    const ev = daysLeft(c.event_start);
-    return ev !== null && ev >= 0 && ev <= +evPreset;
-  };
+  // слайдеры: полный диапазон = фильтр выключен (карточки без даты проходят);
+  // суженный — проходят только карточки с датой внутри диапазона
+  const passDl = c => !dlRange ||
+    (c.submission_deadline &&
+     c.submission_deadline >= dlRange[0] && c.submission_deadline <= dlRange[1]);
+  const passEv = c => !evRange ||
+    (c.event_start && c.event_start >= evRange[0] && c.event_start <= evRange[1]);
 
   const items = ALL.filter(c =>
     passStatus(c) && passSearch(c) && passFmt(c) && passDisc(c) &&
     passDl(c) && passEv(c));
 
-  items.sort(byDeadline);
+  items.sort(PAGE === "archive" ? byEventDesc : byDeadline);
 
   // счётчики «(N)»: сколько карточек даст пункт с учётом ВСЕХ остальных
   // фильтров (кроме собственной группы — иначе невыбранные пункты обнулялись бы)
@@ -475,9 +559,13 @@ document.querySelector(".sidebar").addEventListener("change", apply);
 document.getElementById("reset").addEventListener("click", () => {
   document.getElementById("q").value = "";
   document.querySelectorAll('.sidebar input[type="checkbox"]').forEach(i => i.checked = false);
-  document.querySelector('input[name="open"][value="yes"]').checked = true;
-  document.querySelector('input[name="dl"][value=""]').checked = true;
-  document.querySelector('input[name="ev"][value=""]').checked = true;
+  const openYes = document.querySelector('input[name="open"][value="yes"]');
+  if (openYes) openYes.checked = true;
+  for (const id of ["dl-slider", "ev-slider"]) {
+    const el = document.getElementById(id);
+    if (el && el.noUiSlider) el.noUiSlider.reset();
+  }
+  dlRange = null; evRange = null;
   apply();
 });
 
@@ -530,10 +618,18 @@ function focusHash() {
   const id = location.hash.slice(1);
   if (!id) return;
   const conf = ALL.find(c => "c-" + c.id === id);
-  if (!conf) return;
-  // карточка может быть скрыта фильтром статуса — переключаем радио под неё
-  const want = status(conf) === "open" ? "yes" : "no";
-  document.querySelector(`input[name="open"][value="${want}"]`).checked = true;
+  if (!conf) {
+    // прошедшая карточка живёт в архиве — перебрасываем вместе с якорем
+    if (PAGE === "main" &&
+        DATA.conferences.some(c => "c-" + c.id === id && status(c) === "past"))
+      location.href = "archive.html" + location.hash;
+    return;
+  }
+  if (PAGE === "main") {
+    // карточка может быть скрыта фильтром статуса — переключаем радио под неё
+    const want = status(conf) === "open" ? "yes" : "no";
+    document.querySelector(`input[name="open"][value="${want}"]`).checked = true;
+  }
   apply();
   const node = document.getElementById(id);
   if (node) {
@@ -544,6 +640,7 @@ function focusHash() {
 }
 window.addEventListener("hashchange", focusHash);
 
+initSliders();
 apply();
 focusHash();
 </script>

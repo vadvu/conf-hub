@@ -1,6 +1,6 @@
 window.CONF_DATA = {
-  "version": "0.13.0",
-  "generated_at": "2026-07-15T03:33:13+00:00",
+  "version": "0.14.0",
+  "generated_at": "2026-07-15T10:45:33+00:00",
   "crawled_at": "2026-07-15T03:03:39+00:00",
   "today": "2026-07-15",
   "sources_info": [

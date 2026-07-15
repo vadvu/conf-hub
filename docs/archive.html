@@ -1,0 +1,612 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ещё успеваешь — архив</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🤓</text></svg>">
+<link rel="stylesheet" href="nouislider.min.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body data-page="archive">
+<header>
+  <h1>Ещё успеваешь</h1>
+  <p class="subtitle">Агрегатор научных конференций — автоматически, без платы за страницу в сборнике</p>
+  <nav class="tabs">
+    <a href="index.html">Актуальные</a>
+    <a href="archive.html" class="active">Архив</a>
+  </nav>
+</header>
+
+<div class="about-group">
+
+<details class="about">
+  <summary>Зачем это нужно?</summary>
+  <div class="about-body">
+
+    <div class="letter">
+      <div class="letter-label">[MASSMAIL] XXXV Международная конференция "НАУЧНЫЙ ДИАЛОГ: ТЕОРИЯ И ПРАКТИКА"</div>
+      <p>
+        <em>Уважаемый автор!</em>
+      </p>
+      <p>
+        Приглашаем Вас принять участие в заочной конференции "НАУЧНЫЙ ДИАЛОГ: ТЕОРИЯ И ПРАКТИКА" (все специальности ВАК).
+        Конференция состоится 7 мая 2026 года в заочном формате — без необходимости личного присутствия.
+      </p>
+      <p>
+        По итогу будет выпущен сборник трудов конференции (в тот же день).
+        Публикация подходит для отчётности, аттестации, портфолио исследователя и подтверждения научной активности (РИНЦ, elibrary, doi, Белый список, ВАК К2).
+      </p>
+      <p>
+        <em>Стоимость участия: 2000 руб.</em>
+      </p>
+    </div>
+
+    <p>
+      Приблизительно такие объявления вы найдете, если будете искать ближайшие конференции. 
+      Для апробации результатов исследования по специальности ВАК это, безусловно, подойдет идеально, но все же хочется чего-то другого. 
+      Поэтому я сделал сайт, где собираются анонсы конференций с сайтов некоторых российских вузов. 
+      В отличие от героически создаваемых раз в месяц дайджестов, 
+      мой хищнический алгоритм раз в день собирает анонсы и дает краткую информацию по ним (хоть и с потенциальными ошибками). 
+      При этом я не ограничиваюсь только определённым полем — 
+      тут собраны любые конференции, которые при этом не делают объявления по типу верхнего (будем надеяться на наши 5-100 вузы).  
+    </p>
+
+  </div>
+</details>
+
+<details class="about">
+  <summary>Как это работает?</summary>
+  <div class="about-body">
+    <p>
+      Сайт автоматически собирает новости и анонсы с сайтов российских вузов.
+      Среди них отбираются только те, которые содержат объявления о будущих конференциях: 
+      это делается через первичный фильтр, а далее через (мажоритарное) голосование трех open-source LLM:
+      <a href="https://ollama.com/library/qwen3:8b"
+         target="_blank"
+         rel="noopener noreferrer">Qwen3-8B</a>,
+      <a href="https://ollama.com/library/gemma3:12b"
+         target="_blank"
+         rel="noopener noreferrer">Gemma 3 12B</a>
+      и
+      <a href="https://ollama.com/library/mistral-nemo:12b"
+         target="_blank"
+         rel="noopener noreferrer">Mistral NeMo 12B</a>.
+    </p>
+    
+    <p>
+      После этого среди отобранных новостей о конференциях извлекаются ключевые поля: даты проведения, дедлайн подачи заявки и прочее. 
+      Каждому мероприятию присваивается уникальный номер (тыкните на # после названия, чтобы получить уникальную ссылку на карточку),
+      а также научное направление на основе рубрикатора OECD, немного переосмысленного Вышкой (см. 
+      <a href="https://www.hse.ru/science/scifund/klass_new"
+         target="_blank"
+         rel="noopener noreferrer">тут</a>).
+      Поля, в которых модели разошлись и их ответ не был единогласным, помечены флагом ⚑. 
+      При этом карточки с сильными расхождениями в датах (дедлайн и время проведения) на сайт не попадают, а уходят на ручную проверку: это случай, когда каждая модель дала свой уникальный ответ. 
+      Такая процедура спасает от вопиющих ошибок, но <b>всегда проверяйте детали на сайте организатора</b> по ссылке "Новость-первоисточник". 
+    <p>
+    
+    <p>База пополняется автоматически — примерно раз в день.</p>
+
+    <p>Используемые источники (будут пополняться): <span id="src-list"><a href="https://eusp.org/news" target="_blank" rel="noopener">ЕУСПб</a>, <a href="https://www.hse.ru/news/announcements/scientific_actions/" target="_blank" rel="noopener">НИУ ВШЭ</a>, <a href="https://spb.hse.ru/announcements/" target="_blank" rel="noopener">НИУ ВШЭ (СПб)</a>, <a href="https://perm.hse.ru/news/announcements/scientific_actions/" target="_blank" rel="noopener">НИУ ВШЭ (Пермь)</a>, <a href="https://news.itmo.ru/ru/events/" target="_blank" rel="noopener">ИТМО</a>, <a href="https://mgimo.ru/about/news/announce/" target="_blank" rel="noopener">МГИМО</a>, <a href="https://msu.ru/science/allevents.html" target="_blank" rel="noopener">МГУ</a>, <a href="https://socinst.ru/events" target="_blank" rel="noopener">Социологический институт РАН</a>, <a href="https://inion.ru/ru/about/news/?category=4" target="_blank" rel="noopener">ИНИОН РАН</a>, <a href="https://ion.ranepa.ru/announcement/" target="_blank" rel="noopener">ИОН РАНХиГС</a>, <a href="https://www.rsuh.ru/anons/" target="_blank" rel="noopener">РГГУ</a>, <a href="https://news.tsu.ru/calendar-of-events/" target="_blank" rel="noopener">ТГУ</a>, <a href="https://lcsr.hse.ru/news/" target="_blank" rel="noopener">ЦенСИБ НИУ ВШЭ</a>, <a href="https://new.ras.ru/press-center/events-additional/" target="_blank" rel="noopener">РАН</a>, <a href="https://events.spbu.ru/" target="_blank" rel="noopener">СПбГУ</a>, <a href="https://mipt.ru/institute/events" target="_blank" rel="noopener">МФТИ</a>, <a href="https://urfu.ru/get-news/ru/news/?cols=3&amp;pid=53%2C11367%2C30302&amp;categories=1%2C10%2C12%2C130%2C155%2C2%2C212%2C232%2C27%2C277%2C3%2C329%2C33%2C380%2C381%2C4%2C5%2C52%2C6%2C8%2C9%2C90%2C93%2C96&amp;fullmode=1&amp;offset=0&amp;rows=100&amp;selected=0&amp;page=54&amp;show_categories=1" target="_blank" rel="noopener">УрФУ</a>, <a href="https://www.iccaras.ru/meropriyatiya.html" target="_blank" rel="noopener">ИКСА РАН</a>, <a href="https://iea-ras.ru/?cat=56" target="_blank" rel="noopener">ИЭА РАН</a></span><p>
+  <p id="about-generated" class="muted">В базе 88 конференций. Данные обновлены 15.07.2026 в 06:03 по МСК.</p>
+  </div>
+</details>
+
+<details class="about">
+  <summary>Обратная связь</summary>
+  <div class="about-body">
+    <p>
+      Ошибка? Не скрепится стоящий того вуз? Напишите мне на <ins>vadim.v.ustyuzhanin [собакич] gmail.com</ins>.
+    </p>
+  </div>
+</details>
+
+</div><!-- /.about-group -->
+
+<div class="layout">
+<aside class="sidebar">
+  <details class="filters" open>
+    <summary>Фильтры</summary>
+
+    <section class="fgroup" id="g-open">
+      <h3>Идёт приём заявок?</h3>
+      <label><input type="radio" name="open" value="yes" checked> Да</label>
+      <label><input type="radio" name="open" value="no"> Нет</label>
+    </section>
+
+    <section class="fgroup" id="g-deadline">
+      <h3>Дедлайн</h3>
+      <div id="dl-slider" class="range-slider"></div>
+      <div id="dl-label" class="range-label"></div>
+    </section>
+
+    <section class="fgroup" id="g-event">
+      <h3>Время проведения</h3>
+      <div id="ev-slider" class="range-slider"></div>
+      <div id="ev-label" class="range-label"></div>
+    </section>
+
+    <section class="fgroup" id="g-fmt"><h3>Формат</h3></section>
+    <section class="fgroup" id="g-disc"><h3>Дисциплины</h3></section>
+
+    <button id="reset" type="button">Сбросить фильтры</button>
+  </details>
+</aside>
+
+<main>
+  <div class="topbar">
+    <input id="q" type="search" placeholder="Поиск по названию или организатору…"
+           autocomplete="off">
+    <span id="counter" class="counter">показано 13 из 13</span>
+  </div>
+  <noscript><p class="muted">Без JavaScript работает только список ниже
+  (конференции с открытым приёмом). Для фильтров и поиска откройте файл
+  в браузере — например «Поделиться → открыть в Safari/Chrome».</p></noscript>
+  <div id="list">
+<article class="card" id="c-7360a035a510"><span class="badge gray">прошла</span><h2>Международная конференция «Пространственная укладка белка как фактор нормы и патологии»<a class="permalink" href="#c-7360a035a510" title="Постоянная ссылка на карточку">#</a></h2><p class="chips"><span class="chip">Биология</span></p><div class="rows"><div class="row"><span class="label">Даты проведения</span><span class="value">10–12 июля 2026</span></div><div class="row"><span class="label">Дедлайн подачи заявки</span><span class="value">25 июня 2026</span></div><div class="row"><span class="label">Город</span><span class="value">Санкт-Петербург</span></div><div class="row"><span class="label">Формат</span><span class="value">очно</span></div><div class="row"><span class="label">Организатор</span><span class="value">Санкт-Петербургский государственный университет</span></div></div><p class="links"><a href="https://events.spbu.ru/protein" target="_blank" rel="noopener">Новость-первоисточник (СПбГУ)</a></p><p class="check">Проверяйте детали на сайте организатора.</p></article>
+<article class="card" id="c-a93b220822c4"><span class="badge gray">прошла</span><h2>Международный симпозиум «Молекулярная фотоника»<a class="permalink" href="#c-a93b220822c4" title="Постоянная ссылка на карточку">#</a></h2><p class="chips"><span class="chip">Физика</span></p><div class="rows"><div class="row"><span class="label">Даты проведения</span><span class="value">6–10 июля 2026</span></div><div class="row"><span class="label">Дедлайн подачи заявки</span><span class="value">15 июня 2026</span></div><div class="row"><span class="label">Город</span><span class="value">Санкт-Петербург</span></div><div class="row"><span class="label">Формат</span><span class="value">гибрид</span></div><div class="row"><span class="label">Организатор</span><span class="value">НИИ Физики СПбГУ</span></div></div><p class="links"><a href="https://events.spbu.ru/molecular-photonics2026-ru" target="_blank" rel="noopener">Новость-первоисточник (СПбГУ)</a></p><p class="check">Проверяйте детали на сайте организатора.</p></article>
+<article class="card" id="c-6add45d781ff"><span class="badge gray">прошла</span><h2>International Conference on Game Theory and Management<a class="permalink" href="#c-6add45d781ff" title="Постоянная ссылка на карточку">#</a></h2><p class="chips"><span class="chip">Компьютерные науки</span><span class="chip">Экономика и менеджмент</span></p><div class="rows"><div class="row"><span class="label">Даты проведения</span><span class="value">1–3 июля 2026</span></div><div class="row"><span class="label">Дедлайн подачи заявки</span><span class="value">1 марта 2026</span></div><div class="row"><span class="label">Город</span><span class="value">St. Petersburg</span></div><div class="row"><span class="label">Формат</span><span class="value">очно</span></div><div class="row"><span class="label">Организатор</span><span class="value">Saint Petersburg State University (Graduate School of Management, Faculty of Applied Mathematics and Control Processes), International Society of Dynamic Games (Russian Chapter)</span></div></div><p class="links"><a href="https://gsom.spbu.ru/en/research/conferences/gtm2026/" target="_blank" rel="noopener">Новость-первоисточник (СПбГУ)</a><a href="https://ucp.academy/en/events/GTM2026" target="_blank" rel="noopener">Сайт конференции</a></p><p class="check">Проверяйте детали на сайте организатора.</p></article>
+<article class="card" id="c-aa2effa8151c"><span class="badge gray">прошла</span><h2>Всероссийская научно-практическая конференция Юридического факультета СПбГУ «Между риском и бездействием: профессиональная и общественная деятельность в условиях избыточного регулирования»<a class="permalink" href="#c-aa2effa8151c" title="Постоянная ссылка на карточку">#</a></h2><p class="chips"><span class="chip">Право</span></p><div class="rows"><div class="row"><span class="label">Даты проведения</span><span class="value">30 июня 2026</span></div><div class="row"><span class="label">Дедлайн подачи заявки</span><span class="value">29 мая 2026</span></div><div class="row"><span class="label">Город</span><span class="value">Санкт-Петербург</span></div><div class="row"><span class="label">Формат</span><span class="value">очно</span></div><div class="row"><span class="label">Организатор</span><span class="value">Юридический факультет СПбГУ</span></div></div><p class="links"><a href="https://events.spbu.ru/law-spbu" target="_blank" rel="noopener">Новость-первоисточник (СПбГУ)</a></p><p class="check">Проверяйте детали на сайте организатора.</p></article>
+<article class="card" id="c-63cf9e2ff2f3"><span class="badge gray">прошла</span><h2>Тринадцатые Международные чтения по истории русской философии «Русская философия внутри и вне историографических границ»<a class="permalink" href="#c-63cf9e2ff2f3" title="Постоянная ссылка на карточку">#</a></h2><p class="chips"><span class="chip">Философия, этика, религиоведение</span></p><div class="rows"><div class="row"><span class="label">Даты проведения</span><span class="value">25–27 июня 2026</span></div><div class="row"><span class="label">Дедлайн подачи заявки</span><span class="value">1 июня 2026</span></div><div class="row"><span class="label">Город</span><span class="value">Санкт-Петербург</span></div><div class="row"><span class="label">Формат</span><span class="value">очно</span></div><div class="row"><span class="label">Организатор</span><span class="value">НИУ Высшая школа экономики в Санкт-Петербурге, Социологический институт РАН – филиал ФНИСЦ РАН, Лаборатория критической теории культуры НИУ «Высшая школа экономики», Международный центр изучения русской философии, Международный фонд поддержки социогуманитарных исследований и образовательных программ «Интерсоцис», Соловьёвский семинар – Межрегиональный научно-образовательный центр исследований наследия В. С. Соловьёва</span></div></div><p class="links"><a href="https://socinst.ru/conferences/ruphil2026/#files" target="_blank" rel="noopener">Новость-первоисточник (Социологический институт РАН)</a></p><p class="check">Проверяйте детали на сайте организатора.</p></article>
+<article class="card" id="c-d0602a6ee913"><span class="badge gray">прошла</span><h2>Шестая Международная научная конференция «Византия, Европа, Россия: социальные практики и взаимосвязь духовных традиций»<a class="permalink" href="#c-d0602a6ee913" title="Постоянная ссылка на карточку">#</a></h2><p class="chips"><span class="chip">Социология (включая демографию и антропологию)</span><span class="chip">История и археология</span><span class="chip">Филология и лингвистика</span><span class="chip">Философия, этика, религиоведение</span></p><div class="rows"><div class="row"><span class="label">Даты проведения</span><span class="value">25–27 июня 2026</span></div><div class="row"><span class="label">Дедлайн подачи заявки</span><span class="value">10 июня 2026</span></div><div class="row"><span class="label">Город</span><span class="value">Санкт-Петербург</span></div><div class="row"><span class="label">Формат</span><span class="value">очно</span></div><div class="row"><span class="label">Организатор</span><span class="value">Социологический институт РАН – филиал ФНИСЦ РАН; Институт мировой литературы им. А.М. Горького РАН</span></div></div><p class="links"><a href="https://socinst.ru/conferences/bzeuru2026/#files" target="_blank" rel="noopener">Новость-первоисточник (Социологический институт РАН)</a></p><p class="check">Проверяйте детали на сайте организатора.</p></article>
+<article class="card" id="c-ac65849d7af5"><span class="badge gray">прошла</span><h2>Astrometria Petropolitana<a class="permalink" href="#c-ac65849d7af5" title="Постоянная ссылка на карточку">#</a></h2><p class="chips"><span class="chip">Физика</span><span class="chip">Науки о земле</span></p><div class="rows"><div class="row"><span class="label">Даты проведения</span><span class="value">22–25 июня 2026</span></div><div class="row"><span class="label">Дедлайн подачи заявки</span><span class="value">8 июня 2026</span></div><div class="row"><span class="label">Город</span><span class="value">Санкт-Петербург</span></div><div class="row"><span class="label">Формат</span><span class="value">гибрид</span></div><div class="row"><span class="label">Организатор</span><span class="value">Санкт-Петербургский государственный университет</span></div></div><p class="links"><a href="https://events.spbu.ru/astrometria-petropolitana" target="_blank" rel="noopener">Новость-первоисточник (СПбГУ)</a></p><p class="check">Проверяйте детали на сайте организатора.</p></article>
+<article class="card" id="c-8dac83f47e85"><span class="badge gray">прошла</span><h2>Петербургская школа по аналитической химии<a class="permalink" href="#c-8dac83f47e85" title="Постоянная ссылка на карточку">#</a></h2><p class="chips"><span class="chip">Химия</span></p><div class="rows"><div class="row"><span class="label">Даты проведения</span><span class="value">22–24 июня 2026</span></div><div class="row"><span class="label">Дедлайн подачи заявки</span><span class="value">1 мая 2026</span></div><div class="row"><span class="label">Город</span><span class="value">Санкт-Петербург</span></div><div class="row"><span class="label">Формат</span><span class="value">очно</span></div><div class="row"><span class="label">Организатор</span><span class="value">Институт химии Санкт-Петербургского государственного университета, Научный совет РАН по аналитической химии, Министерство науки и высшего образования Российской Федерации, Газпромбанк, Студенческое научное сообщество Санкт-Петербургского государственного университета</span></div></div><p class="links"><a href="https://events.spbu.ru/chem-school" target="_blank" rel="noopener">Новость-первоисточник (СПбГУ)</a></p><p class="check">Проверяйте детали на сайте организатора.</p></article>
+<article class="card" id="c-f208172484c5"><span class="badge gray">прошла</span><h2>IX Российский философский конгресс «Философия в контексте современных вызовов»<a class="permalink" href="#c-f208172484c5" title="Постоянная ссылка на карточку">#</a></h2><p class="chips"><span class="chip">Философия, этика, религиоведение</span></p><div class="rows"><div class="row"><span class="label">Даты проведения</span><span class="value">18–20 июня 2026</span></div><div class="row"><span class="label">Дедлайн подачи заявки</span><span class="value">31 декабря 2025</span></div><div class="row"><span class="label">Город</span><span class="value">Санкт-Петербург</span></div><div class="row"><span class="label">Формат</span><span class="value">очно</span></div><div class="row"><span class="label">Организатор</span><span class="value">Санкт-Петербургский государственный университет (СПбГУ)</span></div></div><p class="links"><a href="https://events.spbu.ru/philosophy-congress" target="_blank" rel="noopener">Новость-первоисточник (СПбГУ)</a></p><p class="flags">⚑ модели разошлись в полях: дедлайн подачи заявки</p><p class="check">Проверяйте детали на сайте организатора.</p></article>
+<article class="card" id="c-d52f618013f9"><span class="badge gray">прошла</span><h2>I Всероссийская конференция «Лобашёвские чтения»<a class="permalink" href="#c-d52f618013f9" title="Постоянная ссылка на карточку">#</a></h2><p class="chips"><span class="chip">Биология</span></p><div class="rows"><div class="row"><span class="label">Даты проведения</span><span class="value">18–19 июня 2026</span></div><div class="row"><span class="label">Дедлайн подачи заявки</span><span class="value">19 мая 2026</span></div><div class="row"><span class="label">Город</span><span class="value">Санкт-Петербург, Ленинградская область, Колтуши</span></div><div class="row"><span class="label">Формат</span><span class="value">гибрид</span></div><div class="row"><span class="label">Организатор</span><span class="value">Санкт-Петербургский государственный университет, Санкт-Петербургское отделение Российской академии наук, Вавиловское общество генетиков и селекционеров, Научный совет РАН по генетике и селекции, Институт физиологии им. И.П. Павлова РАН, Объединенный научный совет по агробиотехнологиям и продовольственной безопасности СПбО РАН</span></div></div><p class="links"><a href="https://events.spbu.ru/lobashev2026" target="_blank" rel="noopener">Новость-первоисточник (СПбГУ)</a></p><p class="check">Проверяйте детали на сайте организатора.</p></article>
+<article class="card" id="c-af0013ec6d3a"><span class="badge gray">прошла</span><h2>Город на Каме: история и современность<a class="permalink" href="#c-af0013ec6d3a" title="Постоянная ссылка на карточку">#</a></h2><p class="chips"><span class="chip">Социология (включая демографию и антропологию)</span><span class="chip">История и археология</span></p><div class="rows"><div class="row"><span class="label">Даты проведения</span><span class="value">10–11 июня 2026</span></div><div class="row"><span class="label">Дедлайн подачи заявки</span><span class="value">10 мая 2026</span></div><div class="row"><span class="label">Город</span><span class="value">Санкт-Петербург</span></div><div class="row"><span class="label">Формат</span><span class="value">очно</span></div><div class="row"><span class="label">Организатор</span><span class="value">Набережночелнинский государственный педагогический университет, Академия наук Республики Татарстан, Социологический институт РАН – филиал ФНИСЦ РАН, Центр цивилизационного анализа и глобальной истории, Исполком г. Набережные Челны</span></div></div><p class="links"><a href="https://socinst.ru/conferences/kama2026/#files" target="_blank" rel="noopener">Новость-первоисточник (Социологический институт РАН)</a></p><p class="check">Проверяйте детали на сайте организатора.</p></article>
+<article class="card" id="c-166ec4cc1473"><span class="badge gray">прошла</span><h2>Кавказ в исследовательском поле: от истоков к перспективам кавказоведения<a class="permalink" href="#c-166ec4cc1473" title="Постоянная ссылка на карточку">#</a></h2><p class="chips"><span class="chip">Социология (включая демографию и антропологию)</span><span class="chip">История и археология</span><span class="chip">Филология и лингвистика</span></p><div class="rows"><div class="row"><span class="label">Даты проведения</span><span class="value">4–5 июня 2026</span></div><div class="row"><span class="label">Дедлайн подачи заявки</span><span class="value">20 апреля 2026</span></div><div class="row"><span class="label">Формат</span><span class="value">не указан</span></div><div class="row"><span class="label">Организатор</span><span class="value">ИЭА РАН</span></div></div><p class="links"><a href="https://iea-ras.ru/?p=21263" target="_blank" rel="noopener">Новость-первоисточник (ИЭА РАН)</a></p><p class="check">Проверяйте детали на сайте организатора.</p></article>
+<article class="card" id="c-8c82e881d4dc"><span class="badge gray">прошла</span><h2>Актуальные проблемы предпринимательского права<a class="permalink" href="#c-8c82e881d4dc" title="Постоянная ссылка на карточку">#</a></h2><p class="chips"><span class="chip">Право</span></p><div class="rows"><div class="row"><span class="label">Даты проведения</span><span class="value">3 июня 2026</span></div><div class="row"><span class="label">Дедлайн подачи заявки</span><span class="value">25 мая 2026</span></div><div class="row"><span class="label">Город</span><span class="value">Санкт-Петербург</span></div><div class="row"><span class="label">Формат</span><span class="value">гибрид</span></div><div class="row"><span class="label">Организатор</span><span class="value">Санкт-Петербургский государственный университет</span></div></div><p class="links"><a href="https://events.spbu.ru/actual" target="_blank" rel="noopener">Новость-первоисточник (СПбГУ)</a></p><p class="check">Проверяйте детали на сайте организатора.</p></article>
+  </div>
+</main>
+</div>
+
+<style>
+  footer .people > p {
+    margin: 0;
+  }
+
+  footer .people ol {
+    margin: 0;
+    padding-left: 1.5rem;
+  }
+
+  footer .people li + li {
+    margin-top: 0rem;
+  }
+</style>
+
+<footer>
+  <p id="generated">Падальщик v0.14.0 · данные обновлены 15.07.2026 в 06:03 по МСК</p>
+
+  <div class="people">
+    <p><b>Важные люди</b>:</p>
+    <ol>
+      <li>
+        Вадим Устюжанин — создатель
+        (<a
+          href="https://orcid.org/0000-0003-3800-1108"
+          target="_blank"
+          rel="noopener noreferrer"
+        >orcid</a>)
+      </li>
+
+      <li>
+        Даниил Гончаренко — меценат
+        (<a
+          href="https://orcid.org/XXXX-XXXX-XXXX-XXXX"
+          target="_blank"
+          rel="noopener noreferrer"
+        >orcid</a>)
+      </li>
+    </ol>
+  </div>
+</footer>
+
+<script src="nouislider.min.js"></script>
+<script src="data.js"></script>
+<script>
+"use strict";
+const DATA = window.CONF_DATA || {conferences: []};
+const PAGE = document.body.dataset.page || "main";  // main | archive
+const MONTHS = ["января","февраля","марта","апреля","мая","июня",
+                "июля","августа","сентября","октября","ноября","декабря"];
+const NO_FORMAT = "не указан";
+
+// какие расхождения моделей показывать пользователю флагом ⚑
+const VISIBLE_FLAGS = new Set(["event_start", "event_end", "submission_deadline"]);
+
+// имена полей карточки для сообщений пользователю (флаг ⚑)
+const FIELD_NAMES = {
+  title: "название",
+  organizer: "организатор",
+  location: "город",
+  disciplines: "дисциплины",
+  format: "формат",
+  official_url: "сайт конференции",
+  event_start: "даты проведения",
+  event_end: "даты проведения",
+  submission_deadline: "дедлайн подачи заявки",
+};
+
+function parseISO(s) { return s ? new Date(s + "T00:00:00") : null; }
+
+function fmtDate(s) {
+  const d = parseISO(s);
+  return d ? `${d.getDate()} ${MONTHS[d.getMonth()]} ${d.getFullYear()}` : null;
+}
+
+function fmtRange(a, b) {
+  if (!a && !b) return "даты не указаны";
+  if (!b || a === b) return fmtDate(a || b);
+  const da = parseISO(a), db = parseISO(b);
+  if (da && db && da.getMonth() === db.getMonth() && da.getFullYear() === db.getFullYear())
+    return `${da.getDate()}–${db.getDate()} ${MONTHS[db.getMonth()]} ${db.getFullYear()}`;
+  return `${fmtDate(a)} — ${fmtDate(b)}`;
+}
+
+const todayISO = new Date().toISOString().slice(0, 10);
+
+function daysLeft(s) {
+  const d = parseISO(s);
+  if (!d) return null;
+  return Math.ceil((d - new Date().setHours(0, 0, 0, 0)) / 86400000);
+}
+
+// статус на момент ПРОСМОТРА (зеркалит compute_status в build_site.py)
+function status(c) {
+  const ee = c.event_end || c.event_start;
+  if (ee && ee < todayISO) return "past";
+  if (c.submission_deadline) return c.submission_deadline >= todayISO ? "open" : "closed";
+  if (c.event_start && c.event_start < todayISO) return "closed";
+  return "open";
+}
+
+function el(tag, cls, text) {
+  const e = document.createElement(tag);
+  if (cls) e.className = cls;
+  if (text !== undefined && text !== null) e.textContent = text;
+  return e;
+}
+
+function row(box, label, value) {
+  if (!value) return;
+  const r = el("div", "row");
+  r.appendChild(el("span", "label", label));
+  r.appendChild(el("span", "value", value));
+  box.appendChild(r);
+}
+
+function badge(c) {
+  const st = status(c);
+  if (st === "past")
+    return el("span", "badge gray", "прошла");
+  if (st === "closed")
+    return el("span", "badge orange", "приём закрыт · конференция впереди");
+  if (!c.submission_deadline)
+    return el("span", "badge green", "приём открыт");
+  const dl = daysLeft(c.submission_deadline);
+  const cls = dl <= 3 ? "red" : dl <= 14 ? "orange" : "green";
+  return el("span", "badge " + cls, `приём открыт · осталось ${dl} дн.`);
+}
+
+function render(items) {
+  const list = document.getElementById("list");
+  list.replaceChildren();
+  if (!items.length) {
+    list.appendChild(el("p", "empty",
+      "Ничего не найдено. Попробуйте смягчить фильтры."));
+    return;
+  }
+  for (const c of items) {
+    const card = el("article", "card" + (status(c) === "past" ? " past" : ""));
+    card.id = "c-" + c.id;
+    card.appendChild(badge(c));
+    const h2 = el("h2", null, c.title);
+    const perma = el("a", "permalink", "#");
+    perma.href = "#c-" + c.id;
+    perma.title = "Постоянная ссылка на карточку";
+    h2.appendChild(perma);
+    card.appendChild(h2);
+
+    if (c.disciplines && c.disciplines.length) {
+      const chips = el("p", "chips");
+      for (const d of c.disciplines) chips.appendChild(el("span", "chip", d));
+      card.appendChild(chips);
+    }
+
+    const box = el("div", "rows");
+    row(box, "Даты проведения", fmtRange(c.event_start, c.event_end));
+    row(box, "Дедлайн подачи заявки", fmtDate(c.submission_deadline) || "не указан");
+    row(box, "Город", c.location);
+    row(box, "Формат", c.format || NO_FORMAT);
+    row(box, "Организатор", c.organizer);
+    card.appendChild(box);
+
+    const links = el("p", "links");
+    for (const s of c.sources) {
+      const a = el("a", null, `Новость-первоисточник (${s.source_name})`);
+      a.href = s.url; a.target = "_blank"; a.rel = "noopener";
+      links.appendChild(a);
+    }
+    if (c.official_url && /^https?:/i.test(c.official_url)) {
+      const a = el("a", null, "Сайт конференции");
+      a.href = c.official_url; a.target = "_blank"; a.rel = "noopener";
+      links.appendChild(a);
+    }
+    card.appendChild(links);
+
+    // ⚑ показываем только по важным полям (даты/дедлайн): расхождения в
+    // рубриках/формулировках — ожидаемый шум, он остаётся в data.json
+    const importantFlags = (c.field_flags || []).filter(f => VISIBLE_FLAGS.has(f));
+    if (importantFlags.length) {
+      const names = [...new Set(importantFlags.map(f => FIELD_NAMES[f] || f))];
+      card.appendChild(el("p", "flags", "⚑ модели разошлись в полях: " + names.join(", ")));
+    }
+    card.appendChild(el("p", "check", "Проверяйте детали на сайте организатора."));
+    list.appendChild(card);
+  }
+}
+
+// --- построение чекбоксов фильтров из данных ---
+// главная — только не прошедшие (open+closed); архив — только прошедшие.
+// Статус считается на момент просмотра, а не сборки.
+const ALL = DATA.conferences.filter(c =>
+  PAGE === "archive" ? status(c) === "past" : status(c) !== "past");
+
+// --- слайдеры диапазона дат (noUiSlider); null-диапазон = фильтр неактивен ---
+let dlRange = null, evRange = null;
+
+function initSliders() {
+  if (!window.noUiSlider) return;  // без JS/библиотеки фильтры дат просто скрыты
+  const dayMs = 86400000;
+  const toISO = ts => new Date(+ts).toISOString().slice(0, 10);
+
+  function make(elId, labelId, dates, setRange) {
+    const el = document.getElementById(elId);
+    if (!el) return;
+    const uniq = [...new Set(dates.filter(Boolean))].sort();
+    if (uniq.length < 2) {                      // не из чего строить диапазон
+      el.closest(".fgroup").style.display = "none";
+      return;
+    }
+    const min = Date.parse(uniq[0]), max = Date.parse(uniq[uniq.length - 1]);
+    noUiSlider.create(el, {
+      start: [min, max], connect: true, step: dayMs, range: {min, max},
+    });
+    const label = document.getElementById(labelId);
+    el.noUiSlider.on("update", vals => {
+      const a = toISO(vals[0]), b = toISO(vals[1]);
+      label.textContent = `${fmtDate(a)} — ${fmtDate(b)}`;
+      const full = +vals[0] <= min && +vals[1] >= max;
+      setRange(full ? null : [a, b]);
+    });
+    el.noUiSlider.on("change", apply);   // пересчёт по отпусканию ручки
+  }
+
+  make("dl-slider", "dl-label",
+       ALL.map(c => c.submission_deadline), r => dlRange = r);
+  make("ev-slider", "ev-label",
+       ALL.map(c => c.event_start), r => evRange = r);
+}
+
+// span'ы счётчиков «(N)» у чекбоксов: {значение: элемент}
+const countSpans = { fmt: {}, disc: {} };
+
+function addChecks(groupId, values, name) {
+  const g = document.getElementById(groupId);
+  for (const v of values) {
+    const label = el("label");
+    const cb = document.createElement("input");
+    cb.type = "checkbox"; cb.name = name; cb.value = v;
+    label.appendChild(cb);
+    label.appendChild(document.createTextNode(" " + v + " "));
+    const cnt = el("span", "fcount", "");
+    label.appendChild(cnt);
+    if (countSpans[name]) countSpans[name][v] = cnt;
+    g.appendChild(label);
+  }
+}
+
+// «не указан» в фильтре не показываем: карточки без формата под фильтр
+// не попадают (он на них просто не действует)
+const formats = [...new Set(ALL.map(c => c.format).filter(Boolean))]
+  .sort((a, b) => a.localeCompare(b, "ru"));
+addChecks("g-fmt", formats, "fmt");
+const discs = [...new Set(ALL.flatMap(c => c.disciplines || []))].sort((a, b) => a.localeCompare(b, "ru"));
+addChecks("g-disc", discs, "disc");
+if (!discs.length) document.getElementById("g-disc").style.display = "none";
+
+function checked(name) {
+  return [...document.querySelectorAll(`input[name="${name}"]:checked`)].map(i => i.value);
+}
+
+// --- толерантный поиск: без регистра/ё/кавычек, прощает 1-2 опечатки ---
+function normText(s) {
+  return (s || "").toLowerCase()
+    .replace(/ё/g, "е")
+    .replace(/[«»"'‘’“„`]/g, " ")
+    .replace(/-/g, " ")  // «школа-конференция» -> два токена
+    .replace(/[^a-zа-я0-9\s]/g, " ")
+    .replace(/\s+/g, " ").trim();
+}
+
+// расстояние Левенштейна (нам хватает значений 0..2, дальше не важно)
+function lev(a, b) {
+  if (Math.abs(a.length - b.length) > 2) return 3;
+  const n = b.length;
+  let dp = Array.from({length: n + 1}, (_, j) => j);
+  for (let i = 1; i <= a.length; i++) {
+    let prev = dp[0]; dp[0] = i;
+    for (let j = 1; j <= n; j++) {
+      const t = dp[j];
+      dp[j] = Math.min(dp[j] + 1, dp[j - 1] + 1, prev + (a[i - 1] === b[j - 1] ? 0 : 1));
+      prev = t;
+    }
+  }
+  return dp[n];
+}
+
+// токен запроса совпал, если он равен токену текста, является его
+// подстрокой/надстрокой (обе стороны от 3 букв — иначе «в»/«но» матчат всё)
+// или отличается на 1 опечатку (длина 5-7) / 2 опечатки (длина 8+)
+function tokenMatch(qt, tokens) {
+  return tokens.some(t => {
+    if (t === qt) return true;
+    if (Math.min(t.length, qt.length) >= 3 && (t.includes(qt) || qt.includes(t)))
+      return true;
+    const tol = qt.length >= 8 ? 2 : qt.length >= 5 ? 1 : 0;
+    return tol > 0 && lev(qt, t) <= tol;
+  });
+}
+
+// сортировка фиксированная — по дедлайну (ближайший сверху), затем по началу события
+function byDeadline(a, b) {
+  return (a.submission_deadline || "9999").localeCompare(b.submission_deadline || "9999") ||
+         (a.event_start || "9999").localeCompare(b.event_start || "9999");
+}
+
+// архив: свежепрошедшие сверху (по дате окончания/начала, убыв.)
+function byEventDesc(a, b) {
+  return ((b.event_end || b.event_start || "")
+          .localeCompare(a.event_end || a.event_start || ""));
+}
+
+function apply() {
+  const needle = document.getElementById("q").value.trim().toLowerCase();
+  const wantOpen = checked("open")[0] === "yes";
+  const fmtSel = checked("fmt"), discSel = checked("disc");
+
+  // предикаты фильтров по отдельности — нужны и для выдачи, и для счётчиков
+  // (в архиве прошедшие все — статус-фильтр не действует)
+  const passStatus = c => PAGE === "archive" || wantOpen === (status(c) === "open");
+  // токены короче 3 букв (предлоги «по», «на») не делаем обязательными
+  const qTokens = normText(needle).split(" ").filter(t => t.length >= 3);
+  const passSearch = c => !qTokens.length ||
+    qTokens.every(qt => tokenMatch(qt, normText(c.title + " " + (c.organizer || "")).split(" ")));
+  // формат: карточки без формата под фильтр не попадают
+  const passFmt = c => !fmtSel.length || !c.format || fmtSel.includes(c.format);
+  const passDisc = c => !discSel.length ||
+    (c.disciplines || []).some(d => discSel.includes(d));
+  // слайдеры: полный диапазон = фильтр выключен (карточки без даты проходят);
+  // суженный — проходят только карточки с датой внутри диапазона
+  const passDl = c => !dlRange ||
+    (c.submission_deadline &&
+     c.submission_deadline >= dlRange[0] && c.submission_deadline <= dlRange[1]);
+  const passEv = c => !evRange ||
+    (c.event_start && c.event_start >= evRange[0] && c.event_start <= evRange[1]);
+
+  const items = ALL.filter(c =>
+    passStatus(c) && passSearch(c) && passFmt(c) && passDisc(c) &&
+    passDl(c) && passEv(c));
+
+  items.sort(PAGE === "archive" ? byEventDesc : byDeadline);
+
+  // счётчики «(N)»: сколько карточек даст пункт с учётом ВСЕХ остальных
+  // фильтров (кроме собственной группы — иначе невыбранные пункты обнулялись бы)
+  const baseNoFmt = ALL.filter(c =>
+    passStatus(c) && passSearch(c) && passDisc(c) && passDl(c) && passEv(c));
+  for (const [v, span] of Object.entries(countSpans.fmt))
+    span.textContent = `(${baseNoFmt.filter(c => c.format === v).length})`;
+  const baseNoDisc = ALL.filter(c =>
+    passStatus(c) && passSearch(c) && passFmt(c) && passDl(c) && passEv(c));
+  for (const [v, span] of Object.entries(countSpans.disc))
+    span.textContent = `(${baseNoDisc.filter(c => (c.disciplines || []).includes(v)).length})`;
+
+  document.getElementById("counter").textContent =
+    `показано ${items.length} из ${ALL.length}`;
+  render(items);
+}
+
+document.getElementById("q").addEventListener("input", apply);
+document.querySelector(".sidebar").addEventListener("change", apply);
+document.getElementById("reset").addEventListener("click", () => {
+  document.getElementById("q").value = "";
+  document.querySelectorAll('.sidebar input[type="checkbox"]').forEach(i => i.checked = false);
+  const openYes = document.querySelector('input[name="open"][value="yes"]');
+  if (openYes) openYes.checked = true;
+  for (const id of ["dl-slider", "ev-slider"]) {
+    const el = document.getElementById(id);
+    if (el && el.noUiSlider) el.noUiSlider.reset();
+  }
+  dlRange = null; evRange = null;
+  apply();
+});
+
+// дата генерации — по Москве, человекочитаемо: «13.07.2026 в 04:47 по МСК»
+function fmtGeneratedMsk(iso) {
+  if (!iso) return "—";
+  const d = new Date(iso);
+  const date = new Intl.DateTimeFormat("ru-RU",
+    {timeZone: "Europe/Moscow", day: "2-digit", month: "2-digit", year: "numeric"}).format(d);
+  const time = new Intl.DateTimeFormat("ru-RU",
+    {timeZone: "Europe/Moscow", hour: "2-digit", minute: "2-digit"}).format(d);
+  return `${date} в ${time} по МСК`;
+}
+
+// дата последнего КРАУЛА; если краул ещё не запускался — дата сборки сайта
+const dataStamp = DATA.crawled_at || DATA.generated_at;
+const genEl = document.getElementById("generated");
+if (genEl) genEl.textContent =
+  `Падальщик v${DATA.version || "?"} · данные обновлены ${fmtGeneratedMsk(dataStamp)}`;
+
+// --- блок «О проекте»: источники и дата выгрузки ---
+// Элементы могут быть убраны из разметки — проверяем наличие, чтобы
+// правка HTML не роняла весь скрипт (без apply() лента остаётся пустой).
+const srcList = document.getElementById("src-list");
+if (srcList) {
+  srcList.replaceChildren();  // убираем статическую версию, чтобы не задвоить
+  (DATA.sources_info || []).forEach((s, i) => {
+    if (i) srcList.appendChild(document.createTextNode(", "));
+    const a = el("a", null, s.name);
+    a.href = s.url; a.target = "_blank"; a.rel = "noopener";
+    srcList.appendChild(a);
+  });
+}
+const aboutGen = document.getElementById("about-generated");
+if (aboutGen) aboutGen.textContent =
+  `В базе ${ALL.length} конференций. Данные обновлены ${fmtGeneratedMsk(dataStamp)}.`;
+
+// аккордеон: открытие одного раздела «о проекте» сворачивает остальные
+document.querySelectorAll(".about-group .about").forEach(d => {
+  d.addEventListener("toggle", () => {
+    if (d.open)
+      document.querySelectorAll(".about-group .about[open]").forEach(o => {
+        if (o !== d) o.open = false;
+      });
+  });
+});
+
+// --- якорные ссылки: #c-<id> открывает и подсвечивает карточку ---
+function focusHash() {
+  const id = location.hash.slice(1);
+  if (!id) return;
+  const conf = ALL.find(c => "c-" + c.id === id);
+  if (!conf) {
+    // прошедшая карточка живёт в архиве — перебрасываем вместе с якорем
+    if (PAGE === "main" &&
+        DATA.conferences.some(c => "c-" + c.id === id && status(c) === "past"))
+      location.href = "archive.html" + location.hash;
+    return;
+  }
+  if (PAGE === "main") {
+    // карточка может быть скрыта фильтром статуса — переключаем радио под неё
+    const want = status(conf) === "open" ? "yes" : "no";
+    document.querySelector(`input[name="open"][value="${want}"]`).checked = true;
+  }
+  apply();
+  const node = document.getElementById(id);
+  if (node) {
+    node.scrollIntoView({behavior: "smooth", block: "start"});
+    node.classList.add("hl");
+    setTimeout(() => node.classList.remove("hl"), 2500);
+  }
+}
+window.addEventListener("hashchange", focusHash);
+
+initSliders();
+apply();
+focusHash();
+</script>
+</body>
+</html>
