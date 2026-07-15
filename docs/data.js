@@ -1,7 +1,7 @@
 window.CONF_DATA = {
   "version": "0.13.0",
-  "generated_at": "2026-07-15T00:26:05+00:00",
-  "crawled_at": "2026-07-14T23:54:15+00:00",
+  "generated_at": "2026-07-15T03:33:13+00:00",
+  "crawled_at": "2026-07-15T03:03:39+00:00",
   "today": "2026-07-15",
   "sources_info": [
     {
@@ -1629,6 +1629,35 @@ window.CONF_DATA = {
       ]
     },
     {
+      "id": "cdf569ef22c8",
+      "title": "Всероссийская научная конференция исследователей женской истории и исторической антропологии повседневности",
+      "organizer": "Российская ассоциация исследователей женской истории (РАИЖИ)",
+      "disciplines": [
+        "Социология (включая демографию и антропологию)",
+        "История и археология"
+      ],
+      "event_start": "2026-10-01",
+      "event_end": "2026-10-04",
+      "submission_deadline": "2026-05-01",
+      "location": "Уфа",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.917,
+      "field_flags": [
+        "disciplines",
+        "format"
+      ],
+      "status": "closed",
+      "sources": [
+        {
+          "source": "iea_ras",
+          "source_name": "ИЭА РАН",
+          "url": "https://iea-ras.ru/?p=21142",
+          "published_date": "2026-03-26"
+        }
+      ]
+    },
+    {
       "id": "39b435f620d6",
       "title": "Synchrotron Radiation: Science, Knowledge, Innovations, Future (SKIF-2026)",
       "organizer": "Сибирское отделение РАН, Институт ядерной физики им. Г.И. Будкера СО РАН, НИИ «Национальный исследовательский центр Курчатовский институт», Институт катализа им. Г.К. Борескова СО РАН",
@@ -2043,6 +2072,34 @@ window.CONF_DATA = {
       ]
     },
     {
+      "id": "69f88043c1dc",
+      "title": "VI Международный полевой этнографический симпозиум «ИНБАМ: Народные астрономические знания в культуре народов Урало-Поволжья»",
+      "organizer": "Удмуртский институт истории, языка и литературы УдмФИЦ УрО РАН и Архитектурно-этнографический музей-заповедник «Лудорвай»",
+      "disciplines": [
+        "Экономика и менеджмент",
+        "История и археология"
+      ],
+      "event_start": "2026-09-10",
+      "event_end": "2026-09-11",
+      "submission_deadline": "2026-07-01",
+      "location": "Ижевск",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.9,
+      "field_flags": [
+        "disciplines"
+      ],
+      "status": "closed",
+      "sources": [
+        {
+          "source": "iea_ras",
+          "source_name": "ИЭА РАН",
+          "url": "https://iea-ras.ru/?p=20663",
+          "published_date": "2026-01-15"
+        }
+      ]
+    },
+    {
       "id": "29dbe314655b",
       "title": "Всероссийская научная конференция «Анахарсис»",
       "organizer": "философский факультет, Крымский федеральный университет имени В. И. Вернадского и Российский государственный гуманитарный университет",
@@ -2185,6 +2242,12 @@ window.CONF_DATA = {
           "source_name": "ИЭА РАН",
           "url": "https://iea-ras.ru/?p=21863",
           "published_date": "2026-06-11"
+        },
+        {
+          "source": "iea_ras",
+          "source_name": "ИЭА РАН",
+          "url": "https://iea-ras.ru/?p=21684",
+          "published_date": "2026-05-21"
         }
       ]
     },
@@ -2302,6 +2365,39 @@ window.CONF_DATA = {
           "source_name": "СПбГУ",
           "url": "https://gsom.spbu.ru/en/research/conferences/gtm2026/",
           "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "166ec4cc1473",
+      "title": "Кавказ в исследовательском поле: от истоков к перспективам кавказоведения",
+      "organizer": "ИЭА РАН",
+      "disciplines": [
+        "Социология (включая демографию и антропологию)",
+        "История и археология",
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-06-04",
+      "event_end": "2026-06-05",
+      "submission_deadline": "2026-04-20",
+      "location": null,
+      "format": null,
+      "official_url": null,
+      "confidence": 0.95,
+      "field_flags": [
+        "organizer",
+        "location",
+        "disciplines",
+        "format",
+        "official_url"
+      ],
+      "status": "past",
+      "sources": [
+        {
+          "source": "iea_ras",
+          "source_name": "ИЭА РАН",
+          "url": "https://iea-ras.ru/?p=21263",
+          "published_date": "2026-04-07"
         }
       ]
     },
