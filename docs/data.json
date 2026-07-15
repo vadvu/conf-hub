@@ -1,7 +1,7 @@
 {
   "version": "0.13.0",
-  "generated_at": "2026-07-14T22:49:31+00:00",
-  "crawled_at": "2026-07-14T22:49:31+00:00",
+  "generated_at": "2026-07-15T00:26:05+00:00",
+  "crawled_at": "2026-07-14T23:54:15+00:00",
   "today": "2026-07-15",
   "sources_info": [
     {
@@ -71,6 +71,14 @@
     {
       "name": "УрФУ",
       "url": "https://urfu.ru/get-news/ru/news/?cols=3&pid=53%2C11367%2C30302&categories=1%2C10%2C12%2C130%2C155%2C2%2C212%2C232%2C27%2C277%2C3%2C329%2C33%2C380%2C381%2C4%2C5%2C52%2C6%2C8%2C9%2C90%2C93%2C96&fullmode=1&offset=0&rows=100&selected=0&page=54&show_categories=1"
+    },
+    {
+      "name": "ИКСА РАН",
+      "url": "https://www.iccaras.ru/meropriyatiya.html"
+    },
+    {
+      "name": "ИЭА РАН",
+      "url": "https://iea-ras.ru/?cat=56"
     }
   ],
   "conferences": [
@@ -102,6 +110,36 @@
           "source": "hse_ann_sci",
           "source_name": "НИУ ВШЭ",
           "url": "https://iocs.hse.ru/announcements/1161188483.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "7d34dd3c40dd",
+      "title": "X Балтийская научно-практическая конференция BalticPetroModel-2026 Петрофизическое моделирование осадочных пород",
+      "organizer": "Евро-Азиатское геофизическое общество, Институт физики Земли им. О. Ю. Шмидта Российской академии наук, Передовая инженерная школа СПбГУ",
+      "disciplines": [
+        "Математика",
+        "Физика"
+      ],
+      "event_start": "2026-09-14",
+      "event_end": "2026-09-16",
+      "submission_deadline": "2026-07-20",
+      "location": "Петергоф",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "location",
+        "disciplines",
+        "official_url"
+      ],
+      "status": "open",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/balticpetromodel",
           "published_date": null
         }
       ]
@@ -486,6 +524,34 @@
           "source": "ras_events",
           "source_name": "РАН",
           "url": "https://new.ras.ru/press-center/events-additional/xii-vserossiyskaya-molodyezhnaya-shkola-konferentsiya-khimiya-fizika-biologiya-puti-integratsii/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "51d7a6b53caf",
+      "title": "Международная научная конференция «Современные проблемы деликтного права в странах БРИКС»",
+      "organizer": "Факультет права НИУ ВШЭ",
+      "disciplines": [
+        "Право"
+      ],
+      "event_start": "2026-10-16",
+      "event_end": "2026-10-16",
+      "submission_deadline": "2026-09-01",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.983,
+      "field_flags": [
+        "title",
+        "organizer"
+      ],
+      "status": "open",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://pravo.hse.ru/announcements/1165366148.html",
           "published_date": null
         }
       ]
@@ -1200,6 +1266,36 @@
       ]
     },
     {
+      "id": "68a722b19561",
+      "title": "5-я конференция по машинному обучению и искусственному интелекту «Погружение в машинное обучение (Fall into ML 2026)",
+      "organizer": "НИУ ВШЭ",
+      "disciplines": [
+        "Компьютерные науки"
+      ],
+      "event_start": "2026-10-23",
+      "event_end": "2026-10-24",
+      "submission_deadline": "2026-10-15",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "organizer",
+        "submission_deadline",
+        "official_url"
+      ],
+      "status": "open",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://cs.hse.ru/ml2026/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "b2f0870ce4cb",
       "title": "Российское общество в межстрановых и временных сравнениях",
       "organizer": "Центр сравнительных исследований социального благополучия НИУ ВШЭ и Институт сравнительных социальных исследований",
@@ -1279,6 +1375,39 @@
           "source": "hse_ann_sci",
           "source_name": "НИУ ВШЭ",
           "url": "https://economics.hse.ru/esgconference/announcements/1166068933.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "8a1376be7868",
+      "title": "Круглый стол «Антропология входа в профессию»",
+      "organizer": "Организаторы круглого стола",
+      "disciplines": [
+        "Социология (включая демографию и антропологию)"
+      ],
+      "event_start": "2026-11-20",
+      "event_end": "2026-11-20",
+      "submission_deadline": "2026-10-20",
+      "location": null,
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.9,
+      "field_flags": [
+        "title",
+        "organizer",
+        "location",
+        "event_start",
+        "event_end",
+        "submission_deadline",
+        "official_url"
+      ],
+      "status": "open",
+      "sources": [
+        {
+          "source": "perm_ann_sci",
+          "source_name": "НИУ ВШЭ (Пермь)",
+          "url": "https://perm.hse.ru/creativ/industrialculture/announcements/1167909302.html",
           "published_date": null
         }
       ]
@@ -2027,6 +2156,35 @@
           "source_name": "МГИМО",
           "url": "https://mgimo.ru/about/news/announce/sluzhenie-otechestvu-07-26/",
           "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "ec8d0531d6f8",
+      "title": "Наука о народах: история, теория, методология",
+      "organizer": "Ассоциация этнологов и антропологов России, Институт этнологии и антропологии им. Н.Н. Миклухо-Маклая РАН, Российский государственный гуманитарный университет (Учебно-научный институт антропологии и этнологии), Исторический факультет МГУ им. М.В. Ломоносова (Кафедра этнологии), Факультет гуманитарных наук НИУ Высшая школа экономики (Лаборатория региональных этнологических исследований)",
+      "disciplines": [
+        "Социология (включая демографию и антропологию)",
+        "История и археология",
+        "Философия, этика, религиоведение"
+      ],
+      "event_start": "2026-11-17",
+      "event_end": "2026-11-18",
+      "submission_deadline": "2026-07-06",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines"
+      ],
+      "status": "closed",
+      "sources": [
+        {
+          "source": "iea_ras",
+          "source_name": "ИЭА РАН",
+          "url": "https://iea-ras.ru/?p=21863",
+          "published_date": "2026-06-11"
         }
       ]
     },
