@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ещё успеваешь — статистика</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🤓</text></svg>">
+<link rel="stylesheet" href="style.css">
+</head>
+<body data-page="stats">
+<header>
+  <h1>Ещё успеваешь</h1>
+  <p class="subtitle">Агрегатор научных конференций — автоматически, без платы за страницу в сборнике</p>
+  <nav class="tabs">
+    <a href="index.html">Актуальные</a>
+    <a href="archive.html">Архив</a>
+    <a href="stats.html" class="active">Статистика</a>
+  </nav>
+</header>
+
+<main class="stats">
+  <div class="about" style="padding: 12px 16px;">
+    <p><b>Датасет:</b> <a href="dataset.csv" download>dataset.csv</a> —
+    90 конференций, обновлён 15.07.2026 в 15:58 по МСК. Формат: CSV (UTF-8), по строке на конференцию;
+    многозначные поля (дисциплины, источники) разделены «;».
+    Колонки: id, title, organizer, disciplines, event_start, event_end,
+    submission_deadline, location, format, status, in_site (попала ли на
+    сайт), first_seen (появление в базе), first_published (дата анонса,
+    если известна), sources, source_urls, flags, official_url.</p>
+  </div>
+
+<figure class="stat"><img src="stats/dynamics.svg" alt="Динамика по неделям: дедлайны и начала конференций"><figcaption>Динамика по неделям: дедлайны и начала конференций</figcaption></figure>
+<figure class="stat"><img src="stats/disciplines.svg" alt="Распределение конференций по дисциплинам"><figcaption>Распределение конференций по дисциплинам</figcaption></figure>
+<figure class="stat"><img src="stats/days_to_deadline.svg" alt="Сколько дней даётся на подачу заявки (от анонса до дедлайна)"><figcaption>Сколько дней даётся на подачу заявки (от анонса до дедлайна)</figcaption></figure>
+<figure class="stat"><img src="stats/top_sources.svg" alt="Топ источников по числу конференций"><figcaption>Топ источников по числу конференций</figcaption></figure>
+</main>
+
+<footer>
+  <p id="generated">Падальщик v0.15.1 · данные обновлены 15.07.2026 в 15:58 по МСК</p>
+
+  <div class="people">
+    <p><b>Важные люди</b>:</p>
+    <ol>
+      <li>
+        Вадим Устюжанин — создатель
+        (<a
+          href="https://orcid.org/0000-0003-3800-1108"
+          target="_blank"
+          rel="noopener noreferrer"
+        >orcid</a>)
+      </li>
+
+      <li>
+        Даниил Гончаренко — меценат
+        (<a
+          href="https://orcid.org/0009-0006-3893-3756"
+          target="_blank"
+          rel="noopener noreferrer"
+        >orcid</a>)
+      </li>
+    </ol>
+  </div>
+</footer>
+</body>
+</html>

@@ -1,7 +1,7 @@
 window.CONF_DATA = {
-  "version": "0.14.0",
-  "generated_at": "2026-07-15T10:45:33+00:00",
-  "crawled_at": "2026-07-15T03:03:39+00:00",
+  "version": "0.15.1",
+  "generated_at": "2026-07-15T13:57:59+00:00",
+  "crawled_at": "2026-07-15T12:58:42+00:00",
   "today": "2026-07-15",
   "sources_info": [
     {
@@ -104,6 +104,7 @@ window.CONF_DATA = {
         "disciplines",
         "format"
       ],
+      "first_seen": "2026-07-13",
       "status": "open",
       "sources": [
         {
@@ -134,6 +135,7 @@ window.CONF_DATA = {
         "disciplines",
         "official_url"
       ],
+      "first_seen": "2026-07-15",
       "status": "open",
       "sources": [
         {
@@ -167,6 +169,7 @@ window.CONF_DATA = {
         "format",
         "official_url"
       ],
+      "first_seen": "2026-07-13",
       "status": "open",
       "sources": [
         {
@@ -196,6 +199,7 @@ window.CONF_DATA = {
         "disciplines",
         "format"
       ],
+      "first_seen": "2026-07-13",
       "status": "open",
       "sources": [
         {
@@ -226,6 +230,7 @@ window.CONF_DATA = {
         "location",
         "disciplines"
       ],
+      "first_seen": "2026-07-13",
       "status": "open",
       "sources": [
         {
@@ -253,6 +258,7 @@ window.CONF_DATA = {
       "field_flags": [
         "title"
       ],
+      "first_seen": "2026-07-13",
       "status": "open",
       "sources": [
         {
@@ -283,6 +289,7 @@ window.CONF_DATA = {
         "disciplines",
         "format"
       ],
+      "first_seen": "2026-07-13",
       "status": "open",
       "sources": [
         {
@@ -311,6 +318,7 @@ window.CONF_DATA = {
         "organizer",
         "location"
       ],
+      "first_seen": "2026-07-13",
       "status": "open",
       "sources": [
         {
@@ -341,6 +349,7 @@ window.CONF_DATA = {
         "format",
         "official_url"
       ],
+      "first_seen": "2026-07-14",
       "status": "open",
       "sources": [
         {
@@ -372,6 +381,7 @@ window.CONF_DATA = {
         "disciplines",
         "submission_deadline"
       ],
+      "first_seen": "2026-07-13",
       "status": "open",
       "sources": [
         {
@@ -403,6 +413,7 @@ window.CONF_DATA = {
         "disciplines",
         "format"
       ],
+      "first_seen": "2026-07-13",
       "status": "open",
       "sources": [
         {
@@ -431,6 +442,7 @@ window.CONF_DATA = {
         "location",
         "disciplines"
       ],
+      "first_seen": "2026-07-13",
       "status": "open",
       "sources": [
         {
@@ -459,6 +471,7 @@ window.CONF_DATA = {
       "field_flags": [
         "disciplines"
       ],
+      "first_seen": "2026-07-13",
       "status": "open",
       "sources": [
         {
@@ -487,6 +500,7 @@ window.CONF_DATA = {
         "organizer",
         "disciplines"
       ],
+      "first_seen": "2026-07-13",
       "status": "open",
       "sources": [
         {
@@ -518,6 +532,7 @@ window.CONF_DATA = {
         "format",
         "official_url"
       ],
+      "first_seen": "2026-07-13",
       "status": "open",
       "sources": [
         {
@@ -546,6 +561,7 @@ window.CONF_DATA = {
         "title",
         "organizer"
       ],
+      "first_seen": "2026-07-14",
       "status": "open",
       "sources": [
         {
@@ -575,6 +591,7 @@ window.CONF_DATA = {
         "organizer",
         "disciplines"
       ],
+      "first_seen": "2026-07-13",
       "status": "open",
       "sources": [
         {
@@ -606,6 +623,7 @@ window.CONF_DATA = {
         "location",
         "disciplines"
       ],
+      "first_seen": "2026-07-13",
       "status": "open",
       "sources": [
         {
@@ -636,6 +654,7 @@ window.CONF_DATA = {
         "disciplines",
         "format"
       ],
+      "first_seen": "2026-07-13",
       "status": "open",
       "sources": [
         {
@@ -664,6 +683,7 @@ window.CONF_DATA = {
         "title",
         "format"
       ],
+      "first_seen": "2026-07-13",
       "status": "open",
       "sources": [
         {
@@ -693,6 +713,7 @@ window.CONF_DATA = {
         "organizer",
         "format"
       ],
+      "first_seen": "2026-07-13",
       "status": "open",
       "sources": [
         {
@@ -722,6 +743,7 @@ window.CONF_DATA = {
         "organizer",
         "format"
       ],
+      "first_seen": "2026-07-13",
       "status": "open",
       "sources": [
         {
@@ -752,6 +774,7 @@ window.CONF_DATA = {
         "location",
         "disciplines"
       ],
+      "first_seen": "2026-07-13",
       "status": "open",
       "sources": [
         {
@@ -782,6 +805,7 @@ window.CONF_DATA = {
         "format",
         "official_url"
       ],
+      "first_seen": "2026-07-13",
       "status": "open",
       "sources": [
         {
@@ -813,6 +837,7 @@ window.CONF_DATA = {
         "submission_deadline",
         "format"
       ],
+      "first_seen": "2026-07-13",
       "status": "open",
       "sources": [
         {
@@ -841,6 +866,7 @@ window.CONF_DATA = {
       "field_flags": [
         "disciplines"
       ],
+      "first_seen": "2026-07-13",
       "status": "open",
       "sources": [
         {
@@ -876,6 +902,7 @@ window.CONF_DATA = {
         "disciplines",
         "format"
       ],
+      "first_seen": "2026-07-13",
       "status": "open",
       "sources": [
         {
@@ -906,6 +933,7 @@ window.CONF_DATA = {
         "format",
         "official_url"
       ],
+      "first_seen": "2026-07-13",
       "status": "open",
       "sources": [
         {
@@ -933,6 +961,7 @@ window.CONF_DATA = {
       "field_flags": [
         "title"
       ],
+      "first_seen": "2026-07-13",
       "status": "open",
       "sources": [
         {
@@ -961,6 +990,7 @@ window.CONF_DATA = {
         "title",
         "location"
       ],
+      "first_seen": "2026-07-13",
       "status": "open",
       "sources": [
         {
@@ -991,6 +1021,7 @@ window.CONF_DATA = {
         "location",
         "disciplines"
       ],
+      "first_seen": "2026-07-13",
       "status": "open",
       "sources": [
         {
@@ -1019,6 +1050,7 @@ window.CONF_DATA = {
         "title",
         "location"
       ],
+      "first_seen": "2026-07-13",
       "status": "open",
       "sources": [
         {
@@ -1050,6 +1082,7 @@ window.CONF_DATA = {
         "disciplines",
         "format"
       ],
+      "first_seen": "2026-07-13",
       "status": "open",
       "sources": [
         {
@@ -1078,6 +1111,7 @@ window.CONF_DATA = {
         "organizer",
         "disciplines"
       ],
+      "first_seen": "2026-07-13",
       "status": "open",
       "sources": [
         {
@@ -1109,6 +1143,7 @@ window.CONF_DATA = {
         "format",
         "official_url"
       ],
+      "first_seen": "2026-07-13",
       "status": "open",
       "sources": [
         {
@@ -1141,6 +1176,7 @@ window.CONF_DATA = {
         "disciplines",
         "format"
       ],
+      "first_seen": "2026-07-13",
       "status": "open",
       "sources": [
         {
@@ -1170,6 +1206,7 @@ window.CONF_DATA = {
         "disciplines",
         "format"
       ],
+      "first_seen": "2026-07-13",
       "status": "open",
       "sources": [
         {
@@ -1200,6 +1237,7 @@ window.CONF_DATA = {
         "submission_deadline",
         "format"
       ],
+      "first_seen": "2026-07-13",
       "status": "open",
       "sources": [
         {
@@ -1227,6 +1265,7 @@ window.CONF_DATA = {
       "field_flags": [
         "title"
       ],
+      "first_seen": "2026-07-13",
       "status": "open",
       "sources": [
         {
@@ -1255,6 +1294,7 @@ window.CONF_DATA = {
       "field_flags": [
         "disciplines"
       ],
+      "first_seen": "2026-07-13",
       "status": "open",
       "sources": [
         {
@@ -1285,6 +1325,7 @@ window.CONF_DATA = {
         "submission_deadline",
         "official_url"
       ],
+      "first_seen": "2026-07-14",
       "status": "open",
       "sources": [
         {
@@ -1313,6 +1354,7 @@ window.CONF_DATA = {
         "title",
         "disciplines"
       ],
+      "first_seen": "2026-07-13",
       "status": "open",
       "sources": [
         {
@@ -1342,6 +1384,7 @@ window.CONF_DATA = {
         "disciplines",
         "official_url"
       ],
+      "first_seen": "2026-07-13",
       "status": "open",
       "sources": [
         {
@@ -1369,6 +1412,7 @@ window.CONF_DATA = {
       "field_flags": [
         "submission_deadline"
       ],
+      "first_seen": "2026-07-13",
       "status": "open",
       "sources": [
         {
@@ -1402,6 +1446,7 @@ window.CONF_DATA = {
         "submission_deadline",
         "official_url"
       ],
+      "first_seen": "2026-07-15",
       "status": "open",
       "sources": [
         {
@@ -1433,6 +1478,7 @@ window.CONF_DATA = {
         "disciplines",
         "format"
       ],
+      "first_seen": "2026-07-13",
       "status": "open",
       "sources": [
         {
@@ -1463,6 +1509,7 @@ window.CONF_DATA = {
         "disciplines",
         "official_url"
       ],
+      "first_seen": "2026-07-13",
       "status": "open",
       "sources": [
         {
@@ -1495,6 +1542,7 @@ window.CONF_DATA = {
         "format",
         "official_url"
       ],
+      "first_seen": "2026-07-13",
       "status": "open",
       "sources": [
         {
@@ -1525,12 +1573,41 @@ window.CONF_DATA = {
         "submission_deadline",
         "format"
       ],
+      "first_seen": "2026-07-13",
       "status": "open",
       "sources": [
         {
           "source": "msu_events",
           "source_name": "МГУ",
           "url": "https://conf.msu.ru/rus/event/10531/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "dcd745f01b60",
+      "title": "Россия в войнах и социальных конфликтах (1914−1945 гг.): исторический опыт и перспективы изучения",
+      "organizer": "Санкт-Петербургский институт истории РАН",
+      "disciplines": [
+        "История и археология"
+      ],
+      "event_start": "2026-09-10",
+      "event_end": "2026-09-11",
+      "submission_deadline": null,
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.9,
+      "field_flags": [
+        "organizer"
+      ],
+      "first_seen": "2026-07-15",
+      "status": "open",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/soc-conflict",
           "published_date": null
         }
       ]
@@ -1555,6 +1632,7 @@ window.CONF_DATA = {
         "format",
         "official_url"
       ],
+      "first_seen": "2026-07-13",
       "status": "closed",
       "sources": [
         {
@@ -1587,6 +1665,7 @@ window.CONF_DATA = {
         "event_start",
         "format"
       ],
+      "first_seen": "2026-07-13",
       "status": "closed",
       "sources": [
         {
@@ -1618,6 +1697,7 @@ window.CONF_DATA = {
         "format",
         "official_url"
       ],
+      "first_seen": "2026-07-13",
       "status": "closed",
       "sources": [
         {
@@ -1647,6 +1727,7 @@ window.CONF_DATA = {
         "disciplines",
         "format"
       ],
+      "first_seen": "2026-07-15",
       "status": "closed",
       "sources": [
         {
@@ -1679,6 +1760,7 @@ window.CONF_DATA = {
         "format",
         "official_url"
       ],
+      "first_seen": "2026-07-13",
       "status": "closed",
       "sources": [
         {
@@ -1708,6 +1790,7 @@ window.CONF_DATA = {
         "format",
         "official_url"
       ],
+      "first_seen": "2026-07-13",
       "status": "closed",
       "sources": [
         {
@@ -1736,6 +1819,7 @@ window.CONF_DATA = {
         "format",
         "official_url"
       ],
+      "first_seen": "2026-07-13",
       "status": "closed",
       "sources": [
         {
@@ -1764,6 +1848,7 @@ window.CONF_DATA = {
         "title",
         "disciplines"
       ],
+      "first_seen": "2026-07-13",
       "status": "closed",
       "sources": [
         {
@@ -1795,6 +1880,7 @@ window.CONF_DATA = {
         "disciplines",
         "format"
       ],
+      "first_seen": "2026-07-13",
       "status": "closed",
       "sources": [
         {
@@ -1825,6 +1911,7 @@ window.CONF_DATA = {
         "title",
         "disciplines"
       ],
+      "first_seen": "2026-07-13",
       "status": "closed",
       "sources": [
         {
@@ -1857,6 +1944,7 @@ window.CONF_DATA = {
         "disciplines",
         "format"
       ],
+      "first_seen": "2026-07-13",
       "status": "closed",
       "sources": [
         {
@@ -1885,6 +1973,7 @@ window.CONF_DATA = {
         "location",
         "disciplines"
       ],
+      "first_seen": "2026-07-13",
       "status": "closed",
       "sources": [
         {
@@ -1914,6 +2003,7 @@ window.CONF_DATA = {
         "disciplines",
         "format"
       ],
+      "first_seen": "2026-07-13",
       "status": "closed",
       "sources": [
         {
@@ -1943,6 +2033,7 @@ window.CONF_DATA = {
         "disciplines",
         "format"
       ],
+      "first_seen": "2026-07-14",
       "status": "closed",
       "sources": [
         {
@@ -1971,6 +2062,7 @@ window.CONF_DATA = {
         "disciplines",
         "format"
       ],
+      "first_seen": "2026-07-13",
       "status": "closed",
       "sources": [
         {
@@ -2003,6 +2095,7 @@ window.CONF_DATA = {
         "format",
         "official_url"
       ],
+      "first_seen": "2026-07-13",
       "status": "closed",
       "sources": [
         {
@@ -2034,6 +2127,7 @@ window.CONF_DATA = {
         "disciplines",
         "format"
       ],
+      "first_seen": "2026-07-13",
       "status": "closed",
       "sources": [
         {
@@ -2061,6 +2155,7 @@ window.CONF_DATA = {
       "official_url": null,
       "confidence": 0.967,
       "field_flags": [],
+      "first_seen": "2026-07-13",
       "status": "closed",
       "sources": [
         {
@@ -2089,6 +2184,7 @@ window.CONF_DATA = {
       "field_flags": [
         "disciplines"
       ],
+      "first_seen": "2026-07-15",
       "status": "closed",
       "sources": [
         {
@@ -2119,6 +2215,7 @@ window.CONF_DATA = {
         "location",
         "submission_deadline"
       ],
+      "first_seen": "2026-07-13",
       "status": "closed",
       "sources": [
         {
@@ -2148,6 +2245,7 @@ window.CONF_DATA = {
         "disciplines",
         "format"
       ],
+      "first_seen": "2026-07-13",
       "status": "closed",
       "sources": [
         {
@@ -2179,6 +2277,7 @@ window.CONF_DATA = {
         "location",
         "disciplines"
       ],
+      "first_seen": "2026-07-13",
       "status": "closed",
       "sources": [
         {
@@ -2206,6 +2305,7 @@ window.CONF_DATA = {
         "location",
         "disciplines"
       ],
+      "first_seen": "2026-07-13",
       "status": "closed",
       "sources": [
         {
@@ -2235,6 +2335,7 @@ window.CONF_DATA = {
       "field_flags": [
         "disciplines"
       ],
+      "first_seen": "2026-07-14",
       "status": "closed",
       "sources": [
         {
@@ -2270,6 +2371,7 @@ window.CONF_DATA = {
         "disciplines",
         "format"
       ],
+      "first_seen": "2026-07-13",
       "status": "closed",
       "sources": [
         {
@@ -2300,6 +2402,7 @@ window.CONF_DATA = {
         "disciplines",
         "official_url"
       ],
+      "first_seen": "2026-07-14",
       "status": "closed",
       "sources": [
         {
@@ -2329,6 +2432,7 @@ window.CONF_DATA = {
         "submission_deadline",
         "format"
       ],
+      "first_seen": "2026-07-13",
       "status": "past",
       "sources": [
         {
@@ -2358,6 +2462,7 @@ window.CONF_DATA = {
         "location",
         "disciplines"
       ],
+      "first_seen": "2026-07-13",
       "status": "past",
       "sources": [
         {
@@ -2391,6 +2496,7 @@ window.CONF_DATA = {
         "format",
         "official_url"
       ],
+      "first_seen": "2026-07-15",
       "status": "past",
       "sources": [
         {
@@ -2416,6 +2522,7 @@ window.CONF_DATA = {
       "official_url": null,
       "confidence": 0.933,
       "field_flags": [],
+      "first_seen": "2026-07-13",
       "status": "past",
       "sources": [
         {
@@ -2446,6 +2553,7 @@ window.CONF_DATA = {
         "disciplines",
         "format"
       ],
+      "first_seen": "2026-07-13",
       "status": "past",
       "sources": [
         {
@@ -2476,6 +2584,7 @@ window.CONF_DATA = {
         "disciplines",
         "format"
       ],
+      "first_seen": "2026-07-13",
       "status": "past",
       "sources": [
         {
@@ -2503,6 +2612,7 @@ window.CONF_DATA = {
       "field_flags": [
         "title"
       ],
+      "first_seen": "2026-07-13",
       "status": "past",
       "sources": [
         {
@@ -2531,6 +2641,7 @@ window.CONF_DATA = {
         "title",
         "disciplines"
       ],
+      "first_seen": "2026-07-13",
       "status": "past",
       "sources": [
         {
@@ -2559,6 +2670,7 @@ window.CONF_DATA = {
         "disciplines",
         "format"
       ],
+      "first_seen": "2026-07-13",
       "status": "past",
       "sources": [
         {
@@ -2588,6 +2700,7 @@ window.CONF_DATA = {
         "title",
         "disciplines"
       ],
+      "first_seen": "2026-07-13",
       "status": "past",
       "sources": [
         {
@@ -2620,6 +2733,7 @@ window.CONF_DATA = {
         "disciplines",
         "format"
       ],
+      "first_seen": "2026-07-13",
       "status": "past",
       "sources": [
         {
@@ -2649,6 +2763,7 @@ window.CONF_DATA = {
         "disciplines",
         "official_url"
       ],
+      "first_seen": "2026-07-13",
       "status": "past",
       "sources": [
         {
@@ -2679,6 +2794,7 @@ window.CONF_DATA = {
         "location",
         "format"
       ],
+      "first_seen": "2026-07-13",
       "status": "past",
       "sources": [
         {

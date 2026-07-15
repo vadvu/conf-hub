@@ -51,6 +51,14 @@ body[data-page="archive"] #g-deadline { display: none; }
 }
 .noUi-handle::before, .noUi-handle::after { display: none; }
 
+/* --- страница статистики --- */
+.stats figure.stat {
+  background: var(--card); border: 1px solid var(--border); border-radius: 12px;
+  padding: 16px; margin: 0 0 16px;
+}
+.stats figure.stat img { width: 100%; height: auto; display: block; }
+.stats figcaption { color: var(--muted); font-size: .9rem; margin-top: 8px; }
+
 /* --- «важные люди» в подвале --- */
 .people { margin-top: 6px; }
 .people a { color: var(--accent); text-decoration: none; }
