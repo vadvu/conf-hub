@@ -1,8 +1,8 @@
 window.CONF_DATA = {
   "version": "0.15.1",
-  "generated_at": "2026-07-15T17:08:03+00:00",
-  "crawled_at": "2026-07-15T12:58:42+00:00",
-  "today": "2026-07-15",
+  "generated_at": "2026-07-16T03:02:47+00:00",
+  "crawled_at": "2026-07-16T03:02:47+00:00",
+  "today": "2026-07-16",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -82,39 +82,6 @@ window.CONF_DATA = {
     }
   ],
   "conferences": [
-    {
-      "id": "9bfb5db88cac",
-      "title": "6-я индологическая конференция «Дубянские чтения»",
-      "organizer": "Институт классического Востока и античности НИУ ВШЭ",
-      "disciplines": [
-        "История и археология",
-        "Филология и лингвистика",
-        "Философия, этика, религиоведение"
-      ],
-      "event_start": "2026-09-30",
-      "event_end": "2026-10-02",
-      "submission_deadline": "2026-07-15",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "organizer",
-        "disciplines",
-        "format"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "open",
-      "sources": [
-        {
-          "source": "hse_ann_sci",
-          "source_name": "НИУ ВШЭ",
-          "url": "https://iocs.hse.ru/announcements/1161188483.html",
-          "published_date": null
-        }
-      ]
-    },
     {
       "id": "7d34dd3c40dd",
       "title": "X Балтийская научно-практическая конференция BalticPetroModel-2026 Петрофизическое моделирование осадочных пород",
@@ -2410,6 +2377,39 @@ window.CONF_DATA = {
           "source_name": "МФТИ",
           "url": "https://mipt.ru/institute/events/priem-zayavok-na-iv-mezhdunarodnuyu-konferentsiyu-po-kosmicheskomu-obrazovaniyu-doroga-v-kosmos",
           "published_date": "2026-06-09"
+        }
+      ]
+    },
+    {
+      "id": "9bfb5db88cac",
+      "title": "6-я индологическая конференция «Дубянские чтения»",
+      "organizer": "Институт классического Востока и античности НИУ ВШЭ",
+      "disciplines": [
+        "История и археология",
+        "Филология и лингвистика",
+        "Философия, этика, религиоведение"
+      ],
+      "event_start": "2026-09-30",
+      "event_end": "2026-10-02",
+      "submission_deadline": "2026-07-15",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "organizer",
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://iocs.hse.ru/announcements/1161188483.html",
+          "published_date": null
         }
       ]
     },
