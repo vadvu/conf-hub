@@ -1,7 +1,7 @@
 window.CONF_DATA = {
-  "version": "0.15.1",
-  "generated_at": "2026-07-16T09:57:07+00:00",
-  "crawled_at": "2026-07-16T03:02:47+00:00",
+  "version": "0.16.0",
+  "generated_at": "2026-07-16T11:57:14+00:00",
+  "crawled_at": "2026-07-16T10:56:50+00:00",
   "today": "2026-07-16",
   "sources_info": [
     {
@@ -79,6 +79,10 @@ window.CONF_DATA = {
     {
       "name": "ИЭА РАН",
       "url": "https://iea-ras.ru/?cat=56"
+    },
+    {
+      "name": "НИУ ВШЭ (конференции)",
+      "url": "https://www.hse.ru/science/HSEconf"
     }
   ],
   "conferences": [
@@ -173,6 +177,38 @@ window.CONF_DATA = {
           "source": "spbu_events",
           "source_name": "СПбГУ",
           "url": "https://events.spbu.ru/calligraphy",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "5b50d2427ee9",
+      "title": "Международная летняя школа «Единорог будущего» / DU Lab Summer School",
+      "organizer": "Университет ИТМО",
+      "disciplines": [
+        "Компьютерные науки",
+        "Экономика и менеджмент"
+      ],
+      "event_start": "2026-08-10",
+      "event_end": "2026-08-19",
+      "submission_deadline": "2026-07-31",
+      "location": null,
+      "format": "онлайн",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "organizer",
+        "disciplines",
+        "official_url"
+      ],
+      "first_seen": "2026-07-16",
+      "status": "open",
+      "sources": [
+        {
+          "source": "itmo_events",
+          "source_name": "ИТМО",
+          "url": "https://news.itmo.ru/ru/announce/121860/",
           "published_date": null
         }
       ]
@@ -535,6 +571,12 @@ window.CONF_DATA = {
           "source": "hse_ann_sci",
           "source_name": "НИУ ВШЭ",
           "url": "https://pravo.hse.ru/announcements/1165366148.html",
+          "published_date": null
+        },
+        {
+          "source": "hse_conf",
+          "source_name": "НИУ ВШЭ (конференции)",
+          "url": "https://pravo.hse.ru/grpravo/announcements/1161225550.html",
           "published_date": null
         }
       ]
@@ -1452,6 +1494,36 @@ window.CONF_DATA = {
           "source": "socinst",
           "source_name": "Социологический институт РАН",
           "url": "https://socinst.ru/conferences/spbconf2026/#files",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "63ff6b810421",
+      "title": "Тринадцатая международная научно-практическая конференция «Бизнес-психология: теория и практика»",
+      "organizer": "Не указано",
+      "disciplines": [
+        "Психология"
+      ],
+      "event_start": "2026-11-26",
+      "event_end": "2026-11-28",
+      "submission_deadline": "2026-11-16",
+      "location": null,
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "organizer",
+        "disciplines"
+      ],
+      "first_seen": "2026-07-16",
+      "status": "open",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://www.hse.ru/ma/pb/announcements/1179766260.html",
           "published_date": null
         }
       ]
