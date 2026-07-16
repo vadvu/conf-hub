@@ -340,7 +340,7 @@ function render(items) {
     card.id = "c-" + c.id;
     card.appendChild(badge(c));
     const h2 = el("h2", null, c.title);
-    const perma = el("a", "permalink", "#");
+    const perma = el("a", "permalink", "🔗");
     perma.href = "#c-" + c.id;
     perma.title = "Постоянная ссылка на карточку";
     h2.appendChild(perma);
