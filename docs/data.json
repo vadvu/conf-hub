@@ -1,8 +1,8 @@
 {
-  "version": "0.17.1",
-  "generated_at": "2026-07-17T04:20:43+00:00",
-  "crawled_at": "2026-07-17T04:20:42+00:00",
-  "today": "2026-07-17",
+  "version": "0.20.1",
+  "generated_at": "2026-07-18T03:04:26+00:00",
+  "crawled_at": "2026-07-18T03:03:40+00:00",
+  "today": "2026-07-18",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -2146,38 +2146,6 @@
       ]
     },
     {
-      "id": "2183d223cdb9",
-      "title": "Робастная статистика и финансовая математика-2026",
-      "organizer": "ТГУ",
-      "disciplines": [
-        "Математика",
-        "Компьютерные науки"
-      ],
-      "event_start": "2026-07-15",
-      "event_end": "2026-07-17",
-      "submission_deadline": "2026-06-28",
-      "location": "Томск",
-      "format": null,
-      "official_url": "https://rsfm2026.tsu.ru/",
-      "confidence": 0.983,
-      "field_flags": [
-        "organizer",
-        "location",
-        "disciplines",
-        "format"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "tsu",
-          "source_name": "ТГУ",
-          "url": "https://news.tsu.ru/calendar-of-events/15-17-iyulya-konferentsiya-robastnaya-statistika-i-finansovaya-matematika-2026/",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "7a2d6cbb39c6",
       "title": "XV ежегодная конференция МЦИИР для молодых исследователей «Современные тенденции и перспективы в политической экономии развития»",
       "organizer": "МЦИИР",
@@ -2323,34 +2291,6 @@
           "source": "hse_ann_sci",
           "source_name": "НИУ ВШЭ",
           "url": "https://www.hse.ru/neuroling/announcements/1167666696.html",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "06bff73b5b85",
-      "title": "Всероссийская конференция «Служение Отечеству как призвание молодежи»",
-      "organizer": "Министерство просвещения Российской Федерации и Государственная думы ФС РФ",
-      "disciplines": [],
-      "event_start": "2026-07-16",
-      "event_end": "2026-07-17",
-      "submission_deadline": "2026-07-06",
-      "location": "Министерство просвещения Российской Федерации и Государственная думы ФС РФ",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.9,
-      "field_flags": [
-        "title",
-        "location",
-        "disciplines"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "mgimo_ann",
-          "source_name": "МГИМО",
-          "url": "https://mgimo.ru/about/news/announce/sluzhenie-otechestvu-07-26/",
           "published_date": null
         }
       ]
@@ -2873,6 +2813,66 @@
           "source": "spbu_events",
           "source_name": "СПбГУ",
           "url": "https://events.spbu.ru/protein",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "2183d223cdb9",
+      "title": "Робастная статистика и финансовая математика-2026",
+      "organizer": "ТГУ",
+      "disciplines": [
+        "Математика",
+        "Компьютерные науки"
+      ],
+      "event_start": "2026-07-15",
+      "event_end": "2026-07-17",
+      "submission_deadline": "2026-06-28",
+      "location": "Томск",
+      "format": null,
+      "official_url": "https://rsfm2026.tsu.ru/",
+      "confidence": 0.983,
+      "field_flags": [
+        "organizer",
+        "location",
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "past",
+      "sources": [
+        {
+          "source": "tsu",
+          "source_name": "ТГУ",
+          "url": "https://news.tsu.ru/calendar-of-events/15-17-iyulya-konferentsiya-robastnaya-statistika-i-finansovaya-matematika-2026/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "06bff73b5b85",
+      "title": "Всероссийская конференция «Служение Отечеству как призвание молодежи»",
+      "organizer": "Министерство просвещения Российской Федерации и Государственная думы ФС РФ",
+      "disciplines": [],
+      "event_start": "2026-07-16",
+      "event_end": "2026-07-17",
+      "submission_deadline": "2026-07-06",
+      "location": "Министерство просвещения Российской Федерации и Государственная думы ФС РФ",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.9,
+      "field_flags": [
+        "title",
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "past",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/sluzhenie-otechestvu-07-26/",
           "published_date": null
         }
       ]
