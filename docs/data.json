@@ -1,8 +1,8 @@
 {
-  "version": "0.20.1",
-  "generated_at": "2026-07-18T03:04:26+00:00",
-  "crawled_at": "2026-07-18T03:03:40+00:00",
-  "today": "2026-07-18",
+  "version": "0.21.0",
+  "generated_at": "2026-07-19T06:03:07+00:00",
+  "crawled_at": "2026-07-19T04:45:51+00:00",
+  "today": "2026-07-19",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -83,6 +83,10 @@
     {
       "name": "НИУ ВШЭ (конференции)",
       "url": "https://www.hse.ru/science/HSEconf"
+    },
+    {
+      "name": "ИЛИ РАН",
+      "url": "https://iling.spb.ru/conferences"
     }
   ],
   "conferences": [
@@ -577,6 +581,89 @@
           "source": "hse_conf",
           "source_name": "НИУ ВШЭ (конференции)",
           "url": "https://pravo.hse.ru/grpravo/announcements/1161225550.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "ac71444140ed",
+      "title": "Наследие В.И. Даля в контексте современной лексикологии и лексикографии",
+      "organizer": "Институт лингвистических исследований Российской академии наук",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-11-09",
+      "event_end": "2026-11-12",
+      "submission_deadline": "2026-09-01",
+      "location": "Санкт-Петербург",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.9,
+      "field_flags": [],
+      "first_seen": "2026-07-18",
+      "status": "open",
+      "sources": [
+        {
+          "source": "iling_ras",
+          "source_name": "ИЛИ РАН",
+          "url": "https://iling.spb.ru/conferences/2026/4970",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "3ed59fa0d2ef",
+      "title": "Шестая конференция по уральским, алтайским и палеоазиатским языкам",
+      "organizer": "Институт лингвистических исследований РАН",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-11-23",
+      "event_end": "2026-11-25",
+      "submission_deadline": "2026-09-01",
+      "location": "Санкт-Петербург",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.9,
+      "field_flags": [
+        "submission_deadline"
+      ],
+      "first_seen": "2026-07-18",
+      "status": "open",
+      "sources": [
+        {
+          "source": "iling_ras",
+          "source_name": "ИЛИ РАН",
+          "url": "https://iling.spb.ru/conferences/2026/5061",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "2ef9fc54b38b",
+      "title": "XXIII конференция по типологии и грамматике для молодых исследователей",
+      "organizer": "Институт лингвистических исследований РАН",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-11-26",
+      "event_end": "2026-11-28",
+      "submission_deadline": "2026-09-06",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": "https://www.youngconfspb.com/e/main",
+      "confidence": 0.983,
+      "field_flags": [
+        "location",
+        "format"
+      ],
+      "first_seen": "2026-07-18",
+      "status": "open",
+      "sources": [
+        {
+          "source": "iling_ras",
+          "source_name": "ИЛИ РАН",
+          "url": "https://iling.spb.ru/conferences/2026/5058",
           "published_date": null
         }
       ]
@@ -1499,6 +1586,35 @@
       ]
     },
     {
+      "id": "ecd57b04eb51",
+      "title": "Международная научная конференция «Неология. Неография — 2026»",
+      "organizer": "Группа Словарей новых слов Отдела лексикографии современного русского языка Института лингвистических исследований Российской академии наук",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-12-01",
+      "event_end": "2026-12-03",
+      "submission_deadline": "2026-11-15",
+      "location": null,
+      "format": "онлайн",
+      "official_url": null,
+      "confidence": 0.967,
+      "field_flags": [
+        "title",
+        "disciplines"
+      ],
+      "first_seen": "2026-07-18",
+      "status": "open",
+      "sources": [
+        {
+          "source": "iling_ras",
+          "source_name": "ИЛИ РАН",
+          "url": "https://iling.spb.ru/conferences/2026/5060",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "63ff6b810421",
       "title": "Тринадцатая международная научно-практическая конференция «Бизнес-психология: теория и практика»",
       "organizer": "Не указано",
@@ -1865,6 +1981,36 @@
           "source": "ras_events",
           "source_name": "РАН",
           "url": "https://new.ras.ru/press-center/events-additional/kongress-khimiya-i-khimicheskie-tekhnologii-v-tsifrovuyu-epokhu/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "506a85f2de70",
+      "title": "Александр Алексеевич Холодович: Лингвистическая типология, синтаксис, кореистика, японистика",
+      "organizer": "Институт лингвистических исследований РАН и Санкт-Петербургский государственный университет",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-10-08",
+      "event_end": "2026-10-10",
+      "submission_deadline": "2026-05-30",
+      "location": "Санкт-Петербург",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "location",
+        "disciplines",
+        "official_url"
+      ],
+      "first_seen": "2026-07-18",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "iling_ras",
+          "source_name": "ИЛИ РАН",
+          "url": "https://iling.spb.ru/conferences/2026/4876",
           "published_date": null
         }
       ]
@@ -2426,6 +2572,36 @@
       ]
     },
     {
+      "id": "4146aa99060d",
+      "title": "Три царства естества",
+      "organizer": "Отдел Фитонимическая группа",
+      "disciplines": [
+        "История и археология",
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-10-16",
+      "event_end": "2026-10-17",
+      "submission_deadline": "2026-07-15",
+      "location": null,
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.917,
+      "field_flags": [
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-07-18",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "iling_ras",
+          "source_name": "ИЛИ РАН",
+          "url": "https://iling.spb.ru/conferences/2026/4964",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "f208172484c5",
       "title": "IX Российский философский конгресс «Философия в контексте современных вызовов»",
       "organizer": "Санкт-Петербургский государственный университет (СПбГУ)",
@@ -2481,6 +2657,35 @@
           "source": "spbu_events",
           "source_name": "СПбГУ",
           "url": "https://gsom.spbu.ru/en/research/conferences/gtm2026/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "5f89d7f7d515",
+      "title": "ИНДОЕВРОПЕЙСКОЕ ЯЗЫКОЗНАНИЕ И КЛАССИЧЕСКАЯ ФИЛОЛОГИЯ - XXX (Чтения памяти профессора И. М. Тронского)",
+      "organizer": "Институт лингвистических исследований РАН",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-06-22",
+      "event_end": "2026-06-24",
+      "submission_deadline": "2026-03-15",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.967,
+      "field_flags": [
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-07-18",
+      "status": "past",
+      "sources": [
+        {
+          "source": "iling_ras",
+          "source_name": "ИЛИ РАН",
+          "url": "https://iling.spb.ru/conferences/2026/4797",
           "published_date": null
         }
       ]
@@ -2603,6 +2808,32 @@
           "source": "spbu_events",
           "source_name": "СПбГУ",
           "url": "https://events.spbu.ru/lobashev2026",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "f41d63bb095d",
+      "title": "Чтения «Сериальные глагольные конструкции в языках Юго-Восточной Азии»",
+      "organizer": "Институт лингвистических исследований РАН",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-06-19",
+      "event_end": "2026-06-19",
+      "submission_deadline": "2026-05-19",
+      "location": null,
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.95,
+      "field_flags": [],
+      "first_seen": "2026-07-18",
+      "status": "past",
+      "sources": [
+        {
+          "source": "iling_ras",
+          "source_name": "ИЛИ РАН",
+          "url": "https://iling.spb.ru/conferences/2026/4890",
           "published_date": null
         }
       ]
