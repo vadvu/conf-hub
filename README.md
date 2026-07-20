@@ -30,32 +30,33 @@
 | 2026-07-18 | 0.20.1 | — | 3.6 | 0.8 | 0.0 | 4.4 |
 | 2026-07-18 | 0.21.0 | — | 3.8 | 5.4 | 8.6 | 17.9 |
 | 2026-07-19 | 0.21.0 | — | 4.3 | 3.0 | 0.0 | 7.4 |
+| 2026-07-20 | 0.21.0 | — | 3.6 | 0.0 | 0.0 | 3.6 |
 
 ### Здоровье
 
 ✓ — список получен; 0! — 0 новостей в списке (вероятна поломка селекторов); ERR — список не скачался; rbt — запрещено robots.txt; «—» — источник в этот день не краулился.
 
-| источник | 2026-07-13 | 2026-07-14 | 2026-07-15 | 2026-07-16 | 2026-07-17 | 2026-07-18 | 2026-07-19 |
-|---|---|---|---|---|---|---|---|
-| *версия* | 0.11.0 | 0.11.0 | 0.15.0 | 0.16.0 | 0.17.1 | 0.21.0 | 0.21.0 |
-| [ЕУСПб](https://eusp.org/news) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| [НИУ ВШЭ](https://www.hse.ru/news/announcements/scientific_actions/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| [НИУ ВШЭ (конференции)](https://www.hse.ru/science/HSEconf) | — | — | — | ✓ | ✓ | ✓ | ✓ |
-| [ИКСА РАН](https://www.iccaras.ru/meropriyatiya.html) | — | — | ✓ | ✓ | ✓ | ✓ | ✓ |
-| [ИЭА РАН](https://iea-ras.ru/?cat=56) | — | — | ✓ | ✓ | ✓ | ✓ | ✓ |
-| [ИЛИ РАН](https://iling.spb.ru/conferences) | — | — | — | — | — | ✓ | ✓ |
-| [ИНИОН РАН](https://inion.ru/ru/about/news/?category=4) | ✓ | ERR | ERR | ERR | ✓ | ERR | ✓ |
-| [ИОН РАНХиГС](https://ion.ranepa.ru/announcement/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| [ИТМО](https://news.itmo.ru/ru/events/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| [ЦенСИБ НИУ ВШЭ](https://lcsr.hse.ru/news/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| [МГИМО](https://mgimo.ru/about/news/announce/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| [МФТИ](https://mipt.ru/institute/events) | ✓ | ✓ | ERR | ✓ | ✓ | ✓ | ✓ |
-| [МГУ](https://msu.ru/science/allevents.html) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| [НИУ ВШЭ (Пермь)](https://perm.hse.ru/news/announcements/scientific_actions/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| [РАН](https://new.ras.ru/press-center/events-additional/) | ✓ | ✓ | ERR | ✓ | ✓ | ✓ | ✓ |
-| [РГГУ](https://www.rsuh.ru/anons/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| [Социологический институт РАН](https://socinst.ru/events) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| [НИУ ВШЭ (СПб)](https://spb.hse.ru/announcements/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| [СПбГУ](https://events.spbu.ru/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| [ТГУ](https://news.tsu.ru/calendar-of-events/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| [УрФУ](https://urfu.ru/get-news/ru/news/?cols=3&pid=53%2C11367%2C30302&categories=1%2C10%2C12%2C130%2C155%2C2%2C212%2C232%2C27%2C277%2C3%2C329%2C33%2C380%2C381%2C4%2C5%2C52%2C6%2C8%2C9%2C90%2C93%2C96&fullmode=1&offset=0&rows=100&selected=0&page=54&show_categories=1) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| источник | 2026-07-13 | 2026-07-14 | 2026-07-15 | 2026-07-16 | 2026-07-17 | 2026-07-18 | 2026-07-19 | 2026-07-20 |
+|---|---|---|---|---|---|---|---|---|
+| *версия* | 0.11.0 | 0.11.0 | 0.15.0 | 0.16.0 | 0.17.1 | 0.21.0 | 0.21.0 | 0.21.0 |
+| [ЕУСПб](https://eusp.org/news) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| [НИУ ВШЭ](https://www.hse.ru/news/announcements/scientific_actions/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| [НИУ ВШЭ (конференции)](https://www.hse.ru/science/HSEconf) | — | — | — | ✓ | ✓ | ✓ | ✓ | ✓ |
+| [ИКСА РАН](https://www.iccaras.ru/meropriyatiya.html) | — | — | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| [ИЭА РАН](https://iea-ras.ru/?cat=56) | — | — | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| [ИЛИ РАН](https://iling.spb.ru/conferences) | — | — | — | — | — | ✓ | ✓ | ✓ |
+| [ИНИОН РАН](https://inion.ru/ru/about/news/?category=4) | ✓ | ERR | ERR | ERR | ✓ | ERR | ✓ | ✓ |
+| [ИОН РАНХиГС](https://ion.ranepa.ru/announcement/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| [ИТМО](https://news.itmo.ru/ru/events/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| [ЦенСИБ НИУ ВШЭ](https://lcsr.hse.ru/news/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| [МГИМО](https://mgimo.ru/about/news/announce/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| [МФТИ](https://mipt.ru/institute/events) | ✓ | ✓ | ERR | ✓ | ✓ | ✓ | ✓ | ✓ |
+| [МГУ](https://msu.ru/science/allevents.html) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| [НИУ ВШЭ (Пермь)](https://perm.hse.ru/news/announcements/scientific_actions/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| [РАН](https://new.ras.ru/press-center/events-additional/) | ✓ | ✓ | ERR | ✓ | ✓ | ✓ | ✓ | ✓ |
+| [РГГУ](https://www.rsuh.ru/anons/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| [Социологический институт РАН](https://socinst.ru/events) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| [НИУ ВШЭ (СПб)](https://spb.hse.ru/announcements/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| [СПбГУ](https://events.spbu.ru/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| [ТГУ](https://news.tsu.ru/calendar-of-events/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| [УрФУ](https://urfu.ru/get-news/ru/news/?cols=3&pid=53%2C11367%2C30302&categories=1%2C10%2C12%2C130%2C155%2C2%2C212%2C232%2C27%2C277%2C3%2C329%2C33%2C380%2C381%2C4%2C5%2C52%2C6%2C8%2C9%2C90%2C93%2C96&fullmode=1&offset=0&rows=100&selected=0&page=54&show_categories=1) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
