@@ -31,6 +31,7 @@
 | 2026-07-18 | 0.21.0 | — | 3.8 | 5.4 | 8.6 | 17.9 |
 | 2026-07-19 | 0.21.0 | — | 4.3 | 3.0 | 0.0 | 7.4 |
 | 2026-07-20 | 0.21.0 | — | 3.6 | 0.0 | 0.0 | 3.6 |
+| 2026-07-20 | 0.21.0 | — | 1.2 | 0.9 | 0.0 | 2.1 |
 
 ### Здоровье
 
@@ -44,7 +45,7 @@
 | [НИУ ВШЭ (конференции)](https://www.hse.ru/science/HSEconf) | — | — | — | ✓ | ✓ | ✓ | ✓ | ✓ |
 | [ИКСА РАН](https://www.iccaras.ru/meropriyatiya.html) | — | — | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | [ИЭА РАН](https://iea-ras.ru/?cat=56) | — | — | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| [ИЛИ РАН](https://iling.spb.ru/conferences) | — | — | — | — | — | ✓ | ✓ | ✓ |
+| [ИЛИ РАН](https://iling.spb.ru/conferences) | — | — | — | — | — | ✓ | ✓ | ERR |
 | [ИНИОН РАН](https://inion.ru/ru/about/news/?category=4) | ✓ | ERR | ERR | ERR | ✓ | ERR | ✓ | ✓ |
 | [ИОН РАНХиГС](https://ion.ranepa.ru/announcement/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | [ИТМО](https://news.itmo.ru/ru/events/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
