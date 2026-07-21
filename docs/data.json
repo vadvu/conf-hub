@@ -1,8 +1,8 @@
 {
   "version": "0.21.0",
-  "generated_at": "2026-07-20T09:16:28+00:00",
-  "crawled_at": "2026-07-20T09:15:36+00:00",
-  "today": "2026-07-20",
+  "generated_at": "2026-07-21T04:02:47+00:00",
+  "crawled_at": "2026-07-21T04:02:46+00:00",
+  "today": "2026-07-21",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -90,37 +90,6 @@
     }
   ],
   "conferences": [
-    {
-      "id": "7d34dd3c40dd",
-      "title": "X Балтийская научно-практическая конференция BalticPetroModel-2026 Петрофизическое моделирование осадочных пород",
-      "organizer": "Евро-Азиатское геофизическое общество, Институт физики Земли им. О. Ю. Шмидта Российской академии наук, Передовая инженерная школа СПбГУ",
-      "disciplines": [
-        "Математика",
-        "Физика"
-      ],
-      "event_start": "2026-09-14",
-      "event_end": "2026-09-16",
-      "submission_deadline": "2026-07-20",
-      "location": "Петергоф",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "location",
-        "disciplines",
-        "official_url"
-      ],
-      "first_seen": "2026-07-15",
-      "status": "open",
-      "sources": [
-        {
-          "source": "spbu_events",
-          "source_name": "СПбГУ",
-          "url": "https://events.spbu.ru/balticpetromodel",
-          "published_date": null
-        }
-      ]
-    },
     {
       "id": "c3865872d90c",
       "title": "II Международная научно-практическая конференция «Информационные технологии в сохранении и продвижении культурного наследия»",
@@ -2597,6 +2566,37 @@
           "source": "iling_ras",
           "source_name": "ИЛИ РАН",
           "url": "https://iling.spb.ru/conferences/2026/4964",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "7d34dd3c40dd",
+      "title": "X Балтийская научно-практическая конференция BalticPetroModel-2026 Петрофизическое моделирование осадочных пород",
+      "organizer": "Евро-Азиатское геофизическое общество, Институт физики Земли им. О. Ю. Шмидта Российской академии наук, Передовая инженерная школа СПбГУ",
+      "disciplines": [
+        "Математика",
+        "Физика"
+      ],
+      "event_start": "2026-09-14",
+      "event_end": "2026-09-16",
+      "submission_deadline": "2026-07-20",
+      "location": "Петергоф",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "location",
+        "disciplines",
+        "official_url"
+      ],
+      "first_seen": "2026-07-15",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/balticpetromodel",
           "published_date": null
         }
       ]
