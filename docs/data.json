@@ -1,8 +1,8 @@
 {
   "version": "0.21.0",
-  "generated_at": "2026-07-21T04:02:47+00:00",
-  "crawled_at": "2026-07-21T04:02:46+00:00",
-  "today": "2026-07-21",
+  "generated_at": "2026-07-22T03:06:04+00:00",
+  "crawled_at": "2026-07-22T03:03:27+00:00",
+  "today": "2026-07-22",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -364,6 +364,36 @@
           "source": "hse_ann_sci",
           "source_name": "НИУ ВШЭ",
           "url": "https://hum.hse.ru/announcements/1136946780.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "6544b17b6d1e",
+      "title": "Региональные этнологические исследования: Северо-Западное измерение",
+      "organizer": "Лаборатория региональных этнологических исследований ФГН НИУ ВШЭ",
+      "disciplines": [
+        "История и археология",
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-10-07",
+      "event_end": "2026-10-08",
+      "submission_deadline": "2026-08-15",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": "https://forms.yandex.ru/u/6a21a86902848f8e4fe44ef2",
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "disciplines"
+      ],
+      "first_seen": "2026-07-22",
+      "status": "open",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://hum.hse.ru/lrei/announcements/1175064805.html",
           "published_date": null
         }
       ]
