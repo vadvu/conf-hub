@@ -1,7 +1,7 @@
 {
   "version": "0.21.0",
-  "generated_at": "2026-07-23T00:37:01+00:00",
-  "crawled_at": "2026-07-22T03:03:27+00:00",
+  "generated_at": "2026-07-23T03:05:20+00:00",
+  "crawled_at": "2026-07-23T03:03:40+00:00",
   "today": "2026-07-23",
   "sources_info": [
     {
@@ -395,6 +395,38 @@
           "source_name": "ЕУСПб",
           "url": "https://eusp.org/news/nauchnaya-konferenciya-po-tu-storonu-istochnika-emicheskiy-podkhod-v-socialno-gumanitarnykh-naukakh",
           "published_date": "2026-06-23"
+        }
+      ]
+    },
+    {
+      "id": "cc59ae201636",
+      "title": "Литература, язык и компьютерные технологии LiLaC (Literature - Language - Computing: Russian Contribution)",
+      "organizer": "Санкт-Петербургский государственный университет",
+      "disciplines": [
+        "Компьютерные науки",
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-11-05",
+      "event_end": "2026-11-07",
+      "submission_deadline": "2026-08-30",
+      "location": "Санкт-Петербург",
+      "format": null,
+      "official_url": "https://reg.spbu.ru/lilac-2026",
+      "confidence": 0.967,
+      "field_flags": [
+        "location",
+        "disciplines",
+        "format",
+        "official_url"
+      ],
+      "first_seen": "2026-07-23",
+      "status": "open",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/lilac-2026",
+          "published_date": null
         }
       ]
     },
@@ -2594,6 +2626,36 @@
           "source": "spbu_events",
           "source_name": "СПбГУ",
           "url": "https://events.spbu.ru/balticpetromodel",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "03f0c454ea8d",
+      "title": "Международная конференция Науки о религии в зеркале современности. Памяти М. М. Шахнович",
+      "organizer": "Санкт-Петербургский государственный университет",
+      "disciplines": [
+        "Философия, этика, религиоведение"
+      ],
+      "event_start": "2026-10-22",
+      "event_end": "2026-10-23",
+      "submission_deadline": "2026-07-22",
+      "location": "Санкт-Петербург",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.9,
+      "field_flags": [
+        "title",
+        "disciplines",
+        "submission_deadline"
+      ],
+      "first_seen": "2026-07-23",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/konfrelig-2026",
           "published_date": null
         }
       ]
