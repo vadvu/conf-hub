@@ -1,8 +1,8 @@
 {
   "version": "0.21.0",
-  "generated_at": "2026-07-22T03:06:04+00:00",
+  "generated_at": "2026-07-23T00:30:06+00:00",
   "crawled_at": "2026-07-22T03:03:27+00:00",
-  "today": "2026-07-22",
+  "today": "2026-07-23",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -150,38 +150,6 @@
           "source": "spbu_events",
           "source_name": "СПбГУ",
           "url": "https://events.spbu.ru/calligraphy",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "5b50d2427ee9",
-      "title": "Международная летняя школа «Единорог будущего» / DU Lab Summer School",
-      "organizer": "Университет ИТМО",
-      "disciplines": [
-        "Компьютерные науки",
-        "Экономика и менеджмент"
-      ],
-      "event_start": "2026-08-10",
-      "event_end": "2026-08-19",
-      "submission_deadline": "2026-07-31",
-      "location": null,
-      "format": "онлайн",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "organizer",
-        "disciplines",
-        "official_url"
-      ],
-      "first_seen": "2026-07-16",
-      "status": "open",
-      "sources": [
-        {
-          "source": "itmo_events",
-          "source_name": "ИТМО",
-          "url": "https://news.itmo.ru/ru/announce/121860/",
           "published_date": null
         }
       ]
@@ -2140,35 +2108,6 @@
       ]
     },
     {
-      "id": "6df2580dbec3",
-      "title": "Всероссийская школа-съезд молодых учёных «Наука и технологии в СССР»",
-      "organizer": "Десятилетие науки и технологий, Центр истории российской науки и научно-технологического развития, центр знаний «Машук»",
-      "disciplines": [
-        "История и археология"
-      ],
-      "event_start": "2026-09-23",
-      "event_end": "2026-09-27",
-      "submission_deadline": "2026-06-15",
-      "location": "Машук",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.9,
-      "field_flags": [
-        "location",
-        "disciplines"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "rsuh",
-          "source_name": "РГГУ",
-          "url": "https://www.rsuh.ru/anons/v-rggu-anonsiruyut-vserossiyskuyu-shkolu-sezd-molodykh-uchyenykh-nauka-i-tekhnologii-v-sssr/",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "1e6621549279",
       "title": "III Всероссийская научная школа-конференция молодых учёных и студентов «Генетические технологии в исследованиях природных соединений»",
       "organizer": "Институт Мирового океана Дальневосточного федерального университета и Тихоокеанский институт биоорганической химии им. Г.Б. Елякова ДВО РАН",
@@ -2374,36 +2313,6 @@
           "source": "rsuh",
           "source_name": "РГГУ",
           "url": "https://www.rsuh.ru/anons/ezhegodnaya-vserossiyskaya-nauchnaya-konferentsiya-anakharsis/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "fd5538af08b6",
-      "title": "Летняя школа управления стратегическими коммуникациями",
-      "organizer": "Президентская академия и Центр знаний «Машук»",
-      "disciplines": [
-        "Политология и международные отношения (включая ГМУ)",
-        "Медиа и коммуникации"
-      ],
-      "event_start": "2026-07-21",
-      "event_end": "2026-07-24",
-      "submission_deadline": "2026-07-03",
-      "location": "Пятигорск",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.967,
-      "field_flags": [
-        "disciplines",
-        "format"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "ion_ranepa",
-          "source_name": "ИОН РАНХиГС",
-          "url": "https://ion.ranepa.ru/announcement/startoval-priyem-zayavok-na-letnyuyu-shkolu-upravleniya-strategicheskimi-kommunikatsiyami/",
           "published_date": null
         }
       ]
