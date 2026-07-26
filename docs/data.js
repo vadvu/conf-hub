@@ -1,8 +1,8 @@
 window.CONF_DATA = {
   "version": "0.21.0",
-  "generated_at": "2026-07-25T03:03:17+00:00",
-  "crawled_at": "2026-07-25T03:03:17+00:00",
-  "today": "2026-07-25",
+  "generated_at": "2026-07-26T05:01:47+00:00",
+  "crawled_at": "2026-07-26T05:01:46+00:00",
+  "today": "2026-07-26",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -90,70 +90,6 @@ window.CONF_DATA = {
     }
   ],
   "conferences": [
-    {
-      "id": "c3865872d90c",
-      "title": "II Международная научно-практическая конференция «Информационные технологии в сохранении и продвижении культурного наследия»",
-      "organizer": "НИУ ВШЭ в Санкт-Петербурге, Лаборатория управления культурой и туризмом",
-      "disciplines": [
-        "Компьютерные науки",
-        "Экономика и менеджмент",
-        "Медиа и коммуникации"
-      ],
-      "event_start": "2026-09-10",
-      "event_end": "2026-09-11",
-      "submission_deadline": "2026-07-25",
-      "location": "Санкт-Петербург",
-      "format": null,
-      "official_url": null,
-      "confidence": 0.9,
-      "field_flags": [
-        "title",
-        "organizer",
-        "disciplines",
-        "format",
-        "official_url"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "open",
-      "sources": [
-        {
-          "source": "hse_ann_sci",
-          "source_name": "НИУ ВШЭ",
-          "url": "https://cultecon.hse.ru/itheritageconf/2026/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "2a7d0fbdb101",
-      "title": "Каллиграфия памяти: арабистика между прошлым и будущим",
-      "organizer": "Восточный факультет Санкт-Петербургского государственного университета",
-      "disciplines": [
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-10-05",
-      "event_end": "2026-10-06",
-      "submission_deadline": "2026-07-25",
-      "location": "Санкт-Петербург",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "disciplines",
-        "format"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "open",
-      "sources": [
-        {
-          "source": "spbu_events",
-          "source_name": "СПбГУ",
-          "url": "https://events.spbu.ru/calligraphy",
-          "published_date": null
-        }
-      ]
-    },
     {
       "id": "e9dcba2f45b7",
       "title": "Международная молодёжная конференция «Культурно-языковое многообразие России в эпоху больших языковых моделей»",
@@ -2656,6 +2592,70 @@ window.CONF_DATA = {
           "source": "spbu_events",
           "source_name": "СПбГУ",
           "url": "https://events.spbu.ru/konfrelig-2026",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "c3865872d90c",
+      "title": "II Международная научно-практическая конференция «Информационные технологии в сохранении и продвижении культурного наследия»",
+      "organizer": "НИУ ВШЭ в Санкт-Петербурге, Лаборатория управления культурой и туризмом",
+      "disciplines": [
+        "Компьютерные науки",
+        "Экономика и менеджмент",
+        "Медиа и коммуникации"
+      ],
+      "event_start": "2026-09-10",
+      "event_end": "2026-09-11",
+      "submission_deadline": "2026-07-25",
+      "location": "Санкт-Петербург",
+      "format": null,
+      "official_url": null,
+      "confidence": 0.9,
+      "field_flags": [
+        "title",
+        "organizer",
+        "disciplines",
+        "format",
+        "official_url"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://cultecon.hse.ru/itheritageconf/2026/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "2a7d0fbdb101",
+      "title": "Каллиграфия памяти: арабистика между прошлым и будущим",
+      "organizer": "Восточный факультет Санкт-Петербургского государственного университета",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-10-05",
+      "event_end": "2026-10-06",
+      "submission_deadline": "2026-07-25",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/calligraphy",
           "published_date": null
         }
       ]
