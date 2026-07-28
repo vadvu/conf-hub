@@ -1,8 +1,8 @@
 {
   "version": "0.21.0",
-  "generated_at": "2026-07-27T05:19:14+00:00",
-  "crawled_at": "2026-07-27T05:00:16+00:00",
-  "today": "2026-07-27",
+  "generated_at": "2026-07-28T03:05:10+00:00",
+  "crawled_at": "2026-07-28T03:03:54+00:00",
+  "today": "2026-07-28",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -971,6 +971,36 @@
           "source_name": "ЕУСПб",
           "url": "https://eusp.org/news/start-priema-zayavok-vserossiyskaya-konferenciya-znanie-sila-ot-velikogo-vosstanovleniya-nauk-k-arkheologii-znaniya-0",
           "published_date": "2026-07-06"
+        }
+      ]
+    },
+    {
+      "id": "9cdd235c4412",
+      "title": "VII Всероссийский демографический форум",
+      "organizer": "Институт социальной демографии ФНИСЦ РАН, Научный совет РАН «Демографическое развитие и демографическая политика Российской Федерации»",
+      "disciplines": [
+        "Социология (включая демографию и антропологию)"
+      ],
+      "event_start": "2026-12-08",
+      "event_end": "2026-12-09",
+      "submission_deadline": "2026-09-15",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines",
+        "format",
+        "official_url"
+      ],
+      "first_seen": "2026-07-28",
+      "status": "open",
+      "sources": [
+        {
+          "source": "ras_events",
+          "source_name": "РАН",
+          "url": "https://new.ras.ru/press-center/events-additional/vii-vserossiyskiy-demograficheskiy-forum-/",
+          "published_date": null
         }
       ]
     },
