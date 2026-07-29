@@ -1,8 +1,8 @@
 window.CONF_DATA = {
   "version": "0.21.0",
-  "generated_at": "2026-07-28T03:05:10+00:00",
-  "crawled_at": "2026-07-28T03:03:54+00:00",
-  "today": "2026-07-28",
+  "generated_at": "2026-07-29T03:04:05+00:00",
+  "crawled_at": "2026-07-29T03:03:22+00:00",
+  "today": "2026-07-29",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -1538,6 +1538,35 @@ window.CONF_DATA = {
           "source": "hse_ann_sci",
           "source_name": "НИУ ВШЭ",
           "url": "https://economics.hse.ru/esgconference/announcements/1166068933.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "b3feed14146f",
+      "title": "Славянская взаимность в ХХ веке: К 80-летию проведения Славянского конгресса в Белграде в 1946 г.",
+      "organizer": "Санкт-Петербургский государственный университет",
+      "disciplines": [
+        "История и археология"
+      ],
+      "event_start": "2026-12-08",
+      "event_end": "2026-12-08",
+      "submission_deadline": "2026-10-18",
+      "location": "Санкт-Петербург",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines",
+        "event_end"
+      ],
+      "first_seen": "2026-07-29",
+      "status": "open",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/slav_congress",
           "published_date": null
         }
       ]
