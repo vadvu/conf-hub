@@ -1,8 +1,8 @@
 window.CONF_DATA = {
   "version": "0.21.0",
-  "generated_at": "2026-07-30T03:04:12+00:00",
-  "crawled_at": "2026-07-30T03:03:33+00:00",
-  "today": "2026-07-30",
+  "generated_at": "2026-07-31T03:04:46+00:00",
+  "crawled_at": "2026-07-31T03:03:31+00:00",
+  "today": "2026-07-31",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -331,6 +331,37 @@ window.CONF_DATA = {
           "source_name": "ЕУСПб",
           "url": "https://eusp.org/news/nauchnaya-konferenciya-po-tu-storonu-istochnika-emicheskiy-podkhod-v-socialno-gumanitarnykh-naukakh",
           "published_date": "2026-06-23"
+        }
+      ]
+    },
+    {
+      "id": "1b898a9d6891",
+      "title": "Школа-конференция по технологиям магнитно-резонансной томографии 2026",
+      "organizer": "Университет ИТМО",
+      "disciplines": [
+        "Физика",
+        "Электроника и электротехника"
+      ],
+      "event_start": "2026-09-21",
+      "event_end": "2026-09-25",
+      "submission_deadline": "2026-08-23",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "organizer",
+        "disciplines",
+        "official_url"
+      ],
+      "first_seen": "2026-07-31",
+      "status": "open",
+      "sources": [
+        {
+          "source": "itmo_events",
+          "source_name": "ИТМО",
+          "url": "https://news.itmo.ru/ru/announce/121921/",
+          "published_date": null
         }
       ]
     },
