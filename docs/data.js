@@ -1,8 +1,8 @@
 window.CONF_DATA = {
   "version": "0.21.0",
-  "generated_at": "2026-07-31T03:04:46+00:00",
-  "crawled_at": "2026-07-31T03:03:31+00:00",
-  "today": "2026-07-31",
+  "generated_at": "2026-08-01T03:03:54+00:00",
+  "crawled_at": "2026-08-01T03:03:31+00:00",
+  "today": "2026-08-01",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -90,65 +90,6 @@ window.CONF_DATA = {
     }
   ],
   "conferences": [
-    {
-      "id": "e9dcba2f45b7",
-      "title": "Международная молодёжная конференция «Культурно-языковое многообразие России в эпоху больших языковых моделей»",
-      "organizer": "Московский государственный университет имени М.В. Ломоносова, Институт языкознания РАН, Российская академия образования",
-      "disciplines": [
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-09-08",
-      "event_end": "2026-09-09",
-      "submission_deadline": "2026-07-31",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": "https://lomonosov-msu.ru/rus/event/10346/",
-      "confidence": 0.95,
-      "field_flags": [
-        "title",
-        "organizer",
-        "location",
-        "disciplines"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "open",
-      "sources": [
-        {
-          "source": "msu_events",
-          "source_name": "МГУ",
-          "url": "https://conf.msu.ru/rus/event/10346/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "06dab93b6dab",
-      "title": "Международная научная конференция, посвященная 90-летию Эммы Михайловны Жиляковой",
-      "organizer": "кафедра русской и зарубежной литературы филологического факультета ТГУ",
-      "disciplines": [
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-09-23",
-      "event_end": "2026-09-25",
-      "submission_deadline": "2026-07-31",
-      "location": "Томск",
-      "format": "гибрид",
-      "official_url": "https://conference.tsu.ru/in-honor-of-em-zhilyakova/",
-      "confidence": 0.95,
-      "field_flags": [
-        "title"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "open",
-      "sources": [
-        {
-          "source": "tsu",
-          "source_name": "ТГУ",
-          "url": "https://news.tsu.ru/calendar-of-events/23-25-sentyabrya-konferentsiya-k-90-letiyu-emmy-mikhaylovny-zhilyakovoy/",
-          "published_date": null
-        }
-      ]
-    },
     {
       "id": "b7e3e4150298",
       "title": "V Международный конгресс по цвету",
@@ -2746,6 +2687,65 @@ window.CONF_DATA = {
           "source": "spbu_events",
           "source_name": "СПбГУ",
           "url": "https://events.spbu.ru/calligraphy",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "e9dcba2f45b7",
+      "title": "Международная молодёжная конференция «Культурно-языковое многообразие России в эпоху больших языковых моделей»",
+      "organizer": "Московский государственный университет имени М.В. Ломоносова, Институт языкознания РАН, Российская академия образования",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-09-08",
+      "event_end": "2026-09-09",
+      "submission_deadline": "2026-07-31",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": "https://lomonosov-msu.ru/rus/event/10346/",
+      "confidence": 0.95,
+      "field_flags": [
+        "title",
+        "organizer",
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "msu_events",
+          "source_name": "МГУ",
+          "url": "https://conf.msu.ru/rus/event/10346/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "06dab93b6dab",
+      "title": "Международная научная конференция, посвященная 90-летию Эммы Михайловны Жиляковой",
+      "organizer": "кафедра русской и зарубежной литературы филологического факультета ТГУ",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-09-23",
+      "event_end": "2026-09-25",
+      "submission_deadline": "2026-07-31",
+      "location": "Томск",
+      "format": "гибрид",
+      "official_url": "https://conference.tsu.ru/in-honor-of-em-zhilyakova/",
+      "confidence": 0.95,
+      "field_flags": [
+        "title"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "tsu",
+          "source_name": "ТГУ",
+          "url": "https://news.tsu.ru/calendar-of-events/23-25-sentyabrya-konferentsiya-k-90-letiyu-emmy-mikhaylovny-zhilyakovoy/",
           "published_date": null
         }
       ]
