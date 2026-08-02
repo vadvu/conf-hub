@@ -1,8 +1,8 @@
 window.CONF_DATA = {
   "version": "0.21.0",
-  "generated_at": "2026-08-01T03:03:54+00:00",
-  "crawled_at": "2026-08-01T03:03:31+00:00",
-  "today": "2026-08-01",
+  "generated_at": "2026-08-02T03:03:22+00:00",
+  "crawled_at": "2026-08-02T03:03:21+00:00",
+  "today": "2026-08-02",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -90,66 +90,6 @@ window.CONF_DATA = {
     }
   ],
   "conferences": [
-    {
-      "id": "b7e3e4150298",
-      "title": "V Международный конгресс по цвету",
-      "organizer": "Российская академия художеств, ИНИОН РАН, Смоленский государственный университет",
-      "disciplines": [
-        "Социология (включая демографию и антропологию)",
-        "Филология и лингвистика",
-        "Философия, этика, религиоведение"
-      ],
-      "event_start": "2026-09-21",
-      "event_end": "2026-09-25",
-      "submission_deadline": "2026-08-01",
-      "location": "Смоленск, Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "disciplines",
-        "format"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "open",
-      "sources": [
-        {
-          "source": "inion",
-          "source_name": "ИНИОН РАН",
-          "url": "https://inion.ru/ru/about/news/v-mezhdunarodnyi-kongress-po-tcvetu-informatcionnoe-pis-mo/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "c646b6629d39",
-      "title": "Права оригинала и права переводчика: что переводчик вправе сделать с текстом?",
-      "organizer": "Кафедра истории и теории литературы историко-филологического факультета ИОН РАНХиГС совместно с лабораторией историко-литературных исследований Школы актуальных гуманитарных исследований ИОН РАНХиГС",
-      "disciplines": [
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-10-10",
-      "event_end": "2026-10-10",
-      "submission_deadline": "2026-08-01",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.95,
-      "field_flags": [
-        "organizer",
-        "location"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "open",
-      "sources": [
-        {
-          "source": "ion_ranepa",
-          "source_name": "ИОН РАНХиГС",
-          "url": "https://ion.ranepa.ru/announcement/10-oktyabrya-proydyet-studencheskaya-konferentsiya-prava-originala-i-prava-perevodchika-chto-perevod/",
-          "published_date": null
-        }
-      ]
-    },
     {
       "id": "4cfceb95ba2e",
       "title": "XIII Российский форум биотехнологий OpenBio",
@@ -2746,6 +2686,66 @@ window.CONF_DATA = {
           "source": "tsu",
           "source_name": "ТГУ",
           "url": "https://news.tsu.ru/calendar-of-events/23-25-sentyabrya-konferentsiya-k-90-letiyu-emmy-mikhaylovny-zhilyakovoy/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "b7e3e4150298",
+      "title": "V Международный конгресс по цвету",
+      "organizer": "Российская академия художеств, ИНИОН РАН, Смоленский государственный университет",
+      "disciplines": [
+        "Социология (включая демографию и антропологию)",
+        "Филология и лингвистика",
+        "Философия, этика, религиоведение"
+      ],
+      "event_start": "2026-09-21",
+      "event_end": "2026-09-25",
+      "submission_deadline": "2026-08-01",
+      "location": "Смоленск, Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "inion",
+          "source_name": "ИНИОН РАН",
+          "url": "https://inion.ru/ru/about/news/v-mezhdunarodnyi-kongress-po-tcvetu-informatcionnoe-pis-mo/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "c646b6629d39",
+      "title": "Права оригинала и права переводчика: что переводчик вправе сделать с текстом?",
+      "organizer": "Кафедра истории и теории литературы историко-филологического факультета ИОН РАНХиГС совместно с лабораторией историко-литературных исследований Школы актуальных гуманитарных исследований ИОН РАНХиГС",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-10-10",
+      "event_end": "2026-10-10",
+      "submission_deadline": "2026-08-01",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.95,
+      "field_flags": [
+        "organizer",
+        "location"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "ion_ranepa",
+          "source_name": "ИОН РАНХиГС",
+          "url": "https://ion.ranepa.ru/announcement/10-oktyabrya-proydyet-studencheskaya-konferentsiya-prava-originala-i-prava-perevodchika-chto-perevod/",
           "published_date": null
         }
       ]
