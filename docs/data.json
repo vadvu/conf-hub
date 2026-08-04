@@ -1,8 +1,8 @@
 {
   "version": "0.21.0",
-  "generated_at": "2026-08-03T04:47:17+00:00",
-  "crawled_at": "2026-08-03T04:47:17+00:00",
-  "today": "2026-08-03",
+  "generated_at": "2026-08-04T05:29:51+00:00",
+  "crawled_at": "2026-08-04T05:11:15+00:00",
+  "today": "2026-08-04",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -90,37 +90,6 @@
     }
   ],
   "conferences": [
-    {
-      "id": "4cfceb95ba2e",
-      "title": "XIII Российский форум биотехнологий OpenBio",
-      "organizer": "МФТИ",
-      "disciplines": [
-        "Биология",
-        "Фундаментальная медицина (включая нейронауки)"
-      ],
-      "event_start": "2026-09-22",
-      "event_end": "2026-09-25",
-      "submission_deadline": "2026-08-03",
-      "location": "Кольцово",
-      "format": null,
-      "official_url": "https://openbio.ru",
-      "confidence": 0.95,
-      "field_flags": [
-        "disciplines",
-        "format",
-        "official_url"
-      ],
-      "first_seen": "2026-07-14",
-      "status": "open",
-      "sources": [
-        {
-          "source": "mipt_events",
-          "source_name": "МФТИ",
-          "url": "https://mipt.ru/institute/events/priem-tezisov-na-nauchnuyu-konferentsiyu-xiii-rossiyskogo-foruma-biotekhnologiy-openbio",
-          "published_date": "2026-06-09"
-        }
-      ]
-    },
     {
       "id": "febe81e7edcb",
       "title": "XVII международная конференция «Философия, культура, ценности в современном мире»",
@@ -2747,6 +2716,37 @@
           "source_name": "ИОН РАНХиГС",
           "url": "https://ion.ranepa.ru/announcement/10-oktyabrya-proydyet-studencheskaya-konferentsiya-prava-originala-i-prava-perevodchika-chto-perevod/",
           "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "4cfceb95ba2e",
+      "title": "XIII Российский форум биотехнологий OpenBio",
+      "organizer": "МФТИ",
+      "disciplines": [
+        "Биология",
+        "Фундаментальная медицина (включая нейронауки)"
+      ],
+      "event_start": "2026-09-22",
+      "event_end": "2026-09-25",
+      "submission_deadline": "2026-08-03",
+      "location": "Кольцово",
+      "format": null,
+      "official_url": "https://openbio.ru",
+      "confidence": 0.95,
+      "field_flags": [
+        "disciplines",
+        "format",
+        "official_url"
+      ],
+      "first_seen": "2026-07-14",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "mipt_events",
+          "source_name": "МФТИ",
+          "url": "https://mipt.ru/institute/events/priem-tezisov-na-nauchnuyu-konferentsiyu-xiii-rossiyskogo-foruma-biotekhnologiy-openbio",
+          "published_date": "2026-06-09"
         }
       ]
     },
