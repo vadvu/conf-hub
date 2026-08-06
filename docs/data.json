@@ -1,8 +1,8 @@
 {
   "version": "0.21.0",
-  "generated_at": "2026-08-05T03:04:01+00:00",
-  "crawled_at": "2026-08-05T03:03:10+00:00",
-  "today": "2026-08-05",
+  "generated_at": "2026-08-06T03:04:44+00:00",
+  "crawled_at": "2026-08-06T03:03:39+00:00",
+  "today": "2026-08-06",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -91,38 +91,6 @@
   ],
   "conferences": [
     {
-      "id": "febe81e7edcb",
-      "title": "XVII международная конференция «Философия, культура, ценности в современном мире»",
-      "organizer": "Школа философии и культурологии ФГН НИУ ВШЭ",
-      "disciplines": [
-        "Социология (включая демографию и антропологию)",
-        "Медиа и коммуникации",
-        "Философия, этика, религиоведение"
-      ],
-      "event_start": "2026-10-26",
-      "event_end": "2026-10-27",
-      "submission_deadline": "2026-08-05",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "disciplines",
-        "submission_deadline"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "open",
-      "sources": [
-        {
-          "source": "hse_ann_sci",
-          "source_name": "НИУ ВШЭ",
-          "url": "https://hum.hse.ru/announcements/1136946780.html",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "6544b17b6d1e",
       "title": "Региональные этнологические исследования: Северо-Западное измерение",
       "organizer": "Лаборатория региональных этнологических исследований ФГН НИУ ВШЭ",
@@ -149,6 +117,37 @@
           "source_name": "НИУ ВШЭ",
           "url": "https://hum.hse.ru/lrei/announcements/1175064805.html",
           "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "89cb7216b979",
+      "title": "Всероссийская молодежная конференция «Сохраняя наследие: язык, история, культура»",
+      "organizer": "Российское военно-историческое общество в Республике Татарстан, Институт археологии Российской академии наук (ИА РАН), Институт языкознания РАН (ИЯз РАН), Институт этнологии и антропологии Российской академии наук (ИЭА РАН)",
+      "disciplines": [
+        "Социология (включая демографию и антропологию)",
+        "История и археология",
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-09-15",
+      "event_end": "2026-09-16",
+      "submission_deadline": "2026-08-20",
+      "location": "Казань",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-08-06",
+      "status": "open",
+      "sources": [
+        {
+          "source": "iea_ras",
+          "source_name": "ИЭА РАН",
+          "url": "https://iea-ras.ru/?p=22257",
+          "published_date": "2026-08-06"
         }
       ]
     },
@@ -2780,6 +2779,38 @@
           "source_name": "МФТИ",
           "url": "https://mipt.ru/institute/events/priem-tezisov-na-nauchnuyu-konferentsiyu-xiii-rossiyskogo-foruma-biotekhnologiy-openbio",
           "published_date": "2026-06-09"
+        }
+      ]
+    },
+    {
+      "id": "febe81e7edcb",
+      "title": "XVII международная конференция «Философия, культура, ценности в современном мире»",
+      "organizer": "Школа философии и культурологии ФГН НИУ ВШЭ",
+      "disciplines": [
+        "Социология (включая демографию и антропологию)",
+        "Медиа и коммуникации",
+        "Философия, этика, религиоведение"
+      ],
+      "event_start": "2026-10-26",
+      "event_end": "2026-10-27",
+      "submission_deadline": "2026-08-05",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "disciplines",
+        "submission_deadline"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://hum.hse.ru/announcements/1136946780.html",
+          "published_date": null
         }
       ]
     },
