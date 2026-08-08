@@ -1,8 +1,8 @@
 window.CONF_DATA = {
   "version": "0.21.0",
-  "generated_at": "2026-08-07T03:03:43+00:00",
-  "crawled_at": "2026-08-07T03:03:26+00:00",
-  "today": "2026-08-07",
+  "generated_at": "2026-08-08T03:05:22+00:00",
+  "crawled_at": "2026-08-08T03:03:51+00:00",
+  "today": "2026-08-08",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -851,6 +851,38 @@ window.CONF_DATA = {
           "source_name": "ЕУСПб",
           "url": "https://eusp.org/news/start-priema-zayavok-vserossiyskaya-konferenciya-znanie-sila-ot-velikogo-vosstanovleniya-nauk-k-arkheologii-znaniya-0",
           "published_date": "2026-07-06"
+        }
+      ]
+    },
+    {
+      "id": "b2688bc507d2",
+      "title": "Междисциплинарный форум «Искусственный интеллект в исследованиях голоса и речи»",
+      "organizer": "СПбГУ",
+      "disciplines": [
+        "Компьютерные науки",
+        "Психология",
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-12-03",
+      "event_end": "2026-12-05",
+      "submission_deadline": "2026-09-15",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.9,
+      "field_flags": [
+        "organizer",
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-08-08",
+      "status": "open",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/voice_ai",
+          "published_date": null
         }
       ]
     },
