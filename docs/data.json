@@ -1,8 +1,8 @@
 {
   "version": "0.21.0",
-  "generated_at": "2026-08-11T05:08:18+00:00",
-  "crawled_at": "2026-08-11T05:08:17+00:00",
-  "today": "2026-08-11",
+  "generated_at": "2026-08-12T03:04:30+00:00",
+  "crawled_at": "2026-08-12T03:03:31+00:00",
+  "today": "2026-08-12",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -210,6 +210,38 @@
           "source": "itmo_events",
           "source_name": "ИТМО",
           "url": "https://news.itmo.ru/ru/announce/121921/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "50988090b199",
+      "title": "Школа молодого востоковеда МГИМО — ИВ РАН",
+      "organizer": "МГИМО — ИВ РАН",
+      "disciplines": [
+        "Экономика и менеджмент",
+        "Социология (включая демографию и антропологию)",
+        "Политология и международные отношения (включая ГМУ)"
+      ],
+      "event_start": "2026-09-20",
+      "event_end": "2026-09-26",
+      "submission_deadline": "2026-08-24",
+      "location": "Астана (Республика Казахстан)",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.967,
+      "field_flags": [
+        "title",
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-08-12",
+      "status": "open",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/vi-young-orientalist-school/",
           "published_date": null
         }
       ]
