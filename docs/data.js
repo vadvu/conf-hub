@@ -1,8 +1,8 @@
 window.CONF_DATA = {
   "version": "0.21.0",
-  "generated_at": "2026-08-12T03:04:30+00:00",
-  "crawled_at": "2026-08-12T03:03:31+00:00",
-  "today": "2026-08-12",
+  "generated_at": "2026-08-13T03:01:57+00:00",
+  "crawled_at": "2026-08-13T03:01:02+00:00",
+  "today": "2026-08-13",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -1733,6 +1733,34 @@ window.CONF_DATA = {
           "source": "msu_events",
           "source_name": "МГУ",
           "url": "https://conf.msu.ru/rus/event/10349/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "4d2dd4605d40",
+      "title": "ХVII международная конференция «Африка: восстановление исторической справедливости и достижение подлинного суверенитета»",
+      "organizer": "Институт Африки Российской академии наук и Министерство науки и высшего образования Российской Федерации",
+      "disciplines": [
+        "Политология и международные отношения (включая ГМУ)"
+      ],
+      "event_start": "2027-05-26",
+      "event_end": "2027-05-27",
+      "submission_deadline": "2026-12-30",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-08-13",
+      "status": "open",
+      "sources": [
+        {
+          "source": "ras_events",
+          "source_name": "РАН",
+          "url": "https://new.ras.ru/press-center/events-additional/khvii-mezhdunarodnaya-konferentsiya-afrika-vosstanovlenie-istoricheskoy-spravedlivosti-i-dostizhenie/",
           "published_date": null
         }
       ]
