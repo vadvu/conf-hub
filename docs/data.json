@@ -1,8 +1,8 @@
 {
   "version": "0.21.0",
-  "generated_at": "2026-08-13T03:01:57+00:00",
-  "crawled_at": "2026-08-13T03:01:02+00:00",
-  "today": "2026-08-13",
+  "generated_at": "2026-08-14T03:02:18+00:00",
+  "crawled_at": "2026-08-14T03:00:55+00:00",
+  "today": "2026-08-14",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -90,6 +90,40 @@
     }
   ],
   "conferences": [
+    {
+      "id": "5ac67e2b0281",
+      "title": "V Школа молодого востоковеда МГИМО — ИВ РАН",
+      "organizer": "МГИМО — ИВ РАН",
+      "disciplines": [
+        "Политология и международные отношения (включая ГМУ)",
+        "История и археология",
+        "Филология и лингвистика",
+        "Искусствоведение"
+      ],
+      "event_start": "2026-09-06",
+      "event_end": "2026-09-12",
+      "submission_deadline": "2026-08-14",
+      "location": "Ташкент",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.9,
+      "field_flags": [
+        "title",
+        "location",
+        "disciplines",
+        "submission_deadline"
+      ],
+      "first_seen": "2026-08-14",
+      "status": "open",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/v-young-orientalist-school/",
+          "published_date": null
+        }
+      ]
+    },
     {
       "id": "6544b17b6d1e",
       "title": "Региональные этнологические исследования: Северо-Западное измерение",
@@ -1003,6 +1037,38 @@
           "source": "iling_ras",
           "source_name": "ИЛИ РАН",
           "url": "https://iling.spb.ru/conferences/2026/5002",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "4cab35fb8025",
+      "title": "IX международная конференция «Еврейское поле: новые открытия, опыт и концептуализация»",
+      "organizer": "Факультет гуманитарных наук НИУ ВШЭ, Еврейский музей и центр толерантности",
+      "disciplines": [
+        "Социология (включая демографию и антропологию)",
+        "История и археология",
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-11-24",
+      "event_end": "2026-11-26",
+      "submission_deadline": "2026-09-22",
+      "location": null,
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.85,
+      "field_flags": [
+        "organizer",
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-08-14",
+      "status": "open",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://hum.hse.ru/announcements/1189063893.html",
           "published_date": null
         }
       ]
