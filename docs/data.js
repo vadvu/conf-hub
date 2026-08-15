@@ -1,8 +1,8 @@
 window.CONF_DATA = {
   "version": "0.21.0",
-  "generated_at": "2026-08-14T03:02:18+00:00",
-  "crawled_at": "2026-08-14T03:00:55+00:00",
-  "today": "2026-08-14",
+  "generated_at": "2026-08-15T03:02:22+00:00",
+  "crawled_at": "2026-08-15T03:01:15+00:00",
+  "today": "2026-08-15",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -90,40 +90,6 @@ window.CONF_DATA = {
     }
   ],
   "conferences": [
-    {
-      "id": "5ac67e2b0281",
-      "title": "V Школа молодого востоковеда МГИМО — ИВ РАН",
-      "organizer": "МГИМО — ИВ РАН",
-      "disciplines": [
-        "Политология и международные отношения (включая ГМУ)",
-        "История и археология",
-        "Филология и лингвистика",
-        "Искусствоведение"
-      ],
-      "event_start": "2026-09-06",
-      "event_end": "2026-09-12",
-      "submission_deadline": "2026-08-14",
-      "location": "Ташкент",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.9,
-      "field_flags": [
-        "title",
-        "location",
-        "disciplines",
-        "submission_deadline"
-      ],
-      "first_seen": "2026-08-14",
-      "status": "open",
-      "sources": [
-        {
-          "source": "mgimo_ann",
-          "source_name": "МГИМО",
-          "url": "https://mgimo.ru/about/news/announce/v-young-orientalist-school/",
-          "published_date": null
-        }
-      ]
-    },
     {
       "id": "6544b17b6d1e",
       "title": "Региональные этнологические исследования: Северо-Западное измерение",
@@ -1494,6 +1460,35 @@ window.CONF_DATA = {
           "source": "hse_ann_sci",
           "source_name": "НИУ ВШЭ",
           "url": "https://cs.hse.ru/ml2026/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "c2fe1be8a798",
+      "title": "Воркшоп «Наука о госзакупках»",
+      "organizer": "Высшая школа экономики",
+      "disciplines": [
+        "Экономика и менеджмент"
+      ],
+      "event_start": "2026-11-19",
+      "event_end": "2026-11-21",
+      "submission_deadline": "2026-10-15",
+      "location": "Пермь",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.917,
+      "field_flags": [
+        "title",
+        "disciplines"
+      ],
+      "first_seen": "2026-08-15",
+      "status": "open",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://perm.hse.ru/scienceperm/announcements/1189641794.html",
           "published_date": null
         }
       ]
@@ -2968,6 +2963,40 @@ window.CONF_DATA = {
           "source": "hse_ann_sci",
           "source_name": "НИУ ВШЭ",
           "url": "https://hum.hse.ru/announcements/1136946780.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "5ac67e2b0281",
+      "title": "V Школа молодого востоковеда МГИМО — ИВ РАН",
+      "organizer": "МГИМО — ИВ РАН",
+      "disciplines": [
+        "Политология и международные отношения (включая ГМУ)",
+        "История и археология",
+        "Филология и лингвистика",
+        "Искусствоведение"
+      ],
+      "event_start": "2026-09-06",
+      "event_end": "2026-09-12",
+      "submission_deadline": "2026-08-14",
+      "location": "Ташкент",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.9,
+      "field_flags": [
+        "title",
+        "location",
+        "disciplines",
+        "submission_deadline"
+      ],
+      "first_seen": "2026-08-14",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/v-young-orientalist-school/",
           "published_date": null
         }
       ]
