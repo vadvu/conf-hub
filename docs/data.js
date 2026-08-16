@@ -1,8 +1,8 @@
 window.CONF_DATA = {
   "version": "0.21.0",
-  "generated_at": "2026-08-15T03:02:22+00:00",
-  "crawled_at": "2026-08-15T03:01:15+00:00",
-  "today": "2026-08-15",
+  "generated_at": "2026-08-16T03:00:50+00:00",
+  "crawled_at": "2026-08-16T03:00:50+00:00",
+  "today": "2026-08-16",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -90,36 +90,6 @@ window.CONF_DATA = {
     }
   ],
   "conferences": [
-    {
-      "id": "6544b17b6d1e",
-      "title": "Региональные этнологические исследования: Северо-Западное измерение",
-      "organizer": "Лаборатория региональных этнологических исследований ФГН НИУ ВШЭ",
-      "disciplines": [
-        "История и археология",
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-10-07",
-      "event_end": "2026-10-08",
-      "submission_deadline": "2026-08-15",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": "https://forms.yandex.ru/u/6a21a86902848f8e4fe44ef2",
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "disciplines"
-      ],
-      "first_seen": "2026-07-22",
-      "status": "open",
-      "sources": [
-        {
-          "source": "hse_ann_sci",
-          "source_name": "НИУ ВШЭ",
-          "url": "https://hum.hse.ru/lrei/announcements/1175064805.html",
-          "published_date": null
-        }
-      ]
-    },
     {
       "id": "89cb7216b979",
       "title": "Всероссийская молодежная конференция «Сохраняя наследие: язык, история, культура»",
@@ -2997,6 +2967,36 @@ window.CONF_DATA = {
           "source": "mgimo_ann",
           "source_name": "МГИМО",
           "url": "https://mgimo.ru/about/news/announce/v-young-orientalist-school/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "6544b17b6d1e",
+      "title": "Региональные этнологические исследования: Северо-Западное измерение",
+      "organizer": "Лаборатория региональных этнологических исследований ФГН НИУ ВШЭ",
+      "disciplines": [
+        "История и археология",
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-10-07",
+      "event_end": "2026-10-08",
+      "submission_deadline": "2026-08-15",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": "https://forms.yandex.ru/u/6a21a86902848f8e4fe44ef2",
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "disciplines"
+      ],
+      "first_seen": "2026-07-22",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://hum.hse.ru/lrei/announcements/1175064805.html",
           "published_date": null
         }
       ]
