@@ -1,8 +1,8 @@
 window.CONF_DATA = {
   "version": "0.21.0",
-  "generated_at": "2026-08-17T03:01:40+00:00",
-  "crawled_at": "2026-08-17T03:01:08+00:00",
-  "today": "2026-08-17",
+  "generated_at": "2026-08-18T03:02:19+00:00",
+  "crawled_at": "2026-08-18T03:00:58+00:00",
+  "today": "2026-08-18",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -302,6 +302,38 @@ window.CONF_DATA = {
           "source": "hse_ann_sci",
           "source_name": "НИУ ВШЭ",
           "url": "https://ioe.hse.ru/announcements/1175011765.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "1d8a32dda381",
+      "title": "Язык ИИ мозг",
+      "organizer": "Центр языка и мозга НИУ ВШЭ",
+      "disciplines": [
+        "Фундаментальная медицина (включая нейронауки)",
+        "Психология",
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-09-24",
+      "event_end": "2026-09-24",
+      "submission_deadline": "2026-09-01",
+      "location": "Нижний Новгород",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.883,
+      "field_flags": [
+        "organizer",
+        "disciplines",
+        "submission_deadline"
+      ],
+      "first_seen": "2026-08-18",
+      "status": "open",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://nnov.hse.ru/human/neurolingcentre/announcements/1190663493.html",
           "published_date": null
         }
       ]
@@ -1337,6 +1369,35 @@ window.CONF_DATA = {
           "source": "spbu_events",
           "source_name": "СПбГУ",
           "url": "https://events.spbu.ru/kurbatov-2026",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "d7e9c3efe6ef",
+      "title": "Четвертый международный Петербургский исторический форум",
+      "organizer": "Санкт-Петербургский государственный университет",
+      "disciplines": [
+        "История и археология"
+      ],
+      "event_start": "2027-10-10",
+      "event_end": "2027-10-17",
+      "submission_deadline": "2026-10-01",
+      "location": "Санкт-Петербург",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-08-18",
+      "status": "open",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/pif_2027",
           "published_date": null
         }
       ]
