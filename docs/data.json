@@ -1,8 +1,8 @@
 {
   "version": "0.21.0",
-  "generated_at": "2026-08-18T03:02:19+00:00",
-  "crawled_at": "2026-08-18T03:00:58+00:00",
-  "today": "2026-08-18",
+  "generated_at": "2026-08-19T03:03:55+00:00",
+  "crawled_at": "2026-08-19T03:01:06+00:00",
+  "today": "2026-08-19",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -461,6 +461,36 @@
       ]
     },
     {
+      "id": "f40450c1b951",
+      "title": "Отражение или искажение? Проблема подлинности в текстах и исследованиях светской и религиозной культуры",
+      "organizer": "Школа актуальных гуманитарных исследований Института общественных наук Президентской академии и Институт истории религий и духовной культуры Российского государственного гуманитарного университета",
+      "disciplines": [
+        "История и археология",
+        "Филология и лингвистика",
+        "Философия, этика, религиоведение"
+      ],
+      "event_start": "2026-11-09",
+      "event_end": "2026-11-10",
+      "submission_deadline": "2026-09-01",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.9,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-08-19",
+      "status": "open",
+      "sources": [
+        {
+          "source": "ion_ranepa",
+          "source_name": "ИОН РАНХиГС",
+          "url": "https://ion.ranepa.ru/announcement/9-10-noyabrya-sostoitsya-nauchnaya-konferentsiya-otrazhenie-ili-iskazhenie-problema-podlinnosti-v-te/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "3ed59fa0d2ef",
       "title": "Шестая конференция по уральским, алтайским и палеоазиатским языкам",
       "organizer": "Институт лингвистических исследований РАН",
@@ -666,6 +696,38 @@
           "source_name": "ЕУСПб",
           "url": "https://eusp.org/news/start-priema-zayavok-vi-ezhegodnaya-nauchnaya-konferenciya-upravlenie-i-upravlyaemost-v-rossiyskoy-imperii-xviii-nachala-xx-veka",
           "published_date": "2026-06-26"
+        }
+      ]
+    },
+    {
+      "id": "e0c673d0b62e",
+      "title": "Институты публичной власти в Российской Федерации: история и современность",
+      "organizer": "Исторический факультет",
+      "disciplines": [
+        "Политология и международные отношения (включая ГМУ)",
+        "История и археология"
+      ],
+      "event_start": "2026-10-15",
+      "event_end": "2026-10-15",
+      "submission_deadline": "2026-09-12",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": "https://forms.yandex.ru/u/6a0c4cd249af47364a2158ae",
+      "confidence": 0.967,
+      "field_flags": [
+        "title",
+        "organizer",
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-08-19",
+      "status": "open",
+      "sources": [
+        {
+          "source": "rsuh",
+          "source_name": "РГГУ",
+          "url": "https://www.rsuh.ru/anons/mezhdunarodnaya-nauchno-prakticheskaya-konferentsiya-instituty-publichnoy-vlasti-v-rossiyskoy-federatsii-istoriya-i-sovremennost/",
+          "published_date": null
         }
       ]
     },
@@ -1550,6 +1612,35 @@
           "source_name": "ЦенСИБ НИУ ВШЭ",
           "url": "https://lcsr.hse.ru/news/1170484895.html",
           "published_date": "2026-06-17"
+        }
+      ]
+    },
+    {
+      "id": "b244afcfbc40",
+      "title": "Актуальные проблемы стоматологии",
+      "organizer": "Медицинский институт СПбГУ",
+      "disciplines": [],
+      "event_start": "2026-12-04",
+      "event_end": "2026-12-04",
+      "submission_deadline": "2026-10-15",
+      "location": "Санкт-Петербург",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "organizer",
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-08-19",
+      "status": "open",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/stoma",
+          "published_date": null
         }
       ]
     },
@@ -2564,6 +2655,12 @@
           "source_name": "ИЭА РАН",
           "url": "https://iea-ras.ru/?p=21684",
           "published_date": "2026-05-21"
+        },
+        {
+          "source": "iea_ras",
+          "source_name": "ИЭА РАН",
+          "url": "https://iea-ras.ru/?p=22297",
+          "published_date": "2026-08-18"
         }
       ]
     },
