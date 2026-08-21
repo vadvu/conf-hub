@@ -1,8 +1,8 @@
 {
   "version": "0.21.0",
-  "generated_at": "2026-08-20T03:01:49+00:00",
-  "crawled_at": "2026-08-20T03:01:07+00:00",
-  "today": "2026-08-20",
+  "generated_at": "2026-08-21T03:02:41+00:00",
+  "crawled_at": "2026-08-21T03:01:30+00:00",
+  "today": "2026-08-21",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -90,69 +90,6 @@
     }
   ],
   "conferences": [
-    {
-      "id": "89cb7216b979",
-      "title": "Всероссийская молодежная конференция «Сохраняя наследие: язык, история, культура»",
-      "organizer": "Российское военно-историческое общество в Республике Татарстан, Институт археологии Российской академии наук (ИА РАН), Институт языкознания РАН (ИЯз РАН), Институт этнологии и антропологии Российской академии наук (ИЭА РАН)",
-      "disciplines": [
-        "Социология (включая демографию и антропологию)",
-        "История и археология",
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-09-15",
-      "event_end": "2026-09-16",
-      "submission_deadline": "2026-08-20",
-      "location": "Казань",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "location",
-        "disciplines"
-      ],
-      "first_seen": "2026-08-06",
-      "status": "open",
-      "sources": [
-        {
-          "source": "iea_ras",
-          "source_name": "ИЭА РАН",
-          "url": "https://iea-ras.ru/?p=22257",
-          "published_date": "2026-08-06"
-        }
-      ]
-    },
-    {
-      "id": "e769061c10a0",
-      "title": "По ту сторону источника: эмический подход в социально-гуманитарных науках",
-      "organizer": "Факультет истории Европейского университета в Санкт-Петербурге",
-      "disciplines": [
-        "Социология (включая демографию и антропологию)",
-        "История и археология",
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-10-15",
-      "event_end": "2026-10-16",
-      "submission_deadline": "2026-08-20",
-      "location": "Санкт-Петербург",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "organizer",
-        "disciplines",
-        "format"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "open",
-      "sources": [
-        {
-          "source": "eusp",
-          "source_name": "ЕУСПб",
-          "url": "https://eusp.org/news/nauchnaya-konferenciya-po-tu-storonu-istochnika-emicheskiy-podkhod-v-socialno-gumanitarnykh-naukakh",
-          "published_date": "2026-06-23"
-        }
-      ]
-    },
     {
       "id": "1b898a9d6891",
       "title": "Школа-конференция по технологиям магнитно-резонансной томографии 2026",
@@ -3156,6 +3093,69 @@
           "source_name": "НИУ ВШЭ",
           "url": "https://hum.hse.ru/lrei/announcements/1175064805.html",
           "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "89cb7216b979",
+      "title": "Всероссийская молодежная конференция «Сохраняя наследие: язык, история, культура»",
+      "organizer": "Российское военно-историческое общество в Республике Татарстан, Институт археологии Российской академии наук (ИА РАН), Институт языкознания РАН (ИЯз РАН), Институт этнологии и антропологии Российской академии наук (ИЭА РАН)",
+      "disciplines": [
+        "Социология (включая демографию и антропологию)",
+        "История и археология",
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-09-15",
+      "event_end": "2026-09-16",
+      "submission_deadline": "2026-08-20",
+      "location": "Казань",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-08-06",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "iea_ras",
+          "source_name": "ИЭА РАН",
+          "url": "https://iea-ras.ru/?p=22257",
+          "published_date": "2026-08-06"
+        }
+      ]
+    },
+    {
+      "id": "e769061c10a0",
+      "title": "По ту сторону источника: эмический подход в социально-гуманитарных науках",
+      "organizer": "Факультет истории Европейского университета в Санкт-Петербурге",
+      "disciplines": [
+        "Социология (включая демографию и антропологию)",
+        "История и археология",
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-10-15",
+      "event_end": "2026-10-16",
+      "submission_deadline": "2026-08-20",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "organizer",
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "eusp",
+          "source_name": "ЕУСПб",
+          "url": "https://eusp.org/news/nauchnaya-konferenciya-po-tu-storonu-istochnika-emicheskiy-podkhod-v-socialno-gumanitarnykh-naukakh",
+          "published_date": "2026-06-23"
         }
       ]
     },
