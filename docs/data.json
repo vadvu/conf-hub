@@ -1,8 +1,8 @@
 {
   "version": "0.21.0",
-  "generated_at": "2026-08-23T05:07:21+00:00",
-  "crawled_at": "2026-08-23T03:39:29+00:00",
-  "today": "2026-08-23",
+  "generated_at": "2026-08-24T03:01:11+00:00",
+  "crawled_at": "2026-08-24T03:01:11+00:00",
+  "today": "2026-08-24",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -90,37 +90,6 @@
     }
   ],
   "conferences": [
-    {
-      "id": "1b898a9d6891",
-      "title": "Школа-конференция по технологиям магнитно-резонансной томографии 2026",
-      "organizer": "Университет ИТМО",
-      "disciplines": [
-        "Физика",
-        "Электроника и электротехника"
-      ],
-      "event_start": "2026-09-21",
-      "event_end": "2026-09-25",
-      "submission_deadline": "2026-08-23",
-      "location": "Санкт-Петербург",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "organizer",
-        "disciplines",
-        "official_url"
-      ],
-      "first_seen": "2026-07-31",
-      "status": "open",
-      "sources": [
-        {
-          "source": "itmo_events",
-          "source_name": "ИТМО",
-          "url": "https://news.itmo.ru/ru/announce/121921/",
-          "published_date": null
-        }
-      ]
-    },
     {
       "id": "50988090b199",
       "title": "Школа молодого востоковеда МГИМО — ИВ РАН",
@@ -3156,6 +3125,37 @@
           "source_name": "ЕУСПб",
           "url": "https://eusp.org/news/nauchnaya-konferenciya-po-tu-storonu-istochnika-emicheskiy-podkhod-v-socialno-gumanitarnykh-naukakh",
           "published_date": "2026-06-23"
+        }
+      ]
+    },
+    {
+      "id": "1b898a9d6891",
+      "title": "Школа-конференция по технологиям магнитно-резонансной томографии 2026",
+      "organizer": "Университет ИТМО",
+      "disciplines": [
+        "Физика",
+        "Электроника и электротехника"
+      ],
+      "event_start": "2026-09-21",
+      "event_end": "2026-09-25",
+      "submission_deadline": "2026-08-23",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "organizer",
+        "disciplines",
+        "official_url"
+      ],
+      "first_seen": "2026-07-31",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "itmo_events",
+          "source_name": "ИТМО",
+          "url": "https://news.itmo.ru/ru/announce/121921/",
+          "published_date": null
         }
       ]
     },
