@@ -1,8 +1,8 @@
 {
   "version": "0.21.0",
-  "generated_at": "2026-08-26T03:01:43+00:00",
-  "crawled_at": "2026-08-26T03:01:19+00:00",
-  "today": "2026-08-26",
+  "generated_at": "2026-08-27T03:09:59+00:00",
+  "crawled_at": "2026-08-27T03:02:40+00:00",
+  "today": "2026-08-27",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -147,6 +147,36 @@
           "source": "hse_ann_sci",
           "source_name": "НИУ ВШЭ",
           "url": "https://cfs.hse.ru/announcements/1168523686.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "d4ae5e20cb45",
+      "title": "Международная научно-практическая конференция студентов, аспирантов и молодых ученых «Эволюция права - 2026»",
+      "organizer": "Научное Студенческое Общество Юридического факультета МГУ имени М.В.Ломоносова",
+      "disciplines": [
+        "Право"
+      ],
+      "event_start": "2026-10-09",
+      "event_end": "2026-10-10",
+      "submission_deadline": "2026-08-31",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "location",
+        "format"
+      ],
+      "first_seen": "2026-08-27",
+      "status": "open",
+      "sources": [
+        {
+          "source": "msu_events",
+          "source_name": "МГУ",
+          "url": "https://conf.msu.ru/rus/event/10604/",
           "published_date": null
         }
       ]
@@ -393,6 +423,68 @@
       ]
     },
     {
+      "id": "aef4415874ae",
+      "title": "Международная школа Студенческих научных обществ (СНО)",
+      "organizer": "Московский государственный университет имени М.В.Ломоносова",
+      "disciplines": [],
+      "event_start": "2026-09-04",
+      "event_end": "2026-09-05",
+      "submission_deadline": "2026-09-02",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "location",
+        "disciplines",
+        "submission_deadline"
+      ],
+      "first_seen": "2026-08-27",
+      "status": "open",
+      "sources": [
+        {
+          "source": "msu_events",
+          "source_name": "МГУ",
+          "url": "https://conf.msu.ru/rus/event/10571/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "12240a8cb9a8",
+      "title": "Третья Всероссийская конференция медиапедагогов",
+      "organizer": "Факультет журналистики МГУ имени М.В. Ломоносова",
+      "disciplines": [
+        "Психология",
+        "Социология (включая демографию и антропологию)",
+        "Медиа и коммуникации"
+      ],
+      "event_start": "2026-09-24",
+      "event_end": "2026-09-25",
+      "submission_deadline": "2026-09-06",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "organizer",
+        "location",
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-08-27",
+      "status": "open",
+      "sources": [
+        {
+          "source": "msu_events",
+          "source_name": "МГУ",
+          "url": "https://conf.msu.ru/rus/event/10599/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "2ef9fc54b38b",
       "title": "XXIII конференция по типологии и грамматике для молодых исследователей",
       "organizer": "Институт лингвистических исследований РАН",
@@ -417,6 +509,37 @@
           "source": "iling_ras",
           "source_name": "ИЛИ РАН",
           "url": "https://iling.spb.ru/conferences/2026/5058",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "de704227f25d",
+      "title": "Агрохимия и агроэкология: история сотрудничества и будущие перспективы",
+      "organizer": "Московский государственный университет имени М.В.Ломоносова, Факультет почвоведения, кафедра агрохимии и биохимии растений",
+      "disciplines": [
+        "Химия",
+        "Биология"
+      ],
+      "event_start": "2026-10-07",
+      "event_end": "2026-10-08",
+      "submission_deadline": "2026-09-10",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-08-27",
+      "status": "open",
+      "sources": [
+        {
+          "source": "msu_events",
+          "source_name": "МГУ",
+          "url": "https://conf.msu.ru/rus/event/10564/",
           "published_date": null
         }
       ]
@@ -765,6 +888,39 @@
       ]
     },
     {
+      "id": "3223c7d607a7",
+      "title": "Международный молодежный генетический форум (ММГФ – 2026)",
+      "organizer": "Московский государственный университет имени М.В.Ломоносова, Биологический факультет, Кафедра генетики; Санкт-Петербургский государственный университет, Биологический факультет Кафедра генетики и биотехнологии имени М.Е. Лобашева",
+      "disciplines": [
+        "Биология"
+      ],
+      "event_start": "2026-10-30",
+      "event_end": "2026-11-01",
+      "submission_deadline": "2026-09-15",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "organizer",
+        "location",
+        "disciplines",
+        "submission_deadline",
+        "format"
+      ],
+      "first_seen": "2026-08-27",
+      "status": "open",
+      "sources": [
+        {
+          "source": "msu_events",
+          "source_name": "МГУ",
+          "url": "https://conf.msu.ru/rus/event/10569/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "757e1453f8dc",
       "title": "Российское Просвещение: к 315-летию М. В. Ломоносова и С. П. Крашенинникова",
       "organizer": "Институт лингвистических исследований РАН, Музей антропологии и этнографии им. Петра Великого (Кунсткамера) РАН, Санкт-Петербургское отделение РАН, Санкт-Петербургский филиал Института истории естествознания и техники РАН",
@@ -973,6 +1129,37 @@
           "source": "hse_ann_sci",
           "source_name": "НИУ ВШЭ",
           "url": "https://hum.hse.ru/announcements/1189063893.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "526757ef31b8",
+      "title": "Всероссийская научная конференция «Единство народов России в русской философской мысли»",
+      "organizer": "Кафедра истории русской философии философского факультета МГУ имени М.В. Ломоносова",
+      "disciplines": [
+        "Философия, этика, религиоведение"
+      ],
+      "event_start": "2026-10-23",
+      "event_end": "2026-10-23",
+      "submission_deadline": "2026-09-23",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "organizer",
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-08-27",
+      "status": "open",
+      "sources": [
+        {
+          "source": "msu_events",
+          "source_name": "МГУ",
+          "url": "https://conf.msu.ru/rus/event/10554/",
           "published_date": null
         }
       ]
@@ -1396,6 +1583,39 @@
           "source": "spbu_events",
           "source_name": "СПбГУ",
           "url": "https://events.spbu.ru/kovalev-2026",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "59cf5d39bfbe",
+      "title": "X Международный форум «Аrs Sacra Audit»",
+      "organizer": "Московский государственный университет имени М.В.Ломоносова, Высшая школа государственного аудита, Студенческое научное общество ВШГА",
+      "disciplines": [
+        "Компьютерные науки",
+        "Экономика и менеджмент",
+        "Право"
+      ],
+      "event_start": "2026-12-16",
+      "event_end": "2026-12-18",
+      "submission_deadline": "2026-10-12",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "location",
+        "disciplines",
+        "format",
+        "official_url"
+      ],
+      "first_seen": "2026-08-27",
+      "status": "open",
+      "sources": [
+        {
+          "source": "msu_events",
+          "source_name": "МГУ",
+          "url": "https://conf.msu.ru/rus/event/10574/",
           "published_date": null
         }
       ]
@@ -1941,6 +2161,37 @@
           "source": "hse_ann_sci",
           "source_name": "НИУ ВШЭ",
           "url": "https://economics.hse.ru/dest/statanalysis/2026/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "51e21071494a",
+      "title": "Суперкомпьютерные дни в России 2026",
+      "organizer": "Московский государственный университет имени М.В.Ломоносова",
+      "disciplines": [
+        "Компьютерные науки"
+      ],
+      "event_start": "2026-09-28",
+      "event_end": "2026-09-29",
+      "submission_deadline": "2026-04-30",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.95,
+      "field_flags": [
+        "title",
+        "organizer",
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-08-27",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "msu_events",
+          "source_name": "МГУ",
+          "url": "https://conf.msu.ru/rus/event/10618/",
           "published_date": null
         }
       ]
