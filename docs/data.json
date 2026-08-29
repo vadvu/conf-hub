@@ -1,8 +1,8 @@
 {
   "version": "0.21.0",
-  "generated_at": "2026-08-28T11:18:05+00:00",
-  "crawled_at": "2026-08-28T11:17:08+00:00",
-  "today": "2026-08-28",
+  "generated_at": "2026-08-29T03:48:22+00:00",
+  "crawled_at": "2026-08-29T03:47:16+00:00",
+  "today": "2026-08-29",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -1309,6 +1309,36 @@
           "source": "inion",
           "source_name": "ИНИОН РАН",
           "url": "https://inion.ru/ru/about/news/iv-vserossiiskaia-nauchnaia-konferentciia-turetckaia-respublika-v-epokhu-global-nykh-transformatcii-informatcionnoe-pis-mo/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "13c4aea3e011",
+      "title": "XVIII Мелетинские чтения",
+      "organizer": "Институт высших гуманитарных исследований им. Е. М. Мелетинского РГГУ, Центр типологии и семиотики фольклора РГГУ",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-10-22",
+      "event_end": "2026-10-23",
+      "submission_deadline": "2026-09-30",
+      "location": "РГГУ",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "location",
+        "disciplines",
+        "official_url"
+      ],
+      "first_seen": "2026-08-29",
+      "status": "open",
+      "sources": [
+        {
+          "source": "rsuh",
+          "source_name": "РГГУ",
+          "url": "https://www.rsuh.ru/anons/v-rggu-proydut-xviii-meletinskie-chteniya/",
           "published_date": null
         }
       ]
