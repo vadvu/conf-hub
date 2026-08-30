@@ -1,8 +1,8 @@
 window.CONF_DATA = {
   "version": "0.21.0",
-  "generated_at": "2026-08-29T03:48:22+00:00",
-  "crawled_at": "2026-08-29T03:47:16+00:00",
-  "today": "2026-08-29",
+  "generated_at": "2026-08-30T03:16:29+00:00",
+  "crawled_at": "2026-08-30T03:16:12+00:00",
+  "today": "2026-08-30",
   "sources_info": [
     {
       "name": "ЕУСПб",
