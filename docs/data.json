@@ -1,8 +1,8 @@
 {
   "version": "0.21.0",
-  "generated_at": "2026-08-30T03:16:29+00:00",
-  "crawled_at": "2026-08-30T03:16:12+00:00",
-  "today": "2026-08-30",
+  "generated_at": "2026-08-31T04:43:35+00:00",
+  "crawled_at": "2026-08-31T04:12:02+00:00",
+  "today": "2026-08-31",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -90,38 +90,6 @@
     }
   ],
   "conferences": [
-    {
-      "id": "cc59ae201636",
-      "title": "Литература, язык и компьютерные технологии LiLaC (Literature - Language - Computing: Russian Contribution)",
-      "organizer": "Санкт-Петербургский государственный университет",
-      "disciplines": [
-        "Компьютерные науки",
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-11-05",
-      "event_end": "2026-11-07",
-      "submission_deadline": "2026-08-30",
-      "location": "Санкт-Петербург",
-      "format": null,
-      "official_url": "https://reg.spbu.ru/lilac-2026",
-      "confidence": 0.967,
-      "field_flags": [
-        "location",
-        "disciplines",
-        "format",
-        "official_url"
-      ],
-      "first_seen": "2026-07-23",
-      "status": "open",
-      "sources": [
-        {
-          "source": "spbu_events",
-          "source_name": "СПбГУ",
-          "url": "https://events.spbu.ru/lilac-2026",
-          "published_date": null
-        }
-      ]
-    },
     {
       "id": "0b5f7deead70",
       "title": "Веберовская междисциплинарная научная конференция",
@@ -3442,6 +3410,38 @@
           "source": "mgimo_ann",
           "source_name": "МГИМО",
           "url": "https://mgimo.ru/about/news/announce/vi-young-orientalist-school/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "cc59ae201636",
+      "title": "Литература, язык и компьютерные технологии LiLaC (Literature - Language - Computing: Russian Contribution)",
+      "organizer": "Санкт-Петербургский государственный университет",
+      "disciplines": [
+        "Компьютерные науки",
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-11-05",
+      "event_end": "2026-11-07",
+      "submission_deadline": "2026-08-30",
+      "location": "Санкт-Петербург",
+      "format": null,
+      "official_url": "https://reg.spbu.ru/lilac-2026",
+      "confidence": 0.967,
+      "field_flags": [
+        "location",
+        "disciplines",
+        "format",
+        "official_url"
+      ],
+      "first_seen": "2026-07-23",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/lilac-2026",
           "published_date": null
         }
       ]
