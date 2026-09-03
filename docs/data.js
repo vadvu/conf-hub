@@ -1,8 +1,8 @@
 window.CONF_DATA = {
   "version": "0.21.0",
-  "generated_at": "2026-09-02T03:02:57+00:00",
-  "crawled_at": "2026-09-02T03:01:59+00:00",
-  "today": "2026-09-02",
+  "generated_at": "2026-09-03T03:04:30+00:00",
+  "crawled_at": "2026-09-03T03:02:34+00:00",
+  "today": "2026-09-03",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -90,34 +90,6 @@ window.CONF_DATA = {
     }
   ],
   "conferences": [
-    {
-      "id": "aef4415874ae",
-      "title": "Международная школа Студенческих научных обществ (СНО)",
-      "organizer": "Московский государственный университет имени М.В.Ломоносова",
-      "disciplines": [],
-      "event_start": "2026-09-04",
-      "event_end": "2026-09-05",
-      "submission_deadline": "2026-09-02",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "location",
-        "disciplines",
-        "submission_deadline"
-      ],
-      "first_seen": "2026-08-27",
-      "status": "open",
-      "sources": [
-        {
-          "source": "msu_events",
-          "source_name": "МГУ",
-          "url": "https://conf.msu.ru/rus/event/10571/",
-          "published_date": null
-        }
-      ]
-    },
     {
       "id": "12240a8cb9a8",
       "title": "Третья Всероссийская конференция медиапедагогов",
@@ -270,6 +242,34 @@ window.CONF_DATA = {
           "source": "inion",
           "source_name": "ИНИОН РАН",
           "url": "https://inion.ru/ru/about/news/mezhdunarodnaia-nauchnaia-konferentciia-k-100-letiiu-l.v-shaposhnikovoi-informatcionnoe-pis-mo/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "3f6e9aa172bb",
+      "title": "Прагматика в семантике. Оценка: реклейминг и другие механизмы сдвига",
+      "organizer": "Научно-учебная лаборатория лингвистической конфликтологии и современных коммуникативных практик факультета гуманитарных наук НИУ ВШЭ",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-11-05",
+      "event_end": "2026-11-06",
+      "submission_deadline": "2026-09-10",
+      "location": "Москва",
+      "format": "онлайн",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "location"
+      ],
+      "first_seen": "2026-09-03",
+      "status": "open",
+      "sources": [
+        {
+          "source": "hse_conf",
+          "source_name": "НИУ ВШЭ (конференции)",
+          "url": "https://philology.hse.ru/conflictology/conference",
           "published_date": null
         }
       ]
@@ -1345,6 +1345,32 @@ window.CONF_DATA = {
           "source": "hse_ann_sci",
           "source_name": "НИУ ВШЭ",
           "url": "https://cs.hse.ru/ml2026/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "e42bb159902d",
+      "title": "Чтения памяти Александра Владимировича Бондарко «Актуальные проблемы функциональной грамматики»",
+      "organizer": "Отдел теории грамматики",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-11-17",
+      "event_end": "2026-11-17",
+      "submission_deadline": "2026-10-15",
+      "location": null,
+      "format": "онлайн",
+      "official_url": null,
+      "confidence": 0.95,
+      "field_flags": [],
+      "first_seen": "2026-09-03",
+      "status": "open",
+      "sources": [
+        {
+          "source": "iling_ras",
+          "source_name": "ИЛИ РАН",
+          "url": "https://iling.spb.ru/conferences/2026/5118",
           "published_date": null
         }
       ]
@@ -3442,6 +3468,34 @@ window.CONF_DATA = {
           "source": "iling_ras",
           "source_name": "ИЛИ РАН",
           "url": "https://iling.spb.ru/conferences/2026/5061",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "aef4415874ae",
+      "title": "Международная школа Студенческих научных обществ (СНО)",
+      "organizer": "Московский государственный университет имени М.В.Ломоносова",
+      "disciplines": [],
+      "event_start": "2026-09-04",
+      "event_end": "2026-09-05",
+      "submission_deadline": "2026-09-02",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "location",
+        "disciplines",
+        "submission_deadline"
+      ],
+      "first_seen": "2026-08-27",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "msu_events",
+          "source_name": "МГУ",
+          "url": "https://conf.msu.ru/rus/event/10571/",
           "published_date": null
         }
       ]
