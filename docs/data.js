@@ -1,8 +1,8 @@
 window.CONF_DATA = {
   "version": "0.21.0",
-  "generated_at": "2026-09-03T03:04:30+00:00",
-  "crawled_at": "2026-09-03T03:02:34+00:00",
-  "today": "2026-09-03",
+  "generated_at": "2026-09-04T03:08:30+00:00",
+  "crawled_at": "2026-09-04T03:07:18+00:00",
+  "today": "2026-09-04",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -516,6 +516,35 @@ window.CONF_DATA = {
           "source": "spbu_events",
           "source_name": "СПбГУ",
           "url": "https://events.spbu.ru/eco-problems-2026",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "138b4f46d1de",
+      "title": "X межвузовская научная студенческая конференция по антиковедению",
+      "organizer": "Институт классического Востока и античности",
+      "disciplines": [
+        "История и археология"
+      ],
+      "event_start": "2026-10-16",
+      "event_end": "2026-10-16",
+      "submission_deadline": "2026-09-15",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.883,
+      "field_flags": [
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-09-04",
+      "status": "open",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://iocs.hse.ru/announcements/1196561721.html",
           "published_date": null
         }
       ]
