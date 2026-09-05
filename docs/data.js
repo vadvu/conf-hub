@@ -1,8 +1,8 @@
 window.CONF_DATA = {
   "version": "0.21.0",
-  "generated_at": "2026-09-04T03:08:30+00:00",
-  "crawled_at": "2026-09-04T03:07:18+00:00",
-  "today": "2026-09-04",
+  "generated_at": "2026-09-05T03:07:53+00:00",
+  "crawled_at": "2026-09-05T03:03:03+00:00",
+  "today": "2026-09-05",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -149,6 +149,34 @@ window.CONF_DATA = {
           "source": "iling_ras",
           "source_name": "ИЛИ РАН",
           "url": "https://iling.spb.ru/conferences/2026/5058",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "5b9b2104a5ca",
+      "title": "Выборы в год 120-летия учреждения Государственной Думы России: каким быть парламенту нового созыва?",
+      "organizer": "Отдел правоведения ИНИОН РАН",
+      "disciplines": [
+        "Право"
+      ],
+      "event_start": "2026-09-10",
+      "event_end": "2026-09-10",
+      "submission_deadline": "2026-09-07",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.917,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-09-05",
+      "status": "open",
+      "sources": [
+        {
+          "source": "inion",
+          "source_name": "ИНИОН РАН",
+          "url": "https://inion.ru/ru/about/news/nauchno-prakticheskii-kruglyi-stol-otdela-pravovedeniia-vybory-v-god-120-letiia-uchrezhdeniia-gosudarstvennoi-dumy-rossii-kakim/",
           "published_date": null
         }
       ]
@@ -740,6 +768,66 @@ window.CONF_DATA = {
       ]
     },
     {
+      "id": "f6c71f3455dc",
+      "title": "Четвертые Новиковские чтения: Феномен текста в современном гуманитарном знании: границы понятия",
+      "organizer": "ИНИОН РАН",
+      "disciplines": [
+        "Филология и лингвистика",
+        "Философия, этика, религиоведение"
+      ],
+      "event_start": "2026-10-07",
+      "event_end": "2026-10-09",
+      "submission_deadline": "2026-09-20",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "disciplines"
+      ],
+      "first_seen": "2026-09-05",
+      "status": "open",
+      "sources": [
+        {
+          "source": "inion",
+          "source_name": "ИНИОН РАН",
+          "url": "https://inion.ru/ru/about/news/vserossiiskaia-nauchno-prakticheskaia-konferentciia-chetvertye-novikovskie-chteniia-fenomen-teksta-v-sovremennom-gumanitarnom/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "b4a712f84e63",
+      "title": "XV Всероссийская школа молодых учёных «Экспериментальная минералогия, петрология и геохимия»",
+      "organizer": "Институт экспериментальной минералогии им. академика Д.С. Коржинского Российской академии наук (ИЭМ РАН)",
+      "disciplines": [
+        "Науки о земле"
+      ],
+      "event_start": "2026-10-13",
+      "event_end": "2026-10-14",
+      "submission_deadline": "2026-09-20",
+      "location": "Черноголовка",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines",
+        "format",
+        "official_url"
+      ],
+      "first_seen": "2026-09-05",
+      "status": "open",
+      "sources": [
+        {
+          "source": "ras_events",
+          "source_name": "РАН",
+          "url": "https://new.ras.ru/press-center/events-additional/xv-vserossiyskaya-shkola-molodykh-uchyenykh-eksperimentalnaya-mineralogiya-petrologiya-i-geokhimiya/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "03afa6bb2b03",
       "title": "XXXVII международная научно-практическая конференция по методике преподавания японского языка «Японский язык в вузе: актуальные проблемы преподавания»",
       "organizer": "Московский государственный университет имени М.В.Ломоносова, Институт стран Азии и Африки, Кафедра японской филологии Институт научной информации по общественным наукам РАН",
@@ -1253,6 +1341,36 @@ window.CONF_DATA = {
       ]
     },
     {
+      "id": "a36ae6ef0652",
+      "title": "Гидроминеральное сырьё нефтегазовых месторождений: технологии добычи и извлечения ценных компонентов",
+      "organizer": "Санкт-Петербургский государственный университет",
+      "disciplines": [
+        "Химия",
+        "Науки о земле",
+        "Экономика и менеджмент"
+      ],
+      "event_start": "2026-10-08",
+      "event_end": "2026-10-09",
+      "submission_deadline": "2026-10-02",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-09-05",
+      "status": "open",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/hydromin",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "202f5d477e82",
       "title": "Междисциплинарная научная конференция «Коморбидное поле 3.0: социальное благополучие, здоровье и медицина во множественных контекстах»",
       "organizer": "Центр сравнительных исследований социального благополучия Факультета социальных наук НИУ ВШЭ",
@@ -1282,6 +1400,36 @@ window.CONF_DATA = {
           "source_name": "ЦенСИБ НИУ ВШЭ",
           "url": "https://lcsr.hse.ru/news/1186439389.html",
           "published_date": "2026-08-04"
+        }
+      ]
+    },
+    {
+      "id": "b7f2310f85d1",
+      "title": "XV Международная научная конференция исследователей гражданского общества «Общественная самоорганизация, государственное управление и местное самоуправление в России и за рубежом»",
+      "organizer": "Центр исследований гражданского общества и некоммерческого сектора НИУ ВШЭ",
+      "disciplines": [
+        "Политология и международные отношения (включая ГМУ)"
+      ],
+      "event_start": "2026-11-17",
+      "event_end": "2026-11-18",
+      "submission_deadline": "2026-10-05",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "organizer",
+        "disciplines"
+      ],
+      "first_seen": "2026-09-05",
+      "status": "open",
+      "sources": [
+        {
+          "source": "hse_conf",
+          "source_name": "НИУ ВШЭ (конференции)",
+          "url": "https://grans.hse.ru/announcements/1197306557.html",
+          "published_date": null
         }
       ]
     },
