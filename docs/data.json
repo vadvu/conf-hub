@@ -1,8 +1,8 @@
 {
   "version": "0.21.0",
-  "generated_at": "2026-09-05T03:07:53+00:00",
-  "crawled_at": "2026-09-05T03:03:03+00:00",
-  "today": "2026-09-05",
+  "generated_at": "2026-09-06T03:01:57+00:00",
+  "crawled_at": "2026-09-06T03:01:52+00:00",
+  "today": "2026-09-06",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -3650,34 +3650,6 @@
       ]
     },
     {
-      "id": "aef4415874ae",
-      "title": "Международная школа Студенческих научных обществ (СНО)",
-      "organizer": "Московский государственный университет имени М.В.Ломоносова",
-      "disciplines": [],
-      "event_start": "2026-09-04",
-      "event_end": "2026-09-05",
-      "submission_deadline": "2026-09-02",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "location",
-        "disciplines",
-        "submission_deadline"
-      ],
-      "first_seen": "2026-08-27",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "msu_events",
-          "source_name": "МГУ",
-          "url": "https://conf.msu.ru/rus/event/10571/",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "f208172484c5",
       "title": "IX Российский философский конгресс «Философия в контексте современных вызовов»",
       "organizer": "Санкт-Петербургский государственный университет (СПбГУ)",
@@ -4180,6 +4152,34 @@
           "source": "mgimo_ann",
           "source_name": "МГИМО",
           "url": "https://mgimo.ru/about/news/announce/sluzhenie-otechestvu-07-26/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "aef4415874ae",
+      "title": "Международная школа Студенческих научных обществ (СНО)",
+      "organizer": "Московский государственный университет имени М.В.Ломоносова",
+      "disciplines": [],
+      "event_start": "2026-09-04",
+      "event_end": "2026-09-05",
+      "submission_deadline": "2026-09-02",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "location",
+        "disciplines",
+        "submission_deadline"
+      ],
+      "first_seen": "2026-08-27",
+      "status": "past",
+      "sources": [
+        {
+          "source": "msu_events",
+          "source_name": "МГУ",
+          "url": "https://conf.msu.ru/rus/event/10571/",
           "published_date": null
         }
       ]
