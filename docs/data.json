@@ -1,8 +1,8 @@
 {
   "version": "0.21.0",
-  "generated_at": "2026-09-06T03:01:57+00:00",
-  "crawled_at": "2026-09-06T03:01:52+00:00",
-  "today": "2026-09-06",
+  "generated_at": "2026-09-07T03:01:34+00:00",
+  "crawled_at": "2026-09-07T03:01:33+00:00",
+  "today": "2026-09-07",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -90,69 +90,6 @@
     }
   ],
   "conferences": [
-    {
-      "id": "12240a8cb9a8",
-      "title": "Третья Всероссийская конференция медиапедагогов",
-      "organizer": "Факультет журналистики МГУ имени М.В. Ломоносова",
-      "disciplines": [
-        "Психология",
-        "Социология (включая демографию и антропологию)",
-        "Медиа и коммуникации"
-      ],
-      "event_start": "2026-09-24",
-      "event_end": "2026-09-25",
-      "submission_deadline": "2026-09-06",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "organizer",
-        "location",
-        "disciplines",
-        "format"
-      ],
-      "first_seen": "2026-08-27",
-      "status": "open",
-      "sources": [
-        {
-          "source": "msu_events",
-          "source_name": "МГУ",
-          "url": "https://conf.msu.ru/rus/event/10599/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "2ef9fc54b38b",
-      "title": "XXIII конференция по типологии и грамматике для молодых исследователей",
-      "organizer": "Институт лингвистических исследований РАН",
-      "disciplines": [
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-11-26",
-      "event_end": "2026-11-28",
-      "submission_deadline": "2026-09-06",
-      "location": "Санкт-Петербург",
-      "format": "очно",
-      "official_url": "https://www.youngconfspb.com/e/main",
-      "confidence": 0.983,
-      "field_flags": [
-        "location",
-        "format"
-      ],
-      "first_seen": "2026-07-18",
-      "status": "open",
-      "sources": [
-        {
-          "source": "iling_ras",
-          "source_name": "ИЛИ РАН",
-          "url": "https://iling.spb.ru/conferences/2026/5058",
-          "published_date": null
-        }
-      ]
-    },
     {
       "id": "5b9b2104a5ca",
       "title": "Выборы в год 120-летия учреждения Государственной Думы России: каким быть парламенту нового созыва?",
@@ -2617,38 +2554,6 @@
       ]
     },
     {
-      "id": "80f8360f2896",
-      "title": "II Международная конференция «Экспериментальные исследования малоизученных языков»",
-      "organizer": "Центр языка и мозга НИУ ВШЭ совместно с Лабораторией экспериментальной лингвистики Адыгейского государственного университета",
-      "disciplines": [
-        "Компьютерные науки",
-        "Психология",
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-09-04",
-      "event_end": "2026-09-06",
-      "submission_deadline": "2026-07-05",
-      "location": "Майкоп",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.983,
-      "field_flags": [
-        "organizer",
-        "location",
-        "disciplines"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "hse_ann_sci",
-          "source_name": "НИУ ВШЭ",
-          "url": "https://www.hse.ru/neuroling/announcements/1167666696.html",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "ec8d0531d6f8",
       "title": "Наука о народах: история, теория, методология",
       "organizer": "Ассоциация этнологов и антропологов России, Институт этнологии и антропологии им. Н.Н. Миклухо-Маклая РАН, Российский государственный гуманитарный университет (Учебно-научный институт антропологии и этнологии), Исторический факультет МГУ им. М.В. Ломоносова (Кафедра этнологии), Факультет гуманитарных наук НИУ Высшая школа экономики (Лаборатория региональных этнологических исследований)",
@@ -3650,6 +3555,69 @@
       ]
     },
     {
+      "id": "12240a8cb9a8",
+      "title": "Третья Всероссийская конференция медиапедагогов",
+      "organizer": "Факультет журналистики МГУ имени М.В. Ломоносова",
+      "disciplines": [
+        "Психология",
+        "Социология (включая демографию и антропологию)",
+        "Медиа и коммуникации"
+      ],
+      "event_start": "2026-09-24",
+      "event_end": "2026-09-25",
+      "submission_deadline": "2026-09-06",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "organizer",
+        "location",
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-08-27",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "msu_events",
+          "source_name": "МГУ",
+          "url": "https://conf.msu.ru/rus/event/10599/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "2ef9fc54b38b",
+      "title": "XXIII конференция по типологии и грамматике для молодых исследователей",
+      "organizer": "Институт лингвистических исследований РАН",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-11-26",
+      "event_end": "2026-11-28",
+      "submission_deadline": "2026-09-06",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": "https://www.youngconfspb.com/e/main",
+      "confidence": 0.983,
+      "field_flags": [
+        "location",
+        "format"
+      ],
+      "first_seen": "2026-07-18",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "iling_ras",
+          "source_name": "ИЛИ РАН",
+          "url": "https://iling.spb.ru/conferences/2026/5058",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "f208172484c5",
       "title": "IX Российский философский конгресс «Философия в контексте современных вызовов»",
       "organizer": "Санкт-Петербургский государственный университет (СПбГУ)",
@@ -4124,6 +4092,38 @@
           "source": "tsu",
           "source_name": "ТГУ",
           "url": "https://news.tsu.ru/calendar-of-events/15-17-iyulya-konferentsiya-robastnaya-statistika-i-finansovaya-matematika-2026/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "80f8360f2896",
+      "title": "II Международная конференция «Экспериментальные исследования малоизученных языков»",
+      "organizer": "Центр языка и мозга НИУ ВШЭ совместно с Лабораторией экспериментальной лингвистики Адыгейского государственного университета",
+      "disciplines": [
+        "Компьютерные науки",
+        "Психология",
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-09-04",
+      "event_end": "2026-09-06",
+      "submission_deadline": "2026-07-05",
+      "location": "Майкоп",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.983,
+      "field_flags": [
+        "organizer",
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "past",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://www.hse.ru/neuroling/announcements/1167666696.html",
           "published_date": null
         }
       ]
