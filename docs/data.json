@@ -1,8 +1,8 @@
 {
   "version": "0.21.0",
-  "generated_at": "2026-09-07T03:01:34+00:00",
-  "crawled_at": "2026-09-07T03:01:33+00:00",
-  "today": "2026-09-07",
+  "generated_at": "2026-09-08T03:05:44+00:00",
+  "crawled_at": "2026-09-08T03:02:34+00:00",
+  "today": "2026-09-08",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -90,34 +90,6 @@
     }
   ],
   "conferences": [
-    {
-      "id": "5b9b2104a5ca",
-      "title": "Выборы в год 120-летия учреждения Государственной Думы России: каким быть парламенту нового созыва?",
-      "organizer": "Отдел правоведения ИНИОН РАН",
-      "disciplines": [
-        "Право"
-      ],
-      "event_start": "2026-09-10",
-      "event_end": "2026-09-10",
-      "submission_deadline": "2026-09-07",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.917,
-      "field_flags": [
-        "disciplines"
-      ],
-      "first_seen": "2026-09-05",
-      "status": "open",
-      "sources": [
-        {
-          "source": "inion",
-          "source_name": "ИНИОН РАН",
-          "url": "https://inion.ru/ru/about/news/nauchno-prakticheskii-kruglyi-stol-otdela-pravovedeniia-vybory-v-god-120-letiia-uchrezhdeniia-gosudarstvennoi-dumy-rossii-kakim/",
-          "published_date": null
-        }
-      ]
-    },
     {
       "id": "de704227f25d",
       "title": "Агрохимия и агроэкология: история сотрудничества и будущие перспективы",
@@ -1304,6 +1276,39 @@
           "source_name": "СПбГУ",
           "url": "https://events.spbu.ru/hydromin",
           "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "ad455c02c49c",
+      "title": "Коморбидное поле 3.0: социальное благополучие, здоровье и медицина во множественных контекстах",
+      "organizer": "Центр сравнительных исследований социального благополучия НИУ ВШЭ при участии факультета гуманитарных наук и Санкт-Петербургской школы гуманитарных наук и искусств НИУ ВШЭ, Европейского университета в Санкт-Петербурге и Сеченовского университета",
+      "disciplines": [
+        "Психология",
+        "Социология (включая демографию и антропологию)",
+        "Медиа и коммуникации",
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-12-03",
+      "event_end": "2026-12-05",
+      "submission_deadline": "2026-10-04",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "organizer",
+        "disciplines",
+        "official_url"
+      ],
+      "first_seen": "2026-09-08",
+      "status": "open",
+      "sources": [
+        {
+          "source": "lcsr",
+          "source_name": "ЦенСИБ НИУ ВШЭ",
+          "url": "https://www.hse.ru/news/science/1198495805.html",
+          "published_date": "2026-09-07"
         }
       ]
     },
@@ -3613,6 +3618,34 @@
           "source": "iling_ras",
           "source_name": "ИЛИ РАН",
           "url": "https://iling.spb.ru/conferences/2026/5058",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "5b9b2104a5ca",
+      "title": "Выборы в год 120-летия учреждения Государственной Думы России: каким быть парламенту нового созыва?",
+      "organizer": "Отдел правоведения ИНИОН РАН",
+      "disciplines": [
+        "Право"
+      ],
+      "event_start": "2026-09-10",
+      "event_end": "2026-09-10",
+      "submission_deadline": "2026-09-07",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.917,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-09-05",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "inion",
+          "source_name": "ИНИОН РАН",
+          "url": "https://inion.ru/ru/about/news/nauchno-prakticheskii-kruglyi-stol-otdela-pravovedeniia-vybory-v-god-120-letiia-uchrezhdeniia-gosudarstvennoi-dumy-rossii-kakim/",
           "published_date": null
         }
       ]
