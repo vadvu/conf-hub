@@ -1,8 +1,8 @@
 window.CONF_DATA = {
   "version": "0.21.0",
-  "generated_at": "2026-09-08T03:05:44+00:00",
-  "crawled_at": "2026-09-08T03:02:34+00:00",
-  "today": "2026-09-08",
+  "generated_at": "2026-09-09T08:48:26+00:00",
+  "crawled_at": "2026-09-09T04:10:34+00:00",
+  "today": "2026-09-09",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -768,6 +768,34 @@ window.CONF_DATA = {
       ]
     },
     {
+      "id": "36823336d5f9",
+      "title": "Новые горизонты исторической науки: вызовы и ответы",
+      "organizer": "Институт всеобщей истории РАН",
+      "disciplines": [
+        "История и археология"
+      ],
+      "event_start": "2026-10-22",
+      "event_end": "2026-10-23",
+      "submission_deadline": "2026-09-20",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": "https://forms.gle/wbHk6Uc3nQBzxxyY7",
+      "confidence": 0.983,
+      "field_flags": [
+        "title"
+      ],
+      "first_seen": "2026-09-09",
+      "status": "open",
+      "sources": [
+        {
+          "source": "rsuh",
+          "source_name": "РГГУ",
+          "url": "https://www.rsuh.ru/anons/mezhdunarodnaya-nauchno-metodologicheskaya-konferentsiya-novye-gorizonty-istoricheskoy-nauki-vyzovy-i-otvety/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "91d566b0f491",
       "title": "VII Международная научная конференция «Русский язык XIX в.: слово и текст»",
       "organizer": "Группа «Словаря русского языка XIX в.» Института лингвистических исследований Российской академии наук",
@@ -1188,6 +1216,32 @@ window.CONF_DATA = {
           "source": "mgimo_ann",
           "source_name": "МГИМО",
           "url": "https://mgimo.ru/about/news/announce/konf-sovremennye-kommunikatsii-vyzovy-strategii-perspektivy/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "ed092b94d151",
+      "title": "Всероссийская Школа-семинар молодых лексикологов, лексикографов и лингвогеографов",
+      "organizer": "Институт лингвистических исследований РАН",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-11-04",
+      "event_end": "2026-11-05",
+      "submission_deadline": "2026-10-01",
+      "location": "Санкт-Петербург",
+      "format": "онлайн",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [],
+      "first_seen": "2026-09-09",
+      "status": "open",
+      "sources": [
+        {
+          "source": "iling_ras",
+          "source_name": "ИЛИ РАН",
+          "url": "https://iling.spb.ru/conferences/2026/5119",
           "published_date": null
         }
       ]
@@ -1698,6 +1752,35 @@ window.CONF_DATA = {
           "source": "perm_ann_sci",
           "source_name": "НИУ ВШЭ (Пермь)",
           "url": "https://perm.hse.ru/creativ/industrialculture/announcements/1167909302.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "a8c2f9087345",
+      "title": "V симпозиум по корпусной лингвистике НИУ ВШЭ – Пермь «Корпусная лингвистика и дискурс анализ»",
+      "organizer": "НИУ ВШЭ",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-11-13",
+      "event_end": "2026-11-13",
+      "submission_deadline": "2026-10-27",
+      "location": "Пермь",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "organizer"
+      ],
+      "first_seen": "2026-09-09",
+      "status": "open",
+      "sources": [
+        {
+          "source": "perm_ann_sci",
+          "source_name": "НИУ ВШЭ (Пермь)",
+          "url": "https://perm.hse.ru/announcements/1198710772.html",
           "published_date": null
         }
       ]
