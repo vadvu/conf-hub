@@ -1,8 +1,8 @@
 window.CONF_DATA = {
   "version": "0.21.0",
-  "generated_at": "2026-09-09T08:48:26+00:00",
-  "crawled_at": "2026-09-09T04:10:34+00:00",
-  "today": "2026-09-09",
+  "generated_at": "2026-09-10T03:21:26+00:00",
+  "crawled_at": "2026-09-10T03:01:46+00:00",
+  "today": "2026-09-10",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -1155,6 +1155,36 @@ window.CONF_DATA = {
           "source": "msu_events",
           "source_name": "МГУ",
           "url": "https://conf.msu.ru/rus/event/10383/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "3c4e09301265",
+      "title": "IV Всероссийская научная конференция по источниковедению стран Востока",
+      "organizer": "Институт стран Азии и Африки МГУ имени М.В. Ломоносова, Лаборатория востоковедения и компаративистики ШАГИ ИОН РАНХиГС",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-10-19",
+      "event_end": "2026-10-20",
+      "submission_deadline": "2026-10-01",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "location",
+        "disciplines",
+        "official_url"
+      ],
+      "first_seen": "2026-09-10",
+      "status": "open",
+      "sources": [
+        {
+          "source": "ion_ranepa",
+          "source_name": "ИОН РАНХиГС",
+          "url": "https://ion.ranepa.ru/announcement/19-20-oktyabrya-proydyet-iv-vserossiyskaya-nauchnaya-konferentsiya-po-istochnikovedeniyu-stran-vosto/",
           "published_date": null
         }
       ]
@@ -2933,37 +2963,6 @@ window.CONF_DATA = {
       ]
     },
     {
-      "id": "e9dcba2f45b7",
-      "title": "Международная молодёжная конференция «Культурно-языковое многообразие России в эпоху больших языковых моделей»",
-      "organizer": "Московский государственный университет имени М.В. Ломоносова, Институт языкознания РАН, Российская академия образования",
-      "disciplines": [
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-09-08",
-      "event_end": "2026-09-09",
-      "submission_deadline": "2026-07-31",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": "https://lomonosov-msu.ru/rus/event/10346/",
-      "confidence": 0.95,
-      "field_flags": [
-        "title",
-        "organizer",
-        "location",
-        "disciplines"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "msu_events",
-          "source_name": "МГУ",
-          "url": "https://conf.msu.ru/rus/event/10346/",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "06dab93b6dab",
       "title": "Международная научная конференция, посвященная 90-летию Эммы Михайловны Жиляковой",
       "organizer": "кафедра русской и зарубежной литературы филологического факультета ТГУ",
@@ -4268,6 +4267,37 @@ window.CONF_DATA = {
           "source": "mgimo_ann",
           "source_name": "МГИМО",
           "url": "https://mgimo.ru/about/news/announce/sluzhenie-otechestvu-07-26/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "e9dcba2f45b7",
+      "title": "Международная молодёжная конференция «Культурно-языковое многообразие России в эпоху больших языковых моделей»",
+      "organizer": "Московский государственный университет имени М.В. Ломоносова, Институт языкознания РАН, Российская академия образования",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-09-08",
+      "event_end": "2026-09-09",
+      "submission_deadline": "2026-07-31",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": "https://lomonosov-msu.ru/rus/event/10346/",
+      "confidence": 0.95,
+      "field_flags": [
+        "title",
+        "organizer",
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "past",
+      "sources": [
+        {
+          "source": "msu_events",
+          "source_name": "МГУ",
+          "url": "https://conf.msu.ru/rus/event/10346/",
           "published_date": null
         }
       ]
