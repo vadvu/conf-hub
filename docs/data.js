@@ -1,8 +1,8 @@
 window.CONF_DATA = {
   "version": "0.21.0",
-  "generated_at": "2026-09-10T03:21:26+00:00",
-  "crawled_at": "2026-09-10T03:01:46+00:00",
-  "today": "2026-09-10",
+  "generated_at": "2026-09-11T03:03:42+00:00",
+  "crawled_at": "2026-09-11T03:01:27+00:00",
+  "today": "2026-09-11",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -90,217 +90,6 @@ window.CONF_DATA = {
     }
   ],
   "conferences": [
-    {
-      "id": "de704227f25d",
-      "title": "Агрохимия и агроэкология: история сотрудничества и будущие перспективы",
-      "organizer": "Московский государственный университет имени М.В.Ломоносова, Факультет почвоведения, кафедра агрохимии и биохимии растений",
-      "disciplines": [
-        "Химия",
-        "Биология"
-      ],
-      "event_start": "2026-10-07",
-      "event_end": "2026-10-08",
-      "submission_deadline": "2026-09-10",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "location",
-        "disciplines"
-      ],
-      "first_seen": "2026-08-27",
-      "status": "open",
-      "sources": [
-        {
-          "source": "msu_events",
-          "source_name": "МГУ",
-          "url": "https://conf.msu.ru/rus/event/10564/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "0abe1a985998",
-      "title": "Четвертая научная конференция «Модели и методы динамики разреженных газов»",
-      "organizer": "Санкт-Петербургский государственный университет",
-      "disciplines": [
-        "Физика"
-      ],
-      "event_start": "2026-10-15",
-      "event_end": "2026-10-16",
-      "submission_deadline": "2026-09-10",
-      "location": "Санкт-Петербург",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.983,
-      "field_flags": [
-        "title",
-        "organizer",
-        "disciplines"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "open",
-      "sources": [
-        {
-          "source": "spbu_events",
-          "source_name": "СПбГУ",
-          "url": "https://events.spbu.ru/mmrgd",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "df76670fab10",
-      "title": "Международная научная конференция к 100-летию Л.В. Шапошниковой",
-      "organizer": "ИНИОН РАН, Институт стран Азии и Африки (ИСАА) МГУ, отделение философии культуры РФО",
-      "disciplines": [
-        "История и археология",
-        "Филология и лингвистика",
-        "Философия, этика, религиоведение"
-      ],
-      "event_start": "2026-10-23",
-      "event_end": "2026-10-23",
-      "submission_deadline": "2026-09-10",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.9,
-      "field_flags": [
-        "organizer",
-        "location",
-        "disciplines"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "open",
-      "sources": [
-        {
-          "source": "inion",
-          "source_name": "ИНИОН РАН",
-          "url": "https://inion.ru/ru/about/news/mezhdunarodnaia-nauchnaia-konferentciia-k-100-letiiu-l.v-shaposhnikovoi-informatcionnoe-pis-mo/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "3f6e9aa172bb",
-      "title": "Прагматика в семантике. Оценка: реклейминг и другие механизмы сдвига",
-      "organizer": "Научно-учебная лаборатория лингвистической конфликтологии и современных коммуникативных практик факультета гуманитарных наук НИУ ВШЭ",
-      "disciplines": [
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-11-05",
-      "event_end": "2026-11-06",
-      "submission_deadline": "2026-09-10",
-      "location": "Москва",
-      "format": "онлайн",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "location"
-      ],
-      "first_seen": "2026-09-03",
-      "status": "open",
-      "sources": [
-        {
-          "source": "hse_conf",
-          "source_name": "НИУ ВШЭ (конференции)",
-          "url": "https://philology.hse.ru/conflictology/conference",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "7de7fe640c4c",
-      "title": "Всероссийская конференция по прикладной геофизике AppGeo-2026",
-      "organizer": "Санкт-Петербургский университет (СПбГУ)",
-      "disciplines": [
-        "Науки о земле"
-      ],
-      "event_start": "2026-11-16",
-      "event_end": "2026-11-20",
-      "submission_deadline": "2026-09-10",
-      "location": "Санкт-Петербург",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.917,
-      "field_flags": [
-        "organizer",
-        "location",
-        "disciplines",
-        "format"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "open",
-      "sources": [
-        {
-          "source": "spbu_events",
-          "source_name": "СПбГУ",
-          "url": "https://events.spbu.ru/appgeo-2026",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "6d69fdd9d69d",
-      "title": "Молекулярные и системные механизмы адаптаций",
-      "organizer": "Санкт-Петербургский государственный университет и Институт физиологии им. И.П. Павлова РАН",
-      "disciplines": [
-        "Биология"
-      ],
-      "event_start": "2026-11-17",
-      "event_end": "2026-11-20",
-      "submission_deadline": "2026-09-10",
-      "location": "Санкт-Петербург",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.9,
-      "field_flags": [
-        "title",
-        "format"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "open",
-      "sources": [
-        {
-          "source": "spbu_events",
-          "source_name": "СПбГУ",
-          "url": "https://events.spbu.ru/adaptation",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "5d7a9e96c4df",
-      "title": "Управление и управляемость в Российской империи XVIII — начала XX века",
-      "organizer": "Факультет истории и Центр изучения культурной памяти и символической политики Европейского университета",
-      "disciplines": [
-        "История и археология"
-      ],
-      "event_start": "2026-12-03",
-      "event_end": "2026-12-04",
-      "submission_deadline": "2026-09-10",
-      "location": "Санкт-Петербург",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.9,
-      "field_flags": [
-        "title",
-        "organizer",
-        "format"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "open",
-      "sources": [
-        {
-          "source": "eusp",
-          "source_name": "ЕУСПб",
-          "url": "https://eusp.org/news/start-priema-zayavok-vi-ezhegodnaya-nauchnaya-konferenciya-upravlenie-i-upravlyaemost-v-rossiyskoy-imperii-xviii-nachala-xx-veka",
-          "published_date": "2026-06-26"
-        }
-      ]
-    },
     {
       "id": "e0c673d0b62e",
       "title": "Институты публичной власти в Российской Федерации: история и современность",
@@ -1787,6 +1576,37 @@ window.CONF_DATA = {
       ]
     },
     {
+      "id": "4bf028467638",
+      "title": "Жизнь и техника будущего: исследования техноутопий",
+      "organizer": "Факультет антропологии и центр исследований науки и технологий (STS-Центр) Европейского университета",
+      "disciplines": [
+        "Социология (включая демографию и антропологию)",
+        "История и археология",
+        "Философия, этика, религиоведение"
+      ],
+      "event_start": "2026-12-04",
+      "event_end": "2026-12-04",
+      "submission_deadline": "2026-10-25",
+      "location": "Санкт-Петербург",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "organizer",
+        "disciplines"
+      ],
+      "first_seen": "2026-09-11",
+      "status": "open",
+      "sources": [
+        {
+          "source": "eusp",
+          "source_name": "ЕУСПб",
+          "url": "https://eusp.org/news/starit-priema-zayavok-konferenciya-zhizn-i-tekhnika-buduschego-issledovaniya-tekhnoutopiy",
+          "published_date": "2026-09-10"
+        }
+      ]
+    },
+    {
       "id": "a8c2f9087345",
       "title": "V симпозиум по корпусной лингвистике НИУ ВШЭ – Пермь «Корпусная лингвистика и дискурс анализ»",
       "organizer": "НИУ ВШЭ",
@@ -2025,34 +1845,6 @@ window.CONF_DATA = {
           "source": "msu_events",
           "source_name": "МГУ",
           "url": "https://conf.msu.ru/rus/event/10531/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "dcd745f01b60",
-      "title": "Россия в войнах и социальных конфликтах (1914−1945 гг.): исторический опыт и перспективы изучения",
-      "organizer": "Санкт-Петербургский институт истории РАН",
-      "disciplines": [
-        "История и археология"
-      ],
-      "event_start": "2026-09-10",
-      "event_end": "2026-09-11",
-      "submission_deadline": null,
-      "location": "Санкт-Петербург",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.9,
-      "field_flags": [
-        "organizer"
-      ],
-      "first_seen": "2026-07-15",
-      "status": "open",
-      "sources": [
-        {
-          "source": "spbu_events",
-          "source_name": "СПбГУ",
-          "url": "https://events.spbu.ru/soc-conflict",
           "published_date": null
         }
       ]
@@ -3082,6 +2874,34 @@ window.CONF_DATA = {
       ]
     },
     {
+      "id": "fceb6c248b1d",
+      "title": "XIII международная конференция «Современные эконометрические инструменты и приложения - META 2026»",
+      "organizer": "НИУ ВШЭ в Нижнем Новгороде",
+      "disciplines": [
+        "Экономика и менеджмент"
+      ],
+      "event_start": "2026-10-01",
+      "event_end": "2026-10-03",
+      "submission_deadline": "2026-08-04",
+      "location": "Нижний Новгород",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-09-11",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://nnov.hse.ru/meta/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "febe81e7edcb",
       "title": "XVII международная конференция «Философия, культура, ценности в современном мире»",
       "organizer": "Школа философии и культурологии ФГН НИУ ВШЭ",
@@ -3705,29 +3525,240 @@ window.CONF_DATA = {
       ]
     },
     {
-      "id": "5b9b2104a5ca",
-      "title": "Выборы в год 120-летия учреждения Государственной Думы России: каким быть парламенту нового созыва?",
-      "organizer": "Отдел правоведения ИНИОН РАН",
+      "id": "de704227f25d",
+      "title": "Агрохимия и агроэкология: история сотрудничества и будущие перспективы",
+      "organizer": "Московский государственный университет имени М.В.Ломоносова, Факультет почвоведения, кафедра агрохимии и биохимии растений",
       "disciplines": [
-        "Право"
+        "Химия",
+        "Биология"
       ],
-      "event_start": "2026-09-10",
-      "event_end": "2026-09-10",
-      "submission_deadline": "2026-09-07",
+      "event_start": "2026-10-07",
+      "event_end": "2026-10-08",
+      "submission_deadline": "2026-09-10",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-08-27",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "msu_events",
+          "source_name": "МГУ",
+          "url": "https://conf.msu.ru/rus/event/10564/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "0abe1a985998",
+      "title": "Четвертая научная конференция «Модели и методы динамики разреженных газов»",
+      "organizer": "Санкт-Петербургский государственный университет",
+      "disciplines": [
+        "Физика"
+      ],
+      "event_start": "2026-10-15",
+      "event_end": "2026-10-16",
+      "submission_deadline": "2026-09-10",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.983,
+      "field_flags": [
+        "title",
+        "organizer",
+        "disciplines"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/mmrgd",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "df76670fab10",
+      "title": "Международная научная конференция к 100-летию Л.В. Шапошниковой",
+      "organizer": "ИНИОН РАН, Институт стран Азии и Африки (ИСАА) МГУ, отделение философии культуры РФО",
+      "disciplines": [
+        "История и археология",
+        "Филология и лингвистика",
+        "Философия, этика, религиоведение"
+      ],
+      "event_start": "2026-10-23",
+      "event_end": "2026-10-23",
+      "submission_deadline": "2026-09-10",
       "location": "Москва",
       "format": "гибрид",
       "official_url": null,
-      "confidence": 0.917,
+      "confidence": 0.9,
       "field_flags": [
+        "organizer",
+        "location",
         "disciplines"
       ],
-      "first_seen": "2026-09-05",
+      "first_seen": "2026-07-13",
       "status": "closed",
       "sources": [
         {
           "source": "inion",
           "source_name": "ИНИОН РАН",
-          "url": "https://inion.ru/ru/about/news/nauchno-prakticheskii-kruglyi-stol-otdela-pravovedeniia-vybory-v-god-120-letiia-uchrezhdeniia-gosudarstvennoi-dumy-rossii-kakim/",
+          "url": "https://inion.ru/ru/about/news/mezhdunarodnaia-nauchnaia-konferentciia-k-100-letiiu-l.v-shaposhnikovoi-informatcionnoe-pis-mo/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "3f6e9aa172bb",
+      "title": "Прагматика в семантике. Оценка: реклейминг и другие механизмы сдвига",
+      "organizer": "Научно-учебная лаборатория лингвистической конфликтологии и современных коммуникативных практик факультета гуманитарных наук НИУ ВШЭ",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-11-05",
+      "event_end": "2026-11-06",
+      "submission_deadline": "2026-09-10",
+      "location": "Москва",
+      "format": "онлайн",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "location"
+      ],
+      "first_seen": "2026-09-03",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "hse_conf",
+          "source_name": "НИУ ВШЭ (конференции)",
+          "url": "https://philology.hse.ru/conflictology/conference",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "7de7fe640c4c",
+      "title": "Всероссийская конференция по прикладной геофизике AppGeo-2026",
+      "organizer": "Санкт-Петербургский университет (СПбГУ)",
+      "disciplines": [
+        "Науки о земле"
+      ],
+      "event_start": "2026-11-16",
+      "event_end": "2026-11-20",
+      "submission_deadline": "2026-09-10",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.917,
+      "field_flags": [
+        "organizer",
+        "location",
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/appgeo-2026",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "6d69fdd9d69d",
+      "title": "Молекулярные и системные механизмы адаптаций",
+      "organizer": "Санкт-Петербургский государственный университет и Институт физиологии им. И.П. Павлова РАН",
+      "disciplines": [
+        "Биология"
+      ],
+      "event_start": "2026-11-17",
+      "event_end": "2026-11-20",
+      "submission_deadline": "2026-09-10",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.9,
+      "field_flags": [
+        "title",
+        "format"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/adaptation",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "5d7a9e96c4df",
+      "title": "Управление и управляемость в Российской империи XVIII — начала XX века",
+      "organizer": "Факультет истории и Центр изучения культурной памяти и символической политики Европейского университета",
+      "disciplines": [
+        "История и археология"
+      ],
+      "event_start": "2026-12-03",
+      "event_end": "2026-12-04",
+      "submission_deadline": "2026-09-10",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.9,
+      "field_flags": [
+        "title",
+        "organizer",
+        "format"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "eusp",
+          "source_name": "ЕУСПб",
+          "url": "https://eusp.org/news/start-priema-zayavok-vi-ezhegodnaya-nauchnaya-konferenciya-upravlenie-i-upravlyaemost-v-rossiyskoy-imperii-xviii-nachala-xx-veka",
+          "published_date": "2026-06-26"
+        }
+      ]
+    },
+    {
+      "id": "dcd745f01b60",
+      "title": "Россия в войнах и социальных конфликтах (1914−1945 гг.): исторический опыт и перспективы изучения",
+      "organizer": "Санкт-Петербургский институт истории РАН",
+      "disciplines": [
+        "История и археология"
+      ],
+      "event_start": "2026-09-10",
+      "event_end": "2026-09-11",
+      "submission_deadline": null,
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.9,
+      "field_flags": [
+        "organizer"
+      ],
+      "first_seen": "2026-07-15",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/soc-conflict",
           "published_date": null
         }
       ]
@@ -4326,6 +4357,34 @@ window.CONF_DATA = {
           "source": "msu_events",
           "source_name": "МГУ",
           "url": "https://conf.msu.ru/rus/event/10571/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "5b9b2104a5ca",
+      "title": "Выборы в год 120-летия учреждения Государственной Думы России: каким быть парламенту нового созыва?",
+      "organizer": "Отдел правоведения ИНИОН РАН",
+      "disciplines": [
+        "Право"
+      ],
+      "event_start": "2026-09-10",
+      "event_end": "2026-09-10",
+      "submission_deadline": "2026-09-07",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.917,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-09-05",
+      "status": "past",
+      "sources": [
+        {
+          "source": "inion",
+          "source_name": "ИНИОН РАН",
+          "url": "https://inion.ru/ru/about/news/nauchno-prakticheskii-kruglyi-stol-otdela-pravovedeniia-vybory-v-god-120-letiia-uchrezhdeniia-gosudarstvennoi-dumy-rossii-kakim/",
           "published_date": null
         }
       ]
