@@ -1,8 +1,8 @@
 {
   "version": "0.21.0",
-  "generated_at": "2026-09-11T03:03:42+00:00",
-  "crawled_at": "2026-09-11T03:01:27+00:00",
-  "today": "2026-09-11",
+  "generated_at": "2026-09-12T03:06:00+00:00",
+  "crawled_at": "2026-09-12T03:02:39+00:00",
+  "today": "2026-09-12",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -461,6 +461,37 @@
           "source": "ras_events",
           "source_name": "РАН",
           "url": "https://new.ras.ru/press-center/events-additional/vii-vserossiyskiy-demograficheskiy-forum-/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "fcbe20b8858a",
+      "title": "Счастье как социокультурная ценность и пространство взаимопонимания",
+      "organizer": "Центр исследований гражданского общества и некоммерческого сектора Национального исследовательского университета «Высшая школа экономики» (НИУ ВШЭ)",
+      "disciplines": [
+        "Психология",
+        "Социология (включая демографию и антропологию)"
+      ],
+      "event_start": "2026-09-17",
+      "event_end": "2026-09-17",
+      "submission_deadline": "2026-09-16",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "organizer",
+        "disciplines",
+        "submission_deadline"
+      ],
+      "first_seen": "2026-09-12",
+      "status": "open",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://grans.hse.ru/announcements/1199410571.html",
           "published_date": null
         }
       ]
@@ -1636,6 +1667,97 @@
       ]
     },
     {
+      "id": "b65253db9223",
+      "title": "Вторая Конференция неудач",
+      "organizer": "СПб ГБУ «Городской информационно-методический центр «Семья»», Социологический институт РАН – филиал ФНИСЦ РАН",
+      "disciplines": [
+        "Здравоохранение",
+        "Психология"
+      ],
+      "event_start": "2026-11-20",
+      "event_end": "2026-11-20",
+      "submission_deadline": "2026-11-01",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-09-12",
+      "status": "open",
+      "sources": [
+        {
+          "source": "socinst",
+          "source_name": "Социологический институт РАН",
+          "url": "https://socinst.ru/conferences/errors2026/#files",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "997337512948",
+      "title": "XI Международная научная конференция «Конвергентные когнитивно-информационные технологии»",
+      "organizer": "Московский государственный университет имени М.В. Ломоносова, Факультет вычислительной математики и кибернетики",
+      "disciplines": [
+        "Компьютерные науки"
+      ],
+      "event_start": "2026-11-19",
+      "event_end": "2026-11-21",
+      "submission_deadline": "2026-11-02",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "location",
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-09-12",
+      "status": "open",
+      "sources": [
+        {
+          "source": "msu_events",
+          "source_name": "МГУ",
+          "url": "https://conf.msu.ru/rus/event/3800/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "6166bcd4bcc7",
+      "title": "XXI Международная научно-практическая конференция «Современные информационные технологии и ИТ-образование»",
+      "organizer": "Московский государственный университет имени М.В. Ломоносова, Факультет вычислительной математики и кибернетики",
+      "disciplines": [
+        "Компьютерные науки",
+        "Образование"
+      ],
+      "event_start": "2026-11-19",
+      "event_end": "2026-11-21",
+      "submission_deadline": "2026-11-02",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": "it-edu.oit.cmc.msu.ru",
+      "confidence": 0.933,
+      "field_flags": [
+        "location",
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-09-12",
+      "status": "open",
+      "sources": [
+        {
+          "source": "msu_events",
+          "source_name": "МГУ",
+          "url": "https://conf.msu.ru/rus/event/3801/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "7d1376acb2b6",
       "title": "Антропология Петербурга: дом — семья — ценности",
       "organizer": "Социологический институт РАН – филиал ФНИСЦ РАН; Музей антропологии и этнографии им. Петра Великого (Кунсткамера) РАН",
@@ -2376,63 +2498,6 @@
       ]
     },
     {
-      "id": "7a2d6cbb39c6",
-      "title": "XV ежегодная конференция МЦИИР для молодых исследователей «Современные тенденции и перспективы в политической экономии развития»",
-      "organizer": "МЦИИР",
-      "disciplines": [
-        "Экономика и менеджмент",
-        "Социология (включая демографию и антропологию)",
-        "Политология и международные отношения (включая ГМУ)"
-      ],
-      "event_start": "2026-09-10",
-      "event_end": "2026-09-11",
-      "submission_deadline": "2026-06-29",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.967,
-      "field_flags": [],
-      "first_seen": "2026-07-13",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "hse_ann_sci",
-          "source_name": "НИУ ВШЭ",
-          "url": "https://iims.hse.ru/csid/announcements/1164984112.html",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "69f88043c1dc",
-      "title": "VI Международный полевой этнографический симпозиум «ИНБАМ: Народные астрономические знания в культуре народов Урало-Поволжья»",
-      "organizer": "Удмуртский институт истории, языка и литературы УдмФИЦ УрО РАН и Архитектурно-этнографический музей-заповедник «Лудорвай»",
-      "disciplines": [
-        "Экономика и менеджмент",
-        "История и археология"
-      ],
-      "event_start": "2026-09-10",
-      "event_end": "2026-09-11",
-      "submission_deadline": "2026-07-01",
-      "location": "Ижевск",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.9,
-      "field_flags": [
-        "disciplines"
-      ],
-      "first_seen": "2026-07-15",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "iea_ras",
-          "source_name": "ИЭА РАН",
-          "url": "https://iea-ras.ru/?p=20663",
-          "published_date": "2026-01-15"
-        }
-      ]
-    },
-    {
       "id": "29dbe314655b",
       "title": "Всероссийская научная конференция «Анахарсис»",
       "organizer": "философский факультет, Крымский федеральный университет имени В. И. Вернадского и Российский государственный гуманитарный университет",
@@ -2686,40 +2751,6 @@
           "source": "spbu_events",
           "source_name": "СПбГУ",
           "url": "https://events.spbu.ru/konfrelig-2026",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "c3865872d90c",
-      "title": "II Международная научно-практическая конференция «Информационные технологии в сохранении и продвижении культурного наследия»",
-      "organizer": "НИУ ВШЭ в Санкт-Петербурге, Лаборатория управления культурой и туризмом",
-      "disciplines": [
-        "Компьютерные науки",
-        "Экономика и менеджмент",
-        "Медиа и коммуникации"
-      ],
-      "event_start": "2026-09-10",
-      "event_end": "2026-09-11",
-      "submission_deadline": "2026-07-25",
-      "location": "Санкт-Петербург",
-      "format": null,
-      "official_url": null,
-      "confidence": 0.9,
-      "field_flags": [
-        "title",
-        "organizer",
-        "disciplines",
-        "format",
-        "official_url"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "hse_ann_sci",
-          "source_name": "НИУ ВШЭ",
-          "url": "https://cultecon.hse.ru/itheritageconf/2026/",
           "published_date": null
         }
       ]
@@ -3736,34 +3767,6 @@
       ]
     },
     {
-      "id": "dcd745f01b60",
-      "title": "Россия в войнах и социальных конфликтах (1914−1945 гг.): исторический опыт и перспективы изучения",
-      "organizer": "Санкт-Петербургский институт истории РАН",
-      "disciplines": [
-        "История и археология"
-      ],
-      "event_start": "2026-09-10",
-      "event_end": "2026-09-11",
-      "submission_deadline": null,
-      "location": "Санкт-Петербург",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.9,
-      "field_flags": [
-        "organizer"
-      ],
-      "first_seen": "2026-07-15",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "spbu_events",
-          "source_name": "СПбГУ",
-          "url": "https://events.spbu.ru/soc-conflict",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "f208172484c5",
       "title": "IX Российский философский конгресс «Философия в контексте современных вызовов»",
       "organizer": "Санкт-Петербургский государственный университет (СПбГУ)",
@@ -4243,6 +4246,63 @@
       ]
     },
     {
+      "id": "7a2d6cbb39c6",
+      "title": "XV ежегодная конференция МЦИИР для молодых исследователей «Современные тенденции и перспективы в политической экономии развития»",
+      "organizer": "МЦИИР",
+      "disciplines": [
+        "Экономика и менеджмент",
+        "Социология (включая демографию и антропологию)",
+        "Политология и международные отношения (включая ГМУ)"
+      ],
+      "event_start": "2026-09-10",
+      "event_end": "2026-09-11",
+      "submission_deadline": "2026-06-29",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.967,
+      "field_flags": [],
+      "first_seen": "2026-07-13",
+      "status": "past",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://iims.hse.ru/csid/announcements/1164984112.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "69f88043c1dc",
+      "title": "VI Международный полевой этнографический симпозиум «ИНБАМ: Народные астрономические знания в культуре народов Урало-Поволжья»",
+      "organizer": "Удмуртский институт истории, языка и литературы УдмФИЦ УрО РАН и Архитектурно-этнографический музей-заповедник «Лудорвай»",
+      "disciplines": [
+        "Экономика и менеджмент",
+        "История и археология"
+      ],
+      "event_start": "2026-09-10",
+      "event_end": "2026-09-11",
+      "submission_deadline": "2026-07-01",
+      "location": "Ижевск",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.9,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-07-15",
+      "status": "past",
+      "sources": [
+        {
+          "source": "iea_ras",
+          "source_name": "ИЭА РАН",
+          "url": "https://iea-ras.ru/?p=20663",
+          "published_date": "2026-01-15"
+        }
+      ]
+    },
+    {
       "id": "80f8360f2896",
       "title": "II Международная конференция «Экспериментальные исследования малоизученных языков»",
       "organizer": "Центр языка и мозга НИУ ВШЭ совместно с Лабораторией экспериментальной лингвистики Адыгейского государственного университета",
@@ -4298,6 +4358,40 @@
           "source": "mgimo_ann",
           "source_name": "МГИМО",
           "url": "https://mgimo.ru/about/news/announce/sluzhenie-otechestvu-07-26/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "c3865872d90c",
+      "title": "II Международная научно-практическая конференция «Информационные технологии в сохранении и продвижении культурного наследия»",
+      "organizer": "НИУ ВШЭ в Санкт-Петербурге, Лаборатория управления культурой и туризмом",
+      "disciplines": [
+        "Компьютерные науки",
+        "Экономика и менеджмент",
+        "Медиа и коммуникации"
+      ],
+      "event_start": "2026-09-10",
+      "event_end": "2026-09-11",
+      "submission_deadline": "2026-07-25",
+      "location": "Санкт-Петербург",
+      "format": null,
+      "official_url": null,
+      "confidence": 0.9,
+      "field_flags": [
+        "title",
+        "organizer",
+        "disciplines",
+        "format",
+        "official_url"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "past",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://cultecon.hse.ru/itheritageconf/2026/",
           "published_date": null
         }
       ]
@@ -4385,6 +4479,34 @@
           "source": "inion",
           "source_name": "ИНИОН РАН",
           "url": "https://inion.ru/ru/about/news/nauchno-prakticheskii-kruglyi-stol-otdela-pravovedeniia-vybory-v-god-120-letiia-uchrezhdeniia-gosudarstvennoi-dumy-rossii-kakim/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "dcd745f01b60",
+      "title": "Россия в войнах и социальных конфликтах (1914−1945 гг.): исторический опыт и перспективы изучения",
+      "organizer": "Санкт-Петербургский институт истории РАН",
+      "disciplines": [
+        "История и археология"
+      ],
+      "event_start": "2026-09-10",
+      "event_end": "2026-09-11",
+      "submission_deadline": null,
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.9,
+      "field_flags": [
+        "organizer"
+      ],
+      "first_seen": "2026-07-15",
+      "status": "past",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/soc-conflict",
           "published_date": null
         }
       ]
