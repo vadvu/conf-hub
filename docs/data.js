@@ -1,8 +1,8 @@
 window.CONF_DATA = {
   "version": "0.21.0",
-  "generated_at": "2026-09-12T03:06:00+00:00",
-  "crawled_at": "2026-09-12T03:02:39+00:00",
-  "today": "2026-09-12",
+  "generated_at": "2026-09-13T03:01:48+00:00",
+  "crawled_at": "2026-09-13T03:00:51+00:00",
+  "today": "2026-09-13",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -90,68 +90,6 @@ window.CONF_DATA = {
     }
   ],
   "conferences": [
-    {
-      "id": "e0c673d0b62e",
-      "title": "Институты публичной власти в Российской Федерации: история и современность",
-      "organizer": "Исторический факультет",
-      "disciplines": [
-        "Политология и международные отношения (включая ГМУ)",
-        "История и археология"
-      ],
-      "event_start": "2026-10-15",
-      "event_end": "2026-10-15",
-      "submission_deadline": "2026-09-12",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": "https://forms.yandex.ru/u/6a0c4cd249af47364a2158ae",
-      "confidence": 0.967,
-      "field_flags": [
-        "title",
-        "organizer",
-        "location",
-        "disciplines"
-      ],
-      "first_seen": "2026-08-19",
-      "status": "open",
-      "sources": [
-        {
-          "source": "rsuh",
-          "source_name": "РГГУ",
-          "url": "https://www.rsuh.ru/anons/mezhdunarodnaya-nauchno-prakticheskaya-konferentsiya-instituty-publichnoy-vlasti-v-rossiyskoy-federatsii-istoriya-i-sovremennost/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "642161082a29",
-      "title": "Траектории цивилизационных изменений современных обществ",
-      "organizer": "Социологический институт РАН - филиал ФНИСЦ РАН, Центр цивилизационного анализа и глобальной истории",
-      "disciplines": [
-        "Социология (включая демографию и антропологию)"
-      ],
-      "event_start": "2026-10-22",
-      "event_end": "2026-10-23",
-      "submission_deadline": "2026-09-12",
-      "location": "Санкт-Петербург",
-      "format": "очно",
-      "official_url": "https://socinst.ru/conferences/civilchange2026",
-      "confidence": 0.917,
-      "field_flags": [
-        "title",
-        "organizer",
-        "format"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "open",
-      "sources": [
-        {
-          "source": "socinst",
-          "source_name": "Социологический институт РАН",
-          "url": "https://socinst.ru/conferences/civilchange2026/#files",
-          "published_date": null
-        }
-      ]
-    },
     {
       "id": "70d85999eaea",
       "title": "Историко-правовая научная конференция памяти Дмитрия Олеговича Серова «Суд и правосудие в России XVII - начала XX вв.: роль личностного фактора»",
@@ -1727,6 +1665,39 @@ window.CONF_DATA = {
       ]
     },
     {
+      "id": "36220d71b573",
+      "title": "XVI Международная конференция-конкурс «Инновационные информационно-педагогические технологии в системе ИТ-образования»",
+      "organizer": "Московский государственный университет имени М.В.Ломоносова, Факультет вычислительной математики и кибернетики, Кафедра информационной безопасности, Федеральное государственное учреждение Федеральный исследовательский центр «Информатика и управление» Российской академии наук, Объединенный институт ядерных исследований, Лаборатория информационных технологий, Санкт-Петербургский государственный университет, ПАО «Институт электронных управляющих машин имени И.С. Брука», ООО «КРИПТО-ПРО», Компания D-Link, Компания «Базальт СПО», Издательство «Открытые системы», Научный журнал «Прикладная информатика», Научный журнал «Современные информационные технологии и ИТ-образование», Научный журнал «International Journal of Open Information Technologies», Фонд содействия развитию интернет-медиа, ИТ-образования, человеческого потенциала «Лига интернет-медиа»",
+      "disciplines": [
+        "Компьютерные науки",
+        "Образование"
+      ],
+      "event_start": "2026-11-19",
+      "event_end": "2026-11-21",
+      "submission_deadline": "2026-11-02",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "organizer",
+        "location",
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-09-13",
+      "status": "open",
+      "sources": [
+        {
+          "source": "msu_events",
+          "source_name": "МГУ",
+          "url": "https://conf.msu.ru/rus/event/3798/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "6166bcd4bcc7",
       "title": "XXI Международная научно-практическая конференция «Современные информационные технологии и ИТ-образование»",
       "organizer": "Московский государственный университет имени М.В. Ломоносова, Факультет вычислительной математики и кибернетики",
@@ -2436,35 +2407,6 @@ window.CONF_DATA = {
       ]
     },
     {
-      "id": "2ede7706b98e",
-      "title": "XXIV Славистические чтения памяти профессора П. А. Дмитриева и профессора Г. И. Сафронова",
-      "organizer": "Санкт-Петербургский государственный университет",
-      "disciplines": [
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-09-09",
-      "event_end": "2026-09-12",
-      "submission_deadline": "2026-06-20",
-      "location": "Санкт-Петербург",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.967,
-      "field_flags": [
-        "disciplines",
-        "format"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "spbu_events",
-          "source_name": "СПбГУ",
-          "url": "https://events.spbu.ru/slavconf-2026",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "a5164fc62215",
       "title": "XVI конференция с международным участием «Новые информационные технологии в исследовании сложных структур»",
       "organizer": "Московский институт электроники и математики им. А.Н. Тихонова (МИЭМ) и Томский государственный университет (ТГУ)",
@@ -2960,40 +2902,6 @@ window.CONF_DATA = {
           "source": "hse_ann_sci",
           "source_name": "НИУ ВШЭ",
           "url": "https://hum.hse.ru/announcements/1136946780.html",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "5ac67e2b0281",
-      "title": "V Школа молодого востоковеда МГИМО — ИВ РАН",
-      "organizer": "МГИМО — ИВ РАН",
-      "disciplines": [
-        "Политология и международные отношения (включая ГМУ)",
-        "История и археология",
-        "Филология и лингвистика",
-        "Искусствоведение"
-      ],
-      "event_start": "2026-09-06",
-      "event_end": "2026-09-12",
-      "submission_deadline": "2026-08-14",
-      "location": "Ташкент",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.9,
-      "field_flags": [
-        "title",
-        "location",
-        "disciplines",
-        "submission_deadline"
-      ],
-      "first_seen": "2026-08-14",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "mgimo_ann",
-          "source_name": "МГИМО",
-          "url": "https://mgimo.ru/about/news/announce/v-young-orientalist-school/",
           "published_date": null
         }
       ]
@@ -3767,6 +3675,68 @@ window.CONF_DATA = {
       ]
     },
     {
+      "id": "e0c673d0b62e",
+      "title": "Институты публичной власти в Российской Федерации: история и современность",
+      "organizer": "Исторический факультет",
+      "disciplines": [
+        "Политология и международные отношения (включая ГМУ)",
+        "История и археология"
+      ],
+      "event_start": "2026-10-15",
+      "event_end": "2026-10-15",
+      "submission_deadline": "2026-09-12",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": "https://forms.yandex.ru/u/6a0c4cd249af47364a2158ae",
+      "confidence": 0.967,
+      "field_flags": [
+        "title",
+        "organizer",
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-08-19",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "rsuh",
+          "source_name": "РГГУ",
+          "url": "https://www.rsuh.ru/anons/mezhdunarodnaya-nauchno-prakticheskaya-konferentsiya-instituty-publichnoy-vlasti-v-rossiyskoy-federatsii-istoriya-i-sovremennost/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "642161082a29",
+      "title": "Траектории цивилизационных изменений современных обществ",
+      "organizer": "Социологический институт РАН - филиал ФНИСЦ РАН, Центр цивилизационного анализа и глобальной истории",
+      "disciplines": [
+        "Социология (включая демографию и антропологию)"
+      ],
+      "event_start": "2026-10-22",
+      "event_end": "2026-10-23",
+      "submission_deadline": "2026-09-12",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": "https://socinst.ru/conferences/civilchange2026",
+      "confidence": 0.917,
+      "field_flags": [
+        "title",
+        "organizer",
+        "format"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "socinst",
+          "source_name": "Социологический институт РАН",
+          "url": "https://socinst.ru/conferences/civilchange2026/#files",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "f208172484c5",
       "title": "IX Российский философский конгресс «Философия в контексте современных вызовов»",
       "organizer": "Санкт-Петербургский государственный университет (СПбГУ)",
@@ -4183,6 +4153,35 @@ window.CONF_DATA = {
       ]
     },
     {
+      "id": "2ede7706b98e",
+      "title": "XXIV Славистические чтения памяти профессора П. А. Дмитриева и профессора Г. И. Сафронова",
+      "organizer": "Санкт-Петербургский государственный университет",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-09-09",
+      "event_end": "2026-09-12",
+      "submission_deadline": "2026-06-20",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.967,
+      "field_flags": [
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "past",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/slavconf-2026",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "7360a035a510",
       "title": "Международная конференция «Пространственная укладка белка как фактор нормы и патологии»",
       "organizer": "Санкт-Петербургский государственный университет",
@@ -4423,6 +4422,40 @@ window.CONF_DATA = {
           "source": "msu_events",
           "source_name": "МГУ",
           "url": "https://conf.msu.ru/rus/event/10346/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "5ac67e2b0281",
+      "title": "V Школа молодого востоковеда МГИМО — ИВ РАН",
+      "organizer": "МГИМО — ИВ РАН",
+      "disciplines": [
+        "Политология и международные отношения (включая ГМУ)",
+        "История и археология",
+        "Филология и лингвистика",
+        "Искусствоведение"
+      ],
+      "event_start": "2026-09-06",
+      "event_end": "2026-09-12",
+      "submission_deadline": "2026-08-14",
+      "location": "Ташкент",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.9,
+      "field_flags": [
+        "title",
+        "location",
+        "disciplines",
+        "submission_deadline"
+      ],
+      "first_seen": "2026-08-14",
+      "status": "past",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/v-young-orientalist-school/",
           "published_date": null
         }
       ]
