@@ -1,8 +1,8 @@
 {
   "version": "0.21.0",
-  "generated_at": "2026-09-13T03:01:48+00:00",
-  "crawled_at": "2026-09-13T03:00:51+00:00",
-  "today": "2026-09-13",
+  "generated_at": "2026-09-14T03:01:36+00:00",
+  "crawled_at": "2026-09-14T03:01:18+00:00",
+  "today": "2026-09-14",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -90,68 +90,6 @@
     }
   ],
   "conferences": [
-    {
-      "id": "70d85999eaea",
-      "title": "Историко-правовая научная конференция памяти Дмитрия Олеговича Серова «Суд и правосудие в России XVII - начала XX вв.: роль личностного фактора»",
-      "organizer": "Центр цифровых социально-исторических исследований Школы исторических наук Факультета гуманитарных наук Национального исследовательского университета «Высшая школа экономики»",
-      "disciplines": [
-        "Право",
-        "История и археология"
-      ],
-      "event_start": "2026-11-19",
-      "event_end": "2026-11-20",
-      "submission_deadline": "2026-09-13",
-      "location": "онлайн",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.9,
-      "field_flags": [
-        "title",
-        "location",
-        "disciplines"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "open",
-      "sources": [
-        {
-          "source": "hse_ann_sci",
-          "source_name": "НИУ ВШЭ",
-          "url": "https://hist.hse.ru/announcements/1175799981.html",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "94fc9142b2a1",
-      "title": "Республиканизм: теория, история, современные практики",
-      "organizer": "Центр Res Publica Европейского университета в Санкт-Петербурге",
-      "disciplines": [
-        "Философия, этика, религиоведение"
-      ],
-      "event_start": "2026-12-11",
-      "event_end": "2026-12-12",
-      "submission_deadline": "2026-09-13",
-      "location": "Санкт-Петербург",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.9,
-      "field_flags": [
-        "title",
-        "disciplines",
-        "format",
-        "official_url"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "open",
-      "sources": [
-        {
-          "source": "eusp",
-          "source_name": "ЕУСПб",
-          "url": "https://eusp.org/news/start-priema-zayavok-konferenciya-respublikanizm-teoriya-istoriya-sovremennye-praktiki",
-          "published_date": "2026-07-08"
-        }
-      ]
-    },
     {
       "id": "d27e6de39ca4",
       "title": "XXI международная молодежная научная конференция «Экологические проблемы природопользования. Геоэкология — 2026»",
@@ -3733,6 +3671,68 @@
           "source_name": "Социологический институт РАН",
           "url": "https://socinst.ru/conferences/civilchange2026/#files",
           "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "70d85999eaea",
+      "title": "Историко-правовая научная конференция памяти Дмитрия Олеговича Серова «Суд и правосудие в России XVII - начала XX вв.: роль личностного фактора»",
+      "organizer": "Центр цифровых социально-исторических исследований Школы исторических наук Факультета гуманитарных наук Национального исследовательского университета «Высшая школа экономики»",
+      "disciplines": [
+        "Право",
+        "История и археология"
+      ],
+      "event_start": "2026-11-19",
+      "event_end": "2026-11-20",
+      "submission_deadline": "2026-09-13",
+      "location": "онлайн",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.9,
+      "field_flags": [
+        "title",
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://hist.hse.ru/announcements/1175799981.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "94fc9142b2a1",
+      "title": "Республиканизм: теория, история, современные практики",
+      "organizer": "Центр Res Publica Европейского университета в Санкт-Петербурге",
+      "disciplines": [
+        "Философия, этика, религиоведение"
+      ],
+      "event_start": "2026-12-11",
+      "event_end": "2026-12-12",
+      "submission_deadline": "2026-09-13",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.9,
+      "field_flags": [
+        "title",
+        "disciplines",
+        "format",
+        "official_url"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "eusp",
+          "source_name": "ЕУСПб",
+          "url": "https://eusp.org/news/start-priema-zayavok-konferenciya-respublikanizm-teoriya-istoriya-sovremennye-praktiki",
+          "published_date": "2026-07-08"
         }
       ]
     },
