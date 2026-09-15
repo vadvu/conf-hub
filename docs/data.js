@@ -1,8 +1,8 @@
 window.CONF_DATA = {
   "version": "0.21.0",
-  "generated_at": "2026-09-14T03:01:36+00:00",
-  "crawled_at": "2026-09-14T03:01:18+00:00",
-  "today": "2026-09-14",
+  "generated_at": "2026-09-15T03:48:27+00:00",
+  "crawled_at": "2026-09-15T03:02:29+00:00",
+  "today": "2026-09-15",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -1060,6 +1060,64 @@ window.CONF_DATA = {
       ]
     },
     {
+      "id": "a9952bb90b61",
+      "title": "Память и идентичность – IX. Конфликт идентичностей",
+      "organizer": "кафедра всеобщей истории исторического факультета Историко-архивного института РГГУ",
+      "disciplines": [
+        "История и археология"
+      ],
+      "event_start": "2026-10-19",
+      "event_end": "2026-10-20",
+      "submission_deadline": "2026-10-04",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.967,
+      "field_flags": [
+        "title",
+        "disciplines"
+      ],
+      "first_seen": "2026-09-15",
+      "status": "open",
+      "sources": [
+        {
+          "source": "rsuh",
+          "source_name": "РГГУ",
+          "url": "https://www.rsuh.ru/anons/v-rggu-obsudyat-konflikty-identichnostey-v-istorii-chelovechestva/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "ca087200a530",
+      "title": "История повседневности: источниковедческие подходы и методы",
+      "organizer": "кафедра источниковедения факультета архивоведения и документоведения Историко-архивного института РГГУ",
+      "disciplines": [
+        "История и археология"
+      ],
+      "event_start": "2026-10-23",
+      "event_end": "2026-10-23",
+      "submission_deadline": "2026-10-04",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "disciplines"
+      ],
+      "first_seen": "2026-09-15",
+      "status": "open",
+      "sources": [
+        {
+          "source": "rsuh",
+          "source_name": "РГГУ",
+          "url": "https://www.rsuh.ru/anons/v-rggu-obsudyat-istochnikovedcheskie-podkhody-k-izucheniyu-istorii-povsednevnosti/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "ad455c02c49c",
       "title": "Коморбидное поле 3.0: социальное благополучие, здоровье и медицина во множественных контекстах",
       "organizer": "Центр сравнительных исследований социального благополучия НИУ ВШЭ при участии факультета гуманитарных наук и Санкт-Петербургской школы гуманитарных наук и искусств НИУ ВШЭ, Европейского университета в Санкт-Петербурге и Сеченовского университета",
@@ -1449,6 +1507,34 @@ window.CONF_DATA = {
       ]
     },
     {
+      "id": "3cdcf70c9fb1",
+      "title": "XIV Всероссийская Московская Платоновская конференция",
+      "organizer": "Платоновский исследовательский научный центр (ПИНЦ) РГГУ; сектор античной философии Института философии РАН",
+      "disciplines": [
+        "Философия, этика, религиоведение"
+      ],
+      "event_start": "2026-11-10",
+      "event_end": "2026-11-10",
+      "submission_deadline": "2026-10-20",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-09-15",
+      "status": "open",
+      "sources": [
+        {
+          "source": "rsuh",
+          "source_name": "РГГУ",
+          "url": "https://www.rsuh.ru/anons/v-rggu-obsudyat-nasledie-platona-i-ego-znachenie-dlya-sovremennoy-filosofii/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "8a1376be7868",
       "title": "Круглый стол «Антропология входа в профессию»",
       "organizer": "Организаторы круглого стола",
@@ -1663,6 +1749,35 @@ window.CONF_DATA = {
           "source_name": "МГУ",
           "url": "https://conf.msu.ru/rus/event/3801/",
           "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "5ea3e4ee3ac6",
+      "title": "Актуальные вопросы этнологии и антропологии",
+      "organizer": "Институт этнологии и антропологии РАН",
+      "disciplines": [
+        "Социология (включая демографию и антропологию)"
+      ],
+      "event_start": "2026-12-02",
+      "event_end": "2026-12-04",
+      "submission_deadline": "2026-11-08",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "disciplines"
+      ],
+      "first_seen": "2026-09-15",
+      "status": "open",
+      "sources": [
+        {
+          "source": "iea_ras",
+          "source_name": "ИЭА РАН",
+          "url": "https://iea-ras.ru/?p=22453",
+          "published_date": "2026-09-11"
         }
       ]
     },
