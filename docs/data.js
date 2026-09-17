@@ -1,8 +1,8 @@
 window.CONF_DATA = {
   "version": "0.21.0",
-  "generated_at": "2026-09-16T13:47:10+00:00",
-  "crawled_at": "2026-09-16T10:20:03+00:00",
-  "today": "2026-09-16",
+  "generated_at": "2026-09-17T06:55:47+00:00",
+  "crawled_at": "2026-09-17T04:09:51+00:00",
+  "today": "2026-09-17",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -90,37 +90,6 @@ window.CONF_DATA = {
     }
   ],
   "conferences": [
-    {
-      "id": "fcbe20b8858a",
-      "title": "Счастье как социокультурная ценность и пространство взаимопонимания",
-      "organizer": "Центр исследований гражданского общества и некоммерческого сектора Национального исследовательского университета «Высшая школа экономики» (НИУ ВШЭ)",
-      "disciplines": [
-        "Психология",
-        "Социология (включая демографию и антропологию)"
-      ],
-      "event_start": "2026-09-17",
-      "event_end": "2026-09-17",
-      "submission_deadline": "2026-09-16",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "organizer",
-        "disciplines",
-        "submission_deadline"
-      ],
-      "first_seen": "2026-09-12",
-      "status": "open",
-      "sources": [
-        {
-          "source": "hse_ann_sci",
-          "source_name": "НИУ ВШЭ",
-          "url": "https://grans.hse.ru/announcements/1199410571.html",
-          "published_date": null
-        }
-      ]
-    },
     {
       "id": "217131ad0b56",
       "title": "Стратегическая автономия Индонезии в многополярном мире",
@@ -925,6 +894,38 @@ window.CONF_DATA = {
           "source": "rsuh",
           "source_name": "РГГУ",
           "url": "https://www.rsuh.ru/anons/v-rggu-obsudyat-konflikty-identichnostey-v-istorii-chelovechestva/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "74887bc0904e",
+      "title": "VI Международная студенческая конференция «Актуальные проблемы международного права»",
+      "organizer": "Юридический клуб МГИМО",
+      "disciplines": [
+        "Право"
+      ],
+      "event_start": "2026-10-21",
+      "event_end": "2026-10-23",
+      "submission_deadline": "2026-10-04",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.95,
+      "field_flags": [
+        "title",
+        "organizer",
+        "location",
+        "submission_deadline",
+        "format"
+      ],
+      "first_seen": "2026-09-17",
+      "status": "open",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/vi-int-law-problems-conf/",
           "published_date": null
         }
       ]
@@ -1805,6 +1806,67 @@ window.CONF_DATA = {
       ]
     },
     {
+      "id": "8170975f25a0",
+      "title": "VII Всероссийская конференция молодых ученых-лингвистов «Традиционное и новое: проблемы и перспективы лингвистики и лингводидактики в условиях культурного взаимодействия»",
+      "organizer": "Санкт-Петербургский государственный университет",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-12-09",
+      "event_end": "2026-12-11",
+      "submission_deadline": "2026-11-25",
+      "location": "Санкт-Петербург",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.967,
+      "field_flags": [
+        "title",
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-09-17",
+      "status": "open",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/konferenciya-molodyh-uchenyh-lingvistov",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "cca808c46c72",
+      "title": "Молодежная Арктическая научная сессия",
+      "organizer": "Санкт-Петербургский государственный университет",
+      "disciplines": [
+        "Науки о земле",
+        "Биология"
+      ],
+      "event_start": "2027-02-02",
+      "event_end": "2027-02-03",
+      "submission_deadline": "2026-12-04",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.883,
+      "field_flags": [
+        "disciplines",
+        "submission_deadline",
+        "format"
+      ],
+      "first_seen": "2026-09-17",
+      "status": "open",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/molodezhnaya-arkticheskaya-nauchnaya-sessiya",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "f69c9c8b48c7",
       "title": "III Международная научная конференция по истории народного хозяйства и экономических учений «Модели регулирования экономики в мировой теории и практике»",
       "organizer": "Кафедра истории народного хозяйства и экономических учений экономического факультета МГУ имени М.В. Ломоносова",
@@ -2591,37 +2653,6 @@ window.CONF_DATA = {
       ]
     },
     {
-      "id": "7d34dd3c40dd",
-      "title": "X Балтийская научно-практическая конференция BalticPetroModel-2026 Петрофизическое моделирование осадочных пород",
-      "organizer": "Евро-Азиатское геофизическое общество, Институт физики Земли им. О. Ю. Шмидта Российской академии наук, Передовая инженерная школа СПбГУ",
-      "disciplines": [
-        "Математика",
-        "Физика"
-      ],
-      "event_start": "2026-09-14",
-      "event_end": "2026-09-16",
-      "submission_deadline": "2026-07-20",
-      "location": "Петергоф",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "location",
-        "disciplines",
-        "official_url"
-      ],
-      "first_seen": "2026-07-15",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "spbu_events",
-          "source_name": "СПбГУ",
-          "url": "https://events.spbu.ru/balticpetromodel",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "03f0c454ea8d",
       "title": "Международная конференция Науки о религии в зеркале современности. Памяти М. М. Шахнович",
       "organizer": "Санкт-Петербургский государственный университет",
@@ -2893,37 +2924,6 @@ window.CONF_DATA = {
           "source_name": "ИЭА РАН",
           "url": "https://iea-ras.ru/?p=22305",
           "published_date": "2026-08-24"
-        }
-      ]
-    },
-    {
-      "id": "89cb7216b979",
-      "title": "Всероссийская молодежная конференция «Сохраняя наследие: язык, история, культура»",
-      "organizer": "Российское военно-историческое общество в Республике Татарстан, Институт археологии Российской академии наук (ИА РАН), Институт языкознания РАН (ИЯз РАН), Институт этнологии и антропологии Российской академии наук (ИЭА РАН)",
-      "disciplines": [
-        "Социология (включая демографию и антропологию)",
-        "История и археология",
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-09-15",
-      "event_end": "2026-09-16",
-      "submission_deadline": "2026-08-20",
-      "location": "Казань",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "location",
-        "disciplines"
-      ],
-      "first_seen": "2026-08-06",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "iea_ras",
-          "source_name": "ИЭА РАН",
-          "url": "https://iea-ras.ru/?p=22257",
-          "published_date": "2026-08-06"
         }
       ]
     },
@@ -4004,6 +4004,37 @@ window.CONF_DATA = {
       ]
     },
     {
+      "id": "fcbe20b8858a",
+      "title": "Счастье как социокультурная ценность и пространство взаимопонимания",
+      "organizer": "Центр исследований гражданского общества и некоммерческого сектора Национального исследовательского университета «Высшая школа экономики» (НИУ ВШЭ)",
+      "disciplines": [
+        "Психология",
+        "Социология (включая демографию и антропологию)"
+      ],
+      "event_start": "2026-09-17",
+      "event_end": "2026-09-17",
+      "submission_deadline": "2026-09-16",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "organizer",
+        "disciplines",
+        "submission_deadline"
+      ],
+      "first_seen": "2026-09-12",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://grans.hse.ru/announcements/1199410571.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "f208172484c5",
       "title": "IX Российский философский конгресс «Философия в контексте современных вызовов»",
       "organizer": "Санкт-Петербургский государственный университет (СПбГУ)",
@@ -4629,6 +4660,37 @@ window.CONF_DATA = {
       ]
     },
     {
+      "id": "7d34dd3c40dd",
+      "title": "X Балтийская научно-практическая конференция BalticPetroModel-2026 Петрофизическое моделирование осадочных пород",
+      "organizer": "Евро-Азиатское геофизическое общество, Институт физики Земли им. О. Ю. Шмидта Российской академии наук, Передовая инженерная школа СПбГУ",
+      "disciplines": [
+        "Математика",
+        "Физика"
+      ],
+      "event_start": "2026-09-14",
+      "event_end": "2026-09-16",
+      "submission_deadline": "2026-07-20",
+      "location": "Петергоф",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "location",
+        "disciplines",
+        "official_url"
+      ],
+      "first_seen": "2026-07-15",
+      "status": "past",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/balticpetromodel",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "c3865872d90c",
       "title": "II Международная научно-практическая конференция «Информационные технологии в сохранении и продвижении культурного наследия»",
       "organizer": "НИУ ВШЭ в Санкт-Петербурге, Лаборатория управления культурой и туризмом",
@@ -4724,6 +4786,37 @@ window.CONF_DATA = {
           "source_name": "МГИМО",
           "url": "https://mgimo.ru/about/news/announce/v-young-orientalist-school/",
           "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "89cb7216b979",
+      "title": "Всероссийская молодежная конференция «Сохраняя наследие: язык, история, культура»",
+      "organizer": "Российское военно-историческое общество в Республике Татарстан, Институт археологии Российской академии наук (ИА РАН), Институт языкознания РАН (ИЯз РАН), Институт этнологии и антропологии Российской академии наук (ИЭА РАН)",
+      "disciplines": [
+        "Социология (включая демографию и антропологию)",
+        "История и археология",
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-09-15",
+      "event_end": "2026-09-16",
+      "submission_deadline": "2026-08-20",
+      "location": "Казань",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-08-06",
+      "status": "past",
+      "sources": [
+        {
+          "source": "iea_ras",
+          "source_name": "ИЭА РАН",
+          "url": "https://iea-ras.ru/?p=22257",
+          "published_date": "2026-08-06"
         }
       ]
     },
