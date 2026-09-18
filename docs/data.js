@@ -1,8 +1,8 @@
 window.CONF_DATA = {
   "version": "0.21.0",
-  "generated_at": "2026-09-17T06:55:47+00:00",
-  "crawled_at": "2026-09-17T04:09:51+00:00",
-  "today": "2026-09-17",
+  "generated_at": "2026-09-18T03:04:54+00:00",
+  "crawled_at": "2026-09-18T03:02:01+00:00",
+  "today": "2026-09-18",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -90,6 +90,34 @@ window.CONF_DATA = {
     }
   ],
   "conferences": [
+    {
+      "id": "207bac139f47",
+      "title": "Гражданское общество в странах Африки и участие молодежи в народной дипломатии",
+      "organizer": "Центр исследований гражданского общества и некоммерческого сектора Национального исследовательского университета «Высшая школа экономики»",
+      "disciplines": [
+        "Политология и международные отношения (включая ГМУ)"
+      ],
+      "event_start": "2026-09-21",
+      "event_end": "2026-09-21",
+      "submission_deadline": "2026-09-18",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-09-18",
+      "status": "open",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://grans.hse.ru/announcements/1200810331.html",
+          "published_date": null
+        }
+      ]
+    },
     {
       "id": "217131ad0b56",
       "title": "Стратегическая автономия Индонезии в многополярном мире",
@@ -4004,37 +4032,6 @@ window.CONF_DATA = {
       ]
     },
     {
-      "id": "fcbe20b8858a",
-      "title": "Счастье как социокультурная ценность и пространство взаимопонимания",
-      "organizer": "Центр исследований гражданского общества и некоммерческого сектора Национального исследовательского университета «Высшая школа экономики» (НИУ ВШЭ)",
-      "disciplines": [
-        "Психология",
-        "Социология (включая демографию и антропологию)"
-      ],
-      "event_start": "2026-09-17",
-      "event_end": "2026-09-17",
-      "submission_deadline": "2026-09-16",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "organizer",
-        "disciplines",
-        "submission_deadline"
-      ],
-      "first_seen": "2026-09-12",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "hse_ann_sci",
-          "source_name": "НИУ ВШЭ",
-          "url": "https://grans.hse.ru/announcements/1199410571.html",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "f208172484c5",
       "title": "IX Российский философский конгресс «Философия в контексте современных вызовов»",
       "organizer": "Санкт-Петербургский государственный университет (СПбГУ)",
@@ -4872,6 +4869,37 @@ window.CONF_DATA = {
           "source": "inion",
           "source_name": "ИНИОН РАН",
           "url": "https://inion.ru/ru/about/news/nauchno-prakticheskii-kruglyi-stol-otdela-pravovedeniia-vybory-v-god-120-letiia-uchrezhdeniia-gosudarstvennoi-dumy-rossii-kakim/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "fcbe20b8858a",
+      "title": "Счастье как социокультурная ценность и пространство взаимопонимания",
+      "organizer": "Центр исследований гражданского общества и некоммерческого сектора Национального исследовательского университета «Высшая школа экономики» (НИУ ВШЭ)",
+      "disciplines": [
+        "Психология",
+        "Социология (включая демографию и антропологию)"
+      ],
+      "event_start": "2026-09-17",
+      "event_end": "2026-09-17",
+      "submission_deadline": "2026-09-16",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "organizer",
+        "disciplines",
+        "submission_deadline"
+      ],
+      "first_seen": "2026-09-12",
+      "status": "past",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://grans.hse.ru/announcements/1199410571.html",
           "published_date": null
         }
       ]
