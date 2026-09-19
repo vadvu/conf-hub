@@ -1,8 +1,8 @@
 {
   "version": "0.21.0",
-  "generated_at": "2026-09-18T03:04:54+00:00",
-  "crawled_at": "2026-09-18T03:02:01+00:00",
-  "today": "2026-09-18",
+  "generated_at": "2026-09-19T03:04:36+00:00",
+  "crawled_at": "2026-09-19T03:01:45+00:00",
+  "today": "2026-09-19",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -90,67 +90,6 @@
     }
   ],
   "conferences": [
-    {
-      "id": "207bac139f47",
-      "title": "Гражданское общество в странах Африки и участие молодежи в народной дипломатии",
-      "organizer": "Центр исследований гражданского общества и некоммерческого сектора Национального исследовательского университета «Высшая школа экономики»",
-      "disciplines": [
-        "Политология и международные отношения (включая ГМУ)"
-      ],
-      "event_start": "2026-09-21",
-      "event_end": "2026-09-21",
-      "submission_deadline": "2026-09-18",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "disciplines"
-      ],
-      "first_seen": "2026-09-18",
-      "status": "open",
-      "sources": [
-        {
-          "source": "hse_ann_sci",
-          "source_name": "НИУ ВШЭ",
-          "url": "https://grans.hse.ru/announcements/1200810331.html",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "217131ad0b56",
-      "title": "Стратегическая автономия Индонезии в многополярном мире",
-      "organizer": "Центром АСЕАН в сотрудничестве с Посольством Республики Индонезии в Москве",
-      "disciplines": [
-        "Политология и международные отношения (включая ГМУ)"
-      ],
-      "event_start": "2026-09-24",
-      "event_end": "2026-09-24",
-      "submission_deadline": "2026-09-18",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.85,
-      "field_flags": [
-        "title",
-        "organizer",
-        "location",
-        "disciplines",
-        "submission_deadline",
-        "format"
-      ],
-      "first_seen": "2026-09-16",
-      "status": "open",
-      "sources": [
-        {
-          "source": "mgimo_ann",
-          "source_name": "МГИМО",
-          "url": "https://mgimo.ru/about/news/announce/indo-day-26/",
-          "published_date": null
-        }
-      ]
-    },
     {
       "id": "f6c71f3455dc",
       "title": "Четвертые Новиковские чтения: Феномен текста в современном гуманитарном знании: границы понятия",
@@ -754,6 +693,34 @@
       ]
     },
     {
+      "id": "f25ea28231d0",
+      "title": "Политико-географические чтения им. О.В. Витковского",
+      "organizer": "Институт Латинской Америки РАН и лаборатория геополитических исследований Института географии РАН",
+      "disciplines": [
+        "Политология и международные отношения (включая ГМУ)"
+      ],
+      "event_start": "2026-10-29",
+      "event_end": "2026-10-31",
+      "submission_deadline": "2026-10-01",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.967,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-09-19",
+      "status": "open",
+      "sources": [
+        {
+          "source": "ras_events",
+          "source_name": "РАН",
+          "url": "https://new.ras.ru/press-center/events-additional/vii-politiko-geograficheskie-chteniya-im-o-v-vitkovskogo/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "e7baa02c1a50",
       "title": "Современные коммуникации: вызовы, стратегии, перспективы",
       "organizer": "кафедра рекламы и связей с общественностью",
@@ -1017,6 +984,12 @@
           "source_name": "ЦенСИБ НИУ ВШЭ",
           "url": "https://www.hse.ru/news/science/1198495805.html",
           "published_date": "2026-09-07"
+        },
+        {
+          "source": "eusp",
+          "source_name": "ЕУСПб",
+          "url": "https://eusp.org/news/otkryt-priem-zayavok-na-konferenciyu-komorbidnoe-pole-30-socialnoe-blagopoluchie-zdorove-i-medicina-vo-mnozhestvennykh-kontekstakh",
+          "published_date": "2026-09-18"
         }
       ]
     },
@@ -1377,6 +1350,40 @@
       ]
     },
     {
+      "id": "d92bdf5f091c",
+      "title": "Форум генетических технологий «Сириус.ТехноГенетика»",
+      "organizer": "МФТИ",
+      "disciplines": [
+        "Биология",
+        "Медиа и коммуникации"
+      ],
+      "event_start": "2026-11-09",
+      "event_end": "2026-11-13",
+      "submission_deadline": "2026-10-20",
+      "location": "федеральная территория «Сириус»",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.95,
+      "field_flags": [
+        "location",
+        "disciplines",
+        "event_start",
+        "event_end",
+        "format",
+        "official_url"
+      ],
+      "first_seen": "2026-09-19",
+      "status": "open",
+      "sources": [
+        {
+          "source": "mipt_events",
+          "source_name": "МФТИ",
+          "url": "https://mipt.ru/institute/events/registratsiya-na-ii-forum-geneticheskikh-tekhnologiy-sirius-tekhnogenetika",
+          "published_date": "2026-09-18"
+        }
+      ]
+    },
+    {
       "id": "3cdcf70c9fb1",
       "title": "XIV Всероссийская Московская Платоновская конференция",
       "organizer": "Платоновский исследовательский научный центр (ПИНЦ) РГГУ; сектор античной философии Института философии РАН",
@@ -1709,6 +1716,37 @@
           "source": "socinst",
           "source_name": "Социологический институт РАН",
           "url": "https://socinst.ru/conferences/spbconf2026/#files",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "dbd2e2a4f23c",
+      "title": "Алешинские чтения - 2026. Реальность и иллюзии в философии и литературе",
+      "organizer": "Философский факультет",
+      "disciplines": [
+        "История и археология",
+        "Филология и лингвистика",
+        "Философия, этика, религиоведение"
+      ],
+      "event_start": "2026-12-17",
+      "event_end": "2026-12-19",
+      "submission_deadline": "2026-11-10",
+      "location": "РГГУ",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-09-19",
+      "status": "open",
+      "sources": [
+        {
+          "source": "rsuh",
+          "source_name": "РГГУ",
+          "url": "https://www.rsuh.ru/anons/konferentsiya-aleshinskie-chteniya-2026-realnost-i-illyuzii-v-filosofii-i-literature/",
           "published_date": null
         }
       ]
@@ -4027,6 +4065,67 @@
           "source": "ras_events",
           "source_name": "РАН",
           "url": "https://new.ras.ru/press-center/events-additional/vii-vserossiyskiy-demograficheskiy-forum-/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "207bac139f47",
+      "title": "Гражданское общество в странах Африки и участие молодежи в народной дипломатии",
+      "organizer": "Центр исследований гражданского общества и некоммерческого сектора Национального исследовательского университета «Высшая школа экономики»",
+      "disciplines": [
+        "Политология и международные отношения (включая ГМУ)"
+      ],
+      "event_start": "2026-09-21",
+      "event_end": "2026-09-21",
+      "submission_deadline": "2026-09-18",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-09-18",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://grans.hse.ru/announcements/1200810331.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "217131ad0b56",
+      "title": "Стратегическая автономия Индонезии в многополярном мире",
+      "organizer": "Центром АСЕАН в сотрудничестве с Посольством Республики Индонезии в Москве",
+      "disciplines": [
+        "Политология и международные отношения (включая ГМУ)"
+      ],
+      "event_start": "2026-09-24",
+      "event_end": "2026-09-24",
+      "submission_deadline": "2026-09-18",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.85,
+      "field_flags": [
+        "title",
+        "organizer",
+        "location",
+        "disciplines",
+        "submission_deadline",
+        "format"
+      ],
+      "first_seen": "2026-09-16",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/indo-day-26/",
           "published_date": null
         }
       ]
