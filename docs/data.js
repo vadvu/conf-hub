@@ -1,8 +1,8 @@
 window.CONF_DATA = {
   "version": "0.21.0",
-  "generated_at": "2026-09-19T03:04:36+00:00",
-  "crawled_at": "2026-09-19T03:01:45+00:00",
-  "today": "2026-09-19",
+  "generated_at": "2026-09-20T04:55:20+00:00",
+  "crawled_at": "2026-09-20T03:22:44+00:00",
+  "today": "2026-09-20",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -1747,6 +1747,36 @@ window.CONF_DATA = {
           "source": "rsuh",
           "source_name": "РГГУ",
           "url": "https://www.rsuh.ru/anons/konferentsiya-aleshinskie-chteniya-2026-realnost-i-illyuzii-v-filosofii-i-literature/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "51bf8a20edb2",
+      "title": "Научная конференция «Немцы в Санкт-Петербурге (XVIII-XX вв.): исторический, биографический и коммуникативный аспекты»",
+      "organizer": "Институт",
+      "disciplines": [
+        "История и археология"
+      ],
+      "event_start": "2026-11-27",
+      "event_end": "2026-11-27",
+      "submission_deadline": "2026-11-15",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.9,
+      "field_flags": [
+        "organizer",
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-09-20",
+      "status": "open",
+      "sources": [
+        {
+          "source": "socinst",
+          "source_name": "Социологический институт РАН",
+          "url": "https://socinst.ru/conferences/germansspb2026/#files",
           "published_date": null
         }
       ]
