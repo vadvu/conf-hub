@@ -1,8 +1,8 @@
 window.CONF_DATA = {
   "version": "0.21.0",
-  "generated_at": "2026-09-20T04:55:20+00:00",
-  "crawled_at": "2026-09-20T03:22:44+00:00",
-  "today": "2026-09-20",
+  "generated_at": "2026-09-21T03:00:51+00:00",
+  "crawled_at": "2026-09-21T03:00:50+00:00",
+  "today": "2026-09-21",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -90,183 +90,6 @@ window.CONF_DATA = {
     }
   ],
   "conferences": [
-    {
-      "id": "f6c71f3455dc",
-      "title": "Четвертые Новиковские чтения: Феномен текста в современном гуманитарном знании: границы понятия",
-      "organizer": "ИНИОН РАН",
-      "disciplines": [
-        "Филология и лингвистика",
-        "Философия, этика, религиоведение"
-      ],
-      "event_start": "2026-10-07",
-      "event_end": "2026-10-09",
-      "submission_deadline": "2026-09-20",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "disciplines"
-      ],
-      "first_seen": "2026-09-05",
-      "status": "open",
-      "sources": [
-        {
-          "source": "inion",
-          "source_name": "ИНИОН РАН",
-          "url": "https://inion.ru/ru/about/news/vserossiiskaia-nauchno-prakticheskaia-konferentciia-chetvertye-novikovskie-chteniia-fenomen-teksta-v-sovremennom-gumanitarnom/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "d6740c022afa",
-      "title": "Международная научно-практическая конференция «Право и бизнес в реалиях современности: национальное, региональное и международное измерение»",
-      "organizer": "департамент правового регулирования бизнеса факультета права НИУ ВШЭ",
-      "disciplines": [
-        "Экономика и менеджмент",
-        "Право"
-      ],
-      "event_start": "2026-10-12",
-      "event_end": "2026-10-12",
-      "submission_deadline": "2026-09-20",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "disciplines",
-        "official_url"
-      ],
-      "first_seen": "2026-09-16",
-      "status": "open",
-      "sources": [
-        {
-          "source": "hse_conf",
-          "source_name": "НИУ ВШЭ (конференции)",
-          "url": "https://pravo.hse.ru/businesspravo/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "b4a712f84e63",
-      "title": "XV Всероссийская школа молодых учёных «Экспериментальная минералогия, петрология и геохимия»",
-      "organizer": "Институт экспериментальной минералогии им. академика Д.С. Коржинского Российской академии наук (ИЭМ РАН)",
-      "disciplines": [
-        "Науки о земле"
-      ],
-      "event_start": "2026-10-13",
-      "event_end": "2026-10-14",
-      "submission_deadline": "2026-09-20",
-      "location": "Черноголовка",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "disciplines",
-        "format",
-        "official_url"
-      ],
-      "first_seen": "2026-09-05",
-      "status": "open",
-      "sources": [
-        {
-          "source": "ras_events",
-          "source_name": "РАН",
-          "url": "https://new.ras.ru/press-center/events-additional/xv-vserossiyskaya-shkola-molodykh-uchyenykh-eksperimentalnaya-mineralogiya-petrologiya-i-geokhimiya/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "03afa6bb2b03",
-      "title": "XXXVII международная научно-практическая конференция по методике преподавания японского языка «Японский язык в вузе: актуальные проблемы преподавания»",
-      "organizer": "Московский государственный университет имени М.В.Ломоносова, Институт стран Азии и Африки, Кафедра японской филологии Институт научной информации по общественным наукам РАН",
-      "disciplines": [
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-10-22",
-      "event_end": "2026-10-24",
-      "submission_deadline": "2026-09-20",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": "https://forms.gle/sUUUEP4b1cEG4ap79",
-      "confidence": 0.917,
-      "field_flags": [
-        "organizer",
-        "location",
-        "format",
-        "official_url"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "open",
-      "sources": [
-        {
-          "source": "msu_events",
-          "source_name": "МГУ",
-          "url": "https://conf.msu.ru/rus/event/10587/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "36823336d5f9",
-      "title": "Новые горизонты исторической науки: вызовы и ответы",
-      "organizer": "Институт всеобщей истории РАН",
-      "disciplines": [
-        "История и археология"
-      ],
-      "event_start": "2026-10-22",
-      "event_end": "2026-10-23",
-      "submission_deadline": "2026-09-20",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": "https://forms.gle/wbHk6Uc3nQBzxxyY7",
-      "confidence": 0.983,
-      "field_flags": [
-        "title"
-      ],
-      "first_seen": "2026-09-09",
-      "status": "open",
-      "sources": [
-        {
-          "source": "rsuh",
-          "source_name": "РГГУ",
-          "url": "https://www.rsuh.ru/anons/mezhdunarodnaya-nauchno-metodologicheskaya-konferentsiya-novye-gorizonty-istoricheskoy-nauki-vyzovy-i-otvety/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "91d566b0f491",
-      "title": "VII Международная научная конференция «Русский язык XIX в.: слово и текст»",
-      "organizer": "Группа «Словаря русского языка XIX в.» Института лингвистических исследований Российской академии наук",
-      "disciplines": [
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-10-23",
-      "event_end": "2026-10-24",
-      "submission_deadline": "2026-09-20",
-      "location": null,
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title"
-      ],
-      "first_seen": "2026-07-23",
-      "status": "open",
-      "sources": [
-        {
-          "source": "iling_ras",
-          "source_name": "ИЛИ РАН",
-          "url": "https://iling.spb.ru/conferences/2026/5002",
-          "published_date": null
-        }
-      ]
-    },
     {
       "id": "86a36701578a",
       "title": "Коллаб 2К26",
@@ -4156,6 +3979,183 @@ window.CONF_DATA = {
           "source": "mgimo_ann",
           "source_name": "МГИМО",
           "url": "https://mgimo.ru/about/news/announce/indo-day-26/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "f6c71f3455dc",
+      "title": "Четвертые Новиковские чтения: Феномен текста в современном гуманитарном знании: границы понятия",
+      "organizer": "ИНИОН РАН",
+      "disciplines": [
+        "Филология и лингвистика",
+        "Философия, этика, религиоведение"
+      ],
+      "event_start": "2026-10-07",
+      "event_end": "2026-10-09",
+      "submission_deadline": "2026-09-20",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "disciplines"
+      ],
+      "first_seen": "2026-09-05",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "inion",
+          "source_name": "ИНИОН РАН",
+          "url": "https://inion.ru/ru/about/news/vserossiiskaia-nauchno-prakticheskaia-konferentciia-chetvertye-novikovskie-chteniia-fenomen-teksta-v-sovremennom-gumanitarnom/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "d6740c022afa",
+      "title": "Международная научно-практическая конференция «Право и бизнес в реалиях современности: национальное, региональное и международное измерение»",
+      "organizer": "департамент правового регулирования бизнеса факультета права НИУ ВШЭ",
+      "disciplines": [
+        "Экономика и менеджмент",
+        "Право"
+      ],
+      "event_start": "2026-10-12",
+      "event_end": "2026-10-12",
+      "submission_deadline": "2026-09-20",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines",
+        "official_url"
+      ],
+      "first_seen": "2026-09-16",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "hse_conf",
+          "source_name": "НИУ ВШЭ (конференции)",
+          "url": "https://pravo.hse.ru/businesspravo/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "b4a712f84e63",
+      "title": "XV Всероссийская школа молодых учёных «Экспериментальная минералогия, петрология и геохимия»",
+      "organizer": "Институт экспериментальной минералогии им. академика Д.С. Коржинского Российской академии наук (ИЭМ РАН)",
+      "disciplines": [
+        "Науки о земле"
+      ],
+      "event_start": "2026-10-13",
+      "event_end": "2026-10-14",
+      "submission_deadline": "2026-09-20",
+      "location": "Черноголовка",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines",
+        "format",
+        "official_url"
+      ],
+      "first_seen": "2026-09-05",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "ras_events",
+          "source_name": "РАН",
+          "url": "https://new.ras.ru/press-center/events-additional/xv-vserossiyskaya-shkola-molodykh-uchyenykh-eksperimentalnaya-mineralogiya-petrologiya-i-geokhimiya/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "03afa6bb2b03",
+      "title": "XXXVII международная научно-практическая конференция по методике преподавания японского языка «Японский язык в вузе: актуальные проблемы преподавания»",
+      "organizer": "Московский государственный университет имени М.В.Ломоносова, Институт стран Азии и Африки, Кафедра японской филологии Институт научной информации по общественным наукам РАН",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-10-22",
+      "event_end": "2026-10-24",
+      "submission_deadline": "2026-09-20",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": "https://forms.gle/sUUUEP4b1cEG4ap79",
+      "confidence": 0.917,
+      "field_flags": [
+        "organizer",
+        "location",
+        "format",
+        "official_url"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "msu_events",
+          "source_name": "МГУ",
+          "url": "https://conf.msu.ru/rus/event/10587/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "36823336d5f9",
+      "title": "Новые горизонты исторической науки: вызовы и ответы",
+      "organizer": "Институт всеобщей истории РАН",
+      "disciplines": [
+        "История и археология"
+      ],
+      "event_start": "2026-10-22",
+      "event_end": "2026-10-23",
+      "submission_deadline": "2026-09-20",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": "https://forms.gle/wbHk6Uc3nQBzxxyY7",
+      "confidence": 0.983,
+      "field_flags": [
+        "title"
+      ],
+      "first_seen": "2026-09-09",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "rsuh",
+          "source_name": "РГГУ",
+          "url": "https://www.rsuh.ru/anons/mezhdunarodnaya-nauchno-metodologicheskaya-konferentsiya-novye-gorizonty-istoricheskoy-nauki-vyzovy-i-otvety/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "91d566b0f491",
+      "title": "VII Международная научная конференция «Русский язык XIX в.: слово и текст»",
+      "organizer": "Группа «Словаря русского языка XIX в.» Института лингвистических исследований Российской академии наук",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-10-23",
+      "event_end": "2026-10-24",
+      "submission_deadline": "2026-09-20",
+      "location": null,
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title"
+      ],
+      "first_seen": "2026-07-23",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "iling_ras",
+          "source_name": "ИЛИ РАН",
+          "url": "https://iling.spb.ru/conferences/2026/5002",
           "published_date": null
         }
       ]
