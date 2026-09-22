@@ -1,8 +1,8 @@
 {
   "version": "0.21.0",
-  "generated_at": "2026-09-21T03:00:51+00:00",
-  "crawled_at": "2026-09-21T03:00:50+00:00",
-  "today": "2026-09-21",
+  "generated_at": "2026-09-22T03:19:30+00:00",
+  "crawled_at": "2026-09-22T03:01:46+00:00",
+  "today": "2026-09-22",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -90,35 +90,6 @@
     }
   ],
   "conferences": [
-    {
-      "id": "86a36701578a",
-      "title": "Коллаб 2К26",
-      "organizer": "ВкусВилл, ФУДТЕХ Центр",
-      "disciplines": [
-        "Экономика и менеджмент"
-      ],
-      "event_start": "2026-09-25",
-      "event_end": "2026-12-16",
-      "submission_deadline": "2026-09-21",
-      "location": "Москва",
-      "format": null,
-      "official_url": "https://kollab-vv.ru/",
-      "confidence": 0.883,
-      "field_flags": [
-        "disciplines",
-        "format"
-      ],
-      "first_seen": "2026-09-16",
-      "status": "open",
-      "sources": [
-        {
-          "source": "itmo_events",
-          "source_name": "ИТМО",
-          "url": "https://news.itmo.ru/ru/announce/124118/",
-          "published_date": null
-        }
-      ]
-    },
     {
       "id": "4cab35fb8025",
       "title": "IX международная конференция «Еврейское поле: новые открытия, опыт и концептуализация»",
@@ -575,6 +546,36 @@
       ]
     },
     {
+      "id": "aa5c072a1a12",
+      "title": "IV Международная научная конференция «Армия, элиты и общество на Ближнем Востоке и в Северной Африке. Кому принадлежит время?»",
+      "organizer": "Институт востоковедения и африканистики НИУ ВШЭ – Санкт-Петербург",
+      "disciplines": [
+        "Социология (включая демографию и антропологию)",
+        "Политология и международные отношения (включая ГМУ)",
+        "История и археология"
+      ],
+      "event_start": "2026-10-31",
+      "event_end": "2026-11-03",
+      "submission_deadline": "2026-10-01",
+      "location": "Санкт-Петербург",
+      "format": "гибрид",
+      "official_url": "https://vk.cc/d1kK5E",
+      "confidence": 0.967,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-09-22",
+      "status": "open",
+      "sources": [
+        {
+          "source": "hse_conf",
+          "source_name": "НИУ ВШЭ (конференции)",
+          "url": "https://spb.hse.ru/iaas/dmeas/announcements/1202059409.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "ed092b94d151",
       "title": "Всероссийская Школа-семинар молодых лексикологов, лексикографов и лингвогеографов",
       "organizer": "Институт лингвистических исследований РАН",
@@ -875,6 +876,40 @@
           "source": "hse_conf",
           "source_name": "НИУ ВШЭ (конференции)",
           "url": "https://grans.hse.ru/announcements/1197306557.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "80ae9b82e043",
+      "title": "Творческая лаборатория «Культурный код»",
+      "organizer": "Институт искусств и культуры Национального исследовательского Томского государственного университета",
+      "disciplines": [
+        "Медиа и коммуникации",
+        "Искусствоведение"
+      ],
+      "event_start": "2026-10-10",
+      "event_end": "2026-11-06",
+      "submission_deadline": "2026-10-10",
+      "location": "Томск",
+      "format": "гибрид",
+      "official_url": "https://clck.su/creative-lab",
+      "confidence": 0.933,
+      "field_flags": [
+        "organizer",
+        "location",
+        "disciplines",
+        "event_start",
+        "event_end",
+        "format"
+      ],
+      "first_seen": "2026-09-22",
+      "status": "open",
+      "sources": [
+        {
+          "source": "tsu",
+          "source_name": "ТГУ",
+          "url": "https://news.tsu.ru/calendar-of-events/iik-otkryvaet-tvorcheskuyu-laboratoriyu-kulturnyy-kod/",
           "published_date": null
         }
       ]
@@ -3923,34 +3958,6 @@
       ]
     },
     {
-      "id": "207bac139f47",
-      "title": "Гражданское общество в странах Африки и участие молодежи в народной дипломатии",
-      "organizer": "Центр исследований гражданского общества и некоммерческого сектора Национального исследовательского университета «Высшая школа экономики»",
-      "disciplines": [
-        "Политология и международные отношения (включая ГМУ)"
-      ],
-      "event_start": "2026-09-21",
-      "event_end": "2026-09-21",
-      "submission_deadline": "2026-09-18",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "disciplines"
-      ],
-      "first_seen": "2026-09-18",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "hse_ann_sci",
-          "source_name": "НИУ ВШЭ",
-          "url": "https://grans.hse.ru/announcements/1200810331.html",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "217131ad0b56",
       "title": "Стратегическая автономия Индонезии в многополярном мире",
       "organizer": "Центром АСЕАН в сотрудничестве с Посольством Республики Индонезии в Москве",
@@ -4156,6 +4163,35 @@
           "source": "iling_ras",
           "source_name": "ИЛИ РАН",
           "url": "https://iling.spb.ru/conferences/2026/5002",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "86a36701578a",
+      "title": "Коллаб 2К26",
+      "organizer": "ВкусВилл, ФУДТЕХ Центр",
+      "disciplines": [
+        "Экономика и менеджмент"
+      ],
+      "event_start": "2026-09-25",
+      "event_end": "2026-12-16",
+      "submission_deadline": "2026-09-21",
+      "location": "Москва",
+      "format": null,
+      "official_url": "https://kollab-vv.ru/",
+      "confidence": 0.883,
+      "field_flags": [
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-09-16",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "itmo_events",
+          "source_name": "ИТМО",
+          "url": "https://news.itmo.ru/ru/announce/124118/",
           "published_date": null
         }
       ]
@@ -5029,6 +5065,34 @@
           "source": "hse_ann_sci",
           "source_name": "НИУ ВШЭ",
           "url": "https://grans.hse.ru/announcements/1199410571.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "207bac139f47",
+      "title": "Гражданское общество в странах Африки и участие молодежи в народной дипломатии",
+      "organizer": "Центр исследований гражданского общества и некоммерческого сектора Национального исследовательского университета «Высшая школа экономики»",
+      "disciplines": [
+        "Политология и международные отношения (включая ГМУ)"
+      ],
+      "event_start": "2026-09-21",
+      "event_end": "2026-09-21",
+      "submission_deadline": "2026-09-18",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-09-18",
+      "status": "past",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://grans.hse.ru/announcements/1200810331.html",
           "published_date": null
         }
       ]
