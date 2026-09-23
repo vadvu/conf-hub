@@ -1,8 +1,8 @@
 {
   "version": "0.21.0",
-  "generated_at": "2026-09-22T03:19:30+00:00",
-  "crawled_at": "2026-09-22T03:01:46+00:00",
-  "today": "2026-09-22",
+  "generated_at": "2026-09-23T03:54:32+00:00",
+  "crawled_at": "2026-09-23T03:23:32+00:00",
+  "today": "2026-09-23",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -90,38 +90,6 @@
     }
   ],
   "conferences": [
-    {
-      "id": "4cab35fb8025",
-      "title": "IX международная конференция «Еврейское поле: новые открытия, опыт и концептуализация»",
-      "organizer": "Факультет гуманитарных наук НИУ ВШЭ, Еврейский музей и центр толерантности",
-      "disciplines": [
-        "Социология (включая демографию и антропологию)",
-        "История и археология",
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-11-24",
-      "event_end": "2026-11-26",
-      "submission_deadline": "2026-09-22",
-      "location": null,
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.85,
-      "field_flags": [
-        "organizer",
-        "location",
-        "disciplines"
-      ],
-      "first_seen": "2026-08-14",
-      "status": "open",
-      "sources": [
-        {
-          "source": "hse_ann_sci",
-          "source_name": "НИУ ВШЭ",
-          "url": "https://hum.hse.ru/announcements/1189063893.html",
-          "published_date": null
-        }
-      ]
-    },
     {
       "id": "526757ef31b8",
       "title": "Всероссийская научная конференция «Единство народов России в русской философской мысли»",
@@ -1513,6 +1481,36 @@
           "source": "msu_events",
           "source_name": "МГУ",
           "url": "https://conf.msu.ru/rus/event/3801/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "f87958cd3184",
+      "title": "V Международный форум «Право будущего»",
+      "organizer": "Отдел правоведения ИНИОН РАН и информационно-аналитический журнал «Социальные и гуманитарные науки: Отечественная и зарубежная литература»",
+      "disciplines": [
+        "Право"
+      ],
+      "event_start": "2026-11-18",
+      "event_end": "2026-11-19",
+      "submission_deadline": "2026-11-08",
+      "location": "ИНИОН РАН",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "location",
+        "disciplines",
+        "official_url"
+      ],
+      "first_seen": "2026-09-23",
+      "status": "open",
+      "sources": [
+        {
+          "source": "inion",
+          "source_name": "ИНИОН РАН",
+          "url": "https://inion.ru/ru/about/news/v-mezhdunarodnyi-forum-pravo-budushchego-informatcionnoe-pis-mo/",
           "published_date": null
         }
       ]
@@ -4192,6 +4190,38 @@
           "source": "itmo_events",
           "source_name": "ИТМО",
           "url": "https://news.itmo.ru/ru/announce/124118/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "4cab35fb8025",
+      "title": "IX международная конференция «Еврейское поле: новые открытия, опыт и концептуализация»",
+      "organizer": "Факультет гуманитарных наук НИУ ВШЭ, Еврейский музей и центр толерантности",
+      "disciplines": [
+        "Социология (включая демографию и антропологию)",
+        "История и археология",
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-11-24",
+      "event_end": "2026-11-26",
+      "submission_deadline": "2026-09-22",
+      "location": null,
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.85,
+      "field_flags": [
+        "organizer",
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-08-14",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://hum.hse.ru/announcements/1189063893.html",
           "published_date": null
         }
       ]
