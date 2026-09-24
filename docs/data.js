@@ -1,8 +1,8 @@
 window.CONF_DATA = {
   "version": "0.21.0",
-  "generated_at": "2026-09-23T03:54:32+00:00",
-  "crawled_at": "2026-09-23T03:23:32+00:00",
-  "today": "2026-09-23",
+  "generated_at": "2026-09-24T03:21:23+00:00",
+  "crawled_at": "2026-09-24T03:01:46+00:00",
+  "today": "2026-09-24",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -91,37 +91,6 @@ window.CONF_DATA = {
   ],
   "conferences": [
     {
-      "id": "526757ef31b8",
-      "title": "Всероссийская научная конференция «Единство народов России в русской философской мысли»",
-      "organizer": "Кафедра истории русской философии философского факультета МГУ имени М.В. Ломоносова",
-      "disciplines": [
-        "Философия, этика, религиоведение"
-      ],
-      "event_start": "2026-10-23",
-      "event_end": "2026-10-23",
-      "submission_deadline": "2026-09-23",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "organizer",
-        "location",
-        "disciplines"
-      ],
-      "first_seen": "2026-08-27",
-      "status": "open",
-      "sources": [
-        {
-          "source": "msu_events",
-          "source_name": "МГУ",
-          "url": "https://conf.msu.ru/rus/event/10554/",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "0a4af65a0428",
       "title": "II Всероссийская научно-практическая конференция «Актуальные вопросы применения законодательства о наследовании»",
       "organizer": "Департамент частного права НИУ ВШЭ",
@@ -205,6 +174,34 @@ window.CONF_DATA = {
           "source": "msu_events",
           "source_name": "МГУ",
           "url": "https://conf.msu.ru/rus/event/10521/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "020fad98e0fb",
+      "title": "Лаборатория ИИ-педагогики для преподавателей вузов",
+      "organizer": "Яндекс Образование",
+      "disciplines": [
+        "Образование"
+      ],
+      "event_start": "2026-10-27",
+      "event_end": "2026-10-27",
+      "submission_deadline": "2026-09-28",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": "https://forms.yandex.ru/cloud/65d4991643f74f394eecbef2/",
+      "confidence": 0.967,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-09-24",
+      "status": "open",
+      "sources": [
+        {
+          "source": "tsu",
+          "source_name": "ТГУ",
+          "url": "https://news.tsu.ru/calendar-of-events/27-oktyabrya-laboratoriya-ii-pedagogiki-dlya-prepodavateley-vuzov/",
           "published_date": null
         }
       ]
@@ -1299,6 +1296,34 @@ window.CONF_DATA = {
           "source_name": "ЕУСПб",
           "url": "https://eusp.org/news/starit-priema-zayavok-konferenciya-zhizn-i-tekhnika-buduschego-issledovaniya-tekhnoutopiy",
           "published_date": "2026-09-10"
+        }
+      ]
+    },
+    {
+      "id": "4a7cb1d4dec4",
+      "title": "Исторический опыт взаимодействия России и Афганистана: уроки прошлого и перспективы будущего",
+      "organizer": "Кафедра международной безопасности факультета международных отношений Института международных отношений и политических наук; Университетский российско-афганский центр",
+      "disciplines": [
+        "Политология и международные отношения (включая ГМУ)"
+      ],
+      "event_start": "2026-11-03",
+      "event_end": "2026-11-03",
+      "submission_deadline": "2026-10-26",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.967,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-09-24",
+      "status": "open",
+      "sources": [
+        {
+          "source": "rsuh",
+          "source_name": "РГГУ",
+          "url": "https://www.rsuh.ru/anons/istoriyu-i-perspektivy-vzaimodeystviya-rossii-i-afganistana-obsudyat-v-rggu/",
+          "published_date": null
         }
       ]
     },
@@ -4222,6 +4247,37 @@ window.CONF_DATA = {
           "source": "hse_ann_sci",
           "source_name": "НИУ ВШЭ",
           "url": "https://hum.hse.ru/announcements/1189063893.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "526757ef31b8",
+      "title": "Всероссийская научная конференция «Единство народов России в русской философской мысли»",
+      "organizer": "Кафедра истории русской философии философского факультета МГУ имени М.В. Ломоносова",
+      "disciplines": [
+        "Философия, этика, религиоведение"
+      ],
+      "event_start": "2026-10-23",
+      "event_end": "2026-10-23",
+      "submission_deadline": "2026-09-23",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "organizer",
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-08-27",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "msu_events",
+          "source_name": "МГУ",
+          "url": "https://conf.msu.ru/rus/event/10554/",
           "published_date": null
         }
       ]
