@@ -1,8 +1,8 @@
 window.CONF_DATA = {
   "version": "0.21.0",
-  "generated_at": "2026-09-24T03:21:23+00:00",
-  "crawled_at": "2026-09-24T03:01:46+00:00",
-  "today": "2026-09-24",
+  "generated_at": "2026-09-25T03:04:19+00:00",
+  "crawled_at": "2026-09-25T03:01:28+00:00",
+  "today": "2026-09-25",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -744,6 +744,35 @@ window.CONF_DATA = {
       ]
     },
     {
+      "id": "848dfbaf5559",
+      "title": "Модель Полномочной конференции Международного союза электросвязи",
+      "organizer": "Центр искусственного интеллекта МГИМО совместно с магистратурой «Искусственный интеллект» МГИМО–МФТИ",
+      "disciplines": [
+        "Электроника и электротехника"
+      ],
+      "event_start": "2026-10-26",
+      "event_end": "2026-10-28",
+      "submission_deadline": "2026-10-04",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": "itumodel.mgimo.ru",
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines",
+        "official_url"
+      ],
+      "first_seen": "2026-09-25",
+      "status": "open",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/itu-model-10-26/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "ad455c02c49c",
       "title": "Коморбидное поле 3.0: социальное благополучие, здоровье и медицина во множественных контекстах",
       "organizer": "Центр сравнительных исследований социального благополучия НИУ ВШЭ при участии факультета гуманитарных наук и Санкт-Петербургской школы гуманитарных наук и искусств НИУ ВШЭ, Европейского университета в Санкт-Петербурге и Сеченовского университета",
@@ -875,6 +904,38 @@ window.CONF_DATA = {
           "source": "tsu",
           "source_name": "ТГУ",
           "url": "https://news.tsu.ru/calendar-of-events/iik-otkryvaet-tvorcheskuyu-laboratoriyu-kulturnyy-kod/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "6eaf52fb77cc",
+      "title": "Международная научно-практическая конференция Gesamtkunstwerk в художественных практиках XIX–XXI веков",
+      "organizer": "Государственный институт искусствознания, Московская государственная консерватория им. П.И. Чайковского, Российская академия музыки им. Гнесиных, Российский институт театрального искусства — ГИТИС",
+      "disciplines": [
+        "История и археология",
+        "Филология и лингвистика",
+        "Искусствоведение"
+      ],
+      "event_start": "2026-10-30",
+      "event_end": "2026-11-01",
+      "submission_deadline": "2026-10-10",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines",
+        "format",
+        "official_url"
+      ],
+      "first_seen": "2026-09-25",
+      "status": "open",
+      "sources": [
+        {
+          "source": "ras_events",
+          "source_name": "РАН",
+          "url": "https://new.ras.ru/press-center/events-additional/mezhdunarodnaya-nauchno-prakticheskaya-konferentsiya-gesamtkunstwerk-v-khudozhestvennykh-praktikakh/",
           "published_date": null
         }
       ]
@@ -3120,38 +3181,6 @@ window.CONF_DATA = {
       ]
     },
     {
-      "id": "1d8a32dda381",
-      "title": "Язык ИИ мозг",
-      "organizer": "Центр языка и мозга НИУ ВШЭ",
-      "disciplines": [
-        "Фундаментальная медицина (включая нейронауки)",
-        "Психология",
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-09-24",
-      "event_end": "2026-09-24",
-      "submission_deadline": "2026-09-01",
-      "location": "Нижний Новгород",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.883,
-      "field_flags": [
-        "organizer",
-        "disciplines",
-        "submission_deadline"
-      ],
-      "first_seen": "2026-08-18",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "hse_ann_sci",
-          "source_name": "НИУ ВШЭ",
-          "url": "https://nnov.hse.ru/human/neurolingcentre/announcements/1190663493.html",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "4d84a98327e8",
       "title": "Форум психологов России «Мосты поддержки»",
       "organizer": "Санкт-Петербургский государственный университет",
@@ -3976,39 +4005,6 @@ window.CONF_DATA = {
           "source": "ras_events",
           "source_name": "РАН",
           "url": "https://new.ras.ru/press-center/events-additional/vii-vserossiyskiy-demograficheskiy-forum-/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "217131ad0b56",
-      "title": "Стратегическая автономия Индонезии в многополярном мире",
-      "organizer": "Центром АСЕАН в сотрудничестве с Посольством Республики Индонезии в Москве",
-      "disciplines": [
-        "Политология и международные отношения (включая ГМУ)"
-      ],
-      "event_start": "2026-09-24",
-      "event_end": "2026-09-24",
-      "submission_deadline": "2026-09-18",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.85,
-      "field_flags": [
-        "title",
-        "organizer",
-        "location",
-        "disciplines",
-        "submission_deadline",
-        "format"
-      ],
-      "first_seen": "2026-09-16",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "mgimo_ann",
-          "source_name": "МГИМО",
-          "url": "https://mgimo.ru/about/news/announce/indo-day-26/",
           "published_date": null
         }
       ]
@@ -5069,6 +5065,38 @@ window.CONF_DATA = {
       ]
     },
     {
+      "id": "1d8a32dda381",
+      "title": "Язык ИИ мозг",
+      "organizer": "Центр языка и мозга НИУ ВШЭ",
+      "disciplines": [
+        "Фундаментальная медицина (включая нейронауки)",
+        "Психология",
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-09-24",
+      "event_end": "2026-09-24",
+      "submission_deadline": "2026-09-01",
+      "location": "Нижний Новгород",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.883,
+      "field_flags": [
+        "organizer",
+        "disciplines",
+        "submission_deadline"
+      ],
+      "first_seen": "2026-08-18",
+      "status": "past",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://nnov.hse.ru/human/neurolingcentre/announcements/1190663493.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "aef4415874ae",
       "title": "Международная школа Студенческих научных обществ (СНО)",
       "organizer": "Московский государственный университет имени М.В.Ломоносова",
@@ -5179,6 +5207,39 @@ window.CONF_DATA = {
           "source": "hse_ann_sci",
           "source_name": "НИУ ВШЭ",
           "url": "https://grans.hse.ru/announcements/1200810331.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "217131ad0b56",
+      "title": "Стратегическая автономия Индонезии в многополярном мире",
+      "organizer": "Центром АСЕАН в сотрудничестве с Посольством Республики Индонезии в Москве",
+      "disciplines": [
+        "Политология и международные отношения (включая ГМУ)"
+      ],
+      "event_start": "2026-09-24",
+      "event_end": "2026-09-24",
+      "submission_deadline": "2026-09-18",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.85,
+      "field_flags": [
+        "title",
+        "organizer",
+        "location",
+        "disciplines",
+        "submission_deadline",
+        "format"
+      ],
+      "first_seen": "2026-09-16",
+      "status": "past",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/indo-day-26/",
           "published_date": null
         }
       ]
