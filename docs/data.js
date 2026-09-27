@@ -1,8 +1,8 @@
 window.CONF_DATA = {
   "version": "0.21.0",
-  "generated_at": "2026-09-26T03:02:35+00:00",
-  "crawled_at": "2026-09-26T03:01:24+00:00",
-  "today": "2026-09-26",
+  "generated_at": "2026-09-27T04:37:17+00:00",
+  "crawled_at": "2026-09-27T04:37:16+00:00",
+  "today": "2026-09-27",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -1970,39 +1970,6 @@ window.CONF_DATA = {
       ]
     },
     {
-      "id": "2114b28e9454",
-      "title": "XIII Международная научная конференция «Применение многомерных статистических методов в экономике и оценке качества им. С.А. Айвазяна»",
-      "organizer": "Национальный исследовательский университет «Высшая школа экономики», Центральный экономико-математический институт Российской академии наук, Московская школа экономики МГУ им. М.В. Ломоносова",
-      "disciplines": [
-        "Математика",
-        "Экономика и менеджмент"
-      ],
-      "event_start": "2026-09-22",
-      "event_end": "2026-09-26",
-      "submission_deadline": "2026-04-30",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.967,
-      "field_flags": [
-        "title",
-        "organizer",
-        "disciplines",
-        "event_start",
-        "format"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "hse_ann_sci",
-          "source_name": "НИУ ВШЭ",
-          "url": "https://economics.hse.ru/dest/statanalysis/2026/",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "51e21071494a",
       "title": "Суперкомпьютерные дни в России 2026",
       "organizer": "Московский государственный университет имени М.В.Ломоносова",
@@ -2813,38 +2780,6 @@ window.CONF_DATA = {
           "source_name": "ЕУСПб",
           "url": "https://eusp.org/news/nauchnaya-konferenciya-po-tu-storonu-istochnika-emicheskiy-podkhod-v-socialno-gumanitarnykh-naukakh",
           "published_date": "2026-06-23"
-        }
-      ]
-    },
-    {
-      "id": "50988090b199",
-      "title": "Школа молодого востоковеда МГИМО — ИВ РАН",
-      "organizer": "МГИМО — ИВ РАН",
-      "disciplines": [
-        "Экономика и менеджмент",
-        "Социология (включая демографию и антропологию)",
-        "Политология и международные отношения (включая ГМУ)"
-      ],
-      "event_start": "2026-09-20",
-      "event_end": "2026-09-26",
-      "submission_deadline": "2026-08-24",
-      "location": "Астана (Республика Казахстан)",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.967,
-      "field_flags": [
-        "title",
-        "location",
-        "disciplines"
-      ],
-      "first_seen": "2026-08-12",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "mgimo_ann",
-          "source_name": "МГИМО",
-          "url": "https://mgimo.ru/about/news/announce/vi-young-orientalist-school/",
-          "published_date": null
         }
       ]
     },
@@ -4215,6 +4150,39 @@ window.CONF_DATA = {
       ]
     },
     {
+      "id": "2114b28e9454",
+      "title": "XIII Международная научная конференция «Применение многомерных статистических методов в экономике и оценке качества им. С.А. Айвазяна»",
+      "organizer": "Национальный исследовательский университет «Высшая школа экономики», Центральный экономико-математический институт Российской академии наук, Московская школа экономики МГУ им. М.В. Ломоносова",
+      "disciplines": [
+        "Математика",
+        "Экономика и менеджмент"
+      ],
+      "event_start": "2026-09-22",
+      "event_end": "2026-09-26",
+      "submission_deadline": "2026-04-30",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.967,
+      "field_flags": [
+        "title",
+        "organizer",
+        "disciplines",
+        "event_start",
+        "format"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "past",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://economics.hse.ru/dest/statanalysis/2026/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "8dac83f47e85",
       "title": "Петербургская школа по аналитической химии",
       "organizer": "Институт химии Санкт-Петербургского государственного университета, Научный совет РАН по аналитической химии, Министерство науки и высшего образования Российской Федерации, Газпромбанк, Студенческое научное сообщество Санкт-Петербургского государственного университета",
@@ -5027,6 +4995,38 @@ window.CONF_DATA = {
           "source": "itmo_events",
           "source_name": "ИТМО",
           "url": "https://news.itmo.ru/ru/announce/121921/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "50988090b199",
+      "title": "Школа молодого востоковеда МГИМО — ИВ РАН",
+      "organizer": "МГИМО — ИВ РАН",
+      "disciplines": [
+        "Экономика и менеджмент",
+        "Социология (включая демографию и антропологию)",
+        "Политология и международные отношения (включая ГМУ)"
+      ],
+      "event_start": "2026-09-20",
+      "event_end": "2026-09-26",
+      "submission_deadline": "2026-08-24",
+      "location": "Астана (Республика Казахстан)",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.967,
+      "field_flags": [
+        "title",
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-08-12",
+      "status": "past",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/vi-young-orientalist-school/",
           "published_date": null
         }
       ]
