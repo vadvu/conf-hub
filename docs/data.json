@@ -1,8 +1,8 @@
 {
   "version": "0.21.0",
-  "generated_at": "2026-09-27T04:37:17+00:00",
-  "crawled_at": "2026-09-27T04:37:16+00:00",
-  "today": "2026-09-27",
+  "generated_at": "2026-09-28T03:33:05+00:00",
+  "crawled_at": "2026-09-28T03:33:04+00:00",
+  "today": "2026-09-28",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -2370,37 +2370,6 @@
       ]
     },
     {
-      "id": "29dbe314655b",
-      "title": "Всероссийская научная конференция «Анахарсис»",
-      "organizer": "философский факультет, Крымский федеральный университет имени В. И. Вернадского и Российский государственный гуманитарный университет",
-      "disciplines": [
-        "Философия, этика, религиоведение"
-      ],
-      "event_start": "2026-09-25",
-      "event_end": "2026-09-27",
-      "submission_deadline": "2026-07-01",
-      "location": "Судак, пос. Новый Свет",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "organizer",
-        "location",
-        "submission_deadline"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "rsuh",
-          "source_name": "РГГУ",
-          "url": "https://www.rsuh.ru/anons/ezhegodnaya-vserossiyskaya-nauchnaya-konferentsiya-anakharsis/",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "ec8d0531d6f8",
       "title": "Наука о народах: история, теория, методология",
       "organizer": "Ассоциация этнологов и антропологов России, Институт этнологии и антропологии им. Н.Н. Миклухо-Маклая РАН, Российский государственный гуманитарный университет (Учебно-научный институт антропологии и этнологии), Исторический факультет МГУ им. М.В. Ломоносова (Кафедра этнологии), Факультет гуманитарных наук НИУ Высшая школа экономики (Лаборатория региональных этнологических исследований)",
@@ -4654,6 +4623,37 @@
           "source_name": "ИЭА РАН",
           "url": "https://iea-ras.ru/?p=20663",
           "published_date": "2026-01-15"
+        }
+      ]
+    },
+    {
+      "id": "29dbe314655b",
+      "title": "Всероссийская научная конференция «Анахарсис»",
+      "organizer": "философский факультет, Крымский федеральный университет имени В. И. Вернадского и Российский государственный гуманитарный университет",
+      "disciplines": [
+        "Философия, этика, религиоведение"
+      ],
+      "event_start": "2026-09-25",
+      "event_end": "2026-09-27",
+      "submission_deadline": "2026-07-01",
+      "location": "Судак, пос. Новый Свет",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "organizer",
+        "location",
+        "submission_deadline"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "past",
+      "sources": [
+        {
+          "source": "rsuh",
+          "source_name": "РГГУ",
+          "url": "https://www.rsuh.ru/anons/ezhegodnaya-vserossiyskaya-nauchnaya-konferentsiya-anakharsis/",
+          "published_date": null
         }
       ]
     },
