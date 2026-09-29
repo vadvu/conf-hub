@@ -1,8 +1,8 @@
 window.CONF_DATA = {
   "version": "0.21.0",
-  "generated_at": "2026-09-28T03:33:05+00:00",
-  "crawled_at": "2026-09-28T03:33:04+00:00",
-  "today": "2026-09-28",
+  "generated_at": "2026-09-29T09:02:24+00:00",
+  "crawled_at": "2026-09-29T04:04:54+00:00",
+  "today": "2026-09-29",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -90,34 +90,6 @@ window.CONF_DATA = {
     }
   ],
   "conferences": [
-    {
-      "id": "020fad98e0fb",
-      "title": "Лаборатория ИИ-педагогики для преподавателей вузов",
-      "organizer": "Яндекс Образование",
-      "disciplines": [
-        "Образование"
-      ],
-      "event_start": "2026-10-27",
-      "event_end": "2026-10-27",
-      "submission_deadline": "2026-09-28",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": "https://forms.yandex.ru/cloud/65d4991643f74f394eecbef2/",
-      "confidence": 0.967,
-      "field_flags": [
-        "disciplines"
-      ],
-      "first_seen": "2026-09-24",
-      "status": "open",
-      "sources": [
-        {
-          "source": "tsu",
-          "source_name": "ТГУ",
-          "url": "https://news.tsu.ru/calendar-of-events/27-oktyabrya-laboratoriya-ii-pedagogiki-dlya-prepodavateley-vuzov/",
-          "published_date": null
-        }
-      ]
-    },
     {
       "id": "8c7fc0033f41",
       "title": "Всероссийская научно-практическая конференция с международным участием «Управление образованием на основе данных. В поисках точки опоры»",
@@ -1509,6 +1481,36 @@ window.CONF_DATA = {
           "source": "msu_events",
           "source_name": "МГУ",
           "url": "https://conf.msu.ru/rus/event/3801/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "24b72b31386e",
+      "title": "Молодёжная конференция «Физика элементарных частиц и космология»",
+      "organizer": "Московский институт электроники и математики им. А.Н. Тихонова",
+      "disciplines": [
+        "Физика"
+      ],
+      "event_start": "2026-12-03",
+      "event_end": "2026-12-04",
+      "submission_deadline": "2026-11-05",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "organizer",
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-09-29",
+      "status": "open",
+      "sources": [
+        {
+          "source": "hse_conf",
+          "source_name": "НИУ ВШЭ (конференции)",
+          "url": "https://lepp.hse.ru/ysconf/",
           "published_date": null
         }
       ]
@@ -3991,6 +3993,34 @@ window.CONF_DATA = {
           "source": "msu_events",
           "source_name": "МГУ",
           "url": "https://conf.msu.ru/rus/event/10521/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "020fad98e0fb",
+      "title": "Лаборатория ИИ-педагогики для преподавателей вузов",
+      "organizer": "Яндекс Образование",
+      "disciplines": [
+        "Образование"
+      ],
+      "event_start": "2026-10-27",
+      "event_end": "2026-10-27",
+      "submission_deadline": "2026-09-28",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": "https://forms.yandex.ru/cloud/65d4991643f74f394eecbef2/",
+      "confidence": 0.967,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-09-24",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "tsu",
+          "source_name": "ТГУ",
+          "url": "https://news.tsu.ru/calendar-of-events/27-oktyabrya-laboratoriya-ii-pedagogiki-dlya-prepodavateley-vuzov/",
           "published_date": null
         }
       ]
