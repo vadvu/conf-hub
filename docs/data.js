@@ -1,8 +1,8 @@
 window.CONF_DATA = {
   "version": "0.21.0",
-  "generated_at": "2026-09-29T09:02:24+00:00",
-  "crawled_at": "2026-09-29T04:04:54+00:00",
-  "today": "2026-09-29",
+  "generated_at": "2026-09-30T13:27:37+00:00",
+  "crawled_at": "2026-09-30T13:23:33+00:00",
+  "today": "2026-09-30",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -90,35 +90,6 @@ window.CONF_DATA = {
     }
   ],
   "conferences": [
-    {
-      "id": "8c7fc0033f41",
-      "title": "Всероссийская научно-практическая конференция с международным участием «Управление образованием на основе данных. В поисках точки опоры»",
-      "organizer": "Санкт-Петербургский государственный университет, Институт педагогики СПбГУ, Санкт-Петербургский Центр оценки качества образования и информационных технологий (СПбЦОКОиИТ)",
-      "disciplines": [
-        "Образование"
-      ],
-      "event_start": "2026-10-30",
-      "event_end": "2026-10-30",
-      "submission_deadline": "2026-09-29",
-      "location": "Санкт-Петербург",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.917,
-      "field_flags": [
-        "title",
-        "location"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "open",
-      "sources": [
-        {
-          "source": "spbu_events",
-          "source_name": "СПбГУ",
-          "url": "https://events.spbu.ru/tochka-opory",
-          "published_date": null
-        }
-      ]
-    },
     {
       "id": "24b58cf90d74",
       "title": "IV Всероссийская научная конференция «Турецкая Республика в эпоху глобальных трансформаций»",
@@ -508,6 +479,39 @@ window.CONF_DATA = {
       ]
     },
     {
+      "id": "421de03f504d",
+      "title": "День Филиппин в МГИМО",
+      "organizer": "Центр АСЕАН при поддержке Посольства Республики Филиппин в Москве и Посольства Российской Федерации в Маниле",
+      "disciplines": [
+        "Политология и международные отношения (включая ГМУ)"
+      ],
+      "event_start": "2026-10-06",
+      "event_end": "2026-10-06",
+      "submission_deadline": "2026-10-02",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.883,
+      "field_flags": [
+        "title",
+        "organizer",
+        "location",
+        "disciplines",
+        "format",
+        "official_url"
+      ],
+      "first_seen": "2026-09-30",
+      "status": "open",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/philippines-day-2026/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "a36ae6ef0652",
       "title": "Гидроминеральное сырьё нефтегазовых месторождений: технологии добычи и извлечения ценных компонентов",
       "organizer": "Санкт-Петербургский государственный университет",
@@ -784,6 +788,64 @@ window.CONF_DATA = {
           "source": "hse_conf",
           "source_name": "НИУ ВШЭ (конференции)",
           "url": "https://grans.hse.ru/announcements/1197306557.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "6d0a6012ab7b",
+      "title": "Всероссийский патриотический форум — 2026",
+      "organizer": "Национальный центр «Россия»",
+      "disciplines": [],
+      "event_start": "2026-12-08",
+      "event_end": "2026-12-11",
+      "submission_deadline": "2026-10-06",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.917,
+      "field_flags": [],
+      "first_seen": "2026-09-30",
+      "status": "open",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/patriot-forum-2026/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "b41d4103fb7c",
+      "title": "Финатлон форум «Профессионалы будущего»",
+      "organizer": "Российский государственный гуманитарный университет",
+      "disciplines": [
+        "Экономика и менеджмент",
+        "Социальная и экономическая география (включая урбанистику и транспорт)",
+        "Философия, этика, религиоведение"
+      ],
+      "event_start": "2026-11-23",
+      "event_end": "2026-12-03",
+      "submission_deadline": "2026-10-09",
+      "location": "онлайн",
+      "format": "гибрид",
+      "official_url": "https://finatlonforum.ru",
+      "confidence": 0.933,
+      "field_flags": [
+        "location",
+        "disciplines",
+        "event_start",
+        "event_end",
+        "official_url"
+      ],
+      "first_seen": "2026-09-30",
+      "status": "open",
+      "sources": [
+        {
+          "source": "rsuh",
+          "source_name": "РГГУ",
+          "url": "https://www.rsuh.ru/anons/ix-finatlon-forum-professionaly-budushchego/",
           "published_date": null
         }
       ]
@@ -1244,6 +1306,34 @@ window.CONF_DATA = {
       ]
     },
     {
+      "id": "bbb8be406878",
+      "title": "II Международная научно-практическая конференция памяти профессора Л. Н. Галенской",
+      "organizer": "Санкт-Петербургский государственный университет",
+      "disciplines": [
+        "Право"
+      ],
+      "event_start": "2026-10-29",
+      "event_end": "2026-10-29",
+      "submission_deadline": "2026-10-25",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.967,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-09-30",
+      "status": "open",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/galenskaya_2026",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "4bf028467638",
       "title": "Жизнь и техника будущего: исследования техноутопий",
       "organizer": "Факультет антропологии и центр исследований науки и технологий (STS-Центр) Европейского университета",
@@ -1511,6 +1601,36 @@ window.CONF_DATA = {
           "source": "hse_conf",
           "source_name": "НИУ ВШЭ (конференции)",
           "url": "https://lepp.hse.ru/ysconf/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "2c35f2a843a3",
+      "title": "Всероссийская научная конференция «Цифровизация общества: трансформация повседневных практик и исследовательских перспектив»",
+      "organizer": "Институт статистических исследований и экономики знаний НИУ ВШЭ",
+      "disciplines": [
+        "Экономика и менеджмент",
+        "Образование",
+        "Социология (включая демографию и антропологию)"
+      ],
+      "event_start": "2026-12-10",
+      "event_end": "2026-12-11",
+      "submission_deadline": "2026-11-05",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.983,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-09-30",
+      "status": "open",
+      "sources": [
+        {
+          "source": "hse_conf",
+          "source_name": "НИУ ВШЭ (конференции)",
+          "url": "https://issek.hse.ru/announcements/1204749257.html",
           "published_date": null
         }
       ]
@@ -1967,37 +2087,6 @@ window.CONF_DATA = {
           "source": "ras_events",
           "source_name": "РАН",
           "url": "https://new.ras.ru/press-center/events-additional/xvii-rossiyskaya-konferentsiya-po-fizike-poluprovodnikov-rkfp-2026/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "51e21071494a",
-      "title": "Суперкомпьютерные дни в России 2026",
-      "organizer": "Московский государственный университет имени М.В.Ломоносова",
-      "disciplines": [
-        "Компьютерные науки"
-      ],
-      "event_start": "2026-09-28",
-      "event_end": "2026-09-29",
-      "submission_deadline": "2026-04-30",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.95,
-      "field_flags": [
-        "title",
-        "organizer",
-        "location",
-        "disciplines"
-      ],
-      "first_seen": "2026-08-27",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "msu_events",
-          "source_name": "МГУ",
-          "url": "https://conf.msu.ru/rus/event/10618/",
           "published_date": null
         }
       ]
@@ -4026,6 +4115,35 @@ window.CONF_DATA = {
       ]
     },
     {
+      "id": "8c7fc0033f41",
+      "title": "Всероссийская научно-практическая конференция с международным участием «Управление образованием на основе данных. В поисках точки опоры»",
+      "organizer": "Санкт-Петербургский государственный университет, Институт педагогики СПбГУ, Санкт-Петербургский Центр оценки качества образования и информационных технологий (СПбЦОКОиИТ)",
+      "disciplines": [
+        "Образование"
+      ],
+      "event_start": "2026-10-30",
+      "event_end": "2026-10-30",
+      "submission_deadline": "2026-09-29",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.917,
+      "field_flags": [
+        "title",
+        "location"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/tochka-opory",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "f208172484c5",
       "title": "IX Российский философский конгресс «Философия в контексте современных вызовов»",
       "organizer": "Санкт-Петербургский государственный университет (СПбГУ)",
@@ -4177,6 +4295,37 @@ window.CONF_DATA = {
           "source": "hse_ann_sci",
           "source_name": "НИУ ВШЭ",
           "url": "https://economics.hse.ru/dest/statanalysis/2026/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "51e21071494a",
+      "title": "Суперкомпьютерные дни в России 2026",
+      "organizer": "Московский государственный университет имени М.В.Ломоносова",
+      "disciplines": [
+        "Компьютерные науки"
+      ],
+      "event_start": "2026-09-28",
+      "event_end": "2026-09-29",
+      "submission_deadline": "2026-04-30",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.95,
+      "field_flags": [
+        "title",
+        "organizer",
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-08-27",
+      "status": "past",
+      "sources": [
+        {
+          "source": "msu_events",
+          "source_name": "МГУ",
+          "url": "https://conf.msu.ru/rus/event/10618/",
           "published_date": null
         }
       ]
