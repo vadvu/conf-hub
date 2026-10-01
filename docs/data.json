@@ -1,8 +1,8 @@
 {
   "version": "0.21.0",
-  "generated_at": "2026-09-30T13:27:37+00:00",
-  "crawled_at": "2026-09-30T13:23:33+00:00",
-  "today": "2026-09-30",
+  "generated_at": "2026-10-01T03:05:15+00:00",
+  "crawled_at": "2026-10-01T03:02:27+00:00",
+  "today": "2026-10-01",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -91,162 +91,6 @@
   ],
   "conferences": [
     {
-      "id": "24b58cf90d74",
-      "title": "IV Всероссийская научная конференция «Турецкая Республика в эпоху глобальных трансформаций»",
-      "organizer": "Отдел Ближнего и Постсоветского Востока ИНИОН РАН",
-      "disciplines": [
-        "Политология и международные отношения (включая ГМУ)",
-        "История и археология"
-      ],
-      "event_start": "2026-10-13",
-      "event_end": "2026-10-13",
-      "submission_deadline": "2026-09-30",
-      "location": null,
-      "format": null,
-      "official_url": null,
-      "confidence": 0.85,
-      "field_flags": [
-        "organizer",
-        "location",
-        "disciplines",
-        "format"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "open",
-      "sources": [
-        {
-          "source": "inion",
-          "source_name": "ИНИОН РАН",
-          "url": "https://inion.ru/ru/about/news/iv-vserossiiskaia-nauchnaia-konferentciia-turetckaia-respublika-v-epokhu-global-nykh-transformatcii-informatcionnoe-pis-mo/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "13c4aea3e011",
-      "title": "XVIII Мелетинские чтения",
-      "organizer": "Институт высших гуманитарных исследований им. Е. М. Мелетинского РГГУ, Центр типологии и семиотики фольклора РГГУ",
-      "disciplines": [
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-10-22",
-      "event_end": "2026-10-23",
-      "submission_deadline": "2026-09-30",
-      "location": "РГГУ",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "location",
-        "disciplines",
-        "official_url"
-      ],
-      "first_seen": "2026-08-29",
-      "status": "open",
-      "sources": [
-        {
-          "source": "rsuh",
-          "source_name": "РГГУ",
-          "url": "https://www.rsuh.ru/anons/v-rggu-proydut-xviii-meletinskie-chteniya/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "4be4031912cf",
-      "title": "Инновации в профессиональной коммуникации: управление, перевод, дидактика",
-      "organizer": "Кафедра английского языка №6 Факультета управления и политики при содействии Управления языковой подготовки , Ассоциации выпускников и финансовой поддержке Эндаумента",
-      "disciplines": [
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-10-22",
-      "event_end": "2026-10-23",
-      "submission_deadline": "2026-09-30",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.9,
-      "field_flags": [
-        "organizer",
-        "disciplines"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "open",
-      "sources": [
-        {
-          "source": "mgimo_ann",
-          "source_name": "МГИМО",
-          "url": "https://mgimo.ru/about/news/announce/innovations-in-professional-communication-10-26/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "0cd5fb0faa39",
-      "title": "II Международный конгресс «Восточный контур: язык, культура, языковая политика»",
-      "organizer": "кафедра языков стран Ближнего и Среднего Востока, кафедра индоиранских и африканских языков, кафедра китайского, вьетнамского, бирманского, тайского, лаосского и кхмерского языков",
-      "disciplines": [
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-10-30",
-      "event_end": "2026-10-31",
-      "submission_deadline": "2026-09-30",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": "https://eastern-contour.mgimo.ru",
-      "confidence": 0.9,
-      "field_flags": [
-        "organizer",
-        "location",
-        "disciplines",
-        "format",
-        "official_url"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "open",
-      "sources": [
-        {
-          "source": "mgimo_ann",
-          "source_name": "МГИМО",
-          "url": "https://mgimo.ru/about/news/announce/ii-eastern-contour/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "2a94cb656557",
-      "title": "Международный конгресс «Ценность дружбы в истории российской цивилизации»",
-      "organizer": "Московский государственный университет имени М.В. Ломоносова",
-      "disciplines": [
-        "Психология",
-        "История и археология",
-        "Филология и лингвистика",
-        "Философия, этика, религиоведение"
-      ],
-      "event_start": "2026-11-27",
-      "event_end": "2026-11-28",
-      "submission_deadline": "2026-09-30",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "location",
-        "disciplines",
-        "format"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "open",
-      "sources": [
-        {
-          "source": "msu_events",
-          "source_name": "МГУ",
-          "url": "https://conf.msu.ru/rus/event/10383/",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "3c4e09301265",
       "title": "IV Всероссийская научная конференция по источниковедению стран Востока",
       "organizer": "Институт стран Азии и Африки МГУ имени М.В. Ломоносова, Лаборатория востоковедения и компаративистики ШАГИ ИОН РАНХиГС",
@@ -302,6 +146,35 @@
           "source": "spbu_events",
           "source_name": "СПбГУ",
           "url": "https://events.spbu.ru/humic",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "05eec17a5694",
+      "title": "Международный межвузовский цифровой триатлон",
+      "organizer": "МГИМО",
+      "disciplines": [
+        "Компьютерные науки"
+      ],
+      "event_start": "2026-10-28",
+      "event_end": "2026-10-30",
+      "submission_deadline": "2026-10-01",
+      "location": "Одинцово",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.917,
+      "field_flags": [
+        "organizer",
+        "disciplines"
+      ],
+      "first_seen": "2026-10-01",
+      "status": "open",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/digital-triathlon-2026/",
           "published_date": null
         }
       ]
@@ -4139,6 +4012,162 @@
           "source": "spbu_events",
           "source_name": "СПбГУ",
           "url": "https://events.spbu.ru/tochka-opory",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "24b58cf90d74",
+      "title": "IV Всероссийская научная конференция «Турецкая Республика в эпоху глобальных трансформаций»",
+      "organizer": "Отдел Ближнего и Постсоветского Востока ИНИОН РАН",
+      "disciplines": [
+        "Политология и международные отношения (включая ГМУ)",
+        "История и археология"
+      ],
+      "event_start": "2026-10-13",
+      "event_end": "2026-10-13",
+      "submission_deadline": "2026-09-30",
+      "location": null,
+      "format": null,
+      "official_url": null,
+      "confidence": 0.85,
+      "field_flags": [
+        "organizer",
+        "location",
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "inion",
+          "source_name": "ИНИОН РАН",
+          "url": "https://inion.ru/ru/about/news/iv-vserossiiskaia-nauchnaia-konferentciia-turetckaia-respublika-v-epokhu-global-nykh-transformatcii-informatcionnoe-pis-mo/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "13c4aea3e011",
+      "title": "XVIII Мелетинские чтения",
+      "organizer": "Институт высших гуманитарных исследований им. Е. М. Мелетинского РГГУ, Центр типологии и семиотики фольклора РГГУ",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-10-22",
+      "event_end": "2026-10-23",
+      "submission_deadline": "2026-09-30",
+      "location": "РГГУ",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "location",
+        "disciplines",
+        "official_url"
+      ],
+      "first_seen": "2026-08-29",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "rsuh",
+          "source_name": "РГГУ",
+          "url": "https://www.rsuh.ru/anons/v-rggu-proydut-xviii-meletinskie-chteniya/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "4be4031912cf",
+      "title": "Инновации в профессиональной коммуникации: управление, перевод, дидактика",
+      "organizer": "Кафедра английского языка №6 Факультета управления и политики при содействии Управления языковой подготовки , Ассоциации выпускников и финансовой поддержке Эндаумента",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-10-22",
+      "event_end": "2026-10-23",
+      "submission_deadline": "2026-09-30",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.9,
+      "field_flags": [
+        "organizer",
+        "disciplines"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/innovations-in-professional-communication-10-26/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "0cd5fb0faa39",
+      "title": "II Международный конгресс «Восточный контур: язык, культура, языковая политика»",
+      "organizer": "кафедра языков стран Ближнего и Среднего Востока, кафедра индоиранских и африканских языков, кафедра китайского, вьетнамского, бирманского, тайского, лаосского и кхмерского языков",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-10-30",
+      "event_end": "2026-10-31",
+      "submission_deadline": "2026-09-30",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": "https://eastern-contour.mgimo.ru",
+      "confidence": 0.9,
+      "field_flags": [
+        "organizer",
+        "location",
+        "disciplines",
+        "format",
+        "official_url"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/ii-eastern-contour/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "2a94cb656557",
+      "title": "Международный конгресс «Ценность дружбы в истории российской цивилизации»",
+      "organizer": "Московский государственный университет имени М.В. Ломоносова",
+      "disciplines": [
+        "Психология",
+        "История и археология",
+        "Филология и лингвистика",
+        "Философия, этика, религиоведение"
+      ],
+      "event_start": "2026-11-27",
+      "event_end": "2026-11-28",
+      "submission_deadline": "2026-09-30",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "location",
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "msu_events",
+          "source_name": "МГУ",
+          "url": "https://conf.msu.ru/rus/event/10383/",
           "published_date": null
         }
       ]
