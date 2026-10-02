@@ -1,8 +1,8 @@
 {
   "version": "0.21.0",
-  "generated_at": "2026-10-01T03:05:15+00:00",
-  "crawled_at": "2026-10-01T03:02:27+00:00",
-  "today": "2026-10-01",
+  "generated_at": "2026-10-02T09:01:19+00:00",
+  "crawled_at": "2026-10-02T07:04:10+00:00",
+  "today": "2026-10-02",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -90,267 +90,6 @@
     }
   ],
   "conferences": [
-    {
-      "id": "3c4e09301265",
-      "title": "IV Всероссийская научная конференция по источниковедению стран Востока",
-      "organizer": "Институт стран Азии и Африки МГУ имени М.В. Ломоносова, Лаборатория востоковедения и компаративистики ШАГИ ИОН РАНХиГС",
-      "disciplines": [
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-10-19",
-      "event_end": "2026-10-20",
-      "submission_deadline": "2026-10-01",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "location",
-        "disciplines",
-        "official_url"
-      ],
-      "first_seen": "2026-09-10",
-      "status": "open",
-      "sources": [
-        {
-          "source": "ion_ranepa",
-          "source_name": "ИОН РАНХиГС",
-          "url": "https://ion.ranepa.ru/announcement/19-20-oktyabrya-proydyet-iv-vserossiyskaya-nauchnaya-konferentsiya-po-istochnikovedeniyu-stran-vosto/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "0e660d8359d6",
-      "title": "Всероссийская научная конференция «Гуминовые вещества в биосфере»",
-      "organizer": "Санкт-Петербургский государственный университет",
-      "disciplines": [
-        "Химия",
-        "Биология"
-      ],
-      "event_start": "2026-10-20",
-      "event_end": "2026-10-22",
-      "submission_deadline": "2026-10-01",
-      "location": "Санкт-Петербург",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "disciplines",
-        "format"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "open",
-      "sources": [
-        {
-          "source": "spbu_events",
-          "source_name": "СПбГУ",
-          "url": "https://events.spbu.ru/humic",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "05eec17a5694",
-      "title": "Международный межвузовский цифровой триатлон",
-      "organizer": "МГИМО",
-      "disciplines": [
-        "Компьютерные науки"
-      ],
-      "event_start": "2026-10-28",
-      "event_end": "2026-10-30",
-      "submission_deadline": "2026-10-01",
-      "location": "Одинцово",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.917,
-      "field_flags": [
-        "organizer",
-        "disciplines"
-      ],
-      "first_seen": "2026-10-01",
-      "status": "open",
-      "sources": [
-        {
-          "source": "mgimo_ann",
-          "source_name": "МГИМО",
-          "url": "https://mgimo.ru/about/news/announce/digital-triathlon-2026/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "f25ea28231d0",
-      "title": "Политико-географические чтения им. О.В. Витковского",
-      "organizer": "Институт Латинской Америки РАН и лаборатория геополитических исследований Института географии РАН",
-      "disciplines": [
-        "Политология и международные отношения (включая ГМУ)"
-      ],
-      "event_start": "2026-10-29",
-      "event_end": "2026-10-31",
-      "submission_deadline": "2026-10-01",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.967,
-      "field_flags": [
-        "disciplines"
-      ],
-      "first_seen": "2026-09-19",
-      "status": "open",
-      "sources": [
-        {
-          "source": "ras_events",
-          "source_name": "РАН",
-          "url": "https://new.ras.ru/press-center/events-additional/vii-politiko-geograficheskie-chteniya-im-o-v-vitkovskogo/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "e7baa02c1a50",
-      "title": "Современные коммуникации: вызовы, стратегии, перспективы",
-      "organizer": "кафедра рекламы и связей с общественностью",
-      "disciplines": [
-        "Медиа и коммуникации"
-      ],
-      "event_start": "2026-10-30",
-      "event_end": "2026-10-31",
-      "submission_deadline": "2026-10-01",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.9,
-      "field_flags": [
-        "location",
-        "disciplines",
-        "submission_deadline",
-        "format"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "open",
-      "sources": [
-        {
-          "source": "mgimo_ann",
-          "source_name": "МГИМО",
-          "url": "https://mgimo.ru/about/news/announce/konf-sovremennye-kommunikatsii-vyzovy-strategii-perspektivy/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "aa5c072a1a12",
-      "title": "IV Международная научная конференция «Армия, элиты и общество на Ближнем Востоке и в Северной Африке. Кому принадлежит время?»",
-      "organizer": "Институт востоковедения и африканистики НИУ ВШЭ – Санкт-Петербург",
-      "disciplines": [
-        "Социология (включая демографию и антропологию)",
-        "Политология и международные отношения (включая ГМУ)",
-        "История и археология"
-      ],
-      "event_start": "2026-10-31",
-      "event_end": "2026-11-03",
-      "submission_deadline": "2026-10-01",
-      "location": "Санкт-Петербург",
-      "format": "гибрид",
-      "official_url": "https://vk.cc/d1kK5E",
-      "confidence": 0.967,
-      "field_flags": [
-        "disciplines"
-      ],
-      "first_seen": "2026-09-22",
-      "status": "open",
-      "sources": [
-        {
-          "source": "hse_conf",
-          "source_name": "НИУ ВШЭ (конференции)",
-          "url": "https://spb.hse.ru/iaas/dmeas/announcements/1202059409.html",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "ed092b94d151",
-      "title": "Всероссийская Школа-семинар молодых лексикологов, лексикографов и лингвогеографов",
-      "organizer": "Институт лингвистических исследований РАН",
-      "disciplines": [
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-11-04",
-      "event_end": "2026-11-05",
-      "submission_deadline": "2026-10-01",
-      "location": "Санкт-Петербург",
-      "format": "онлайн",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [],
-      "first_seen": "2026-09-09",
-      "status": "open",
-      "sources": [
-        {
-          "source": "iling_ras",
-          "source_name": "ИЛИ РАН",
-          "url": "https://iling.spb.ru/conferences/2026/5119",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "ee36d2836549",
-      "title": "Всероссийская межвузовская научная конференция «Курбатовские чтения»",
-      "organizer": "кафедра истории Средних веков СПбГУ",
-      "disciplines": [
-        "История и археология"
-      ],
-      "event_start": "2026-11-10",
-      "event_end": "2026-11-12",
-      "submission_deadline": "2026-10-01",
-      "location": "Санкт-Петербург",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "open",
-      "sources": [
-        {
-          "source": "spbu_events",
-          "source_name": "СПбГУ",
-          "url": "https://events.spbu.ru/kurbatov-2026",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "d7e9c3efe6ef",
-      "title": "Четвертый международный Петербургский исторический форум",
-      "organizer": "Санкт-Петербургский государственный университет",
-      "disciplines": [
-        "История и археология"
-      ],
-      "event_start": "2027-10-10",
-      "event_end": "2027-10-17",
-      "submission_deadline": "2026-10-01",
-      "location": "Санкт-Петербург",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "location",
-        "disciplines"
-      ],
-      "first_seen": "2026-08-18",
-      "status": "open",
-      "sources": [
-        {
-          "source": "spbu_events",
-          "source_name": "СПбГУ",
-          "url": "https://events.spbu.ru/pif_2027",
-          "published_date": null
-        }
-      ]
-    },
     {
       "id": "421de03f504d",
       "title": "День Филиппин в МГИМО",
@@ -1715,6 +1454,35 @@
           "source": "hse_ann_sci",
           "source_name": "НИУ ВШЭ",
           "url": "https://www.hse.ru/ma/pb/announcements/1179766260.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "9d26e154f4bf",
+      "title": "СМИ и журналистика: слово молодым",
+      "organizer": "Факультет журналистики МГУ имени М.В. Ломоносова",
+      "disciplines": [
+        "Медиа и коммуникации"
+      ],
+      "event_start": "2026-12-03",
+      "event_end": "2026-12-03",
+      "submission_deadline": "2026-11-16",
+      "location": "Москва",
+      "format": "онлайн",
+      "official_url": "https://forms.yandex.ru/u/6abce4be1f1eb51f1d875d80/",
+      "confidence": 0.967,
+      "field_flags": [
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-10-02",
+      "status": "open",
+      "sources": [
+        {
+          "source": "msu_events",
+          "source_name": "МГУ",
+          "url": "https://conf.msu.ru/rus/event/9088/",
           "published_date": null
         }
       ]
@@ -4168,6 +3936,267 @@
           "source": "msu_events",
           "source_name": "МГУ",
           "url": "https://conf.msu.ru/rus/event/10383/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "3c4e09301265",
+      "title": "IV Всероссийская научная конференция по источниковедению стран Востока",
+      "organizer": "Институт стран Азии и Африки МГУ имени М.В. Ломоносова, Лаборатория востоковедения и компаративистики ШАГИ ИОН РАНХиГС",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-10-19",
+      "event_end": "2026-10-20",
+      "submission_deadline": "2026-10-01",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "location",
+        "disciplines",
+        "official_url"
+      ],
+      "first_seen": "2026-09-10",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "ion_ranepa",
+          "source_name": "ИОН РАНХиГС",
+          "url": "https://ion.ranepa.ru/announcement/19-20-oktyabrya-proydyet-iv-vserossiyskaya-nauchnaya-konferentsiya-po-istochnikovedeniyu-stran-vosto/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "0e660d8359d6",
+      "title": "Всероссийская научная конференция «Гуминовые вещества в биосфере»",
+      "organizer": "Санкт-Петербургский государственный университет",
+      "disciplines": [
+        "Химия",
+        "Биология"
+      ],
+      "event_start": "2026-10-20",
+      "event_end": "2026-10-22",
+      "submission_deadline": "2026-10-01",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/humic",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "05eec17a5694",
+      "title": "Международный межвузовский цифровой триатлон",
+      "organizer": "МГИМО",
+      "disciplines": [
+        "Компьютерные науки"
+      ],
+      "event_start": "2026-10-28",
+      "event_end": "2026-10-30",
+      "submission_deadline": "2026-10-01",
+      "location": "Одинцово",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.917,
+      "field_flags": [
+        "organizer",
+        "disciplines"
+      ],
+      "first_seen": "2026-10-01",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/digital-triathlon-2026/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "f25ea28231d0",
+      "title": "Политико-географические чтения им. О.В. Витковского",
+      "organizer": "Институт Латинской Америки РАН и лаборатория геополитических исследований Института географии РАН",
+      "disciplines": [
+        "Политология и международные отношения (включая ГМУ)"
+      ],
+      "event_start": "2026-10-29",
+      "event_end": "2026-10-31",
+      "submission_deadline": "2026-10-01",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.967,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-09-19",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "ras_events",
+          "source_name": "РАН",
+          "url": "https://new.ras.ru/press-center/events-additional/vii-politiko-geograficheskie-chteniya-im-o-v-vitkovskogo/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "e7baa02c1a50",
+      "title": "Современные коммуникации: вызовы, стратегии, перспективы",
+      "organizer": "кафедра рекламы и связей с общественностью",
+      "disciplines": [
+        "Медиа и коммуникации"
+      ],
+      "event_start": "2026-10-30",
+      "event_end": "2026-10-31",
+      "submission_deadline": "2026-10-01",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.9,
+      "field_flags": [
+        "location",
+        "disciplines",
+        "submission_deadline",
+        "format"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/konf-sovremennye-kommunikatsii-vyzovy-strategii-perspektivy/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "aa5c072a1a12",
+      "title": "IV Международная научная конференция «Армия, элиты и общество на Ближнем Востоке и в Северной Африке. Кому принадлежит время?»",
+      "organizer": "Институт востоковедения и африканистики НИУ ВШЭ – Санкт-Петербург",
+      "disciplines": [
+        "Социология (включая демографию и антропологию)",
+        "Политология и международные отношения (включая ГМУ)",
+        "История и археология"
+      ],
+      "event_start": "2026-10-31",
+      "event_end": "2026-11-03",
+      "submission_deadline": "2026-10-01",
+      "location": "Санкт-Петербург",
+      "format": "гибрид",
+      "official_url": "https://vk.cc/d1kK5E",
+      "confidence": 0.967,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-09-22",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "hse_conf",
+          "source_name": "НИУ ВШЭ (конференции)",
+          "url": "https://spb.hse.ru/iaas/dmeas/announcements/1202059409.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "ed092b94d151",
+      "title": "Всероссийская Школа-семинар молодых лексикологов, лексикографов и лингвогеографов",
+      "organizer": "Институт лингвистических исследований РАН",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-11-04",
+      "event_end": "2026-11-05",
+      "submission_deadline": "2026-10-01",
+      "location": "Санкт-Петербург",
+      "format": "онлайн",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [],
+      "first_seen": "2026-09-09",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "iling_ras",
+          "source_name": "ИЛИ РАН",
+          "url": "https://iling.spb.ru/conferences/2026/5119",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "ee36d2836549",
+      "title": "Всероссийская межвузовская научная конференция «Курбатовские чтения»",
+      "organizer": "кафедра истории Средних веков СПбГУ",
+      "disciplines": [
+        "История и археология"
+      ],
+      "event_start": "2026-11-10",
+      "event_end": "2026-11-12",
+      "submission_deadline": "2026-10-01",
+      "location": "Санкт-Петербург",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/kurbatov-2026",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "d7e9c3efe6ef",
+      "title": "Четвертый международный Петербургский исторический форум",
+      "organizer": "Санкт-Петербургский государственный университет",
+      "disciplines": [
+        "История и археология"
+      ],
+      "event_start": "2027-10-10",
+      "event_end": "2027-10-17",
+      "submission_deadline": "2026-10-01",
+      "location": "Санкт-Петербург",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-08-18",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/pif_2027",
           "published_date": null
         }
       ]
