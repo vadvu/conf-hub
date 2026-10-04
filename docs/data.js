@@ -1,8 +1,8 @@
 window.CONF_DATA = {
   "version": "0.21.0",
-  "generated_at": "2026-10-03T03:03:43+00:00",
-  "crawled_at": "2026-10-03T03:01:51+00:00",
-  "today": "2026-10-03",
+  "generated_at": "2026-10-04T03:02:33+00:00",
+  "crawled_at": "2026-10-04T03:01:11+00:00",
+  "today": "2026-10-04",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -909,6 +909,37 @@ window.CONF_DATA = {
           "source": "mgimo_ann",
           "source_name": "МГИМО",
           "url": "https://mgimo.ru/about/news/announce/federalism-modern-public-law-11-26/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "56f1e6b50c41",
+      "title": "Женщина и мир: агентность и забота",
+      "organizer": "МГИМО",
+      "disciplines": [
+        "Экономика и менеджмент",
+        "Социология (включая демографию и антропологию)",
+        "Политология и международные отношения (включая ГМУ)",
+        "Философия, этика, религиоведение"
+      ],
+      "event_start": "2026-11-12",
+      "event_end": "2026-11-12",
+      "submission_deadline": "2026-10-25",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-10-04",
+      "status": "open",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/woman-12-11-26/",
           "published_date": null
         }
       ]
@@ -2258,34 +2289,6 @@ window.CONF_DATA = {
           "source": "ion_ranepa",
           "source_name": "ИОН РАНХиГС",
           "url": "https://ion.ranepa.ru/announcement/10-oktyabrya-proydyet-studencheskaya-konferentsiya-prava-originala-i-prava-perevodchika-chto-perevod/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "fceb6c248b1d",
-      "title": "XIII международная конференция «Современные эконометрические инструменты и приложения - META 2026»",
-      "organizer": "НИУ ВШЭ в Нижнем Новгороде",
-      "disciplines": [
-        "Экономика и менеджмент"
-      ],
-      "event_start": "2026-10-01",
-      "event_end": "2026-10-03",
-      "submission_deadline": "2026-08-04",
-      "location": "Нижний Новгород",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "disciplines"
-      ],
-      "first_seen": "2026-09-11",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "hse_ann_sci",
-          "source_name": "НИУ ВШЭ",
-          "url": "https://nnov.hse.ru/meta/",
           "published_date": null
         }
       ]
@@ -5170,6 +5173,34 @@ window.CONF_DATA = {
           "source_name": "МФТИ",
           "url": "https://mipt.ru/institute/events/priem-tezisov-na-nauchnuyu-konferentsiyu-xiii-rossiyskogo-foruma-biotekhnologiy-openbio",
           "published_date": "2026-06-09"
+        }
+      ]
+    },
+    {
+      "id": "fceb6c248b1d",
+      "title": "XIII международная конференция «Современные эконометрические инструменты и приложения - META 2026»",
+      "organizer": "НИУ ВШЭ в Нижнем Новгороде",
+      "disciplines": [
+        "Экономика и менеджмент"
+      ],
+      "event_start": "2026-10-01",
+      "event_end": "2026-10-03",
+      "submission_deadline": "2026-08-04",
+      "location": "Нижний Новгород",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-09-11",
+      "status": "past",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://nnov.hse.ru/meta/",
+          "published_date": null
         }
       ]
     },
