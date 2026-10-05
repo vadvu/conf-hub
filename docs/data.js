@@ -1,8 +1,8 @@
 window.CONF_DATA = {
   "version": "0.21.0",
-  "generated_at": "2026-10-04T03:02:33+00:00",
-  "crawled_at": "2026-10-04T03:01:11+00:00",
-  "today": "2026-10-04",
+  "generated_at": "2026-10-05T03:20:22+00:00",
+  "crawled_at": "2026-10-05T03:20:21+00:00",
+  "today": "2026-10-05",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -90,197 +90,6 @@ window.CONF_DATA = {
     }
   ],
   "conferences": [
-    {
-      "id": "a9952bb90b61",
-      "title": "Память и идентичность – IX. Конфликт идентичностей",
-      "organizer": "кафедра всеобщей истории исторического факультета Историко-архивного института РГГУ",
-      "disciplines": [
-        "История и археология"
-      ],
-      "event_start": "2026-10-19",
-      "event_end": "2026-10-20",
-      "submission_deadline": "2026-10-04",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.967,
-      "field_flags": [
-        "title",
-        "disciplines"
-      ],
-      "first_seen": "2026-09-15",
-      "status": "open",
-      "sources": [
-        {
-          "source": "rsuh",
-          "source_name": "РГГУ",
-          "url": "https://www.rsuh.ru/anons/v-rggu-obsudyat-konflikty-identichnostey-v-istorii-chelovechestva/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "74887bc0904e",
-      "title": "VI Международная студенческая конференция «Актуальные проблемы международного права»",
-      "organizer": "Юридический клуб МГИМО",
-      "disciplines": [
-        "Право"
-      ],
-      "event_start": "2026-10-21",
-      "event_end": "2026-10-23",
-      "submission_deadline": "2026-10-04",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.95,
-      "field_flags": [
-        "title",
-        "organizer",
-        "location",
-        "submission_deadline",
-        "format"
-      ],
-      "first_seen": "2026-09-17",
-      "status": "open",
-      "sources": [
-        {
-          "source": "mgimo_ann",
-          "source_name": "МГИМО",
-          "url": "https://mgimo.ru/about/news/announce/vi-int-law-problems-conf/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "ca087200a530",
-      "title": "История повседневности: источниковедческие подходы и методы",
-      "organizer": "кафедра источниковедения факультета архивоведения и документоведения Историко-архивного института РГГУ",
-      "disciplines": [
-        "История и археология"
-      ],
-      "event_start": "2026-10-23",
-      "event_end": "2026-10-23",
-      "submission_deadline": "2026-10-04",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "disciplines"
-      ],
-      "first_seen": "2026-09-15",
-      "status": "open",
-      "sources": [
-        {
-          "source": "rsuh",
-          "source_name": "РГГУ",
-          "url": "https://www.rsuh.ru/anons/v-rggu-obsudyat-istochnikovedcheskie-podkhody-k-izucheniyu-istorii-povsednevnosti/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "848dfbaf5559",
-      "title": "Модель Полномочной конференции Международного союза электросвязи",
-      "organizer": "Центр искусственного интеллекта МГИМО совместно с магистратурой «Искусственный интеллект» МГИМО–МФТИ",
-      "disciplines": [
-        "Электроника и электротехника"
-      ],
-      "event_start": "2026-10-26",
-      "event_end": "2026-10-28",
-      "submission_deadline": "2026-10-04",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": "itumodel.mgimo.ru",
-      "confidence": 0.933,
-      "field_flags": [
-        "disciplines",
-        "official_url"
-      ],
-      "first_seen": "2026-09-25",
-      "status": "open",
-      "sources": [
-        {
-          "source": "mgimo_ann",
-          "source_name": "МГИМО",
-          "url": "https://mgimo.ru/about/news/announce/itu-model-10-26/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "ad455c02c49c",
-      "title": "Коморбидное поле 3.0: социальное благополучие, здоровье и медицина во множественных контекстах",
-      "organizer": "Центр сравнительных исследований социального благополучия НИУ ВШЭ при участии факультета гуманитарных наук и Санкт-Петербургской школы гуманитарных наук и искусств НИУ ВШЭ, Европейского университета в Санкт-Петербурге и Сеченовского университета",
-      "disciplines": [
-        "Психология",
-        "Социология (включая демографию и антропологию)",
-        "Медиа и коммуникации",
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-12-03",
-      "event_end": "2026-12-05",
-      "submission_deadline": "2026-10-04",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "organizer",
-        "disciplines",
-        "official_url"
-      ],
-      "first_seen": "2026-09-08",
-      "status": "open",
-      "sources": [
-        {
-          "source": "lcsr",
-          "source_name": "ЦенСИБ НИУ ВШЭ",
-          "url": "https://www.hse.ru/news/science/1198495805.html",
-          "published_date": "2026-09-07"
-        },
-        {
-          "source": "eusp",
-          "source_name": "ЕУСПб",
-          "url": "https://eusp.org/news/otkryt-priem-zayavok-na-konferenciyu-komorbidnoe-pole-30-socialnoe-blagopoluchie-zdorove-i-medicina-vo-mnozhestvennykh-kontekstakh",
-          "published_date": "2026-09-18"
-        }
-      ]
-    },
-    {
-      "id": "202f5d477e82",
-      "title": "Междисциплинарная научная конференция «Коморбидное поле 3.0: социальное благополучие, здоровье и медицина во множественных контекстах»",
-      "organizer": "Центр сравнительных исследований социального благополучия Факультета социальных наук НИУ ВШЭ",
-      "disciplines": [
-        "Здравоохранение",
-        "Психология",
-        "Социология (включая демографию и антропологию)",
-        "Медиа и коммуникации"
-      ],
-      "event_start": "2026-12-03",
-      "event_end": "2026-12-05",
-      "submission_deadline": "2026-10-04",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "organizer",
-        "disciplines"
-      ],
-      "first_seen": "2026-08-05",
-      "status": "open",
-      "sources": [
-        {
-          "source": "lcsr",
-          "source_name": "ЦенСИБ НИУ ВШЭ",
-          "url": "https://lcsr.hse.ru/news/1186439389.html",
-          "published_date": "2026-08-04"
-        }
-      ]
-    },
     {
       "id": "927c510667c0",
       "title": "Россия и АСЕАН в АТР: динамика взаимодействия, региональные процессы и глобальный контекст",
@@ -1791,36 +1600,6 @@ window.CONF_DATA = {
           "source_name": "РАН",
           "url": "https://new.ras.ru/press-center/events-additional/konferentsiya-gidrosfera-aktualnye-voprosy-izucheniya-i-ratsionalnogo-prirodopolzovaniya/",
           "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "cdf569ef22c8",
-      "title": "Всероссийская научная конференция исследователей женской истории и исторической антропологии повседневности",
-      "organizer": "Российская ассоциация исследователей женской истории (РАИЖИ)",
-      "disciplines": [
-        "Социология (включая демографию и антропологию)",
-        "История и археология"
-      ],
-      "event_start": "2026-10-01",
-      "event_end": "2026-10-04",
-      "submission_deadline": "2026-05-01",
-      "location": "Уфа",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.917,
-      "field_flags": [
-        "disciplines",
-        "format"
-      ],
-      "first_seen": "2026-07-15",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "iea_ras",
-          "source_name": "ИЭА РАН",
-          "url": "https://iea-ras.ru/?p=21142",
-          "published_date": "2026-03-26"
         }
       ]
     },
@@ -4145,6 +3924,197 @@ window.CONF_DATA = {
       ]
     },
     {
+      "id": "a9952bb90b61",
+      "title": "Память и идентичность – IX. Конфликт идентичностей",
+      "organizer": "кафедра всеобщей истории исторического факультета Историко-архивного института РГГУ",
+      "disciplines": [
+        "История и археология"
+      ],
+      "event_start": "2026-10-19",
+      "event_end": "2026-10-20",
+      "submission_deadline": "2026-10-04",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.967,
+      "field_flags": [
+        "title",
+        "disciplines"
+      ],
+      "first_seen": "2026-09-15",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "rsuh",
+          "source_name": "РГГУ",
+          "url": "https://www.rsuh.ru/anons/v-rggu-obsudyat-konflikty-identichnostey-v-istorii-chelovechestva/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "74887bc0904e",
+      "title": "VI Международная студенческая конференция «Актуальные проблемы международного права»",
+      "organizer": "Юридический клуб МГИМО",
+      "disciplines": [
+        "Право"
+      ],
+      "event_start": "2026-10-21",
+      "event_end": "2026-10-23",
+      "submission_deadline": "2026-10-04",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.95,
+      "field_flags": [
+        "title",
+        "organizer",
+        "location",
+        "submission_deadline",
+        "format"
+      ],
+      "first_seen": "2026-09-17",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/vi-int-law-problems-conf/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "ca087200a530",
+      "title": "История повседневности: источниковедческие подходы и методы",
+      "organizer": "кафедра источниковедения факультета архивоведения и документоведения Историко-архивного института РГГУ",
+      "disciplines": [
+        "История и археология"
+      ],
+      "event_start": "2026-10-23",
+      "event_end": "2026-10-23",
+      "submission_deadline": "2026-10-04",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "disciplines"
+      ],
+      "first_seen": "2026-09-15",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "rsuh",
+          "source_name": "РГГУ",
+          "url": "https://www.rsuh.ru/anons/v-rggu-obsudyat-istochnikovedcheskie-podkhody-k-izucheniyu-istorii-povsednevnosti/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "848dfbaf5559",
+      "title": "Модель Полномочной конференции Международного союза электросвязи",
+      "organizer": "Центр искусственного интеллекта МГИМО совместно с магистратурой «Искусственный интеллект» МГИМО–МФТИ",
+      "disciplines": [
+        "Электроника и электротехника"
+      ],
+      "event_start": "2026-10-26",
+      "event_end": "2026-10-28",
+      "submission_deadline": "2026-10-04",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": "itumodel.mgimo.ru",
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines",
+        "official_url"
+      ],
+      "first_seen": "2026-09-25",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/itu-model-10-26/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "ad455c02c49c",
+      "title": "Коморбидное поле 3.0: социальное благополучие, здоровье и медицина во множественных контекстах",
+      "organizer": "Центр сравнительных исследований социального благополучия НИУ ВШЭ при участии факультета гуманитарных наук и Санкт-Петербургской школы гуманитарных наук и искусств НИУ ВШЭ, Европейского университета в Санкт-Петербурге и Сеченовского университета",
+      "disciplines": [
+        "Психология",
+        "Социология (включая демографию и антропологию)",
+        "Медиа и коммуникации",
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-12-03",
+      "event_end": "2026-12-05",
+      "submission_deadline": "2026-10-04",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "organizer",
+        "disciplines",
+        "official_url"
+      ],
+      "first_seen": "2026-09-08",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "lcsr",
+          "source_name": "ЦенСИБ НИУ ВШЭ",
+          "url": "https://www.hse.ru/news/science/1198495805.html",
+          "published_date": "2026-09-07"
+        },
+        {
+          "source": "eusp",
+          "source_name": "ЕУСПб",
+          "url": "https://eusp.org/news/otkryt-priem-zayavok-na-konferenciyu-komorbidnoe-pole-30-socialnoe-blagopoluchie-zdorove-i-medicina-vo-mnozhestvennykh-kontekstakh",
+          "published_date": "2026-09-18"
+        }
+      ]
+    },
+    {
+      "id": "202f5d477e82",
+      "title": "Междисциплинарная научная конференция «Коморбидное поле 3.0: социальное благополучие, здоровье и медицина во множественных контекстах»",
+      "organizer": "Центр сравнительных исследований социального благополучия Факультета социальных наук НИУ ВШЭ",
+      "disciplines": [
+        "Здравоохранение",
+        "Психология",
+        "Социология (включая демографию и антропологию)",
+        "Медиа и коммуникации"
+      ],
+      "event_start": "2026-12-03",
+      "event_end": "2026-12-05",
+      "submission_deadline": "2026-10-04",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "organizer",
+        "disciplines"
+      ],
+      "first_seen": "2026-08-05",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "lcsr",
+          "source_name": "ЦенСИБ НИУ ВШЭ",
+          "url": "https://lcsr.hse.ru/news/1186439389.html",
+          "published_date": "2026-08-04"
+        }
+      ]
+    },
+    {
       "id": "f208172484c5",
       "title": "IX Российский философский конгресс «Философия в контексте современных вызовов»",
       "organizer": "Санкт-Петербургский государственный университет (СПбГУ)",
@@ -4354,6 +4324,36 @@ window.CONF_DATA = {
           "source_name": "СПбГУ",
           "url": "https://events.spbu.ru/chem-school",
           "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "cdf569ef22c8",
+      "title": "Всероссийская научная конференция исследователей женской истории и исторической антропологии повседневности",
+      "organizer": "Российская ассоциация исследователей женской истории (РАИЖИ)",
+      "disciplines": [
+        "Социология (включая демографию и антропологию)",
+        "История и археология"
+      ],
+      "event_start": "2026-10-01",
+      "event_end": "2026-10-04",
+      "submission_deadline": "2026-05-01",
+      "location": "Уфа",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.917,
+      "field_flags": [
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-07-15",
+      "status": "past",
+      "sources": [
+        {
+          "source": "iea_ras",
+          "source_name": "ИЭА РАН",
+          "url": "https://iea-ras.ru/?p=21142",
+          "published_date": "2026-03-26"
         }
       ]
     },
