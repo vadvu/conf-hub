@@ -1,8 +1,8 @@
 window.CONF_DATA = {
   "version": "0.21.0",
-  "generated_at": "2026-10-05T03:20:22+00:00",
-  "crawled_at": "2026-10-05T03:20:21+00:00",
-  "today": "2026-10-05",
+  "generated_at": "2026-10-06T03:04:52+00:00",
+  "crawled_at": "2026-10-06T03:02:05+00:00",
+  "today": "2026-10-06",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -91,66 +91,6 @@ window.CONF_DATA = {
   ],
   "conferences": [
     {
-      "id": "927c510667c0",
-      "title": "Россия и АСЕАН в АТР: динамика взаимодействия, региональные процессы и глобальный контекст",
-      "organizer": "МГИМО",
-      "disciplines": [
-        "Политология и международные отношения (включая ГМУ)"
-      ],
-      "event_start": "2026-10-15",
-      "event_end": "2026-10-17",
-      "submission_deadline": "2026-10-05",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "location",
-        "disciplines"
-      ],
-      "first_seen": "2026-09-26",
-      "status": "open",
-      "sources": [
-        {
-          "source": "mgimo_ann",
-          "source_name": "МГИМО",
-          "url": "https://mgimo.ru/about/news/announce/russia-asean-ap-10-26/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "b7f2310f85d1",
-      "title": "XV Международная научная конференция исследователей гражданского общества «Общественная самоорганизация, государственное управление и местное самоуправление в России и за рубежом»",
-      "organizer": "Центр исследований гражданского общества и некоммерческого сектора НИУ ВШЭ",
-      "disciplines": [
-        "Политология и международные отношения (включая ГМУ)"
-      ],
-      "event_start": "2026-11-17",
-      "event_end": "2026-11-18",
-      "submission_deadline": "2026-10-05",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "organizer",
-        "disciplines"
-      ],
-      "first_seen": "2026-09-05",
-      "status": "open",
-      "sources": [
-        {
-          "source": "hse_conf",
-          "source_name": "НИУ ВШЭ (конференции)",
-          "url": "https://grans.hse.ru/announcements/1197306557.html",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "6d0a6012ab7b",
       "title": "Всероссийский патриотический форум — 2026",
       "organizer": "Национальный центр «Россия»",
@@ -170,6 +110,38 @@ window.CONF_DATA = {
           "source": "mgimo_ann",
           "source_name": "МГИМО",
           "url": "https://mgimo.ru/about/news/announce/patriot-forum-2026/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "c9be6bfbc5b4",
+      "title": "Всероссийская научная конференция по исследованиям психологического консультирования и психотерапии",
+      "organizer": "не указан",
+      "disciplines": [
+        "Психология"
+      ],
+      "event_start": null,
+      "event_end": null,
+      "submission_deadline": "2026-10-07",
+      "location": null,
+      "format": null,
+      "official_url": null,
+      "confidence": 0.667,
+      "field_flags": [
+        "organizer",
+        "event_start",
+        "event_end",
+        "format",
+        "official_url"
+      ],
+      "first_seen": "2026-10-06",
+      "status": "open",
+      "sources": [
+        {
+          "source": "ion_ranepa",
+          "source_name": "ИОН РАНХиГС",
+          "url": "https://ion.ranepa.ru/announcement/vserossiyskaya-nauchnaya-konferentsiya-po-issledovaniyam-psikhologicheskogo-konsultirovaniya-i-psikh/",
           "published_date": null
         }
       ]
@@ -659,6 +631,35 @@ window.CONF_DATA = {
           "source": "perm_ann_sci",
           "source_name": "НИУ ВШЭ (Пермь)",
           "url": "https://perm.hse.ru/creativ/industrialculture/announcements/1167909302.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "0196c44930f0",
+      "title": "Диалог во имя будущего — 2026",
+      "organizer": "Фонд Горчакова",
+      "disciplines": [
+        "Политология и международные отношения (включая ГМУ)"
+      ],
+      "event_start": "2026-11-24",
+      "event_end": "2026-11-28",
+      "submission_deadline": "2026-10-20",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.917,
+      "field_flags": [
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-10-06",
+      "status": "open",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/the-dialogue-for-the-future-2026/",
           "published_date": null
         }
       ]
@@ -4111,6 +4112,66 @@ window.CONF_DATA = {
           "source_name": "ЦенСИБ НИУ ВШЭ",
           "url": "https://lcsr.hse.ru/news/1186439389.html",
           "published_date": "2026-08-04"
+        }
+      ]
+    },
+    {
+      "id": "927c510667c0",
+      "title": "Россия и АСЕАН в АТР: динамика взаимодействия, региональные процессы и глобальный контекст",
+      "organizer": "МГИМО",
+      "disciplines": [
+        "Политология и международные отношения (включая ГМУ)"
+      ],
+      "event_start": "2026-10-15",
+      "event_end": "2026-10-17",
+      "submission_deadline": "2026-10-05",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-09-26",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/russia-asean-ap-10-26/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "b7f2310f85d1",
+      "title": "XV Международная научная конференция исследователей гражданского общества «Общественная самоорганизация, государственное управление и местное самоуправление в России и за рубежом»",
+      "organizer": "Центр исследований гражданского общества и некоммерческого сектора НИУ ВШЭ",
+      "disciplines": [
+        "Политология и международные отношения (включая ГМУ)"
+      ],
+      "event_start": "2026-11-17",
+      "event_end": "2026-11-18",
+      "submission_deadline": "2026-10-05",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "organizer",
+        "disciplines"
+      ],
+      "first_seen": "2026-09-05",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "hse_conf",
+          "source_name": "НИУ ВШЭ (конференции)",
+          "url": "https://grans.hse.ru/announcements/1197306557.html",
+          "published_date": null
         }
       ]
     },
