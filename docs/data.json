@@ -1,8 +1,8 @@
 {
   "version": "0.21.0",
-  "generated_at": "2026-10-07T10:11:26+00:00",
-  "crawled_at": "2026-10-07T06:14:17+00:00",
-  "today": "2026-10-07",
+  "generated_at": "2026-10-08T03:06:01+00:00",
+  "crawled_at": "2026-10-08T03:02:38+00:00",
+  "today": "2026-10-08",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -90,38 +90,6 @@
     }
   ],
   "conferences": [
-    {
-      "id": "c9be6bfbc5b4",
-      "title": "Всероссийская научная конференция по исследованиям психологического консультирования и психотерапии",
-      "organizer": "не указан",
-      "disciplines": [
-        "Психология"
-      ],
-      "event_start": null,
-      "event_end": null,
-      "submission_deadline": "2026-10-07",
-      "location": null,
-      "format": null,
-      "official_url": null,
-      "confidence": 0.667,
-      "field_flags": [
-        "organizer",
-        "event_start",
-        "event_end",
-        "format",
-        "official_url"
-      ],
-      "first_seen": "2026-10-06",
-      "status": "open",
-      "sources": [
-        {
-          "source": "ion_ranepa",
-          "source_name": "ИОН РАНХиГС",
-          "url": "https://ion.ranepa.ru/announcement/vserossiyskaya-nauchnaya-konferentsiya-po-issledovaniyam-psikhologicheskogo-konsultirovaniya-i-psikh/",
-          "published_date": null
-        }
-      ]
-    },
     {
       "id": "b41d4103fb7c",
       "title": "Финатлон форум «Профессионалы будущего»",
@@ -285,6 +253,36 @@
       ]
     },
     {
+      "id": "5abc0fc780e3",
+      "title": "Лингвокультурные аспекты глобализационных процессов: Столкновение и взаимопроникновение культурных кодов",
+      "organizer": "ИНИОН РАН",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-10-22",
+      "event_end": "2026-10-22",
+      "submission_deadline": "2026-10-15",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "disciplines",
+        "official_url"
+      ],
+      "first_seen": "2026-10-08",
+      "status": "open",
+      "sources": [
+        {
+          "source": "inion",
+          "source_name": "ИНИОН РАН",
+          "url": "https://inion.ru/ru/about/news/vi-mezhdunarodnaia-nauchno-prakticheskaia-konferentciia-lingvokul-turnye-aspekty-globalizatcionnykh-protcessov-ctolknovenie-i/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "68a722b19561",
       "title": "5-я конференция по машинному обучению и искусственному интелекту «Погружение в машинное обучение (Fall into ML 2026)",
       "organizer": "НИУ ВШЭ",
@@ -396,6 +394,12 @@
           "source_name": "ЦенСИБ НИУ ВШЭ",
           "url": "https://lcsr.hse.ru/news/1170484895.html",
           "published_date": "2026-06-17"
+        },
+        {
+          "source": "lcsr",
+          "source_name": "ЦенСИБ НИУ ВШЭ",
+          "url": "https://lcsr.hse.ru/news/1207359592.html",
+          "published_date": "2026-10-07"
         }
       ]
     },
@@ -1604,38 +1608,6 @@
           "source": "ras_events",
           "source_name": "РАН",
           "url": "https://new.ras.ru/press-center/events-additional/xvii-rossiyskaya-konferentsiya-po-fizike-poluprovodnikov-rkfp-2026/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "ecc996337e92",
-      "title": "Всероссийская конференция «Гидросфера: актуальные вопросы изучения и рационального природопользования»",
-      "organizer": "Институт водных проблем Севера Карельского национального центра РАН",
-      "disciplines": [
-        "Науки о земле"
-      ],
-      "event_start": "2026-10-05",
-      "event_end": "2026-10-07",
-      "submission_deadline": "2026-04-30",
-      "location": "Петрозаводск",
-      "format": null,
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "disciplines",
-        "submission_deadline",
-        "format",
-        "official_url"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "ras_events",
-          "source_name": "РАН",
-          "url": "https://new.ras.ru/press-center/events-additional/konferentsiya-gidrosfera-aktualnye-voprosy-izucheniya-i-ratsionalnogo-prirodopolzovaniya/",
           "published_date": null
         }
       ]
@@ -4323,6 +4295,38 @@
           "source": "msu_events",
           "source_name": "МГУ",
           "url": "https://conf.msu.ru/rus/event/10618/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "ecc996337e92",
+      "title": "Всероссийская конференция «Гидросфера: актуальные вопросы изучения и рационального природопользования»",
+      "organizer": "Институт водных проблем Севера Карельского национального центра РАН",
+      "disciplines": [
+        "Науки о земле"
+      ],
+      "event_start": "2026-10-05",
+      "event_end": "2026-10-07",
+      "submission_deadline": "2026-04-30",
+      "location": "Петрозаводск",
+      "format": null,
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "disciplines",
+        "submission_deadline",
+        "format",
+        "official_url"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "past",
+      "sources": [
+        {
+          "source": "ras_events",
+          "source_name": "РАН",
+          "url": "https://new.ras.ru/press-center/events-additional/konferentsiya-gidrosfera-aktualnye-voprosy-izucheniya-i-ratsionalnogo-prirodopolzovaniya/",
           "published_date": null
         }
       ]

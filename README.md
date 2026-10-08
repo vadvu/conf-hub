@@ -23,7 +23,6 @@
 
 | дата | версия | полный? | crawl, мин | classify, мин | extract, мин | всего, мин |
 |---|---|---|---|---|---|---|
-| 2026-09-24 | 0.21.0 | — | 1.7 | 1.0 | 1.9 | 4.6 |
 | 2026-09-25 | 0.21.0 | — | 1.4 | 1.5 | 1.3 | 4.2 |
 | 2026-09-26 | 0.21.0 | — | 1.3 | 0.8 | 0.4 | 2.5 |
 | 2026-09-27 | 0.21.0 | — | 2.6 | 0.0 | 0.0 | 2.6 |
@@ -37,32 +36,33 @@
 | 2026-10-05 | 0.21.0 | — | 20.3 | 0.0 | 0.0 | 20.3 |
 | 2026-10-06 | 0.21.0 | — | 2.0 | 1.6 | 1.2 | 4.8 |
 | 2026-10-07 | 0.21.0 | — | 4.8 | 3.9 | 3.8 | 12.4 |
+| 2026-10-08 | 0.21.0 | — | 2.6 | 1.9 | 1.5 | 6.0 |
 
 ### Здоровье
 
 ✓ — список получен; 0! — 0 новостей в списке (вероятна поломка селекторов); ERR — список не скачался; rbt — запрещено robots.txt; «—» — источник в этот день не краулился.
 
-| источник | 2026-09-24 | 2026-09-25 | 2026-09-26 | 2026-09-27 | 2026-09-28 | 2026-09-29 | 2026-09-30 | 2026-10-01 | 2026-10-02 | 2026-10-03 | 2026-10-04 | 2026-10-05 | 2026-10-06 | 2026-10-07 |
+| источник | 2026-09-25 | 2026-09-26 | 2026-09-27 | 2026-09-28 | 2026-09-29 | 2026-09-30 | 2026-10-01 | 2026-10-02 | 2026-10-03 | 2026-10-04 | 2026-10-05 | 2026-10-06 | 2026-10-07 | 2026-10-08 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | *версия* | 0.21.0 | 0.21.0 | 0.21.0 | 0.21.0 | 0.21.0 | 0.21.0 | 0.21.0 | 0.21.0 | 0.21.0 | 0.21.0 | 0.21.0 | 0.21.0 | 0.21.0 | 0.21.0 |
-| [ЕУСПб](https://eusp.org/news) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ERR | ✓ | ✓ |
-| [НИУ ВШЭ](https://www.hse.ru/news/announcements/scientific_actions/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ERR | ✓ | ✓ |
-| [НИУ ВШЭ (конференции)](https://www.hse.ru/science/HSEconf) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ERR | ✓ | ✓ | ERR | ✓ | ✓ |
-| [ИКСА РАН](https://www.iccaras.ru/meropriyatiya.html) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ERR | ✓ | ✓ |
-| [ИЭА РАН](https://iea-ras.ru/?cat=56) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ERR | ✓ | ✓ |
-| [ИЛИ РАН](https://iling.spb.ru/conferences) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ERR | ✓ | ✓ |
-| [ИНИОН РАН](https://inion.ru/ru/about/news/?category=4) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ERR | ✓ | ✓ | ERR | ✓ | ✓ |
-| [ИОН РАНХиГС](https://ion.ranepa.ru/announcement/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ERR | ✓ | ✓ |
-| [ИТМО](https://news.itmo.ru/ru/events/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ERR | ✓ | ✓ |
-| [ЦенСИБ НИУ ВШЭ](https://lcsr.hse.ru/news/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ERR | ✓ | ✓ |
-| [МГИМО](https://mgimo.ru/about/news/announce/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ERR | ✓ | ✓ |
-| [МФТИ](https://mipt.ru/institute/events) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ERR | ✓ | ✓ |
-| [МГУ](https://msu.ru/science/allevents.html) | ✓ | ✓ | ✓ | ERR | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ERR | ✓ | ✓ |
-| [НИУ ВШЭ (Пермь)](https://perm.hse.ru/news/announcements/scientific_actions/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ERR | ✓ | ✓ |
-| [РАН](https://new.ras.ru/press-center/events-additional/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ERR | ✓ | ✓ | ✓ | ERR | ✓ | ✓ |
-| [РГГУ](https://www.rsuh.ru/anons/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ERR | ✓ | ✓ |
-| [Социологический институт РАН](https://socinst.ru/events) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ERR | ✓ | ✓ |
-| [НИУ ВШЭ (СПб)](https://spb.hse.ru/announcements/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ERR | ✓ | ✓ | ✓ | ✓ | ERR | ✓ | ✓ |
-| [СПбГУ](https://events.spbu.ru/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ERR | ✓ | ✓ |
-| [ТГУ](https://news.tsu.ru/calendar-of-events/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ERR | ✓ | ✓ |
-| [УрФУ](https://urfu.ru/get-news/ru/news/?cols=3&pid=53%2C11367%2C30302&categories=1%2C10%2C12%2C130%2C155%2C2%2C212%2C232%2C27%2C277%2C3%2C329%2C33%2C380%2C381%2C4%2C5%2C52%2C6%2C8%2C9%2C90%2C93%2C96&fullmode=1&offset=0&rows=100&selected=0&page=54&show_categories=1) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ERR | ✓ | ✓ |
+| [ЕУСПб](https://eusp.org/news) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ERR | ✓ | ✓ | ✓ |
+| [НИУ ВШЭ](https://www.hse.ru/news/announcements/scientific_actions/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ERR | ✓ | ✓ | ✓ |
+| [НИУ ВШЭ (конференции)](https://www.hse.ru/science/HSEconf) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ERR | ✓ | ✓ | ERR | ✓ | ✓ | ✓ |
+| [ИКСА РАН](https://www.iccaras.ru/meropriyatiya.html) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ERR | ✓ | ✓ | ✓ |
+| [ИЭА РАН](https://iea-ras.ru/?cat=56) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ERR | ✓ | ✓ | ✓ |
+| [ИЛИ РАН](https://iling.spb.ru/conferences) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ERR | ✓ | ✓ | ✓ |
+| [ИНИОН РАН](https://inion.ru/ru/about/news/?category=4) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ERR | ✓ | ✓ | ERR | ✓ | ✓ | ✓ |
+| [ИОН РАНХиГС](https://ion.ranepa.ru/announcement/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ERR | ✓ | ✓ | ✓ |
+| [ИТМО](https://news.itmo.ru/ru/events/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ERR | ✓ | ✓ | ERR |
+| [ЦенСИБ НИУ ВШЭ](https://lcsr.hse.ru/news/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ERR | ✓ | ✓ | ✓ |
+| [МГИМО](https://mgimo.ru/about/news/announce/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ERR | ✓ | ✓ | ✓ |
+| [МФТИ](https://mipt.ru/institute/events) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ERR | ✓ | ✓ | ✓ |
+| [МГУ](https://msu.ru/science/allevents.html) | ✓ | ✓ | ERR | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ERR | ✓ | ✓ | ✓ |
+| [НИУ ВШЭ (Пермь)](https://perm.hse.ru/news/announcements/scientific_actions/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ERR | ✓ | ✓ | ✓ |
+| [РАН](https://new.ras.ru/press-center/events-additional/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ERR | ✓ | ✓ | ✓ | ERR | ✓ | ✓ | ✓ |
+| [РГГУ](https://www.rsuh.ru/anons/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ERR | ✓ | ✓ | ✓ |
+| [Социологический институт РАН](https://socinst.ru/events) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ERR | ✓ | ✓ | ✓ |
+| [НИУ ВШЭ (СПб)](https://spb.hse.ru/announcements/) | ✓ | ✓ | ✓ | ✓ | ✓ | ERR | ✓ | ✓ | ✓ | ✓ | ERR | ✓ | ✓ | ✓ |
+| [СПбГУ](https://events.spbu.ru/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ERR | ✓ | ✓ | ✓ |
+| [ТГУ](https://news.tsu.ru/calendar-of-events/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ERR | ✓ | ✓ | ✓ |
+| [УрФУ](https://urfu.ru/get-news/ru/news/?cols=3&pid=53%2C11367%2C30302&categories=1%2C10%2C12%2C130%2C155%2C2%2C212%2C232%2C27%2C277%2C3%2C329%2C33%2C380%2C381%2C4%2C5%2C52%2C6%2C8%2C9%2C90%2C93%2C96&fullmode=1&offset=0&rows=100&selected=0&page=54&show_categories=1) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ERR | ✓ | ✓ | ✓ |
