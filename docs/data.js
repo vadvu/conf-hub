@@ -1,8 +1,8 @@
 window.CONF_DATA = {
   "version": "0.21.0",
-  "generated_at": "2026-10-09T03:05:08+00:00",
-  "crawled_at": "2026-10-09T03:02:20+00:00",
-  "today": "2026-10-09",
+  "generated_at": "2026-10-10T03:04:52+00:00",
+  "crawled_at": "2026-10-10T03:01:44+00:00",
+  "today": "2026-10-10",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -90,40 +90,6 @@ window.CONF_DATA = {
     }
   ],
   "conferences": [
-    {
-      "id": "b41d4103fb7c",
-      "title": "Финатлон форум «Профессионалы будущего»",
-      "organizer": "Российский государственный гуманитарный университет",
-      "disciplines": [
-        "Экономика и менеджмент",
-        "Социальная и экономическая география (включая урбанистику и транспорт)",
-        "Философия, этика, религиоведение"
-      ],
-      "event_start": "2026-11-23",
-      "event_end": "2026-12-03",
-      "submission_deadline": "2026-10-09",
-      "location": "онлайн",
-      "format": "гибрид",
-      "official_url": "https://finatlonforum.ru",
-      "confidence": 0.933,
-      "field_flags": [
-        "location",
-        "disciplines",
-        "event_start",
-        "event_end",
-        "official_url"
-      ],
-      "first_seen": "2026-09-30",
-      "status": "open",
-      "sources": [
-        {
-          "source": "rsuh",
-          "source_name": "РГГУ",
-          "url": "https://www.rsuh.ru/anons/ix-finatlon-forum-professionaly-budushchego/",
-          "published_date": null
-        }
-      ]
-    },
     {
       "id": "80ae9b82e043",
       "title": "Творческая лаборатория «Культурный код»",
@@ -214,6 +180,34 @@ window.CONF_DATA = {
           "source": "hse_ann_sci",
           "source_name": "НИУ ВШЭ",
           "url": "https://isp.hse.ru/announcements/1207390947.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "728bfdfdf27a",
+      "title": "Бизнес-префорум «RUTA: Россия — Латинская Америка»",
+      "organizer": "кафедра испанского языка при поддержке Факультета международного бизнеса, Управления языковой подготовки и Эндаумента",
+      "disciplines": [
+        "Экономика и менеджмент"
+      ],
+      "event_start": "2026-10-16",
+      "event_end": "2026-10-17",
+      "submission_deadline": "2026-10-12",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "organizer"
+      ],
+      "first_seen": "2026-10-10",
+      "status": "open",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/ruta/",
           "published_date": null
         }
       ]
@@ -882,6 +876,35 @@ window.CONF_DATA = {
       ]
     },
     {
+      "id": "3fb1aa29807f",
+      "title": "Всероссийская научная конференция «Научная биография — вид исторического исследования Нового и новейшего времени»",
+      "organizer": "Санкт-Петербургский государственный университет",
+      "disciplines": [
+        "История и археология"
+      ],
+      "event_start": "2026-12-02",
+      "event_end": "2026-12-02",
+      "submission_deadline": "2026-10-31",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "format"
+      ],
+      "first_seen": "2026-10-10",
+      "status": "open",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/hist-bio",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "b65253db9223",
       "title": "Вторая Конференция неудач",
       "organizer": "СПб ГБУ «Городской информационно-методический центр «Семья»», Социологический институт РАН – филиал ФНИСЦ РАН",
@@ -1182,6 +1205,36 @@ window.CONF_DATA = {
           "source_name": "ИЭА РАН",
           "url": "https://iea-ras.ru/?p=22453",
           "published_date": "2026-09-11"
+        }
+      ]
+    },
+    {
+      "id": "3418d19cb7a6",
+      "title": "Православная культура в позднесоветском городе: проблемы и перспективы исследования",
+      "organizer": "ИНИОН РАН",
+      "disciplines": [
+        "История и археология",
+        "Философия, этика, религиоведение"
+      ],
+      "event_start": "2026-11-12",
+      "event_end": "2026-11-12",
+      "submission_deadline": "2026-11-09",
+      "location": null,
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.917,
+      "field_flags": [
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-10-10",
+      "status": "open",
+      "sources": [
+        {
+          "source": "inion",
+          "source_name": "ИНИОН РАН",
+          "url": "https://inion.ru/ru/about/news/kruglyi-stol-pravoslavnaia-kul-tura-v-pozdnesovestskom-gorode-problemy-i-perspektivy-issledovaniia-informatcionnoe-pis-mo/",
+          "published_date": null
         }
       ]
     },
@@ -1610,37 +1663,6 @@ window.CONF_DATA = {
       ]
     },
     {
-      "id": "c848d522adbf",
-      "title": "Российская конференция по физике полупроводников (РКФП-2026)",
-      "organizer": "Физический институт им. П.Н. Лебедева РАН, Отделение физических наук РАН, Научный совет РАН по физике полупроводников и Российская академия наук",
-      "disciplines": [
-        "Физика"
-      ],
-      "event_start": "2026-10-05",
-      "event_end": "2026-10-09",
-      "submission_deadline": "2026-04-10",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.983,
-      "field_flags": [
-        "organizer",
-        "disciplines",
-        "format",
-        "official_url"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "ras_events",
-          "source_name": "РАН",
-          "url": "https://new.ras.ru/press-center/events-additional/xvii-rossiyskaya-konferentsiya-po-fizike-poluprovodnikov-rkfp-2026/",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "39b435f620d6",
       "title": "Synchrotron Radiation: Science, Knowledge, Innovations, Future (SKIF-2026)",
       "organizer": "Сибирское отделение РАН, Институт ядерной физики им. Г.И. Будкера СО РАН, НИИ «Национальный исследовательский центр Курчатовский институт», Институт катализа им. Г.К. Борескова СО РАН",
@@ -1699,35 +1721,6 @@ window.CONF_DATA = {
           "source": "ras_events",
           "source_name": "РАН",
           "url": "https://new.ras.ru/press-center/events-additional/ii-mezhdunarodnaya-nauchnaya-konferentsiya-sudba-arkheologii-v-1930-e-gody-uchrezhdeniya-i-sotrudnik/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "6bef801ca2e2",
-      "title": "Конгресс «Химия и химические технологии в цифровую эпоху»",
-      "organizer": "Российская Академия Наук, Министерство науки и высшего образования России, Министерство промышленности и торговли России и Институт органической химии им. Н.Д. Зелинского РАН",
-      "disciplines": [
-        "Химия"
-      ],
-      "event_start": "2026-10-05",
-      "event_end": "2026-10-09",
-      "submission_deadline": "2026-05-15",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.9,
-      "field_flags": [
-        "format",
-        "official_url"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "ras_events",
-          "source_name": "РАН",
-          "url": "https://new.ras.ru/press-center/events-additional/kongress-khimiya-i-khimicheskie-tekhnologii-v-tsifrovuyu-epokhu/",
           "published_date": null
         }
       ]
@@ -2906,36 +2899,6 @@ window.CONF_DATA = {
       ]
     },
     {
-      "id": "f6c71f3455dc",
-      "title": "Четвертые Новиковские чтения: Феномен текста в современном гуманитарном знании: границы понятия",
-      "organizer": "ИНИОН РАН",
-      "disciplines": [
-        "Филология и лингвистика",
-        "Философия, этика, религиоведение"
-      ],
-      "event_start": "2026-10-07",
-      "event_end": "2026-10-09",
-      "submission_deadline": "2026-09-20",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "disciplines"
-      ],
-      "first_seen": "2026-09-05",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "inion",
-          "source_name": "ИНИОН РАН",
-          "url": "https://inion.ru/ru/about/news/vserossiiskaia-nauchno-prakticheskaia-konferentciia-chetvertye-novikovskie-chteniia-fenomen-teksta-v-sovremennom-gumanitarnom/",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "d6740c022afa",
       "title": "Международная научно-практическая конференция «Право и бизнес в реалиях современности: национальное, региональное и международное измерение»",
       "organizer": "департамент правового регулирования бизнеса факультета права НИУ ВШЭ",
@@ -3737,36 +3700,6 @@ window.CONF_DATA = {
       ]
     },
     {
-      "id": "a36ae6ef0652",
-      "title": "Гидроминеральное сырьё нефтегазовых месторождений: технологии добычи и извлечения ценных компонентов",
-      "organizer": "Санкт-Петербургский государственный университет",
-      "disciplines": [
-        "Химия",
-        "Науки о земле",
-        "Экономика и менеджмент"
-      ],
-      "event_start": "2026-10-08",
-      "event_end": "2026-10-09",
-      "submission_deadline": "2026-10-02",
-      "location": "Санкт-Петербург",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "disciplines"
-      ],
-      "first_seen": "2026-09-05",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "spbu_events",
-          "source_name": "СПбГУ",
-          "url": "https://events.spbu.ru/hydromin",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "a9952bb90b61",
       "title": "Память и идентичность – IX. Конфликт идентичностей",
       "organizer": "кафедра всеобщей истории исторического факультета Историко-архивного института РГГУ",
@@ -4042,6 +3975,40 @@ window.CONF_DATA = {
       ]
     },
     {
+      "id": "b41d4103fb7c",
+      "title": "Финатлон форум «Профессионалы будущего»",
+      "organizer": "Российский государственный гуманитарный университет",
+      "disciplines": [
+        "Экономика и менеджмент",
+        "Социальная и экономическая география (включая урбанистику и транспорт)",
+        "Философия, этика, религиоведение"
+      ],
+      "event_start": "2026-11-23",
+      "event_end": "2026-12-03",
+      "submission_deadline": "2026-10-09",
+      "location": "онлайн",
+      "format": "гибрид",
+      "official_url": "https://finatlonforum.ru",
+      "confidence": 0.933,
+      "field_flags": [
+        "location",
+        "disciplines",
+        "event_start",
+        "event_end",
+        "official_url"
+      ],
+      "first_seen": "2026-09-30",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "rsuh",
+          "source_name": "РГГУ",
+          "url": "https://www.rsuh.ru/anons/ix-finatlon-forum-professionaly-budushchego/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "f208172484c5",
       "title": "IX Российский философский конгресс «Философия в контексте современных вызовов»",
       "organizer": "Санкт-Петербургский государственный университет (СПбГУ)",
@@ -4126,6 +4093,37 @@ window.CONF_DATA = {
           "source": "iling_ras",
           "source_name": "ИЛИ РАН",
           "url": "https://iling.spb.ru/conferences/2026/4797",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "c848d522adbf",
+      "title": "Российская конференция по физике полупроводников (РКФП-2026)",
+      "organizer": "Физический институт им. П.Н. Лебедева РАН, Отделение физических наук РАН, Научный совет РАН по физике полупроводников и Российская академия наук",
+      "disciplines": [
+        "Физика"
+      ],
+      "event_start": "2026-10-05",
+      "event_end": "2026-10-09",
+      "submission_deadline": "2026-04-10",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.983,
+      "field_flags": [
+        "organizer",
+        "disciplines",
+        "format",
+        "official_url"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "past",
+      "sources": [
+        {
+          "source": "ras_events",
+          "source_name": "РАН",
+          "url": "https://new.ras.ru/press-center/events-additional/xvii-rossiyskaya-konferentsiya-po-fizike-poluprovodnikov-rkfp-2026/",
           "published_date": null
         }
       ]
@@ -4343,6 +4341,35 @@ window.CONF_DATA = {
           "source": "socinst",
           "source_name": "Социологический институт РАН",
           "url": "https://socinst.ru/conferences/kama2026/#files",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "6bef801ca2e2",
+      "title": "Конгресс «Химия и химические технологии в цифровую эпоху»",
+      "organizer": "Российская Академия Наук, Министерство науки и высшего образования России, Министерство промышленности и торговли России и Институт органической химии им. Н.Д. Зелинского РАН",
+      "disciplines": [
+        "Химия"
+      ],
+      "event_start": "2026-10-05",
+      "event_end": "2026-10-09",
+      "submission_deadline": "2026-05-15",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.9,
+      "field_flags": [
+        "format",
+        "official_url"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "past",
+      "sources": [
+        {
+          "source": "ras_events",
+          "source_name": "РАН",
+          "url": "https://new.ras.ru/press-center/events-additional/kongress-khimiya-i-khimicheskie-tekhnologii-v-tsifrovuyu-epokhu/",
           "published_date": null
         }
       ]
@@ -5725,6 +5752,36 @@ window.CONF_DATA = {
       ]
     },
     {
+      "id": "f6c71f3455dc",
+      "title": "Четвертые Новиковские чтения: Феномен текста в современном гуманитарном знании: границы понятия",
+      "organizer": "ИНИОН РАН",
+      "disciplines": [
+        "Филология и лингвистика",
+        "Философия, этика, религиоведение"
+      ],
+      "event_start": "2026-10-07",
+      "event_end": "2026-10-09",
+      "submission_deadline": "2026-09-20",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "disciplines"
+      ],
+      "first_seen": "2026-09-05",
+      "status": "past",
+      "sources": [
+        {
+          "source": "inion",
+          "source_name": "ИНИОН РАН",
+          "url": "https://inion.ru/ru/about/news/vserossiiskaia-nauchno-prakticheskaia-konferentciia-chetvertye-novikovskie-chteniia-fenomen-teksta-v-sovremennom-gumanitarnom/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "421de03f504d",
       "title": "День Филиппин в МГИМО",
       "organizer": "Центр АСЕАН при поддержке Посольства Республики Филиппин в Москве и Посольства Российской Федерации в Маниле",
@@ -5753,6 +5810,36 @@ window.CONF_DATA = {
           "source": "mgimo_ann",
           "source_name": "МГИМО",
           "url": "https://mgimo.ru/about/news/announce/philippines-day-2026/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "a36ae6ef0652",
+      "title": "Гидроминеральное сырьё нефтегазовых месторождений: технологии добычи и извлечения ценных компонентов",
+      "organizer": "Санкт-Петербургский государственный университет",
+      "disciplines": [
+        "Химия",
+        "Науки о земле",
+        "Экономика и менеджмент"
+      ],
+      "event_start": "2026-10-08",
+      "event_end": "2026-10-09",
+      "submission_deadline": "2026-10-02",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-09-05",
+      "status": "past",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/hydromin",
           "published_date": null
         }
       ]
