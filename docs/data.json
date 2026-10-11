@@ -1,8 +1,8 @@
 {
   "version": "0.21.0",
-  "generated_at": "2026-10-10T03:04:52+00:00",
-  "crawled_at": "2026-10-10T03:01:44+00:00",
-  "today": "2026-10-10",
+  "generated_at": "2026-10-11T03:19:15+00:00",
+  "crawled_at": "2026-10-11T03:18:40+00:00",
+  "today": "2026-10-11",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -90,72 +90,6 @@
     }
   ],
   "conferences": [
-    {
-      "id": "80ae9b82e043",
-      "title": "Творческая лаборатория «Культурный код»",
-      "organizer": "Институт искусств и культуры Национального исследовательского Томского государственного университета",
-      "disciplines": [
-        "Медиа и коммуникации",
-        "Искусствоведение"
-      ],
-      "event_start": "2026-10-10",
-      "event_end": "2026-11-06",
-      "submission_deadline": "2026-10-10",
-      "location": "Томск",
-      "format": "гибрид",
-      "official_url": "https://clck.su/creative-lab",
-      "confidence": 0.933,
-      "field_flags": [
-        "organizer",
-        "location",
-        "disciplines",
-        "event_start",
-        "event_end",
-        "format"
-      ],
-      "first_seen": "2026-09-22",
-      "status": "open",
-      "sources": [
-        {
-          "source": "tsu",
-          "source_name": "ТГУ",
-          "url": "https://news.tsu.ru/calendar-of-events/iik-otkryvaet-tvorcheskuyu-laboratoriyu-kulturnyy-kod/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "6eaf52fb77cc",
-      "title": "Международная научно-практическая конференция Gesamtkunstwerk в художественных практиках XIX–XXI веков",
-      "organizer": "Государственный институт искусствознания, Московская государственная консерватория им. П.И. Чайковского, Российская академия музыки им. Гнесиных, Российский институт театрального искусства — ГИТИС",
-      "disciplines": [
-        "История и археология",
-        "Филология и лингвистика",
-        "Искусствоведение"
-      ],
-      "event_start": "2026-10-30",
-      "event_end": "2026-11-01",
-      "submission_deadline": "2026-10-10",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "disciplines",
-        "format",
-        "official_url"
-      ],
-      "first_seen": "2026-09-25",
-      "status": "open",
-      "sources": [
-        {
-          "source": "ras_events",
-          "source_name": "РАН",
-          "url": "https://new.ras.ru/press-center/events-additional/mezhdunarodnaya-nauchno-prakticheskaya-konferentsiya-gesamtkunstwerk-v-khudozhestvennykh-praktikakh/",
-          "published_date": null
-        }
-      ]
-    },
     {
       "id": "d4a8d4cd54eb",
       "title": "Достижение национальной цели «Сохранение населения, укрепление здоровья и повышение благополучия людей, поддержка семьи»: динамика ключевых показателей, возможности мониторинга и системной экспертизы определяющих их факторов",
@@ -568,6 +502,33 @@
           "source": "spbu_events",
           "source_name": "СПбГУ",
           "url": "https://events.spbu.ru/slav_congress",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "e6ee4664e6bf",
+      "title": "Молодежный форум Россия — Африка",
+      "organizer": "Университет",
+      "disciplines": [],
+      "event_start": "2026-10-28",
+      "event_end": "2026-10-29",
+      "submission_deadline": "2026-10-20",
+      "location": null,
+      "format": null,
+      "official_url": null,
+      "confidence": 0.85,
+      "field_flags": [
+        "organizer",
+        "format"
+      ],
+      "first_seen": "2026-10-11",
+      "status": "open",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/youth-forum-russia-africa-2026/",
           "published_date": null
         }
       ]
@@ -1726,36 +1687,6 @@
       ]
     },
     {
-      "id": "506a85f2de70",
-      "title": "Александр Алексеевич Холодович: Лингвистическая типология, синтаксис, кореистика, японистика",
-      "organizer": "Институт лингвистических исследований РАН и Санкт-Петербургский государственный университет",
-      "disciplines": [
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-10-08",
-      "event_end": "2026-10-10",
-      "submission_deadline": "2026-05-30",
-      "location": "Санкт-Петербург",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "location",
-        "disciplines",
-        "official_url"
-      ],
-      "first_seen": "2026-07-18",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "iling_ras",
-          "source_name": "ИЛИ РАН",
-          "url": "https://iling.spb.ru/conferences/2026/4876",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "c184d695a215",
       "title": "XIX «Лосевские чтения»",
       "organizer": "Научный совет РАН «История мировой культуры», Библиотека-музей «Дом А.Ф. Лосева» при поддержке Института мировой литературы им. А.М. Горького РАН, Института философии РАН, Московского педагогического государственного университета, филологического и философского факультетов МГУ, Литературного института им. А.М. Горького, Научного совета РАН по классической филологии, сравнительному изучению языков и литератур, «Дома русского зарубежья им. А.И. Солженицына», Православного Свято-Тихоновского гуманитарного университета, Культурно-просветительского общества «Лосевские беседы»",
@@ -2012,35 +1943,6 @@
       ]
     },
     {
-      "id": "c646b6629d39",
-      "title": "Права оригинала и права переводчика: что переводчик вправе сделать с текстом?",
-      "organizer": "Кафедра истории и теории литературы историко-филологического факультета ИОН РАНХиГС совместно с лабораторией историко-литературных исследований Школы актуальных гуманитарных исследований ИОН РАНХиГС",
-      "disciplines": [
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-10-10",
-      "event_end": "2026-10-10",
-      "submission_deadline": "2026-08-01",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.95,
-      "field_flags": [
-        "organizer",
-        "location"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "ion_ranepa",
-          "source_name": "ИОН РАНХиГС",
-          "url": "https://ion.ranepa.ru/announcement/10-oktyabrya-proydyet-studencheskaya-konferentsiya-prava-originala-i-prava-perevodchika-chto-perevod/",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "febe81e7edcb",
       "title": "XVII международная конференция «Философия, культура, ценности в современном мире»",
       "organizer": "Школа философии и культурологии ФГН НИУ ВШЭ",
@@ -2132,65 +2034,6 @@
           "source": "spbu_events",
           "source_name": "СПбГУ",
           "url": "https://events.spbu.ru/lilac-2026",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "d4ae5e20cb45",
-      "title": "Международная научно-практическая конференция студентов, аспирантов и молодых ученых «Эволюция права - 2026»",
-      "organizer": "Научное Студенческое Общество Юридического факультета МГУ имени М.В.Ломоносова",
-      "disciplines": [
-        "Право"
-      ],
-      "event_start": "2026-10-09",
-      "event_end": "2026-10-10",
-      "submission_deadline": "2026-08-31",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "location",
-        "format"
-      ],
-      "first_seen": "2026-08-27",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "msu_events",
-          "source_name": "МГУ",
-          "url": "https://conf.msu.ru/rus/event/10604/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "e2964ebf47f9",
-      "title": "Конференция памяти Сергея Сергеевича Хоружего",
-      "organizer": "Центр синергийной антропологии НИУ ВШЭ и Институт философии РАН",
-      "disciplines": [
-        "История и археология",
-        "Философия, этика, религиоведение"
-      ],
-      "event_start": "2026-10-10",
-      "event_end": "2026-10-10",
-      "submission_deadline": "2026-08-31",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.967,
-      "field_flags": [
-        "disciplines"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "hse_ann_sci",
-          "source_name": "НИУ ВШЭ",
-          "url": "https://ioe.hse.ru/announcements/1175011765.html",
           "published_date": null
         }
       ]
@@ -4009,6 +3852,72 @@
       ]
     },
     {
+      "id": "80ae9b82e043",
+      "title": "Творческая лаборатория «Культурный код»",
+      "organizer": "Институт искусств и культуры Национального исследовательского Томского государственного университета",
+      "disciplines": [
+        "Медиа и коммуникации",
+        "Искусствоведение"
+      ],
+      "event_start": "2026-10-10",
+      "event_end": "2026-11-06",
+      "submission_deadline": "2026-10-10",
+      "location": "Томск",
+      "format": "гибрид",
+      "official_url": "https://clck.su/creative-lab",
+      "confidence": 0.933,
+      "field_flags": [
+        "organizer",
+        "location",
+        "disciplines",
+        "event_start",
+        "event_end",
+        "format"
+      ],
+      "first_seen": "2026-09-22",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "tsu",
+          "source_name": "ТГУ",
+          "url": "https://news.tsu.ru/calendar-of-events/iik-otkryvaet-tvorcheskuyu-laboratoriyu-kulturnyy-kod/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "6eaf52fb77cc",
+      "title": "Международная научно-практическая конференция Gesamtkunstwerk в художественных практиках XIX–XXI веков",
+      "organizer": "Государственный институт искусствознания, Московская государственная консерватория им. П.И. Чайковского, Российская академия музыки им. Гнесиных, Российский институт театрального искусства — ГИТИС",
+      "disciplines": [
+        "История и археология",
+        "Филология и лингвистика",
+        "Искусствоведение"
+      ],
+      "event_start": "2026-10-30",
+      "event_end": "2026-11-01",
+      "submission_deadline": "2026-10-10",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines",
+        "format",
+        "official_url"
+      ],
+      "first_seen": "2026-09-25",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "ras_events",
+          "source_name": "РАН",
+          "url": "https://new.ras.ru/press-center/events-additional/mezhdunarodnaya-nauchno-prakticheskaya-konferentsiya-gesamtkunstwerk-v-khudozhestvennykh-praktikakh/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "f208172484c5",
       "title": "IX Российский философский конгресс «Философия в контексте современных вызовов»",
       "organizer": "Санкт-Петербургский государственный университет (СПбГУ)",
@@ -4484,6 +4393,36 @@
           "source": "spbu_events",
           "source_name": "СПбГУ",
           "url": "https://events.spbu.ru/law-spbu",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "506a85f2de70",
+      "title": "Александр Алексеевич Холодович: Лингвистическая типология, синтаксис, кореистика, японистика",
+      "organizer": "Институт лингвистических исследований РАН и Санкт-Петербургский государственный университет",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-10-08",
+      "event_end": "2026-10-10",
+      "submission_deadline": "2026-05-30",
+      "location": "Санкт-Петербург",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "location",
+        "disciplines",
+        "official_url"
+      ],
+      "first_seen": "2026-07-18",
+      "status": "past",
+      "sources": [
+        {
+          "source": "iling_ras",
+          "source_name": "ИЛИ РАН",
+          "url": "https://iling.spb.ru/conferences/2026/4876",
           "published_date": null
         }
       ]
@@ -5194,6 +5133,35 @@
       ]
     },
     {
+      "id": "c646b6629d39",
+      "title": "Права оригинала и права переводчика: что переводчик вправе сделать с текстом?",
+      "organizer": "Кафедра истории и теории литературы историко-филологического факультета ИОН РАНХиГС совместно с лабораторией историко-литературных исследований Школы актуальных гуманитарных исследований ИОН РАНХиГС",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-10-10",
+      "event_end": "2026-10-10",
+      "submission_deadline": "2026-08-01",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.95,
+      "field_flags": [
+        "organizer",
+        "location"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "past",
+      "sources": [
+        {
+          "source": "ion_ranepa",
+          "source_name": "ИОН РАНХиГС",
+          "url": "https://ion.ranepa.ru/announcement/10-oktyabrya-proydyet-studencheskaya-konferentsiya-prava-originala-i-prava-perevodchika-chto-perevod/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "4cfceb95ba2e",
       "title": "XIII Российский форум биотехнологий OpenBio",
       "organizer": "МФТИ",
@@ -5441,6 +5409,65 @@
           "source": "hse_ann_sci",
           "source_name": "НИУ ВШЭ",
           "url": "https://cfs.hse.ru/announcements/1168523686.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "d4ae5e20cb45",
+      "title": "Международная научно-практическая конференция студентов, аспирантов и молодых ученых «Эволюция права - 2026»",
+      "organizer": "Научное Студенческое Общество Юридического факультета МГУ имени М.В.Ломоносова",
+      "disciplines": [
+        "Право"
+      ],
+      "event_start": "2026-10-09",
+      "event_end": "2026-10-10",
+      "submission_deadline": "2026-08-31",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "location",
+        "format"
+      ],
+      "first_seen": "2026-08-27",
+      "status": "past",
+      "sources": [
+        {
+          "source": "msu_events",
+          "source_name": "МГУ",
+          "url": "https://conf.msu.ru/rus/event/10604/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "e2964ebf47f9",
+      "title": "Конференция памяти Сергея Сергеевича Хоружего",
+      "organizer": "Центр синергийной антропологии НИУ ВШЭ и Институт философии РАН",
+      "disciplines": [
+        "История и археология",
+        "Философия, этика, религиоведение"
+      ],
+      "event_start": "2026-10-10",
+      "event_end": "2026-10-10",
+      "submission_deadline": "2026-08-31",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.967,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "past",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://ioe.hse.ru/announcements/1175011765.html",
           "published_date": null
         }
       ]
