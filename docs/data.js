@@ -1,8 +1,8 @@
 window.CONF_DATA = {
   "version": "0.21.0",
-  "generated_at": "2026-10-12T03:01:30+00:00",
-  "crawled_at": "2026-10-12T03:01:30+00:00",
-  "today": "2026-10-12",
+  "generated_at": "2026-10-13T03:04:32+00:00",
+  "crawled_at": "2026-10-13T03:01:37+00:00",
+  "today": "2026-10-13",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -90,124 +90,6 @@ window.CONF_DATA = {
     }
   ],
   "conferences": [
-    {
-      "id": "d4a8d4cd54eb",
-      "title": "Достижение национальной цели «Сохранение населения, укрепление здоровья и повышение благополучия людей, поддержка семьи»: динамика ключевых показателей, возможности мониторинга и системной экспертизы определяющих их факторов",
-      "organizer": "Институт социальной политики НИУ ВШЭ",
-      "disciplines": [
-        "Социология (включая демографию и антропологию)"
-      ],
-      "event_start": "2026-10-13",
-      "event_end": "2026-10-13",
-      "submission_deadline": "2026-10-12",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.967,
-      "field_flags": [
-        "disciplines"
-      ],
-      "first_seen": "2026-10-09",
-      "status": "open",
-      "sources": [
-        {
-          "source": "hse_ann_sci",
-          "source_name": "НИУ ВШЭ",
-          "url": "https://isp.hse.ru/announcements/1207390947.html",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "728bfdfdf27a",
-      "title": "Бизнес-префорум «RUTA: Россия — Латинская Америка»",
-      "organizer": "кафедра испанского языка при поддержке Факультета международного бизнеса, Управления языковой подготовки и Эндаумента",
-      "disciplines": [
-        "Экономика и менеджмент"
-      ],
-      "event_start": "2026-10-16",
-      "event_end": "2026-10-17",
-      "submission_deadline": "2026-10-12",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "organizer"
-      ],
-      "first_seen": "2026-10-10",
-      "status": "open",
-      "sources": [
-        {
-          "source": "mgimo_ann",
-          "source_name": "МГИМО",
-          "url": "https://mgimo.ru/about/news/announce/ruta/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "d0ff86016efc",
-      "title": "XX Ковалевские чтения «Жизненные миры новой современности»",
-      "organizer": "Санкт-Петербургский государственный университет",
-      "disciplines": [
-        "Социология (включая демографию и антропологию)",
-        "Политология и международные отношения (включая ГМУ)"
-      ],
-      "event_start": "2026-11-12",
-      "event_end": "2026-11-14",
-      "submission_deadline": "2026-10-12",
-      "location": "Санкт-Петербург",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.95,
-      "field_flags": [
-        "disciplines"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "open",
-      "sources": [
-        {
-          "source": "spbu_events",
-          "source_name": "СПбГУ",
-          "url": "https://events.spbu.ru/kovalev-2026",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "59cf5d39bfbe",
-      "title": "X Международный форум «Аrs Sacra Audit»",
-      "organizer": "Московский государственный университет имени М.В.Ломоносова, Высшая школа государственного аудита, Студенческое научное общество ВШГА",
-      "disciplines": [
-        "Компьютерные науки",
-        "Экономика и менеджмент",
-        "Право"
-      ],
-      "event_start": "2026-12-16",
-      "event_end": "2026-12-18",
-      "submission_deadline": "2026-10-12",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "location",
-        "disciplines",
-        "format",
-        "official_url"
-      ],
-      "first_seen": "2026-08-27",
-      "status": "open",
-      "sources": [
-        {
-          "source": "msu_events",
-          "source_name": "МГУ",
-          "url": "https://conf.msu.ru/rus/event/10574/",
-          "published_date": null
-        }
-      ]
-    },
     {
       "id": "5abc0fc780e3",
       "title": "Лингвокультурные аспекты глобализационных процессов: Столкновение и взаимопроникновение культурных кодов",
@@ -744,6 +626,36 @@ window.CONF_DATA = {
           "source": "mgimo_ann",
           "source_name": "МГИМО",
           "url": "https://mgimo.ru/about/news/announce/woman-12-11-26/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "28bfde55d888",
+      "title": "Динамическая урбанистика: проблемы роста городов",
+      "organizer": "Центр арктической и северной урбанистики Высшей школы урбанистики имени А.А. Высоковского ФГРР НИУ ВШЭ и Тяньцзиньский университет",
+      "disciplines": [
+        "Социальная и экономическая география (включая урбанистику и транспорт)"
+      ],
+      "event_start": "2026-11-19",
+      "event_end": "2026-11-19",
+      "submission_deadline": "2026-10-25",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-10-13",
+      "status": "open",
+      "sources": [
+        {
+          "source": "hse_conf",
+          "source_name": "НИУ ВШЭ (конференции)",
+          "url": "https://urban.hse.ru/canorus/iac_conference_2026",
           "published_date": null
         }
       ]
@@ -1376,6 +1288,36 @@ window.CONF_DATA = {
           "source": "msu_events",
           "source_name": "МГУ",
           "url": "https://conf.msu.ru/rus/event/9088/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "4246e307aa4e",
+      "title": "Х Всероссийская конференция «Экология и управление природопользованием»",
+      "organizer": "ТГУ",
+      "disciplines": [
+        "Науки о земле",
+        "Экономика и менеджмент"
+      ],
+      "event_start": "2026-11-27",
+      "event_end": "2026-11-27",
+      "submission_deadline": "2026-11-20",
+      "location": "Томск",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.917,
+      "field_flags": [
+        "organizer",
+        "disciplines"
+      ],
+      "first_seen": "2026-10-13",
+      "status": "open",
+      "sources": [
+        {
+          "source": "tsu",
+          "source_name": "ТГУ",
+          "url": "https://news.tsu.ru/calendar-of-events/27-noyabrya-kh-vserossiyskaya-konferentsiya-ekologiya-i-upravlenie-prirodopolzovaniem/",
           "published_date": null
         }
       ]
@@ -2742,36 +2684,6 @@ window.CONF_DATA = {
       ]
     },
     {
-      "id": "d6740c022afa",
-      "title": "Международная научно-практическая конференция «Право и бизнес в реалиях современности: национальное, региональное и международное измерение»",
-      "organizer": "департамент правового регулирования бизнеса факультета права НИУ ВШЭ",
-      "disciplines": [
-        "Экономика и менеджмент",
-        "Право"
-      ],
-      "event_start": "2026-10-12",
-      "event_end": "2026-10-12",
-      "submission_deadline": "2026-09-20",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "disciplines",
-        "official_url"
-      ],
-      "first_seen": "2026-09-16",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "hse_conf",
-          "source_name": "НИУ ВШЭ (конференции)",
-          "url": "https://pravo.hse.ru/businesspravo/",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "b4a712f84e63",
       "title": "XV Всероссийская школа молодых учёных «Экспериментальная минералогия, петрология и геохимия»",
       "organizer": "Институт экспериментальной минералогии им. академика Д.С. Коржинского Российской академии наук (ИЭМ РАН)",
@@ -3794,6 +3706,36 @@ window.CONF_DATA = {
       ]
     },
     {
+      "id": "ed24f0684aee",
+      "title": "Нетрадиционные угрозы безопасности в странах Запада",
+      "organizer": "Отдел Европы и Америки ИНИОН РАН",
+      "disciplines": [
+        "Политология и международные отношения (включая ГМУ)"
+      ],
+      "event_start": "2026-10-15",
+      "event_end": "2026-10-15",
+      "submission_deadline": "2026-10-06",
+      "location": null,
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-10-13",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "inion",
+          "source_name": "ИНИОН РАН",
+          "url": "https://inion.ru/ru/about/news/nauchno-prakticheskii-kruglyi-stol-na-temu-netraditcionnye-ugrozy-bezopasnosti-v-stranakh-zapada-informatcionnoe-pis-mo/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "6d0a6012ab7b",
       "title": "Всероссийский патриотический форум — 2026",
       "organizer": "Национальный центр «Россия»",
@@ -3913,6 +3855,124 @@ window.CONF_DATA = {
           "source": "ras_events",
           "source_name": "РАН",
           "url": "https://new.ras.ru/press-center/events-additional/mezhdunarodnaya-nauchno-prakticheskaya-konferentsiya-gesamtkunstwerk-v-khudozhestvennykh-praktikakh/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "d4a8d4cd54eb",
+      "title": "Достижение национальной цели «Сохранение населения, укрепление здоровья и повышение благополучия людей, поддержка семьи»: динамика ключевых показателей, возможности мониторинга и системной экспертизы определяющих их факторов",
+      "organizer": "Институт социальной политики НИУ ВШЭ",
+      "disciplines": [
+        "Социология (включая демографию и антропологию)"
+      ],
+      "event_start": "2026-10-13",
+      "event_end": "2026-10-13",
+      "submission_deadline": "2026-10-12",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.967,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-10-09",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://isp.hse.ru/announcements/1207390947.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "728bfdfdf27a",
+      "title": "Бизнес-префорум «RUTA: Россия — Латинская Америка»",
+      "organizer": "кафедра испанского языка при поддержке Факультета международного бизнеса, Управления языковой подготовки и Эндаумента",
+      "disciplines": [
+        "Экономика и менеджмент"
+      ],
+      "event_start": "2026-10-16",
+      "event_end": "2026-10-17",
+      "submission_deadline": "2026-10-12",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "organizer"
+      ],
+      "first_seen": "2026-10-10",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/ruta/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "d0ff86016efc",
+      "title": "XX Ковалевские чтения «Жизненные миры новой современности»",
+      "organizer": "Санкт-Петербургский государственный университет",
+      "disciplines": [
+        "Социология (включая демографию и антропологию)",
+        "Политология и международные отношения (включая ГМУ)"
+      ],
+      "event_start": "2026-11-12",
+      "event_end": "2026-11-14",
+      "submission_deadline": "2026-10-12",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.95,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/kovalev-2026",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "59cf5d39bfbe",
+      "title": "X Международный форум «Аrs Sacra Audit»",
+      "organizer": "Московский государственный университет имени М.В.Ломоносова, Высшая школа государственного аудита, Студенческое научное общество ВШГА",
+      "disciplines": [
+        "Компьютерные науки",
+        "Экономика и менеджмент",
+        "Право"
+      ],
+      "event_start": "2026-12-16",
+      "event_end": "2026-12-18",
+      "submission_deadline": "2026-10-12",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "location",
+        "disciplines",
+        "format",
+        "official_url"
+      ],
+      "first_seen": "2026-08-27",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "msu_events",
+          "source_name": "МГУ",
+          "url": "https://conf.msu.ru/rus/event/10574/",
           "published_date": null
         }
       ]
@@ -5804,6 +5864,36 @@ window.CONF_DATA = {
           "source": "inion",
           "source_name": "ИНИОН РАН",
           "url": "https://inion.ru/ru/about/news/vserossiiskaia-nauchno-prakticheskaia-konferentciia-chetvertye-novikovskie-chteniia-fenomen-teksta-v-sovremennom-gumanitarnom/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "d6740c022afa",
+      "title": "Международная научно-практическая конференция «Право и бизнес в реалиях современности: национальное, региональное и международное измерение»",
+      "organizer": "департамент правового регулирования бизнеса факультета права НИУ ВШЭ",
+      "disciplines": [
+        "Экономика и менеджмент",
+        "Право"
+      ],
+      "event_start": "2026-10-12",
+      "event_end": "2026-10-12",
+      "submission_deadline": "2026-09-20",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines",
+        "official_url"
+      ],
+      "first_seen": "2026-09-16",
+      "status": "past",
+      "sources": [
+        {
+          "source": "hse_conf",
+          "source_name": "НИУ ВШЭ (конференции)",
+          "url": "https://pravo.hse.ru/businesspravo/",
           "published_date": null
         }
       ]
