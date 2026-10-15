@@ -1,8 +1,8 @@
 window.CONF_DATA = {
   "version": "0.21.0",
-  "generated_at": "2026-10-14T09:51:19+00:00",
-  "crawled_at": "2026-10-14T04:02:27+00:00",
-  "today": "2026-10-14",
+  "generated_at": "2026-10-15T08:34:22+00:00",
+  "crawled_at": "2026-10-15T03:54:58+00:00",
+  "today": "2026-10-15",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -90,6 +90,34 @@ window.CONF_DATA = {
     }
   ],
   "conferences": [
+    {
+      "id": "9830f609df09",
+      "title": "Геоданные для оценки климатических рисков: от карт опасностей к управленческим решениям",
+      "organizer": "Центр геоданных факультета географии и геоинформационных технологий НИУ ВШЭ",
+      "disciplines": [
+        "Науки о земле"
+      ],
+      "event_start": "2026-10-16",
+      "event_end": "2026-10-16",
+      "submission_deadline": "2026-10-15",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-10-15",
+      "status": "open",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://geography.hse.ru/announcements/1207057881.html",
+          "published_date": null
+        }
+      ]
+    },
     {
       "id": "5abc0fc780e3",
       "title": "Лингвокультурные аспекты глобализационных процессов: Столкновение и взаимопроникновение культурных кодов",
@@ -2741,36 +2769,6 @@ window.CONF_DATA = {
           "source": "ras_events",
           "source_name": "РАН",
           "url": "https://new.ras.ru/press-center/events-additional/vii-vserossiyskiy-demograficheskiy-forum-/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "b4a712f84e63",
-      "title": "XV Всероссийская школа молодых учёных «Экспериментальная минералогия, петрология и геохимия»",
-      "organizer": "Институт экспериментальной минералогии им. академика Д.С. Коржинского Российской академии наук (ИЭМ РАН)",
-      "disciplines": [
-        "Науки о земле"
-      ],
-      "event_start": "2026-10-13",
-      "event_end": "2026-10-14",
-      "submission_deadline": "2026-09-20",
-      "location": "Черноголовка",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "disciplines",
-        "format",
-        "official_url"
-      ],
-      "first_seen": "2026-09-05",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "ras_events",
-          "source_name": "РАН",
-          "url": "https://new.ras.ru/press-center/events-additional/xv-vserossiyskaya-shkola-molodykh-uchyenykh-eksperimentalnaya-mineralogiya-petrologiya-i-geokhimiya/",
           "published_date": null
         }
       ]
@@ -5896,6 +5894,36 @@ window.CONF_DATA = {
           "source": "hse_conf",
           "source_name": "НИУ ВШЭ (конференции)",
           "url": "https://pravo.hse.ru/businesspravo/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "b4a712f84e63",
+      "title": "XV Всероссийская школа молодых учёных «Экспериментальная минералогия, петрология и геохимия»",
+      "organizer": "Институт экспериментальной минералогии им. академика Д.С. Коржинского Российской академии наук (ИЭМ РАН)",
+      "disciplines": [
+        "Науки о земле"
+      ],
+      "event_start": "2026-10-13",
+      "event_end": "2026-10-14",
+      "submission_deadline": "2026-09-20",
+      "location": "Черноголовка",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines",
+        "format",
+        "official_url"
+      ],
+      "first_seen": "2026-09-05",
+      "status": "past",
+      "sources": [
+        {
+          "source": "ras_events",
+          "source_name": "РАН",
+          "url": "https://new.ras.ru/press-center/events-additional/xv-vserossiyskaya-shkola-molodykh-uchyenykh-eksperimentalnaya-mineralogiya-petrologiya-i-geokhimiya/",
           "published_date": null
         }
       ]
