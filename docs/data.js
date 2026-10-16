@@ -1,8 +1,8 @@
 window.CONF_DATA = {
   "version": "0.21.0",
-  "generated_at": "2026-10-15T08:34:22+00:00",
-  "crawled_at": "2026-10-15T03:54:58+00:00",
-  "today": "2026-10-15",
+  "generated_at": "2026-10-16T09:55:37+00:00",
+  "crawled_at": "2026-10-16T09:53:25+00:00",
+  "today": "2026-10-16",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -91,245 +91,6 @@ window.CONF_DATA = {
   ],
   "conferences": [
     {
-      "id": "9830f609df09",
-      "title": "Геоданные для оценки климатических рисков: от карт опасностей к управленческим решениям",
-      "organizer": "Центр геоданных факультета географии и геоинформационных технологий НИУ ВШЭ",
-      "disciplines": [
-        "Науки о земле"
-      ],
-      "event_start": "2026-10-16",
-      "event_end": "2026-10-16",
-      "submission_deadline": "2026-10-15",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "disciplines"
-      ],
-      "first_seen": "2026-10-15",
-      "status": "open",
-      "sources": [
-        {
-          "source": "hse_ann_sci",
-          "source_name": "НИУ ВШЭ",
-          "url": "https://geography.hse.ru/announcements/1207057881.html",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "5abc0fc780e3",
-      "title": "Лингвокультурные аспекты глобализационных процессов: Столкновение и взаимопроникновение культурных кодов",
-      "organizer": "ИНИОН РАН",
-      "disciplines": [
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-10-22",
-      "event_end": "2026-10-22",
-      "submission_deadline": "2026-10-15",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "disciplines",
-        "official_url"
-      ],
-      "first_seen": "2026-10-08",
-      "status": "open",
-      "sources": [
-        {
-          "source": "inion",
-          "source_name": "ИНИОН РАН",
-          "url": "https://inion.ru/ru/about/news/vi-mezhdunarodnaia-nauchno-prakticheskaia-konferentciia-lingvokul-turnye-aspekty-globalizatcionnykh-protcessov-ctolknovenie-i/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "68a722b19561",
-      "title": "5-я конференция по машинному обучению и искусственному интелекту «Погружение в машинное обучение (Fall into ML 2026)",
-      "organizer": "НИУ ВШЭ",
-      "disciplines": [
-        "Компьютерные науки"
-      ],
-      "event_start": "2026-10-23",
-      "event_end": "2026-10-24",
-      "submission_deadline": "2026-10-15",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "organizer",
-        "submission_deadline",
-        "official_url"
-      ],
-      "first_seen": "2026-07-14",
-      "status": "open",
-      "sources": [
-        {
-          "source": "hse_ann_sci",
-          "source_name": "НИУ ВШЭ",
-          "url": "https://cs.hse.ru/ml2026/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "e42bb159902d",
-      "title": "Чтения памяти Александра Владимировича Бондарко «Актуальные проблемы функциональной грамматики»",
-      "organizer": "Отдел теории грамматики",
-      "disciplines": [
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-11-17",
-      "event_end": "2026-11-17",
-      "submission_deadline": "2026-10-15",
-      "location": null,
-      "format": "онлайн",
-      "official_url": null,
-      "confidence": 0.95,
-      "field_flags": [],
-      "first_seen": "2026-09-03",
-      "status": "open",
-      "sources": [
-        {
-          "source": "iling_ras",
-          "source_name": "ИЛИ РАН",
-          "url": "https://iling.spb.ru/conferences/2026/5118",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "c2fe1be8a798",
-      "title": "Воркшоп «Наука о госзакупках»",
-      "organizer": "Высшая школа экономики",
-      "disciplines": [
-        "Экономика и менеджмент"
-      ],
-      "event_start": "2026-11-19",
-      "event_end": "2026-11-21",
-      "submission_deadline": "2026-10-15",
-      "location": "Пермь",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.917,
-      "field_flags": [
-        "title",
-        "disciplines"
-      ],
-      "first_seen": "2026-08-15",
-      "status": "open",
-      "sources": [
-        {
-          "source": "hse_ann_sci",
-          "source_name": "НИУ ВШЭ",
-          "url": "https://perm.hse.ru/scienceperm/announcements/1189641794.html",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "b2f0870ce4cb",
-      "title": "Российское общество в межстрановых и временных сравнениях",
-      "organizer": "Центр сравнительных исследований социального благополучия НИУ ВШЭ и Институт сравнительных социальных исследований",
-      "disciplines": [
-        "Социология (включая демографию и антропологию)"
-      ],
-      "event_start": "2026-11-26",
-      "event_end": "2026-11-27",
-      "submission_deadline": "2026-10-15",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "disciplines"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "open",
-      "sources": [
-        {
-          "source": "lcsr",
-          "source_name": "ЦенСИБ НИУ ВШЭ",
-          "url": "https://lcsr.hse.ru/news/1170484895.html",
-          "published_date": "2026-06-17"
-        },
-        {
-          "source": "lcsr",
-          "source_name": "ЦенСИБ НИУ ВШЭ",
-          "url": "https://lcsr.hse.ru/news/1207359592.html",
-          "published_date": "2026-10-07"
-        }
-      ]
-    },
-    {
-      "id": "b244afcfbc40",
-      "title": "Актуальные проблемы стоматологии",
-      "organizer": "Медицинский институт СПбГУ",
-      "disciplines": [],
-      "event_start": "2026-12-04",
-      "event_end": "2026-12-04",
-      "submission_deadline": "2026-10-15",
-      "location": "Санкт-Петербург",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "organizer",
-        "location",
-        "disciplines"
-      ],
-      "first_seen": "2026-08-19",
-      "status": "open",
-      "sources": [
-        {
-          "source": "spbu_events",
-          "source_name": "СПбГУ",
-          "url": "https://events.spbu.ru/stoma",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "30939c7c0414",
-      "title": "Междисциплинарная научная конференция ChemNet",
-      "organizer": "Московский государственный университет им. М.В. Ломоносова",
-      "disciplines": [
-        "Химия"
-      ],
-      "event_start": "2027-02-01",
-      "event_end": "2027-02-05",
-      "submission_deadline": "2026-10-15",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "organizer",
-        "disciplines",
-        "format",
-        "official_url"
-      ],
-      "first_seen": "2026-10-07",
-      "status": "open",
-      "sources": [
-        {
-          "source": "ras_events",
-          "source_name": "РАН",
-          "url": "https://new.ras.ru/press-center/events-additional/ii-mezhdistsiplinarnaya-nauchnaya-konferentsiya-chemnet-/",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "12c57a158b1a",
       "title": "Синергия языков и культур: междисциплинарные исследования",
       "organizer": "Санкт-Петербургский государственный университет",
@@ -412,6 +173,37 @@ window.CONF_DATA = {
           "source": "spbu_events",
           "source_name": "СПбГУ",
           "url": "https://events.spbu.ru/slav_congress",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "e87a69ec812a",
+      "title": "Кейс-чемпионат «Плеяды»",
+      "organizer": "Университет ИТМО",
+      "disciplines": [
+        "Компьютерные науки",
+        "Электроника и электротехника"
+      ],
+      "event_start": "2026-10-24",
+      "event_end": "2026-10-24",
+      "submission_deadline": "2026-10-20",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.917,
+      "field_flags": [
+        "organizer",
+        "disciplines",
+        "official_url"
+      ],
+      "first_seen": "2026-10-16",
+      "status": "open",
+      "sources": [
+        {
+          "source": "itmo_events",
+          "source_name": "ИТМО",
+          "url": "https://news.itmo.ru/ru/announce/124536/",
           "published_date": null
         }
       ]
@@ -1885,36 +1677,6 @@ window.CONF_DATA = {
       ]
     },
     {
-      "id": "7cdb78e1b7d3",
-      "title": "VIII Ежегодная всероссийская коференция «Регионы и деньги: территориальные аспекты экономической политики в России XVIII–XX вв.»",
-      "organizer": "Институт региональных исторических исследований ФГН НИУ ВШЭ совместно с кафедрой исторической информатики Исторического факультета МГУ им. М. В. Ломоносова",
-      "disciplines": [
-        "История и археология"
-      ],
-      "event_start": "2026-10-14",
-      "event_end": "2026-10-15",
-      "submission_deadline": "2026-07-10",
-      "location": "Москва",
-      "format": null,
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "disciplines",
-        "format"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "hse_ann_sci",
-          "source_name": "НИУ ВШЭ",
-          "url": "https://www.hse.ru/rrh/announcements/1167649384.html",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "4146aa99060d",
       "title": "Три царства естества",
       "organizer": "Отдел Фитонимическая группа",
@@ -2427,38 +2189,6 @@ window.CONF_DATA = {
           "source_name": "ЕУСПб",
           "url": "https://eusp.org/news/start-priema-zayavok-vi-ezhegodnaya-nauchnaya-konferenciya-upravlenie-i-upravlyaemost-v-rossiyskoy-imperii-xviii-nachala-xx-veka",
           "published_date": "2026-06-26"
-        }
-      ]
-    },
-    {
-      "id": "e0c673d0b62e",
-      "title": "Институты публичной власти в Российской Федерации: история и современность",
-      "organizer": "Исторический факультет",
-      "disciplines": [
-        "Политология и международные отношения (включая ГМУ)",
-        "История и археология"
-      ],
-      "event_start": "2026-10-15",
-      "event_end": "2026-10-15",
-      "submission_deadline": "2026-09-12",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": "https://forms.yandex.ru/u/6a0c4cd249af47364a2158ae",
-      "confidence": 0.967,
-      "field_flags": [
-        "title",
-        "organizer",
-        "location",
-        "disciplines"
-      ],
-      "first_seen": "2026-08-19",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "rsuh",
-          "source_name": "РГГУ",
-          "url": "https://www.rsuh.ru/anons/mezhdunarodnaya-nauchno-prakticheskaya-konferentsiya-instituty-publichnoy-vlasti-v-rossiyskoy-federatsii-istoriya-i-sovremennost/",
-          "published_date": null
         }
       ]
     },
@@ -3734,36 +3464,6 @@ window.CONF_DATA = {
       ]
     },
     {
-      "id": "ed24f0684aee",
-      "title": "Нетрадиционные угрозы безопасности в странах Запада",
-      "organizer": "Отдел Европы и Америки ИНИОН РАН",
-      "disciplines": [
-        "Политология и международные отношения (включая ГМУ)"
-      ],
-      "event_start": "2026-10-15",
-      "event_end": "2026-10-15",
-      "submission_deadline": "2026-10-06",
-      "location": null,
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "location",
-        "disciplines"
-      ],
-      "first_seen": "2026-10-13",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "inion",
-          "source_name": "ИНИОН РАН",
-          "url": "https://inion.ru/ru/about/news/nauchno-prakticheskii-kruglyi-stol-na-temu-netraditcionnye-ugrozy-bezopasnosti-v-stranakh-zapada-informatcionnoe-pis-mo/",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "6d0a6012ab7b",
       "title": "Всероссийский патриотический форум — 2026",
       "organizer": "Национальный центр «Россия»",
@@ -3973,6 +3673,245 @@ window.CONF_DATA = {
           "source": "msu_events",
           "source_name": "МГУ",
           "url": "https://conf.msu.ru/rus/event/10574/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "9830f609df09",
+      "title": "Геоданные для оценки климатических рисков: от карт опасностей к управленческим решениям",
+      "organizer": "Центр геоданных факультета географии и геоинформационных технологий НИУ ВШЭ",
+      "disciplines": [
+        "Науки о земле"
+      ],
+      "event_start": "2026-10-16",
+      "event_end": "2026-10-16",
+      "submission_deadline": "2026-10-15",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-10-15",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://geography.hse.ru/announcements/1207057881.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "5abc0fc780e3",
+      "title": "Лингвокультурные аспекты глобализационных процессов: Столкновение и взаимопроникновение культурных кодов",
+      "organizer": "ИНИОН РАН",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-10-22",
+      "event_end": "2026-10-22",
+      "submission_deadline": "2026-10-15",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "disciplines",
+        "official_url"
+      ],
+      "first_seen": "2026-10-08",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "inion",
+          "source_name": "ИНИОН РАН",
+          "url": "https://inion.ru/ru/about/news/vi-mezhdunarodnaia-nauchno-prakticheskaia-konferentciia-lingvokul-turnye-aspekty-globalizatcionnykh-protcessov-ctolknovenie-i/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "68a722b19561",
+      "title": "5-я конференция по машинному обучению и искусственному интелекту «Погружение в машинное обучение (Fall into ML 2026)",
+      "organizer": "НИУ ВШЭ",
+      "disciplines": [
+        "Компьютерные науки"
+      ],
+      "event_start": "2026-10-23",
+      "event_end": "2026-10-24",
+      "submission_deadline": "2026-10-15",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "organizer",
+        "submission_deadline",
+        "official_url"
+      ],
+      "first_seen": "2026-07-14",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://cs.hse.ru/ml2026/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "e42bb159902d",
+      "title": "Чтения памяти Александра Владимировича Бондарко «Актуальные проблемы функциональной грамматики»",
+      "organizer": "Отдел теории грамматики",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-11-17",
+      "event_end": "2026-11-17",
+      "submission_deadline": "2026-10-15",
+      "location": null,
+      "format": "онлайн",
+      "official_url": null,
+      "confidence": 0.95,
+      "field_flags": [],
+      "first_seen": "2026-09-03",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "iling_ras",
+          "source_name": "ИЛИ РАН",
+          "url": "https://iling.spb.ru/conferences/2026/5118",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "c2fe1be8a798",
+      "title": "Воркшоп «Наука о госзакупках»",
+      "organizer": "Высшая школа экономики",
+      "disciplines": [
+        "Экономика и менеджмент"
+      ],
+      "event_start": "2026-11-19",
+      "event_end": "2026-11-21",
+      "submission_deadline": "2026-10-15",
+      "location": "Пермь",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.917,
+      "field_flags": [
+        "title",
+        "disciplines"
+      ],
+      "first_seen": "2026-08-15",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://perm.hse.ru/scienceperm/announcements/1189641794.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "b2f0870ce4cb",
+      "title": "Российское общество в межстрановых и временных сравнениях",
+      "organizer": "Центр сравнительных исследований социального благополучия НИУ ВШЭ и Институт сравнительных социальных исследований",
+      "disciplines": [
+        "Социология (включая демографию и антропологию)"
+      ],
+      "event_start": "2026-11-26",
+      "event_end": "2026-11-27",
+      "submission_deadline": "2026-10-15",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "disciplines"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "lcsr",
+          "source_name": "ЦенСИБ НИУ ВШЭ",
+          "url": "https://lcsr.hse.ru/news/1170484895.html",
+          "published_date": "2026-06-17"
+        },
+        {
+          "source": "lcsr",
+          "source_name": "ЦенСИБ НИУ ВШЭ",
+          "url": "https://lcsr.hse.ru/news/1207359592.html",
+          "published_date": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "b244afcfbc40",
+      "title": "Актуальные проблемы стоматологии",
+      "organizer": "Медицинский институт СПбГУ",
+      "disciplines": [],
+      "event_start": "2026-12-04",
+      "event_end": "2026-12-04",
+      "submission_deadline": "2026-10-15",
+      "location": "Санкт-Петербург",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "organizer",
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-08-19",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/stoma",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "30939c7c0414",
+      "title": "Междисциплинарная научная конференция ChemNet",
+      "organizer": "Московский государственный университет им. М.В. Ломоносова",
+      "disciplines": [
+        "Химия"
+      ],
+      "event_start": "2027-02-01",
+      "event_end": "2027-02-05",
+      "submission_deadline": "2026-10-15",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "organizer",
+        "disciplines",
+        "format",
+        "official_url"
+      ],
+      "first_seen": "2026-10-07",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "ras_events",
+          "source_name": "РАН",
+          "url": "https://new.ras.ru/press-center/events-additional/ii-mezhdistsiplinarnaya-nauchnaya-konferentsiya-chemnet-/",
           "published_date": null
         }
       ]
@@ -4944,6 +4883,36 @@ window.CONF_DATA = {
       ]
     },
     {
+      "id": "7cdb78e1b7d3",
+      "title": "VIII Ежегодная всероссийская коференция «Регионы и деньги: территориальные аспекты экономической политики в России XVIII–XX вв.»",
+      "organizer": "Институт региональных исторических исследований ФГН НИУ ВШЭ совместно с кафедрой исторической информатики Исторического факультета МГУ им. М. В. Ломоносова",
+      "disciplines": [
+        "История и археология"
+      ],
+      "event_start": "2026-10-14",
+      "event_end": "2026-10-15",
+      "submission_deadline": "2026-07-10",
+      "location": "Москва",
+      "format": null,
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "past",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://www.hse.ru/rrh/announcements/1167649384.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "02348d6c69c0",
       "title": "IV международная конференция по космическому образованию «Дорога в космос»",
       "organizer": "Институт космических исследований РАН",
@@ -5715,6 +5684,38 @@ window.CONF_DATA = {
       ]
     },
     {
+      "id": "e0c673d0b62e",
+      "title": "Институты публичной власти в Российской Федерации: история и современность",
+      "organizer": "Исторический факультет",
+      "disciplines": [
+        "Политология и международные отношения (включая ГМУ)",
+        "История и археология"
+      ],
+      "event_start": "2026-10-15",
+      "event_end": "2026-10-15",
+      "submission_deadline": "2026-09-12",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": "https://forms.yandex.ru/u/6a0c4cd249af47364a2158ae",
+      "confidence": 0.967,
+      "field_flags": [
+        "title",
+        "organizer",
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-08-19",
+      "status": "past",
+      "sources": [
+        {
+          "source": "rsuh",
+          "source_name": "РГГУ",
+          "url": "https://www.rsuh.ru/anons/mezhdunarodnaya-nauchno-prakticheskaya-konferentsiya-instituty-publichnoy-vlasti-v-rossiyskoy-federatsii-istoriya-i-sovremennost/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "d27e6de39ca4",
       "title": "XXI международная молодежная научная конференция «Экологические проблемы природопользования. Геоэкология — 2026»",
       "organizer": "Санкт-Петербургский государственный университет",
@@ -6019,6 +6020,36 @@ window.CONF_DATA = {
           "source": "spbu_events",
           "source_name": "СПбГУ",
           "url": "https://events.spbu.ru/hydromin",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "ed24f0684aee",
+      "title": "Нетрадиционные угрозы безопасности в странах Запада",
+      "organizer": "Отдел Европы и Америки ИНИОН РАН",
+      "disciplines": [
+        "Политология и международные отношения (включая ГМУ)"
+      ],
+      "event_start": "2026-10-15",
+      "event_end": "2026-10-15",
+      "submission_deadline": "2026-10-06",
+      "location": null,
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-10-13",
+      "status": "past",
+      "sources": [
+        {
+          "source": "inion",
+          "source_name": "ИНИОН РАН",
+          "url": "https://inion.ru/ru/about/news/nauchno-prakticheskii-kruglyi-stol-na-temu-netraditcionnye-ugrozy-bezopasnosti-v-stranakh-zapada-informatcionnoe-pis-mo/",
           "published_date": null
         }
       ]
