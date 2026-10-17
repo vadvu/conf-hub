@@ -1,8 +1,8 @@
 {
-  "version": "0.21.0",
-  "generated_at": "2026-10-16T09:55:37+00:00",
-  "crawled_at": "2026-10-16T09:53:25+00:00",
-  "today": "2026-10-16",
+  "version": "0.22.2",
+  "generated_at": "2026-10-17T04:59:50+00:00",
+  "crawled_at": "2026-10-17T04:57:20+00:00",
+  "today": "2026-10-17",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -91,64 +91,6 @@
   ],
   "conferences": [
     {
-      "id": "12c57a158b1a",
-      "title": "Синергия языков и культур: междисциплинарные исследования",
-      "organizer": "Санкт-Петербургский государственный университет",
-      "disciplines": [
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-10-22",
-      "event_end": "2026-10-24",
-      "submission_deadline": "2026-10-16",
-      "location": "Санкт-Петербург",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "disciplines",
-        "official_url"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "open",
-      "sources": [
-        {
-          "source": "spbu_events",
-          "source_name": "СПбГУ",
-          "url": "https://events.spbu.ru/synergiya",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "6d9248129904",
-      "title": "Динамика трансформации корпоративных моделей в целях устойчивого развития: вызовы для развивающихся рынков капитала",
-      "organizer": "Школа финансов НИУ ВШЭ",
-      "disciplines": [
-        "Экономика и менеджмент"
-      ],
-      "event_start": "2026-11-27",
-      "event_end": "2026-11-28",
-      "submission_deadline": "2026-10-16",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "submission_deadline"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "open",
-      "sources": [
-        {
-          "source": "hse_ann_sci",
-          "source_name": "НИУ ВШЭ",
-          "url": "https://economics.hse.ru/esgconference/announcements/1166068933.html",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "b3feed14146f",
       "title": "Славянская взаимность в ХХ веке: К 80-летию проведения Славянского конгресса в Белграде в 1946 г.",
       "organizer": "Санкт-Петербургский государственный университет",
@@ -178,59 +120,31 @@
       ]
     },
     {
-      "id": "e87a69ec812a",
-      "title": "Кейс-чемпионат «Плеяды»",
-      "organizer": "Университет ИТМО",
+      "id": "aa9c7834fb41",
+      "title": "Неделя МО: конкурс студенческой аналитики",
+      "organizer": "кафедра прикладного анализа международных проблем",
       "disciplines": [
-        "Компьютерные науки",
-        "Электроника и электротехника"
+        "Политология и международные отношения (включая ГМУ)"
       ],
-      "event_start": "2026-10-24",
-      "event_end": "2026-10-24",
-      "submission_deadline": "2026-10-20",
-      "location": "Санкт-Петербург",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.917,
-      "field_flags": [
-        "organizer",
-        "disciplines",
-        "official_url"
-      ],
-      "first_seen": "2026-10-16",
-      "status": "open",
-      "sources": [
-        {
-          "source": "itmo_events",
-          "source_name": "ИТМО",
-          "url": "https://news.itmo.ru/ru/announce/124536/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "e6ee4664e6bf",
-      "title": "Молодежный форум Россия — Африка",
-      "organizer": "Университет",
-      "disciplines": [],
-      "event_start": "2026-10-28",
-      "event_end": "2026-10-29",
-      "submission_deadline": "2026-10-20",
+      "event_start": "2026-10-19",
+      "event_end": "2026-10-19",
+      "submission_deadline": "2026-10-19",
       "location": null,
-      "format": null,
+      "format": "онлайн",
       "official_url": null,
-      "confidence": 0.85,
+      "confidence": 0.9,
       "field_flags": [
-        "organizer",
+        "location",
+        "disciplines",
         "format"
       ],
-      "first_seen": "2026-10-11",
+      "first_seen": "2026-10-17",
       "status": "open",
       "sources": [
         {
           "source": "mgimo_ann",
           "source_name": "МГИМО",
-          "url": "https://mgimo.ru/about/news/announce/youth-forum-russia-africa-2026/",
+          "url": "https://mgimo.ru/about/news/announce/student-analytics-competition-mo-week-10-26/",
           "published_date": null
         }
       ]
@@ -285,8 +199,6 @@
       "field_flags": [
         "location",
         "disciplines",
-        "event_start",
-        "event_end",
         "format",
         "official_url"
       ],
@@ -330,6 +242,37 @@
       ]
     },
     {
+      "id": "68532d42e35d",
+      "title": "I Всероссийская конференция «Дни научных коммуникаций»",
+      "organizer": "Библиотека по естественным наукам РАН",
+      "disciplines": [
+        "Образование"
+      ],
+      "event_start": "2026-11-12",
+      "event_end": "2026-11-13",
+      "submission_deadline": "2026-10-20",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.917,
+      "field_flags": [
+        "title",
+        "disciplines",
+        "submission_deadline",
+        "format"
+      ],
+      "first_seen": "2026-10-17",
+      "status": "open",
+      "sources": [
+        {
+          "source": "ras_events",
+          "source_name": "РАН",
+          "url": "https://new.ras.ru/press-center/events-additional/i-vserossiyskaya-konferentsiya-dni-nauchnykh-kommunikatsiy/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "8a1376be7868",
       "title": "Круглый стол «Антропология входа в профессию»",
       "organizer": "Организаторы круглого стола",
@@ -345,12 +288,7 @@
       "confidence": 0.9,
       "field_flags": [
         "title",
-        "organizer",
-        "location",
-        "event_start",
-        "event_end",
-        "submission_deadline",
-        "official_url"
+        "organizer"
       ],
       "first_seen": "2026-07-15",
       "status": "open",
@@ -389,6 +327,34 @@
           "source_name": "МГИМО",
           "url": "https://mgimo.ru/about/news/announce/the-dialogue-for-the-future-2026/",
           "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "889f490c8644",
+      "title": "Конкурс на участие в научных мероприятиях для обучающихся ЕУСПб",
+      "organizer": "Комиссия по научному планированию",
+      "disciplines": [],
+      "event_start": null,
+      "event_end": null,
+      "submission_deadline": "2026-10-21",
+      "location": null,
+      "format": null,
+      "official_url": null,
+      "confidence": 0.7,
+      "field_flags": [
+        "organizer",
+        "event_end",
+        "submission_deadline"
+      ],
+      "first_seen": "2026-10-17",
+      "status": "open",
+      "sources": [
+        {
+          "source": "eusp",
+          "source_name": "ЕУСПб",
+          "url": "https://eusp.org/news/strat-priema-zayavok-konkurs-na-uchastie-v-nauchnykh-meropriyatiyakh-dlya-obuchayuschikhsya-euspb",
+          "published_date": "2026-09-21"
         }
       ]
     },
@@ -513,6 +479,36 @@
       ]
     },
     {
+      "id": "c57b3fee26e2",
+      "title": "Всероссийские студенческие киберучения",
+      "organizer": "Уральский федеральный университет",
+      "disciplines": [
+        "Компьютерные науки"
+      ],
+      "event_start": "2026-11-26",
+      "event_end": "2026-11-27",
+      "submission_deadline": "2026-10-25",
+      "location": "Екатеринбург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-10-17",
+      "status": "open",
+      "sources": [
+        {
+          "source": "urfu",
+          "source_name": "УрФУ",
+          "url": "https://urfu.ru/ru/news/60325/",
+          "published_date": "2026-10-14"
+        }
+      ]
+    },
+    {
       "id": "4bf028467638",
       "title": "Жизнь и техника будущего: исследования техноутопий",
       "organizer": "Факультет антропологии и центр исследований науки и технологий (STS-Центр) Европейского университета",
@@ -601,40 +597,10 @@
       ]
     },
     {
-      "id": "3fb1aa29807f",
-      "title": "Всероссийская научная конференция «Научная биография — вид исторического исследования Нового и новейшего времени»",
-      "organizer": "Санкт-Петербургский государственный университет",
-      "disciplines": [
-        "История и археология"
-      ],
-      "event_start": "2026-12-02",
-      "event_end": "2026-12-02",
-      "submission_deadline": "2026-10-31",
-      "location": "Санкт-Петербург",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "format"
-      ],
-      "first_seen": "2026-10-10",
-      "status": "open",
-      "sources": [
-        {
-          "source": "spbu_events",
-          "source_name": "СПбГУ",
-          "url": "https://events.spbu.ru/hist-bio",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "b65253db9223",
       "title": "Вторая Конференция неудач",
       "organizer": "СПб ГБУ «Городской информационно-методический центр «Семья»», Социологический институт РАН – филиал ФНИСЦ РАН",
       "disciplines": [
-        "Здравоохранение",
         "Психология"
       ],
       "event_start": "2026-11-20",
@@ -801,7 +767,8 @@
       "field_flags": [
         "location",
         "disciplines",
-        "format"
+        "format",
+        "official_url"
       ],
       "first_seen": "2026-09-12",
       "status": "open",
@@ -859,7 +826,7 @@
       "location": "Москва",
       "format": "очно",
       "official_url": null,
-      "confidence": 0.983,
+      "confidence": 0.967,
       "field_flags": [
         "disciplines"
       ],
@@ -968,8 +935,7 @@
       "title": "Антропология Петербурга: дом — семья — ценности",
       "organizer": "Социологический институт РАН – филиал ФНИСЦ РАН; Музей антропологии и этнографии им. Петра Великого (Кунсткамера) РАН",
       "disciplines": [
-        "Социология (включая демографию и антропологию)",
-        "История и археология"
+        "Социология (включая демографию и антропологию)"
       ],
       "event_start": "2026-11-23",
       "event_end": "2026-11-24",
@@ -977,7 +943,7 @@
       "location": "Санкт-Петербург",
       "format": "очно",
       "official_url": null,
-      "confidence": 0.9,
+      "confidence": 0.933,
       "field_flags": [
         "title",
         "organizer",
@@ -996,10 +962,41 @@
       ]
     },
     {
+      "id": "4f3cd46b1840",
+      "title": "III Студенческая научная конференция «Terra Scientiarum: гуманитарные и междисциплинарные исследования»",
+      "organizer": "Отдел литературоведения ИНИОН РАН; Кафедра истории зарубежной литературы МГУ им. М.В. Ломоносова",
+      "disciplines": [
+        "Филология и лингвистика",
+        "Философия, этика, религиоведение",
+        "Искусствоведение"
+      ],
+      "event_start": "2026-12-01",
+      "event_end": "2026-12-02",
+      "submission_deadline": "2026-11-10",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.9,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-10-17",
+      "status": "open",
+      "sources": [
+        {
+          "source": "inion",
+          "source_name": "ИНИОН РАН",
+          "url": "https://inion.ru/ru/about/news/iii-studencheskaia-nauchnaia-konferentciia-terra-scientiarum-gumanitarnye-i-mezhdistciplinarnye-issledovaniia-2026-anons/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "dbd2e2a4f23c",
       "title": "Алешинские чтения - 2026. Реальность и иллюзии в философии и литературе",
       "organizer": "Философский факультет",
       "disciplines": [
+        "Психология",
         "История и археология",
         "Филология и лингвистика",
         "Философия, этика, религиоведение"
@@ -1007,7 +1004,7 @@
       "event_start": "2026-12-17",
       "event_end": "2026-12-19",
       "submission_deadline": "2026-11-10",
-      "location": "РГГУ",
+      "location": "Аудитория 273 и другие",
       "format": "гибрид",
       "official_url": null,
       "confidence": 0.933,
@@ -1058,7 +1055,7 @@
     },
     {
       "id": "ecd57b04eb51",
-      "title": "Международная научная конференция «Неология. Неография — 2026»",
+      "title": "Неология. Неография — 2026",
       "organizer": "Группа Словарей новых слов Отдела лексикографии современного русского языка Института лингвистических исследований Российской академии наук",
       "disciplines": [
         "Филология и лингвистика"
@@ -1098,7 +1095,7 @@
       "location": null,
       "format": "гибрид",
       "official_url": null,
-      "confidence": 0.933,
+      "confidence": 0.883,
       "field_flags": [
         "title",
         "organizer",
@@ -1206,7 +1203,7 @@
     },
     {
       "id": "dba8b7acdeee",
-      "title": "XXXV Международная научно-практическая конференция «Медиаправо – 2026»",
+      "title": "Медиаправо – 2026",
       "organizer": "Международный научно-образовательный центр «Кафедра ЮНЕСКО по авторскому праву, смежным, культурным и информационным правам» НИУ ВШЭ",
       "disciplines": [
         "Право",
@@ -1221,8 +1218,7 @@
       "confidence": 0.933,
       "field_flags": [
         "title",
-        "disciplines",
-        "official_url"
+        "disciplines"
       ],
       "first_seen": "2026-07-13",
       "status": "open",
@@ -1277,7 +1273,7 @@
       "location": "Санкт-Петербург",
       "format": "гибрид",
       "official_url": null,
-      "confidence": 0.967,
+      "confidence": 0.933,
       "field_flags": [
         "title",
         "location",
@@ -1295,32 +1291,31 @@
       ]
     },
     {
-      "id": "29a8dcc241f7",
-      "title": "Эмпирическое правоведение: от идеи до статьи за 5 дней",
-      "organizer": "Институт проблем правоприменения",
+      "id": "b54af607c569",
+      "title": "Конкурс на лучшую студенческую работу по истории обороны и блокады Ленинграда",
+      "organizer": "Центр изучения культурной памяти и символической политики; Факультет истории Европейского университета в Санкт-Петербурге и Фонд поддержки изучения истории блокады Ленинграда",
       "disciplines": [
-        "Право"
+        "История и археология"
       ],
-      "event_start": "2027-02-15",
-      "event_end": "2027-02-19",
+      "event_start": null,
+      "event_end": null,
       "submission_deadline": "2026-12-01",
       "location": "Санкт-Петербург",
-      "format": "очно",
+      "format": "онлайн",
       "official_url": null,
-      "confidence": 0.933,
+      "confidence": 0.917,
       "field_flags": [
-        "title",
-        "disciplines",
-        "official_url"
+        "organizer",
+        "format"
       ],
-      "first_seen": "2026-10-14",
+      "first_seen": "2026-10-17",
       "status": "open",
       "sources": [
         {
           "source": "eusp",
           "source_name": "ЕУСПб",
-          "url": "https://eusp.org/news/start-priema-zayavok-zimnyaya-shkola-ipp-empiricheskoe-pravovedenie-ot-idei-do-stati-za-5-dney",
-          "published_date": "2026-10-13"
+          "url": "https://eusp.org/news/start-priema-zayavok-konkurs-na-luchshuyu-studencheskuyu-rabotu-po-istorii-oborony-i-blokady-leningrada-0",
+          "published_date": "2026-09-16"
         }
       ]
     },
@@ -1368,7 +1363,7 @@
       "location": "Москва",
       "format": "гибрид",
       "official_url": null,
-      "confidence": 0.95,
+      "confidence": 0.933,
       "field_flags": [
         "title",
         "organizer",
@@ -1401,7 +1396,7 @@
       "location": "Москва",
       "format": "очно",
       "official_url": null,
-      "confidence": 0.933,
+      "confidence": 0.967,
       "field_flags": [
         "disciplines"
       ],
@@ -1413,6 +1408,33 @@
           "source_name": "РАН",
           "url": "https://new.ras.ru/press-center/events-additional/khvii-mezhdunarodnaya-konferentsiya-afrika-vosstanovlenie-istoricheskoy-spravedlivosti-i-dostizhenie/",
           "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "a3291f59d5a2",
+      "title": "Премия имени Бориса Максимовича Фирсова",
+      "organizer": "Европейский университет",
+      "disciplines": [],
+      "event_start": null,
+      "event_end": null,
+      "submission_deadline": "2027-02-15",
+      "location": null,
+      "format": null,
+      "official_url": null,
+      "confidence": 0.767,
+      "field_flags": [
+        "organizer",
+        "disciplines"
+      ],
+      "first_seen": "2026-10-17",
+      "status": "open",
+      "sources": [
+        {
+          "source": "eusp",
+          "source_name": "ЕУСПб",
+          "url": "https://eusp.org/news/start-priema-zayavok-premiya-imeni-borisa-maksimovicha-firsova-0",
+          "published_date": "2026-09-30"
         }
       ]
     },
@@ -1429,11 +1451,10 @@
       "location": "Москва",
       "format": "очно",
       "official_url": null,
-      "confidence": 0.9,
+      "confidence": 0.933,
       "field_flags": [
         "location",
         "disciplines",
-        "submission_deadline",
         "format"
       ],
       "first_seen": "2026-07-13",
@@ -1448,9 +1469,41 @@
       ]
     },
     {
+      "id": "c9be6bfbc5b4",
+      "title": "Всероссийская научная конференция по исследованиям психологического консультирования и психотерапии",
+      "organizer": "не указан",
+      "disciplines": [
+        "Психология"
+      ],
+      "event_start": null,
+      "event_end": null,
+      "submission_deadline": "2027-10-07",
+      "location": null,
+      "format": null,
+      "official_url": null,
+      "confidence": 0.667,
+      "field_flags": [
+        "organizer",
+        "event_start",
+        "event_end",
+        "format",
+        "official_url"
+      ],
+      "first_seen": "2026-10-06",
+      "status": "open",
+      "sources": [
+        {
+          "source": "ion_ranepa",
+          "source_name": "ИОН РАНХиГС",
+          "url": "https://ion.ranepa.ru/announcement/vserossiyskaya-nauchnaya-konferentsiya-po-issledovaniyam-psikhologicheskogo-konsultirovaniya-i-psikh/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "39b435f620d6",
       "title": "Synchrotron Radiation: Science, Knowledge, Innovations, Future (SKIF-2026)",
-      "organizer": "Сибирское отделение РАН, Институт ядерной физики им. Г.И. Будкера СО РАН, НИИ «Национальный исследовательский центр Курчатовский институт», Институт катализа им. Г.К. Борескова СО РАН",
+      "organizer": "Сибирское отделение РАН, Институт катализа им. Г.К. Борескова СО РАН, Институт ядерной физики им. Г.И. Будкера СО РАН, НИИ «Национальный исследовательский центр Курчатовский институт», Правительство Новосибирской области и Министерство науки и образования России",
       "disciplines": [
         "Физика"
       ],
@@ -1458,13 +1511,12 @@
       "event_end": "2026-10-23",
       "submission_deadline": "2026-05-01",
       "location": "Новосибирск",
-      "format": null,
+      "format": "очно",
       "official_url": null,
       "confidence": 0.933,
       "field_flags": [
         "title",
         "organizer",
-        "location",
         "disciplines",
         "format",
         "official_url"
@@ -1476,6 +1528,39 @@
           "source": "ras_events",
           "source_name": "РАН",
           "url": "https://new.ras.ru/press-center/events-additional/mezhdunarodnaya-konferentsiya-synchrotron-radiation-science-knowledge-innovations-future-skif-2026/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "febe81e7edcb",
+      "title": "XVII международная конференция «Философия, культура, ценности в современном мире»",
+      "organizer": "Школа философии и культурологии ФГН НИУ ВШЭ",
+      "disciplines": [
+        "Социология (включая демографию и антропологию)",
+        "Медиа и коммуникации",
+        "Филология и лингвистика",
+        "Философия, этика, религиоведение"
+      ],
+      "event_start": "2026-10-26",
+      "event_end": "2026-10-27",
+      "submission_deadline": "2026-05-01",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "disciplines",
+        "submission_deadline"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://hum.hse.ru/announcements/1136946780.html",
           "published_date": null
         }
       ]
@@ -1495,7 +1580,6 @@
       "official_url": null,
       "confidence": 0.933,
       "field_flags": [
-        "submission_deadline",
         "format",
         "official_url"
       ],
@@ -1528,6 +1612,7 @@
       "confidence": 0.933,
       "field_flags": [
         "title",
+        "organizer",
         "disciplines"
       ],
       "first_seen": "2026-07-13",
@@ -1561,7 +1646,7 @@
         "title",
         "organizer",
         "disciplines",
-        "format"
+        "official_url"
       ],
       "first_seen": "2026-07-13",
       "status": "closed",
@@ -1570,36 +1655,6 @@
           "source": "hse_ann_sci",
           "source_name": "НИУ ВШЭ",
           "url": "https://educonf.hse.ru/2026/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "1e6621549279",
-      "title": "III Всероссийская научная школа-конференция молодых учёных и студентов «Генетические технологии в исследованиях природных соединений»",
-      "organizer": "Институт Мирового океана Дальневосточного федерального университета и Тихоокеанский институт биоорганической химии им. Г.Б. Елякова ДВО РАН",
-      "disciplines": [
-        "Химия",
-        "Биология"
-      ],
-      "event_start": "2026-10-12",
-      "event_end": "2026-10-17",
-      "submission_deadline": "2026-06-15",
-      "location": "Владивосток",
-      "format": "очно",
-      "official_url": "https://conference-genetic-technologies.ru/",
-      "confidence": 0.95,
-      "field_flags": [
-        "disciplines",
-        "format"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "ras_events",
-          "source_name": "РАН",
-          "url": "https://new.ras.ru/press-center/events-additional/iii-vserossiyskaya-nauchnaya-shkola-konferentsiya-molodykh-uchyenykh-i-studentov-geneticheskie-tekhn/",
           "published_date": null
         }
       ]
@@ -1635,13 +1690,44 @@
       ]
     },
     {
+      "id": "ed5385fe194a",
+      "title": "Современные проблемы фундаментальной и прикладной математики",
+      "organizer": "Московский государственный университет имени М.В.Ломоносова, Факультет вычислительной математики и кибернетики",
+      "disciplines": [
+        "Математика"
+      ],
+      "event_start": "2026-11-02",
+      "event_end": "2026-11-03",
+      "submission_deadline": "2026-06-30",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.967,
+      "field_flags": [
+        "title",
+        "location",
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-10-17",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "msu_events",
+          "source_name": "МГУ",
+          "url": "https://conf.msu.ru/rus/event/10480/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "ec8d0531d6f8",
       "title": "Наука о народах: история, теория, методология",
       "organizer": "Ассоциация этнологов и антропологов России, Институт этнологии и антропологии им. Н.Н. Миклухо-Маклая РАН, Российский государственный гуманитарный университет (Учебно-научный институт антропологии и этнологии), Исторический факультет МГУ им. М.В. Ломоносова (Кафедра этнологии), Факультет гуманитарных наук НИУ Высшая школа экономики (Лаборатория региональных этнологических исследований)",
       "disciplines": [
         "Социология (включая демографию и антропологию)",
-        "История и археология",
-        "Философия, этика, религиоведение"
+        "Политология и международные отношения (включая ГМУ)",
+        "История и археология"
       ],
       "event_start": "2026-11-17",
       "event_end": "2026-11-18",
@@ -1687,7 +1773,7 @@
       "event_start": "2026-10-16",
       "event_end": "2026-10-17",
       "submission_deadline": "2026-07-15",
-      "location": null,
+      "location": "Санкт-Петербург",
       "format": "гибрид",
       "official_url": null,
       "confidence": 0.917,
@@ -1707,96 +1793,32 @@
       ]
     },
     {
-      "id": "03f0c454ea8d",
-      "title": "Международная конференция Науки о религии в зеркале современности. Памяти М. М. Шахнович",
-      "organizer": "Санкт-Петербургский государственный университет",
+      "id": "2b7a09c20013",
+      "title": "VIII научно-практический семинар «Школа сербистики. Доминанты сербской культуры»",
+      "organizer": "Филологический факультет Московского государственного университета имени М. В. Ломоносова, Институт лингвистических исследований РАН, Институт славяноведения РАН, филологический факультет Белградского университета, филологический факультет Банялукского университета и филологический факультет Нижегородского государственного университета им. Н.И. Лобачевского",
       "disciplines": [
-        "Философия, этика, религиоведение"
-      ],
-      "event_start": "2026-10-22",
-      "event_end": "2026-10-23",
-      "submission_deadline": "2026-07-22",
-      "location": "Санкт-Петербург",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.9,
-      "field_flags": [
-        "title",
-        "disciplines",
-        "submission_deadline"
-      ],
-      "first_seen": "2026-07-23",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "spbu_events",
-          "source_name": "СПбГУ",
-          "url": "https://events.spbu.ru/konfrelig-2026",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "febe81e7edcb",
-      "title": "XVII международная конференция «Философия, культура, ценности в современном мире»",
-      "organizer": "Школа философии и культурологии ФГН НИУ ВШЭ",
-      "disciplines": [
-        "Социология (включая демографию и антропологию)",
-        "Медиа и коммуникации",
-        "Философия, этика, религиоведение"
-      ],
-      "event_start": "2026-10-26",
-      "event_end": "2026-10-27",
-      "submission_deadline": "2026-08-05",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "disciplines",
-        "submission_deadline"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "hse_ann_sci",
-          "source_name": "НИУ ВШЭ",
-          "url": "https://hum.hse.ru/announcements/1136946780.html",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "e769061c10a0",
-      "title": "По ту сторону источника: эмический подход в социально-гуманитарных науках",
-      "organizer": "Факультет истории Европейского университета в Санкт-Петербурге",
-      "disciplines": [
-        "Социология (включая демографию и антропологию)",
-        "История и археология",
         "Филология и лингвистика"
       ],
-      "event_start": "2026-10-15",
-      "event_end": "2026-10-16",
-      "submission_deadline": "2026-08-20",
-      "location": "Санкт-Петербург",
+      "event_start": "2026-10-19",
+      "event_end": "2026-10-21",
+      "submission_deadline": "2026-08-02",
+      "location": "Нижний Новгород",
       "format": "очно",
-      "official_url": null,
+      "official_url": "https://serb.philol.msu.ru/",
       "confidence": 0.933,
       "field_flags": [
-        "organizer",
+        "title",
         "disciplines",
-        "format"
+        "official_url"
       ],
-      "first_seen": "2026-07-13",
+      "first_seen": "2026-10-17",
       "status": "closed",
       "sources": [
         {
-          "source": "eusp",
-          "source_name": "ЕУСПб",
-          "url": "https://eusp.org/news/nauchnaya-konferenciya-po-tu-storonu-istochnika-emicheskiy-podkhod-v-socialno-gumanitarnykh-naukakh",
-          "published_date": "2026-06-23"
+          "source": "iling_ras",
+          "source_name": "ИЛИ РАН",
+          "url": "https://iling.spb.ru/conferences/2026/5107",
+          "published_date": null
         }
       ]
     },
@@ -1814,7 +1836,7 @@
       "location": "Санкт-Петербург",
       "format": null,
       "official_url": "https://reg.spbu.ru/lilac-2026",
-      "confidence": 0.967,
+      "confidence": 0.95,
       "field_flags": [
         "location",
         "disciplines",
@@ -1833,73 +1855,6 @@
       ]
     },
     {
-      "id": "30659517f87a",
-      "title": "XII Всероссийская молодёжная школа-конференция «Химия, физика, биология: пути интеграции»",
-      "organizer": "Федеральный исследовательский центр химической физики им. Н.Н. Семёнова Российской академии наук (ФИЦ ХФ РАН)",
-      "disciplines": [
-        "Физика",
-        "Химия",
-        "Биология"
-      ],
-      "event_start": "2026-10-14",
-      "event_end": "2026-10-16",
-      "submission_deadline": "2026-09-01",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.967,
-      "field_flags": [
-        "disciplines",
-        "format",
-        "official_url"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "ras_events",
-          "source_name": "РАН",
-          "url": "https://new.ras.ru/press-center/events-additional/xii-vserossiyskaya-molodyezhnaya-shkola-konferentsiya-khimiya-fizika-biologiya-puti-integratsii/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "51d7a6b53caf",
-      "title": "Международная научная конференция «Современные проблемы деликтного права в странах БРИКС»",
-      "organizer": "Факультет права НИУ ВШЭ",
-      "disciplines": [
-        "Право"
-      ],
-      "event_start": "2026-10-16",
-      "event_end": "2026-10-16",
-      "submission_deadline": "2026-09-01",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.983,
-      "field_flags": [
-        "title",
-        "organizer"
-      ],
-      "first_seen": "2026-07-14",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "hse_ann_sci",
-          "source_name": "НИУ ВШЭ",
-          "url": "https://pravo.hse.ru/announcements/1165366148.html",
-          "published_date": null
-        },
-        {
-          "source": "hse_conf",
-          "source_name": "НИУ ВШЭ (конференции)",
-          "url": "https://pravo.hse.ru/grpravo/announcements/1161225550.html",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "ac71444140ed",
       "title": "Наследие В.И. Даля в контексте современной лексикологии и лексикографии",
       "organizer": "Институт лингвистических исследований Российской академии наук",
@@ -1912,7 +1867,7 @@
       "location": "Санкт-Петербург",
       "format": "гибрид",
       "official_url": null,
-      "confidence": 0.9,
+      "confidence": 0.933,
       "field_flags": [],
       "first_seen": "2026-07-18",
       "status": "closed",
@@ -1940,7 +1895,7 @@
       "location": "Москва",
       "format": "очно",
       "official_url": null,
-      "confidence": 0.9,
+      "confidence": 0.933,
       "field_flags": [
         "disciplines"
       ],
@@ -1968,7 +1923,7 @@
       "location": "Санкт-Петербург",
       "format": "гибрид",
       "official_url": null,
-      "confidence": 0.9,
+      "confidence": 0.933,
       "field_flags": [
         "submission_deadline"
       ],
@@ -1998,7 +1953,6 @@
       "official_url": "https://www.youngconfspb.com/e/main",
       "confidence": 0.983,
       "field_flags": [
-        "location",
         "format"
       ],
       "first_seen": "2026-07-18",
@@ -2008,36 +1962,6 @@
           "source": "iling_ras",
           "source_name": "ИЛИ РАН",
           "url": "https://iling.spb.ru/conferences/2026/5058",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "0abe1a985998",
-      "title": "Четвертая научная конференция «Модели и методы динамики разреженных газов»",
-      "organizer": "Санкт-Петербургский государственный университет",
-      "disciplines": [
-        "Физика"
-      ],
-      "event_start": "2026-10-15",
-      "event_end": "2026-10-16",
-      "submission_deadline": "2026-09-10",
-      "location": "Санкт-Петербург",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.983,
-      "field_flags": [
-        "title",
-        "organizer",
-        "disciplines"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "spbu_events",
-          "source_name": "СПбГУ",
-          "url": "https://events.spbu.ru/mmrgd",
           "published_date": null
         }
       ]
@@ -2054,10 +1978,10 @@
       "event_start": "2026-10-23",
       "event_end": "2026-10-23",
       "submission_deadline": "2026-09-10",
-      "location": "Москва",
+      "location": "Не указано (возможно, онлайн или в ИНИОН РАН)",
       "format": "гибрид",
       "official_url": null,
-      "confidence": 0.9,
+      "confidence": 0.917,
       "field_flags": [
         "organizer",
         "location",
@@ -2105,7 +2029,7 @@
     {
       "id": "7de7fe640c4c",
       "title": "Всероссийская конференция по прикладной геофизике AppGeo-2026",
-      "organizer": "Санкт-Петербургский университет (СПбГУ)",
+      "organizer": "Санкт-Петербургский университет",
       "disciplines": [
         "Науки о земле"
       ],
@@ -2115,7 +2039,7 @@
       "location": "Санкт-Петербург",
       "format": "очно",
       "official_url": null,
-      "confidence": 0.917,
+      "confidence": 0.933,
       "field_flags": [
         "organizer",
         "location",
@@ -2146,9 +2070,10 @@
       "location": "Санкт-Петербург",
       "format": "очно",
       "official_url": null,
-      "confidence": 0.9,
+      "confidence": 0.917,
       "field_flags": [
         "title",
+        "organizer",
         "format"
       ],
       "first_seen": "2026-07-13",
@@ -2175,7 +2100,7 @@
       "location": "Санкт-Петербург",
       "format": "очно",
       "official_url": null,
-      "confidence": 0.9,
+      "confidence": 0.933,
       "field_flags": [
         "title",
         "organizer",
@@ -2195,7 +2120,7 @@
     {
       "id": "642161082a29",
       "title": "Траектории цивилизационных изменений современных обществ",
-      "organizer": "Социологический институт РАН - филиал ФНИСЦ РАН, Центр цивилизационного анализа и глобальной истории",
+      "organizer": "Социологический институт РАН – филиал ФНИСЦ РАН",
       "disciplines": [
         "Социология (включая демографию и антропологию)"
       ],
@@ -2205,7 +2130,7 @@
       "location": "Санкт-Петербург",
       "format": "очно",
       "official_url": "https://socinst.ru/conferences/civilchange2026",
-      "confidence": 0.917,
+      "confidence": 0.95,
       "field_flags": [
         "title",
         "organizer",
@@ -2233,12 +2158,11 @@
       "event_start": "2026-11-19",
       "event_end": "2026-11-20",
       "submission_deadline": "2026-09-13",
-      "location": "онлайн",
+      "location": null,
       "format": "гибрид",
       "official_url": null,
-      "confidence": 0.9,
+      "confidence": 0.933,
       "field_flags": [
-        "title",
         "location",
         "disciplines"
       ],
@@ -2266,7 +2190,7 @@
       "location": "Санкт-Петербург",
       "format": "очно",
       "official_url": null,
-      "confidence": 0.9,
+      "confidence": 0.933,
       "field_flags": [
         "title",
         "disciplines",
@@ -2285,31 +2209,33 @@
       ]
     },
     {
-      "id": "138b4f46d1de",
-      "title": "X межвузовская научная студенческая конференция по антиковедению",
-      "organizer": "Институт классического Востока и античности",
+      "id": "ad1777adb72f",
+      "title": "8 Международная конференция по физике частиц и астрофизике (ICPPA-2026)",
+      "organizer": "НИЯУ МИФИ",
       "disciplines": [
-        "История и археология"
+        "Физика"
       ],
-      "event_start": "2026-10-16",
-      "event_end": "2026-10-16",
-      "submission_deadline": "2026-09-15",
+      "event_start": "2026-11-27",
+      "event_end": "2026-11-30",
+      "submission_deadline": "2026-09-14",
       "location": "Москва",
       "format": "очно",
-      "official_url": null,
-      "confidence": 0.883,
+      "official_url": "https://icppa-2026.ru",
+      "confidence": 0.983,
       "field_flags": [
         "disciplines",
-        "format"
+        "event_start",
+        "event_end",
+        "official_url"
       ],
-      "first_seen": "2026-09-04",
+      "first_seen": "2026-10-17",
       "status": "closed",
       "sources": [
         {
-          "source": "hse_ann_sci",
-          "source_name": "НИУ ВШЭ",
-          "url": "https://iocs.hse.ru/announcements/1196561721.html",
-          "published_date": null
+          "source": "mipt_events",
+          "source_name": "МФТИ",
+          "url": "https://mipt.ru/institute/events/registratsiya-na-8-mezhdunarodnuyu-konferentsiyu-po-fizike-chastits-i-astrofizike-icppa-2026",
+          "published_date": "2026-07-13"
         }
       ]
     },
@@ -2327,8 +2253,9 @@
       "location": "Пермь",
       "format": "гибрид",
       "official_url": null,
-      "confidence": 0.9,
+      "confidence": 0.933,
       "field_flags": [
+        "organizer",
         "disciplines"
       ],
       "first_seen": "2026-07-13",
@@ -2350,8 +2277,8 @@
     },
     {
       "id": "3223c7d607a7",
-      "title": "Международный молодежный генетический форум (ММГФ – 2026)",
-      "organizer": "Московский государственный университет имени М.В.Ломоносова, Биологический факультет, Кафедра генетики; Санкт-Петербургский государственный университет, Биологический факультет Кафедра генетики и биотехнологии имени М.Е. Лобашева",
+      "title": "Молодёжный генетический форум — 2026",
+      "organizer": "Московский государственный университет имени М.В.Ломоносова, Биологический факультет, Кафедра генетики",
       "disciplines": [
         "Биология"
       ],
@@ -2414,9 +2341,8 @@
     {
       "id": "fe3121dff5f2",
       "title": "Знание — сила? От Великого восстановления наук к Археологии знания",
-      "organizer": "Центр практической философии «Стасис», Европейский университет в Санкт-Петербурге, Институт философии РАН, Русское общество истории и философии науки",
+      "organizer": "Центр практической философии «Стасис», Европейский университет в Санкт-Петербурге, Институт философии РАН (Сектор социальной эпистемологии), Русское общество истории и философии науки",
       "disciplines": [
-        "История и археология",
         "Философия, этика, религиоведение"
       ],
       "event_start": "2026-11-20",
@@ -2425,8 +2351,9 @@
       "location": "Санкт-Петербург",
       "format": "очно",
       "official_url": null,
-      "confidence": 0.9,
+      "confidence": 0.933,
       "field_flags": [
+        "organizer",
         "disciplines",
         "format"
       ],
@@ -2456,7 +2383,7 @@
       "location": "Санкт-Петербург",
       "format": "очно",
       "official_url": null,
-      "confidence": 0.9,
+      "confidence": 0.933,
       "field_flags": [
         "organizer",
         "disciplines",
@@ -2474,36 +2401,6 @@
       ]
     },
     {
-      "id": "9cdd235c4412",
-      "title": "VII Всероссийский демографический форум",
-      "organizer": "Институт социальной демографии ФНИСЦ РАН, Научный совет РАН «Демографическое развитие и демографическая политика Российской Федерации»",
-      "disciplines": [
-        "Социология (включая демографию и антропологию)"
-      ],
-      "event_start": "2026-12-08",
-      "event_end": "2026-12-09",
-      "submission_deadline": "2026-09-15",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "disciplines",
-        "format",
-        "official_url"
-      ],
-      "first_seen": "2026-07-28",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "ras_events",
-          "source_name": "РАН",
-          "url": "https://new.ras.ru/press-center/events-additional/vii-vserossiyskiy-demograficheskiy-forum-/",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "03afa6bb2b03",
       "title": "XXXVII международная научно-практическая конференция по методике преподавания японского языка «Японский язык в вузе: актуальные проблемы преподавания»",
       "organizer": "Московский государственный университет имени М.В.Ломоносова, Институт стран Азии и Африки, Кафедра японской филологии Институт научной информации по общественным наукам РАН",
@@ -2516,12 +2413,12 @@
       "location": "Москва",
       "format": "гибрид",
       "official_url": "https://forms.gle/sUUUEP4b1cEG4ap79",
-      "confidence": 0.917,
+      "confidence": 0.983,
       "field_flags": [
+        "title",
         "organizer",
         "location",
-        "format",
-        "official_url"
+        "format"
       ],
       "first_seen": "2026-07-13",
       "status": "closed",
@@ -2547,9 +2444,10 @@
       "location": "Москва",
       "format": "гибрид",
       "official_url": "https://forms.gle/wbHk6Uc3nQBzxxyY7",
-      "confidence": 0.983,
+      "confidence": 0.967,
       "field_flags": [
-        "title"
+        "title",
+        "disciplines"
       ],
       "first_seen": "2026-09-09",
       "status": "closed",
@@ -2620,6 +2518,36 @@
       ]
     },
     {
+      "id": "03f0c454ea8d",
+      "title": "Международная конференция Науки о религии в зеркале современности. Памяти М. М. Шахнович",
+      "organizer": "Санкт-Петербургский государственный университет",
+      "disciplines": [
+        "Философия, этика, религиоведение"
+      ],
+      "event_start": "2026-10-22",
+      "event_end": "2026-10-23",
+      "submission_deadline": "2026-09-22",
+      "location": "Санкт-Петербург",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "disciplines",
+        "submission_deadline"
+      ],
+      "first_seen": "2026-07-23",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/konfrelig-2026",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "4cab35fb8025",
       "title": "IX международная конференция «Еврейское поле: новые открытия, опыт и концептуализация»",
       "organizer": "Факультет гуманитарных наук НИУ ВШЭ, Еврейский музей и центр толерантности",
@@ -2631,14 +2559,13 @@
       "event_start": "2026-11-24",
       "event_end": "2026-11-26",
       "submission_deadline": "2026-09-22",
-      "location": null,
+      "location": "онлайн",
       "format": "гибрид",
       "official_url": null,
-      "confidence": 0.85,
+      "confidence": 0.933,
       "field_flags": [
         "organizer",
-        "location",
-        "disciplines"
+        "location"
       ],
       "first_seen": "2026-08-14",
       "status": "closed",
@@ -2683,6 +2610,40 @@
       ]
     },
     {
+      "id": "abbb297dfde8",
+      "title": "Третий сезон конкурса «Учитель МГИМО»",
+      "organizer": "Одинцовский филиал МГИМО (на базе Горчаковского лицея)",
+      "disciplines": [
+        "Математика",
+        "Физика",
+        "Химия"
+      ],
+      "event_start": "2026-12-09",
+      "event_end": "2026-12-10",
+      "submission_deadline": "2026-09-24",
+      "location": "Москва, Одинцово",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "location",
+        "disciplines",
+        "event_start",
+        "format"
+      ],
+      "first_seen": "2026-10-17",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/teacheraward-2026/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "0a4af65a0428",
       "title": "II Всероссийская научно-практическая конференция «Актуальные вопросы применения законодательства о наследовании»",
       "organizer": "Департамент частного права НИУ ВШЭ",
@@ -2695,7 +2656,7 @@
       "location": "Москва",
       "format": "гибрид",
       "official_url": null,
-      "confidence": 0.9,
+      "confidence": 0.933,
       "field_flags": [
         "title"
       ],
@@ -2723,7 +2684,7 @@
       "location": "Санкт-Петербург",
       "format": "гибрид",
       "official_url": null,
-      "confidence": 0.9,
+      "confidence": 0.933,
       "field_flags": [
         "title",
         "location"
@@ -2752,7 +2713,7 @@
       "location": "Москва",
       "format": "очно",
       "official_url": null,
-      "confidence": 0.917,
+      "confidence": 0.933,
       "field_flags": [
         "title",
         "organizer",
@@ -2799,30 +2760,32 @@
       ]
     },
     {
-      "id": "8c7fc0033f41",
-      "title": "Всероссийская научно-практическая конференция с международным участием «Управление образованием на основе данных. В поисках точки опоры»",
-      "organizer": "Санкт-Петербургский государственный университет, Институт педагогики СПбГУ, Санкт-Петербургский Центр оценки качества образования и информационных технологий (СПбЦОКОиИТ)",
+      "id": "f25a771fd6c3",
+      "title": "Архивный воркшоп к столетию Мишеля Фуко: «Что остается после дискурса? Историческая экология (и сопротивление) архива»",
+      "organizer": "НИУ ВШЭ",
       "disciplines": [
-        "Образование"
+        "Философия, этика, религиоведение"
       ],
-      "event_start": "2026-10-30",
-      "event_end": "2026-10-30",
-      "submission_deadline": "2026-09-29",
-      "location": "Санкт-Петербург",
+      "event_start": "2026-10-17",
+      "event_end": "2026-10-17",
+      "submission_deadline": "2026-09-30",
+      "location": "Москва",
       "format": "очно",
       "official_url": null,
-      "confidence": 0.917,
+      "confidence": 0.933,
       "field_flags": [
         "title",
-        "location"
+        "organizer",
+        "disciplines",
+        "official_url"
       ],
-      "first_seen": "2026-07-13",
+      "first_seen": "2026-10-17",
       "status": "closed",
       "sources": [
         {
-          "source": "spbu_events",
-          "source_name": "СПбГУ",
-          "url": "https://events.spbu.ru/tochka-opory",
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://hist.hse.ru/announcements/1194560986.html",
           "published_date": null
         }
       ]
@@ -2860,7 +2823,7 @@
     {
       "id": "4be4031912cf",
       "title": "Инновации в профессиональной коммуникации: управление, перевод, дидактика",
-      "organizer": "Кафедра английского языка №6 Факультета управления и политики при содействии Управления языковой подготовки , Ассоциации выпускников и финансовой поддержке Эндаумента",
+      "organizer": "кафедра английского языка №6 Факультета управления и политики при содействии Управления языковой подготовки, Ассоциации выпускников и финансовой поддержке Эндаумента",
       "disciplines": [
         "Филология и лингвистика"
       ],
@@ -2870,7 +2833,7 @@
       "location": "Москва",
       "format": "гибрид",
       "official_url": null,
-      "confidence": 0.9,
+      "confidence": 0.933,
       "field_flags": [
         "organizer",
         "disciplines"
@@ -2882,38 +2845,6 @@
           "source": "mgimo_ann",
           "source_name": "МГИМО",
           "url": "https://mgimo.ru/about/news/announce/innovations-in-professional-communication-10-26/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "0cd5fb0faa39",
-      "title": "II Международный конгресс «Восточный контур: язык, культура, языковая политика»",
-      "organizer": "кафедра языков стран Ближнего и Среднего Востока, кафедра индоиранских и африканских языков, кафедра китайского, вьетнамского, бирманского, тайского, лаосского и кхмерского языков",
-      "disciplines": [
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-10-30",
-      "event_end": "2026-10-31",
-      "submission_deadline": "2026-09-30",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": "https://eastern-contour.mgimo.ru",
-      "confidence": 0.9,
-      "field_flags": [
-        "organizer",
-        "location",
-        "disciplines",
-        "format",
-        "official_url"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "mgimo_ann",
-          "source_name": "МГИМО",
-          "url": "https://mgimo.ru/about/news/announce/ii-eastern-contour/",
           "published_date": null
         }
       ]
@@ -2952,10 +2883,41 @@
       ]
     },
     {
+      "id": "f9ddffeb3245",
+      "title": "Конкурс научных публикаций молодых учёных «Моя первая монография»",
+      "organizer": "Совет молодых учёных РГГУ",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-10-02",
+      "event_end": "2026-11-01",
+      "submission_deadline": "2026-10-01",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.917,
+      "field_flags": [
+        "title",
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-10-17",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "rsuh",
+          "source_name": "РГГУ",
+          "url": "https://www.rsuh.ru/anons/konkurs-moya-pervaya-monografiya-otkryt-priyem-zayavok/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "3c4e09301265",
       "title": "IV Всероссийская научная конференция по источниковедению стран Востока",
       "organizer": "Институт стран Азии и Африки МГУ имени М.В. Ломоносова, Лаборатория востоковедения и компаративистики ШАГИ ИОН РАНХиГС",
       "disciplines": [
+        "История и археология",
         "Филология и лингвистика"
       ],
       "event_start": "2026-10-19",
@@ -3069,37 +3031,6 @@
       ]
     },
     {
-      "id": "e7baa02c1a50",
-      "title": "Современные коммуникации: вызовы, стратегии, перспективы",
-      "organizer": "кафедра рекламы и связей с общественностью",
-      "disciplines": [
-        "Медиа и коммуникации"
-      ],
-      "event_start": "2026-10-30",
-      "event_end": "2026-10-31",
-      "submission_deadline": "2026-10-01",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.9,
-      "field_flags": [
-        "location",
-        "disciplines",
-        "submission_deadline",
-        "format"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "mgimo_ann",
-          "source_name": "МГИМО",
-          "url": "https://mgimo.ru/about/news/announce/konf-sovremennye-kommunikatsii-vyzovy-strategii-perspektivy/",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "aa5c072a1a12",
       "title": "IV Международная научная конференция «Армия, элиты и общество на Ближнем Востоке и в Северной Африке. Кому принадлежит время?»",
       "organizer": "Институт востоковедения и африканистики НИУ ВШЭ – Санкт-Петербург",
@@ -3114,7 +3045,7 @@
       "location": "Санкт-Петербург",
       "format": "гибрид",
       "official_url": "https://vk.cc/d1kK5E",
-      "confidence": 0.967,
+      "confidence": 0.933,
       "field_flags": [
         "disciplines"
       ],
@@ -3225,7 +3156,7 @@
       "location": "Москва",
       "format": "очно",
       "official_url": null,
-      "confidence": 0.967,
+      "confidence": 0.933,
       "field_flags": [
         "title",
         "disciplines"
@@ -3259,7 +3190,6 @@
         "title",
         "organizer",
         "location",
-        "submission_deadline",
         "format"
       ],
       "first_seen": "2026-09-17",
@@ -3389,7 +3319,6 @@
       "confidence": 0.933,
       "field_flags": [
         "title",
-        "organizer",
         "disciplines"
       ],
       "first_seen": "2026-08-05",
@@ -3464,30 +3393,6 @@
       ]
     },
     {
-      "id": "6d0a6012ab7b",
-      "title": "Всероссийский патриотический форум — 2026",
-      "organizer": "Национальный центр «Россия»",
-      "disciplines": [],
-      "event_start": "2026-12-08",
-      "event_end": "2026-12-11",
-      "submission_deadline": "2026-10-06",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.917,
-      "field_flags": [],
-      "first_seen": "2026-09-30",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "mgimo_ann",
-          "source_name": "МГИМО",
-          "url": "https://mgimo.ru/about/news/announce/patriot-forum-2026/",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "b41d4103fb7c",
       "title": "Финатлон форум «Профессионалы будущего»",
       "organizer": "Российский государственный гуманитарный университет",
@@ -3506,8 +3411,6 @@
       "field_flags": [
         "location",
         "disciplines",
-        "event_start",
-        "event_end",
         "official_url"
       ],
       "first_seen": "2026-09-30",
@@ -3517,40 +3420,6 @@
           "source": "rsuh",
           "source_name": "РГГУ",
           "url": "https://www.rsuh.ru/anons/ix-finatlon-forum-professionaly-budushchego/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "80ae9b82e043",
-      "title": "Творческая лаборатория «Культурный код»",
-      "organizer": "Институт искусств и культуры Национального исследовательского Томского государственного университета",
-      "disciplines": [
-        "Медиа и коммуникации",
-        "Искусствоведение"
-      ],
-      "event_start": "2026-10-10",
-      "event_end": "2026-11-06",
-      "submission_deadline": "2026-10-10",
-      "location": "Томск",
-      "format": "гибрид",
-      "official_url": "https://clck.su/creative-lab",
-      "confidence": 0.933,
-      "field_flags": [
-        "organizer",
-        "location",
-        "disciplines",
-        "event_start",
-        "event_end",
-        "format"
-      ],
-      "first_seen": "2026-09-22",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "tsu",
-          "source_name": "ТГУ",
-          "url": "https://news.tsu.ru/calendar-of-events/iik-otkryvaet-tvorcheskuyu-laboratoriyu-kulturnyy-kod/",
           "published_date": null
         }
       ]
@@ -3588,40 +3457,11 @@
       ]
     },
     {
-      "id": "728bfdfdf27a",
-      "title": "Бизнес-префорум «RUTA: Россия — Латинская Америка»",
-      "organizer": "кафедра испанского языка при поддержке Факультета международного бизнеса, Управления языковой подготовки и Эндаумента",
-      "disciplines": [
-        "Экономика и менеджмент"
-      ],
-      "event_start": "2026-10-16",
-      "event_end": "2026-10-17",
-      "submission_deadline": "2026-10-12",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "organizer"
-      ],
-      "first_seen": "2026-10-10",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "mgimo_ann",
-          "source_name": "МГИМО",
-          "url": "https://mgimo.ru/about/news/announce/ruta/",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "d0ff86016efc",
       "title": "XX Ковалевские чтения «Жизненные миры новой современности»",
       "organizer": "Санкт-Петербургский государственный университет",
       "disciplines": [
-        "Социология (включая демографию и антропологию)",
-        "Политология и международные отношения (включая ГМУ)"
+        "Социология (включая демографию и антропологию)"
       ],
       "event_start": "2026-11-12",
       "event_end": "2026-11-14",
@@ -3629,7 +3469,7 @@
       "location": "Санкт-Петербург",
       "format": "очно",
       "official_url": null,
-      "confidence": 0.95,
+      "confidence": 0.933,
       "field_flags": [
         "disciplines"
       ],
@@ -3678,29 +3518,27 @@
       ]
     },
     {
-      "id": "9830f609df09",
-      "title": "Геоданные для оценки климатических рисков: от карт опасностей к управленческим решениям",
-      "organizer": "Центр геоданных факультета географии и геоинформационных технологий НИУ ВШЭ",
+      "id": "0fa6d26c6c9f",
+      "title": "Петербургский семинар по аналитической химии",
+      "organizer": "Санкт-Петербургский государственный университет",
       "disciplines": [
-        "Науки о земле"
+        "Химия"
       ],
-      "event_start": "2026-10-16",
-      "event_end": "2026-10-16",
+      "event_start": "2026-10-19",
+      "event_end": "2026-10-19",
       "submission_deadline": "2026-10-15",
-      "location": "Москва",
-      "format": "очно",
+      "location": "Санкт-Петербург",
+      "format": "гибрид",
       "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "disciplines"
-      ],
-      "first_seen": "2026-10-15",
+      "confidence": 0.917,
+      "field_flags": [],
+      "first_seen": "2026-10-17",
       "status": "closed",
       "sources": [
         {
-          "source": "hse_ann_sci",
-          "source_name": "НИУ ВШЭ",
-          "url": "https://geography.hse.ru/announcements/1207057881.html",
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/peterburgskij-seminar-po-analiticheskoj-himii",
           "published_date": null
         }
       ]
@@ -3860,7 +3698,9 @@
       "id": "b244afcfbc40",
       "title": "Актуальные проблемы стоматологии",
       "organizer": "Медицинский институт СПбГУ",
-      "disciplines": [],
+      "disciplines": [
+        "Здравоохранение"
+      ],
       "event_start": "2026-12-04",
       "event_end": "2026-12-04",
       "submission_deadline": "2026-10-15",
@@ -3917,6 +3757,222 @@
       ]
     },
     {
+      "id": "12c57a158b1a",
+      "title": "Синергия языков и культур: междисциплинарные исследования",
+      "organizer": "Санкт-Петербургский государственный университет",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-10-22",
+      "event_end": "2026-10-24",
+      "submission_deadline": "2026-10-16",
+      "location": "Санкт-Петербург",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "disciplines"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/synergiya",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "6d9248129904",
+      "title": "Динамика трансформации корпоративных моделей в целях устойчивого развития: вызовы для развивающихся рынков капитала",
+      "organizer": "Школа финансов НИУ ВШЭ",
+      "disciplines": [
+        "Экономика и менеджмент"
+      ],
+      "event_start": "2026-11-27",
+      "event_end": "2026-11-28",
+      "submission_deadline": "2026-10-16",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "submission_deadline"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://economics.hse.ru/esgconference/announcements/1166068933.html",
+          "published_date": null
+        },
+        {
+          "source": "hse_conf",
+          "source_name": "НИУ ВШЭ (конференции)",
+          "url": "https://economics.hse.ru/esgconference/#about",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "59bc066474f3",
+      "title": "Международная научная конференция «Археология, история и этнография скотоводов и кочевников Сибири и Центральной Азии»",
+      "organizer": "Санкт-Петербургский государственный университет, Институт истории материальной культуры РАН, Государственный Эрмитаж, Музей антропологии и этнографии им. Петра Великого РАН и Российский этнографический музей",
+      "disciplines": [
+        "История и археология"
+      ],
+      "event_start": "2026-03-16",
+      "event_end": "2026-03-20",
+      "submission_deadline": "2025-12-01",
+      "location": "Санкт-Петербург",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.9,
+      "field_flags": [
+        "title",
+        "disciplines"
+      ],
+      "first_seen": "2026-10-17",
+      "status": "past",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/archeology",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "d70ee1dea497",
+      "title": "Беломорская студенческая научная сессия СПбГУ",
+      "organizer": "Санкт-Петербургский государственный университет",
+      "disciplines": [
+        "Науки о земле"
+      ],
+      "event_start": "2026-02-03",
+      "event_end": "2026-02-05",
+      "submission_deadline": "2025-12-07",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.917,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-10-17",
+      "status": "past",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/session-2026",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "72dbf21e55cc",
+      "title": "Нации и этничность в гуманитарных науках: нации и этнические группы в поисках самоопределения",
+      "organizer": "Санкт-Петербургский государственный университет",
+      "disciplines": [
+        "Социология (включая демографию и антропологию)",
+        "Политология и международные отношения (включая ГМУ)",
+        "История и археология",
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-02-02",
+      "event_end": "2026-02-03",
+      "submission_deadline": "2025-12-20",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines",
+        "official_url"
+      ],
+      "first_seen": "2026-10-17",
+      "status": "past",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/nations-2026",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "3d0f5e4afb8d",
+      "title": "Цифровизация в статистической практике и в подготовке статистиков",
+      "organizer": "ФГБОУ ВО «Санкт-Петербургский государственный экономический университет»; Управление Федеральной службы государственной статистики по г. Санкт-Петербургу и Ленинградской области (Петростат); Российская ассоциация статистиков; Социологический институт РАН – филиал ФНИСЦ РАН",
+      "disciplines": [
+        "Экономика и менеджмент"
+      ],
+      "event_start": "2026-01-26",
+      "event_end": "2026-01-28",
+      "submission_deadline": "2025-12-25",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "organizer",
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-10-17",
+      "status": "past",
+      "sources": [
+        {
+          "source": "socinst",
+          "source_name": "Социологический институт РАН",
+          "url": "https://socinst.ru/conferences/statkonf2026/#files",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "a66bf77285ab",
+      "title": "Великое переселение идей, понятий, образов: между очевидным/неочевидным",
+      "organizer": "НИУ ВШЭ — Санкт-Петербург",
+      "disciplines": [
+        "История и археология",
+        "Филология и лингвистика",
+        "Философия, этика, религиоведение"
+      ],
+      "event_start": "2026-02-13",
+      "event_end": "2026-02-14",
+      "submission_deadline": "2025-12-29",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines",
+        "event_end",
+        "format",
+        "official_url"
+      ],
+      "first_seen": "2026-10-17",
+      "status": "past",
+      "sources": [
+        {
+          "source": "hse_conf",
+          "source_name": "НИУ ВШЭ (конференции)",
+          "url": "https://spb.hse.ru/humart/announcements/1097760715.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "f208172484c5",
       "title": "IX Российский философский конгресс «Философия в контексте современных вызовов»",
       "organizer": "Санкт-Петербургский государственный университет (СПбГУ)",
@@ -3932,7 +3988,6 @@
       "confidence": 0.933,
       "field_flags": [
         "organizer",
-        "submission_deadline",
         "format"
       ],
       "first_seen": "2026-07-13",
@@ -3942,6 +3997,157 @@
           "source": "spbu_events",
           "source_name": "СПбГУ",
           "url": "https://events.spbu.ru/philosophy-congress",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "91e880897d12",
+      "title": "Девятая международная конференция «Управление бизнесом в цифровой экономике»",
+      "organizer": "СПбГУ",
+      "disciplines": [
+        "Экономика и менеджмент"
+      ],
+      "event_start": "2026-03-19",
+      "event_end": "2026-03-20",
+      "submission_deadline": "2026-01-30",
+      "location": "Санкт-Петербург",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "organizer",
+        "location",
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-10-17",
+      "status": "past",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/digital-economy",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "3d1bea46076a",
+      "title": "Психология XXI века: будущее становится настоящим",
+      "organizer": "Санкт-Петербургский государственный университет",
+      "disciplines": [
+        "Психология"
+      ],
+      "event_start": "2026-04-08",
+      "event_end": "2026-04-10",
+      "submission_deadline": "2026-02-10",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-10-17",
+      "status": "past",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/psy21-2026",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "8c9213d1a770",
+      "title": "Всероссийская научно-практическая конференция с международным участием «Современные медиа: технологии, смыслы, кадры»",
+      "organizer": "Институт медиа Факультета креативных индустрий НИУ ВШЭ",
+      "disciplines": [
+        "Медиа и коммуникации"
+      ],
+      "event_start": "2026-03-11",
+      "event_end": "2026-03-12",
+      "submission_deadline": "2026-02-20",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-10-17",
+      "status": "past",
+      "sources": [
+        {
+          "source": "hse_conf",
+          "source_name": "НИУ ВШЭ (конференции)",
+          "url": "https://cmd.hse.ru/media/confstrategiakadry/2026/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "1816ea3e52e1",
+      "title": "школа-конференция «Проблемы Геокосмоса»",
+      "organizer": "кафедра физики Земли СПбГУ",
+      "disciplines": [
+        "Физика",
+        "Науки о земле"
+      ],
+      "event_start": "2026-04-06",
+      "event_end": "2026-04-10",
+      "submission_deadline": "2026-02-25",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "organizer",
+        "disciplines",
+        "format",
+        "official_url"
+      ],
+      "first_seen": "2026-10-17",
+      "status": "past",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/geocosmos2026",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "ae287965eb38",
+      "title": "Мораль и право",
+      "organizer": "Санкт-Петербургский государственный университет",
+      "disciplines": [
+        "Право",
+        "Философия, этика, религиоведение"
+      ],
+      "event_start": "2026-03-27",
+      "event_end": "2026-03-27",
+      "submission_deadline": "2026-03-01",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.917,
+      "field_flags": [
+        "title",
+        "disciplines",
+        "submission_deadline"
+      ],
+      "first_seen": "2026-10-17",
+      "status": "past",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/moral",
           "published_date": null
         }
       ]
@@ -3957,10 +4163,10 @@
       "event_start": "2026-07-01",
       "event_end": "2026-07-03",
       "submission_deadline": "2026-03-01",
-      "location": "St. Petersburg",
+      "location": "Saint Petersburg",
       "format": "очно",
       "official_url": "https://ucp.academy/en/events/GTM2026",
-      "confidence": 0.95,
+      "confidence": 0.933,
       "field_flags": [
         "location",
         "disciplines"
@@ -3972,6 +4178,124 @@
           "source": "spbu_events",
           "source_name": "СПбГУ",
           "url": "https://gsom.spbu.ru/en/research/conferences/gtm2026/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "4575988d0ffb",
+      "title": "Всероссийская студенческая конференция Science and Practice 2026",
+      "organizer": "Санкт-Петербургский государственный университет",
+      "disciplines": [
+        "Физика"
+      ],
+      "event_start": "2026-03-19",
+      "event_end": "2026-03-19",
+      "submission_deadline": "2026-03-05",
+      "location": "Петергоф, ул. Ульяновская, 3",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-10-17",
+      "status": "past",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/sp-2026",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "d3ce5a2a5ebe",
+      "title": "Recent Advances in Cross-Cultural Research",
+      "organizer": "факультет бизнеса Стамбульского университета Билги",
+      "disciplines": [
+        "Психология",
+        "Социология (включая демографию и антропологию)"
+      ],
+      "event_start": "2026-04-27",
+      "event_end": "2026-04-29",
+      "submission_deadline": "2026-03-06",
+      "location": "Турция",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "location",
+        "disciplines",
+        "official_url"
+      ],
+      "first_seen": "2026-10-17",
+      "status": "past",
+      "sources": [
+        {
+          "source": "lcsr",
+          "source_name": "ЦенСИБ НИУ ВШЭ",
+          "url": "https://lcsr.hse.ru/news/1122483615.html",
+          "published_date": "2026-01-26"
+        }
+      ]
+    },
+    {
+      "id": "2fbc3e442e44",
+      "title": "X Международный экономический симпозиум",
+      "organizer": "Санкт-Петербургский государственный университет",
+      "disciplines": [
+        "Экономика и менеджмент"
+      ],
+      "event_start": "2026-04-16",
+      "event_end": "2026-04-18",
+      "submission_deadline": "2026-03-15",
+      "location": "Санкт-Петербург",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.917,
+      "field_flags": [
+        "format",
+        "official_url"
+      ],
+      "first_seen": "2026-10-17",
+      "status": "past",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/symposium-2026",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "6a8db0a11c8c",
+      "title": "Научная конференция «Педагогика успеха: диалог поколений»",
+      "organizer": "Институт педагогики СПбГУ",
+      "disciplines": [
+        "Образование"
+      ],
+      "event_start": "2026-05-27",
+      "event_end": "2026-05-27",
+      "submission_deadline": "2026-03-15",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-10-17",
+      "status": "past",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/ped-2026",
           "published_date": null
         }
       ]
@@ -3991,8 +4315,7 @@
       "official_url": null,
       "confidence": 0.967,
       "field_flags": [
-        "disciplines",
-        "format"
+        "disciplines"
       ],
       "first_seen": "2026-07-18",
       "status": "past",
@@ -4001,6 +4324,301 @@
           "source": "iling_ras",
           "source_name": "ИЛИ РАН",
           "url": "https://iling.spb.ru/conferences/2026/4797",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "f7298c1b2ea9",
+      "title": "XL сессия Международной школы социологии науки и техники им. С.А. Кугеля «Креативные индустрии как объект науковедческого анализа: знания, технологии, институциональные формы»",
+      "organizer": "Санкт-Петербургский филиал Института истории естествознания и техники им. С. И. Вавилова Российской академии наук, Санкт-Петербургское отделение Российской академии наук, Социологический институт РАН – филиал ФНИСЦ РАН, Факультет социологии Санкт-Петербургского государственного университета, 23 комитет по социологии науки и технологий Международной социологической ассоциации, Исследовательский комитет социологии науки и технологий Российского общества социологов, Санкт-Петербургская ассоциация социологов",
+      "disciplines": [
+        "Социология (включая демографию и антропологию)"
+      ],
+      "event_start": "2026-05-20",
+      "event_end": "2026-05-22",
+      "submission_deadline": "2026-03-20",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": "http://ihst.nw.ru/",
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "organizer",
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-10-17",
+      "status": "past",
+      "sources": [
+        {
+          "source": "socinst",
+          "source_name": "Социологический институт РАН",
+          "url": "https://socinst.ru/conferences/kugel2026/#files",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "80312e252662",
+      "title": "Всероссийская научно-методическая конференция «Пашкусовские чтения»",
+      "organizer": "Центр преподавательского мастерства в бизнес-образовании Высшей школы менеджмента Санкт-Петербургского государственного университета",
+      "disciplines": [
+        "Экономика и менеджмент"
+      ],
+      "event_start": "2026-04-21",
+      "event_end": "2026-04-22",
+      "submission_deadline": "2026-03-23",
+      "location": "Санкт-Петербург",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "organizer",
+        "disciplines"
+      ],
+      "first_seen": "2026-10-17",
+      "status": "past",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://pashkus-gsom.spbu.ru/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "0618f148c2c7",
+      "title": "Научно-методический семинар «Язык в действии: ключевые слова текущего момента»",
+      "organizer": "Институт «Высшая школа журналистики и массовых коммуникаций» Санкт-Петербургского государственного университета",
+      "disciplines": [
+        "Медиа и коммуникации",
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-04-11",
+      "event_end": "2026-04-11",
+      "submission_deadline": "2026-03-29",
+      "location": "Санкт-Петербург",
+      "format": null,
+      "official_url": null,
+      "confidence": 0.917,
+      "field_flags": [
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-10-17",
+      "status": "past",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/lang-2026",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "27b0e4292504",
+      "title": "Четвертая Всероссийская научная конференция «(Не)новые вызовы и возможности социологии»",
+      "organizer": "Социологический институт РАН — филиал ФНИСЦ РАН, Журнал «Петербургская социология сегодня»",
+      "disciplines": [
+        "Социология (включая демографию и антропологию)"
+      ],
+      "event_start": "2026-04-23",
+      "event_end": "2026-04-24",
+      "submission_deadline": "2026-03-30",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.95,
+      "field_flags": [
+        "title",
+        "format"
+      ],
+      "first_seen": "2026-10-17",
+      "status": "past",
+      "sources": [
+        {
+          "source": "socinst",
+          "source_name": "Социологический институт РАН",
+          "url": "https://socinst.ru/conferences/socpossibilities2026/#files",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "d8951c233fd6",
+      "title": "Всероссийская научно-практическая конференция «Чернобыльская трагедия: политические последствия и уроки»",
+      "organizer": "Санкт-Петербургский государственный университет",
+      "disciplines": [
+        "Политология и международные отношения (включая ГМУ)"
+      ],
+      "event_start": "2026-04-24",
+      "event_end": "2026-04-24",
+      "submission_deadline": "2026-03-30",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-10-17",
+      "status": "past",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/chernobyl",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "ea2eade886fa",
+      "title": "IV Всероссийская научно-практическая конференция «Перевод и иностранные языки в глобальном диалоге культур»",
+      "organizer": "Санкт-Петербургский государственный университет",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-04-03",
+      "event_end": "2026-04-04",
+      "submission_deadline": "2026-04-01",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "location",
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-10-17",
+      "status": "past",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/dialogue",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "b997a8de2d63",
+      "title": "Одиннадцатый научный семинар «Роль профсоюзов в условиях трансформации социально-экономической структуры»",
+      "organizer": "Социологический институт РАН – филиал ФНИСЦ РАН",
+      "disciplines": [
+        "Социология (включая демографию и антропологию)"
+      ],
+      "event_start": "2026-04-14",
+      "event_end": "2026-04-14",
+      "submission_deadline": "2026-04-05",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-10-17",
+      "status": "past",
+      "sources": [
+        {
+          "source": "socinst",
+          "source_name": "Социологический институт РАН",
+          "url": "https://socinst.ru/conferences/trudedu2026/#files",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "087be1c472d2",
+      "title": "Школа-семинар «Механика, химия и новые материалы»",
+      "organizer": "Санкт-Петербургский государственный университет Санкт-Петербургское отделение РАН Объединенный научный совет по прикладным наукам и технологическому развитию промышленности Санкт-Петербургского отделения РАН Санкт-Петербургский научный центр РАН АО «НПО Спецматериалов»",
+      "disciplines": [
+        "Математика",
+        "Химия"
+      ],
+      "event_start": "2026-04-16",
+      "event_end": "2026-04-17",
+      "submission_deadline": "2026-04-05",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.9,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-10-17",
+      "status": "past",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/mhnm-2026",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "75acb794166a",
+      "title": "LVII международная научная конференция аспирантов и студентов «Процессы управления и устойчивость»",
+      "organizer": "Санкт-Петербургский государственный университет",
+      "disciplines": [
+        "Математика",
+        "Компьютерные науки",
+        "Биология"
+      ],
+      "event_start": "2026-04-06",
+      "event_end": "2026-04-10",
+      "submission_deadline": "2026-04-06",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.9,
+      "field_flags": [
+        "location",
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-10-17",
+      "status": "past",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/cps-2026",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "0109629255c0",
+      "title": "IV Международная научно-практическая конференция «Современное право КНР»",
+      "organizer": "Санкт-Петербургский государственный университет",
+      "disciplines": [
+        "Право"
+      ],
+      "event_start": "2026-04-24",
+      "event_end": "2026-04-24",
+      "submission_deadline": "2026-04-06",
+      "location": "Санкт-Петербург",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [],
+      "first_seen": "2026-10-17",
+      "status": "past",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/chinalaw-2026",
           "published_date": null
         }
       ]
@@ -4037,36 +4655,33 @@
       ]
     },
     {
-      "id": "166ec4cc1473",
-      "title": "Кавказ в исследовательском поле: от истоков к перспективам кавказоведения",
-      "organizer": "ИЭА РАН",
+      "id": "b41303454ef5",
+      "title": "Настоящее и будущее журналистики и медиакоммуникаций в контексте интеграции исторических регионов России и глобального развития",
+      "organizer": "Институт «Высшая школа журналистики и массовых коммуникаций» СПбГУ",
       "disciplines": [
-        "Социология (включая демографию и антропологию)",
-        "История и археология",
+        "Медиа и коммуникации",
         "Филология и лингвистика"
       ],
-      "event_start": "2026-06-04",
-      "event_end": "2026-06-05",
-      "submission_deadline": "2026-04-20",
-      "location": null,
-      "format": null,
+      "event_start": "2026-05-16",
+      "event_end": "2026-05-16",
+      "submission_deadline": "2026-04-28",
+      "location": "Санкт-Петербург",
+      "format": "гибрид",
       "official_url": null,
-      "confidence": 0.95,
+      "confidence": 0.933,
       "field_flags": [
+        "title",
         "organizer",
-        "location",
-        "disciplines",
-        "format",
-        "official_url"
+        "disciplines"
       ],
-      "first_seen": "2026-07-15",
+      "first_seen": "2026-10-17",
       "status": "past",
       "sources": [
         {
-          "source": "iea_ras",
-          "source_name": "ИЭА РАН",
-          "url": "https://iea-ras.ru/?p=21263",
-          "published_date": "2026-04-07"
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/journ-media",
+          "published_date": null
         }
       ]
     },
@@ -4075,7 +4690,6 @@
       "title": "XIII Международная научная конференция «Применение многомерных статистических методов в экономике и оценке качества им. С.А. Айвазяна»",
       "organizer": "Национальный исследовательский университет «Высшая школа экономики», Центральный экономико-математический институт Российской академии наук, Московская школа экономики МГУ им. М.В. Ломоносова",
       "disciplines": [
-        "Математика",
         "Экономика и менеджмент"
       ],
       "event_start": "2026-09-22",
@@ -4084,12 +4698,11 @@
       "location": "Москва",
       "format": "очно",
       "official_url": null,
-      "confidence": 0.967,
+      "confidence": 0.933,
       "field_flags": [
         "title",
         "organizer",
         "disciplines",
-        "event_start",
         "format"
       ],
       "first_seen": "2026-07-13",
@@ -4135,64 +4748,6 @@
       ]
     },
     {
-      "id": "ecc996337e92",
-      "title": "Всероссийская конференция «Гидросфера: актуальные вопросы изучения и рационального природопользования»",
-      "organizer": "Институт водных проблем Севера Карельского национального центра РАН",
-      "disciplines": [
-        "Науки о земле"
-      ],
-      "event_start": "2026-10-05",
-      "event_end": "2026-10-07",
-      "submission_deadline": "2026-04-30",
-      "location": "Петрозаводск",
-      "format": null,
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "disciplines",
-        "submission_deadline",
-        "format",
-        "official_url"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "past",
-      "sources": [
-        {
-          "source": "ras_events",
-          "source_name": "РАН",
-          "url": "https://new.ras.ru/press-center/events-additional/konferentsiya-gidrosfera-aktualnye-voprosy-izucheniya-i-ratsionalnogo-prirodopolzovaniya/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "8dac83f47e85",
-      "title": "Петербургская школа по аналитической химии",
-      "organizer": "Институт химии Санкт-Петербургского государственного университета, Научный совет РАН по аналитической химии, Министерство науки и высшего образования Российской Федерации, Газпромбанк, Студенческое научное сообщество Санкт-Петербургского государственного университета",
-      "disciplines": [
-        "Химия"
-      ],
-      "event_start": "2026-06-22",
-      "event_end": "2026-06-24",
-      "submission_deadline": "2026-05-01",
-      "location": "Санкт-Петербург",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [],
-      "first_seen": "2026-07-13",
-      "status": "past",
-      "sources": [
-        {
-          "source": "spbu_events",
-          "source_name": "СПбГУ",
-          "url": "https://events.spbu.ru/chem-school",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "cdf569ef22c8",
       "title": "Всероссийская научная конференция исследователей женской истории и исторической антропологии повседневности",
       "organizer": "Российская ассоциация исследователей женской истории (РАИЖИ)",
@@ -4206,7 +4761,7 @@
       "location": "Уфа",
       "format": "очно",
       "official_url": null,
-      "confidence": 0.917,
+      "confidence": 0.95,
       "field_flags": [
         "disciplines",
         "format"
@@ -4254,6 +4809,68 @@
       ]
     },
     {
+      "id": "7c0414bfaf1a",
+      "title": "Третья Всероссийская Молодежная научная конференция «Первые социологические опыты»",
+      "organizer": "Социологический институт РАН – филиал ФНИСЦ РАН",
+      "disciplines": [
+        "Социология (включая демографию и антропологию)"
+      ],
+      "event_start": "2026-05-14",
+      "event_end": "2026-05-14",
+      "submission_deadline": "2026-05-11",
+      "location": "Санкт-Петербург",
+      "format": "онлайн",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-10-17",
+      "status": "past",
+      "sources": [
+        {
+          "source": "socinst",
+          "source_name": "Социологический институт РАН",
+          "url": "https://socinst.ru/conferences/firststeps2026/#files",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "c091c6ad6379",
+      "title": "Кристаллохимия минералов и их аналогов: энергетические аспекты и структурное разнообразие",
+      "organizer": "Московский государственный университет имени М.В.Ломоносова, Геологический факультет, Кафедра кристаллографии и кристаллохимии",
+      "disciplines": [
+        "Физика",
+        "Химия"
+      ],
+      "event_start": "2026-09-25",
+      "event_end": "2026-09-25",
+      "submission_deadline": "2026-05-15",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "organizer",
+        "location",
+        "disciplines",
+        "format",
+        "official_url"
+      ],
+      "first_seen": "2026-10-17",
+      "status": "past",
+      "sources": [
+        {
+          "source": "msu_events",
+          "source_name": "МГУ",
+          "url": "https://conf.msu.ru/rus/event/10215/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "6bef801ca2e2",
       "title": "Конгресс «Химия и химические технологии в цифровую эпоху»",
       "organizer": "Российская Академия Наук, Министерство науки и высшего образования России, Министерство промышленности и торговли России и Институт органической химии им. Н.Д. Зелинского РАН",
@@ -4266,7 +4883,7 @@
       "location": "Москва",
       "format": "очно",
       "official_url": null,
-      "confidence": 0.9,
+      "confidence": 0.933,
       "field_flags": [
         "format",
         "official_url"
@@ -4292,12 +4909,11 @@
       "event_start": "2026-06-18",
       "event_end": "2026-06-19",
       "submission_deadline": "2026-05-19",
-      "location": "Санкт-Петербург, Ленинградская область, Колтуши",
+      "location": "Санкт-Петербург",
       "format": "гибрид",
       "official_url": null,
-      "confidence": 0.9,
+      "confidence": 0.933,
       "field_flags": [
-        "title",
         "location",
         "disciplines",
         "format"
@@ -4340,29 +4956,30 @@
       ]
     },
     {
-      "id": "8c82e881d4dc",
-      "title": "Актуальные проблемы предпринимательского права",
+      "id": "c18adebe9928",
+      "title": "III научно-практическая конференция «Международное налогообложение в России»",
       "organizer": "Санкт-Петербургский государственный университет",
       "disciplines": [
+        "Экономика и менеджмент",
         "Право"
       ],
-      "event_start": "2026-06-03",
-      "event_end": "2026-06-03",
-      "submission_deadline": "2026-05-25",
+      "event_start": "2026-05-22",
+      "event_end": "2026-05-23",
+      "submission_deadline": "2026-05-20",
       "location": "Санкт-Петербург",
       "format": "гибрид",
       "official_url": null,
-      "confidence": 0.967,
+      "confidence": 0.933,
       "field_flags": [
-        "title"
+        "disciplines"
       ],
-      "first_seen": "2026-07-13",
+      "first_seen": "2026-10-17",
       "status": "past",
       "sources": [
         {
           "source": "spbu_events",
           "source_name": "СПбГУ",
-          "url": "https://events.spbu.ru/actual",
+          "url": "https://events.spbu.ru/nalog2026",
           "published_date": null
         }
       ]
@@ -4380,7 +4997,7 @@
       "location": "Санкт-Петербург",
       "format": "очно",
       "official_url": null,
-      "confidence": 0.983,
+      "confidence": 0.933,
       "field_flags": [
         "title",
         "disciplines"
@@ -4471,7 +5088,8 @@
       "confidence": 0.933,
       "field_flags": [
         "title",
-        "disciplines"
+        "disciplines",
+        "official_url"
       ],
       "first_seen": "2026-07-13",
       "status": "past",
@@ -4499,9 +5117,8 @@
       "location": "Санкт-Петербург",
       "format": "гибрид",
       "official_url": null,
-      "confidence": 0.9,
+      "confidence": 0.933,
       "field_flags": [
-        "title",
         "disciplines",
         "format"
       ],
@@ -4518,11 +5135,10 @@
     },
     {
       "id": "ac65849d7af5",
-      "title": "Astrometria Petropolitana",
+      "title": "Международная конференция «Astrometria Petropolitana»",
       "organizer": "Санкт-Петербургский государственный университет",
       "disciplines": [
-        "Физика",
-        "Науки о земле"
+        "Физика"
       ],
       "event_start": "2026-06-22",
       "event_end": "2026-06-25",
@@ -4530,7 +5146,7 @@
       "location": "Санкт-Петербург",
       "format": "гибрид",
       "official_url": null,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "field_flags": [
         "title",
         "disciplines"
@@ -4562,7 +5178,7 @@
       "location": "Санкт-Петербург",
       "format": "очно",
       "official_url": null,
-      "confidence": 0.95,
+      "confidence": 0.933,
       "field_flags": [
         "title",
         "disciplines",
@@ -4592,10 +5208,11 @@
       "location": "Санкт-Петербург",
       "format": "гибрид",
       "official_url": null,
-      "confidence": 0.95,
+      "confidence": 0.933,
       "field_flags": [
         "location",
         "disciplines",
+        "event_start",
         "official_url"
       ],
       "first_seen": "2026-07-13",
@@ -4624,6 +5241,7 @@
       "official_url": null,
       "confidence": 0.967,
       "field_flags": [
+        "location",
         "disciplines",
         "format"
       ],
@@ -4675,7 +5293,7 @@
       "organizer": "Московский институт электроники и математики им. А.Н. Тихонова (МИЭМ) и Томский государственный университет (ТГУ)",
       "disciplines": [
         "Компьютерные науки",
-        "Электроника и электротехника"
+        "Экономика и менеджмент"
       ],
       "event_start": "2026-09-21",
       "event_end": "2026-09-25",
@@ -4683,10 +5301,9 @@
       "location": "Москва",
       "format": "очно",
       "official_url": null,
-      "confidence": 0.967,
+      "confidence": 0.933,
       "field_flags": [
         "title",
-        "organizer",
         "disciplines",
         "format",
         "official_url"
@@ -4716,7 +5333,7 @@
       "location": "Томск",
       "format": null,
       "official_url": "https://rsfm2026.tsu.ru/",
-      "confidence": 0.983,
+      "confidence": 0.917,
       "field_flags": [
         "organizer",
         "location",
@@ -4749,7 +5366,7 @@
       "location": "Москва",
       "format": "гибрид",
       "official_url": null,
-      "confidence": 0.967,
+      "confidence": 0.933,
       "field_flags": [],
       "first_seen": "2026-07-13",
       "status": "past",
@@ -4767,8 +5384,8 @@
       "title": "VI Международный полевой этнографический симпозиум «ИНБАМ: Народные астрономические знания в культуре народов Урало-Поволжья»",
       "organizer": "Удмуртский институт истории, языка и литературы УдмФИЦ УрО РАН и Архитектурно-этнографический музей-заповедник «Лудорвай»",
       "disciplines": [
-        "Экономика и менеджмент",
-        "История и археология"
+        "История и археология",
+        "Филология и лингвистика"
       ],
       "event_start": "2026-09-10",
       "event_end": "2026-09-11",
@@ -4776,7 +5393,7 @@
       "location": "Ижевск",
       "format": "очно",
       "official_url": null,
-      "confidence": 0.9,
+      "confidence": 0.933,
       "field_flags": [
         "disciplines"
       ],
@@ -4793,23 +5410,22 @@
     },
     {
       "id": "29dbe314655b",
-      "title": "Всероссийская научная конференция «Анахарсис»",
-      "organizer": "философский факультет, Крымский федеральный университет имени В. И. Вернадского и Российский государственный гуманитарный университет",
+      "title": "Анахарсис",
+      "organizer": "философский факультет",
       "disciplines": [
         "Философия, этика, религиоведение"
       ],
       "event_start": "2026-09-25",
       "event_end": "2026-09-27",
       "submission_deadline": "2026-07-01",
-      "location": "Судак, пос. Новый Свет",
+      "location": "Судак",
       "format": "очно",
       "official_url": null,
       "confidence": 0.933,
       "field_flags": [
         "title",
         "organizer",
-        "location",
-        "submission_deadline"
+        "location"
       ],
       "first_seen": "2026-07-13",
       "status": "past",
@@ -4837,10 +5453,9 @@
       "location": "Майкоп",
       "format": "очно",
       "official_url": null,
-      "confidence": 0.983,
+      "confidence": 0.933,
       "field_flags": [
         "organizer",
-        "location",
         "disciplines"
       ],
       "first_seen": "2026-07-13",
@@ -4855,29 +5470,33 @@
       ]
     },
     {
-      "id": "06bff73b5b85",
-      "title": "Всероссийская конференция «Служение Отечеству как призвание молодежи»",
-      "organizer": "Министерство просвещения Российской Федерации и Государственная думы ФС РФ",
-      "disciplines": [],
-      "event_start": "2026-07-16",
-      "event_end": "2026-07-17",
+      "id": "998c1a952cb9",
+      "title": "Большая математическая мастерская Большого университета",
+      "organizer": "Большого университета",
+      "disciplines": [
+        "Математика"
+      ],
+      "event_start": "2026-07-13",
+      "event_end": "2026-07-27",
       "submission_deadline": "2026-07-06",
-      "location": "Министерство просвещения Российской Федерации и Государственная думы ФС РФ",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.9,
+      "location": null,
+      "format": null,
+      "official_url": "https://tomsk.great-math.ru/",
+      "confidence": 0.917,
       "field_flags": [
         "title",
         "location",
-        "disciplines"
+        "event_start",
+        "event_end",
+        "format"
       ],
       "first_seen": "2026-07-13",
       "status": "past",
       "sources": [
         {
-          "source": "mgimo_ann",
-          "source_name": "МГИМО",
-          "url": "https://mgimo.ru/about/news/announce/sluzhenie-otechestvu-07-26/",
+          "source": "tsu",
+          "source_name": "ТГУ",
+          "url": "https://news.tsu.ru/calendar-of-events/priem-zayavok-na-bolshuyu-matematicheskuyu-masterskuyu-bolshogo-universiteta/",
           "published_date": null
         }
       ]
@@ -4917,6 +5536,7 @@
       "title": "IV международная конференция по космическому образованию «Дорога в космос»",
       "organizer": "Институт космических исследований РАН",
       "disciplines": [
+        "Физика",
         "Образование"
       ],
       "event_start": "2026-09-29",
@@ -4925,8 +5545,9 @@
       "location": "Москва",
       "format": "гибрид",
       "official_url": null,
-      "confidence": 0.9,
+      "confidence": 0.917,
       "field_flags": [
+        "title",
         "organizer",
         "location",
         "disciplines",
@@ -4982,7 +5603,8 @@
       "organizer": "Евро-Азиатское геофизическое общество, Институт физики Земли им. О. Ю. Шмидта Российской академии наук, Передовая инженерная школа СПбГУ",
       "disciplines": [
         "Математика",
-        "Физика"
+        "Физика",
+        "Науки о земле"
       ],
       "event_start": "2026-09-14",
       "event_end": "2026-09-16",
@@ -5009,12 +5631,11 @@
     },
     {
       "id": "c3865872d90c",
-      "title": "II Международная научно-практическая конференция «Информационные технологии в сохранении и продвижении культурного наследия»",
-      "organizer": "НИУ ВШЭ в Санкт-Петербурге, Лаборатория управления культурой и туризмом",
+      "title": "Международная научно-практическая конференция «Информационные технологии в сохранении и продвижении культурного наследия»",
+      "organizer": "НИУ ВШЭ в Санкт-Петербурге",
       "disciplines": [
         "Компьютерные науки",
-        "Экономика и менеджмент",
-        "Медиа и коммуникации"
+        "Экономика и менеджмент"
       ],
       "event_start": "2026-09-10",
       "event_end": "2026-09-11",
@@ -5022,9 +5643,8 @@
       "location": "Санкт-Петербург",
       "format": null,
       "official_url": null,
-      "confidence": 0.9,
+      "confidence": 0.933,
       "field_flags": [
-        "title",
         "organizer",
         "disciplines",
         "format",
@@ -5054,7 +5674,7 @@
       "location": "Санкт-Петербург",
       "format": "очно",
       "official_url": null,
-      "confidence": 0.933,
+      "confidence": 0.917,
       "field_flags": [
         "title",
         "disciplines",
@@ -5115,9 +5735,10 @@
       "location": "Томск",
       "format": "гибрид",
       "official_url": "https://conference.tsu.ru/in-honor-of-em-zhilyakova/",
-      "confidence": 0.95,
+      "confidence": 0.933,
       "field_flags": [
-        "title"
+        "title",
+        "submission_deadline"
       ],
       "first_seen": "2026-07-13",
       "status": "past",
@@ -5135,9 +5756,10 @@
       "title": "V Международный конгресс по цвету",
       "organizer": "Российская академия художеств, ИНИОН РАН, Смоленский государственный университет",
       "disciplines": [
+        "Психология",
         "Социология (включая демографию и антропологию)",
-        "Филология и лингвистика",
-        "Философия, этика, религиоведение"
+        "Философия, этика, религиоведение",
+        "Искусствоведение"
       ],
       "event_start": "2026-09-21",
       "event_end": "2026-09-25",
@@ -5174,7 +5796,7 @@
       "location": "Москва",
       "format": "очно",
       "official_url": null,
-      "confidence": 0.95,
+      "confidence": 0.933,
       "field_flags": [
         "organizer",
         "location"
@@ -5202,11 +5824,13 @@
       "event_end": "2026-09-25",
       "submission_deadline": "2026-08-03",
       "location": "Кольцово",
-      "format": null,
-      "official_url": "https://openbio.ru",
-      "confidence": 0.95,
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.917,
       "field_flags": [
         "disciplines",
+        "event_start",
+        "event_end",
         "format",
         "official_url"
       ],
@@ -5218,6 +5842,37 @@
           "source_name": "МФТИ",
           "url": "https://mipt.ru/institute/events/priem-tezisov-na-nauchnuyu-konferentsiyu-xiii-rossiyskogo-foruma-biotekhnologiy-openbio",
           "published_date": "2026-06-09"
+        }
+      ]
+    },
+    {
+      "id": "0faf812d8c92",
+      "title": "Всероссийская конференция «Химическая структура и свойства материалов»",
+      "organizer": "ИНЭОС РАН, Отделение химии и наук о материалах РАН; Федеральный исследовательский центр проблем химической физики и медицинской химии РАН; Институт органической химии им. Н. Д. Зелинского РАН; Институт общей и неорганической химии им. Н.С. Курнакова РАН",
+      "disciplines": [
+        "Химия"
+      ],
+      "event_start": "2026-10-12",
+      "event_end": "2026-10-15",
+      "submission_deadline": "2026-08-03",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "disciplines",
+        "format",
+        "official_url"
+      ],
+      "first_seen": "2026-10-17",
+      "status": "past",
+      "sources": [
+        {
+          "source": "ras_events",
+          "source_name": "РАН",
+          "url": "https://new.ras.ru/press-center/events-additional/vserossiyskaya-konferentsiya-khimicheskaya-struktura-i-svoystva-materialov/",
+          "published_date": null
         }
       ]
     },
@@ -5250,6 +5905,35 @@
       ]
     },
     {
+      "id": "aef4415874ae",
+      "title": "Международная школа Студенческих научных обществ (СНО)",
+      "organizer": "Московский государственный университет имени М.В.Ломоносова",
+      "disciplines": [
+        "Образование"
+      ],
+      "event_start": "2026-09-04",
+      "event_end": "2026-09-05",
+      "submission_deadline": "2026-08-06",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines",
+        "submission_deadline"
+      ],
+      "first_seen": "2026-08-27",
+      "status": "past",
+      "sources": [
+        {
+          "source": "msu_events",
+          "source_name": "МГУ",
+          "url": "https://conf.msu.ru/rus/event/10571/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "5ac67e2b0281",
       "title": "V Школа молодого востоковеда МГИМО — ИВ РАН",
       "organizer": "МГИМО — ИВ РАН",
@@ -5267,10 +5951,7 @@
       "official_url": null,
       "confidence": 0.9,
       "field_flags": [
-        "title",
-        "location",
-        "disciplines",
-        "submission_deadline"
+        "disciplines"
       ],
       "first_seen": "2026-08-14",
       "status": "past",
@@ -5320,6 +6001,35 @@
       ]
     },
     {
+      "id": "ac474e39a6ff",
+      "title": "Второй Всероссийский научный семинар ««Маргинальные» и «опасные» городские пространства: дискурсы и практики»",
+      "organizer": "Социологический институт РАН – филиал ФНИСЦ РАН, Калужский государственный университет имени К.Э. Циолковского",
+      "disciplines": [
+        "Социология (включая демографию и антропологию)"
+      ],
+      "event_start": "2026-09-10",
+      "event_end": "2026-09-11",
+      "submission_deadline": "2026-08-20",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-10-17",
+      "status": "past",
+      "sources": [
+        {
+          "source": "socinst",
+          "source_name": "Социологический институт РАН",
+          "url": "https://socinst.ru/conferences/marginalspace2026/#files",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "89cb7216b979",
       "title": "Всероссийская молодежная конференция «Сохраняя наследие: язык, история, культура»",
       "organizer": "Российское военно-историческое общество в Республике Татарстан, Институт археологии Российской академии наук (ИА РАН), Институт языкознания РАН (ИЯз РАН), Институт этнологии и антропологии Российской академии наук (ИЭА РАН)",
@@ -5351,16 +6061,17 @@
       ]
     },
     {
-      "id": "1b898a9d6891",
-      "title": "Школа-конференция по технологиям магнитно-резонансной томографии 2026",
-      "organizer": "Университет ИТМО",
+      "id": "e769061c10a0",
+      "title": "По ту сторону источника: эмический подход в социально-гуманитарных науках",
+      "organizer": "Факультет истории Европейского университета в Санкт-Петербурге",
       "disciplines": [
-        "Физика",
-        "Электроника и электротехника"
+        "Социология (включая демографию и антропологию)",
+        "История и археология",
+        "Филология и лингвистика"
       ],
-      "event_start": "2026-09-21",
-      "event_end": "2026-09-25",
-      "submission_deadline": "2026-08-23",
+      "event_start": "2026-10-15",
+      "event_end": "2026-10-16",
+      "submission_deadline": "2026-08-20",
       "location": "Санкт-Петербург",
       "format": "очно",
       "official_url": null,
@@ -5368,16 +6079,16 @@
       "field_flags": [
         "organizer",
         "disciplines",
-        "official_url"
+        "format"
       ],
-      "first_seen": "2026-07-31",
+      "first_seen": "2026-07-13",
       "status": "past",
       "sources": [
         {
-          "source": "itmo_events",
-          "source_name": "ИТМО",
-          "url": "https://news.itmo.ru/ru/announce/121921/",
-          "published_date": null
+          "source": "eusp",
+          "source_name": "ЕУСПб",
+          "url": "https://eusp.org/news/nauchnaya-konferenciya-po-tu-storonu-istochnika-emicheskiy-podkhod-v-socialno-gumanitarnykh-naukakh",
+          "published_date": "2026-06-23"
         }
       ]
     },
@@ -5393,10 +6104,10 @@
       "event_start": "2026-09-20",
       "event_end": "2026-09-26",
       "submission_deadline": "2026-08-24",
-      "location": "Астана (Республика Казахстан)",
+      "location": "Астана",
       "format": "очно",
       "official_url": null,
-      "confidence": 0.967,
+      "confidence": 0.933,
       "field_flags": [
         "title",
         "location",
@@ -5423,7 +6134,7 @@
       "event_start": "2026-09-24",
       "event_end": "2026-09-25",
       "submission_deadline": "2026-08-31",
-      "location": "Москва",
+      "location": "Не указано (возможно, очно, но город не указан)",
       "format": "очно",
       "official_url": null,
       "confidence": 0.933,
@@ -5475,9 +6186,10 @@
     {
       "id": "e2964ebf47f9",
       "title": "Конференция памяти Сергея Сергеевича Хоружего",
-      "organizer": "Центр синергийной антропологии НИУ ВШЭ и Институт философии РАН",
+      "organizer": "Центр синергийной антропологии НИУ ВШЭ, Институт философии РАН",
       "disciplines": [
         "История и археология",
+        "Филология и лингвистика",
         "Философия, этика, религиоведение"
       ],
       "event_start": "2026-10-10",
@@ -5516,9 +6228,8 @@
       "location": "Нижний Новгород",
       "format": "очно",
       "official_url": null,
-      "confidence": 0.883,
+      "confidence": 0.933,
       "field_flags": [
-        "organizer",
         "disciplines",
         "submission_deadline"
       ],
@@ -5546,7 +6257,7 @@
       "location": "Санкт-Петербург",
       "format": "очно",
       "official_url": null,
-      "confidence": 0.9,
+      "confidence": 0.933,
       "field_flags": [
         "organizer",
         "disciplines"
@@ -5563,29 +6274,67 @@
       ]
     },
     {
-      "id": "aef4415874ae",
-      "title": "Международная школа Студенческих научных обществ (СНО)",
-      "organizer": "Московский государственный университет имени М.В.Ломоносова",
-      "disciplines": [],
-      "event_start": "2026-09-04",
-      "event_end": "2026-09-05",
-      "submission_deadline": "2026-09-02",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "location",
-        "disciplines",
-        "submission_deadline"
+      "id": "30659517f87a",
+      "title": "XII Всероссийская молодёжная школа-конференция «Химия, физика, биология: пути интеграции»",
+      "organizer": "Федеральный исследовательский центр химической физики им. Н.Н. Семёнова Российской академии наук (ФИЦ ХФ РАН)",
+      "disciplines": [
+        "Физика",
+        "Химия",
+        "Биология"
       ],
-      "first_seen": "2026-08-27",
+      "event_start": "2026-10-14",
+      "event_end": "2026-10-16",
+      "submission_deadline": "2026-09-01",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.967,
+      "field_flags": [
+        "format",
+        "official_url"
+      ],
+      "first_seen": "2026-07-13",
       "status": "past",
       "sources": [
         {
-          "source": "msu_events",
-          "source_name": "МГУ",
-          "url": "https://conf.msu.ru/rus/event/10571/",
+          "source": "ras_events",
+          "source_name": "РАН",
+          "url": "https://new.ras.ru/press-center/events-additional/xii-vserossiyskaya-molodyezhnaya-shkola-konferentsiya-khimiya-fizika-biologiya-puti-integratsii/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "51d7a6b53caf",
+      "title": "Международная научная конференция «Современные проблемы деликтного права в странах БРИКС»",
+      "organizer": "Факультет права НИУ ВШЭ",
+      "disciplines": [
+        "Право"
+      ],
+      "event_start": "2026-10-16",
+      "event_end": "2026-10-16",
+      "submission_deadline": "2026-09-01",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.983,
+      "field_flags": [
+        "title",
+        "organizer"
+      ],
+      "first_seen": "2026-07-14",
+      "status": "past",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://pravo.hse.ru/announcements/1165366148.html",
+          "published_date": null
+        },
+        {
+          "source": "hse_conf",
+          "source_name": "НИУ ВШЭ (конференции)",
+          "url": "https://pravo.hse.ru/grpravo/announcements/1161225550.html",
           "published_date": null
         }
       ]
@@ -5596,6 +6345,7 @@
       "organizer": "Факультет журналистики МГУ имени М.В. Ломоносова",
       "disciplines": [
         "Психология",
+        "Образование",
         "Социология (включая демографию и антропологию)",
         "Медиа и коммуникации"
       ],
@@ -5716,11 +6466,45 @@
       ]
     },
     {
+      "id": "d7a08757652a",
+      "title": "режиссерская лаборатория «Проявка»",
+      "organizer": "Школа искусств и культурного наследия Константин Александрович Учитель; Мария Михайловна Гурьева Конкурсы",
+      "disciplines": [
+        "Искусствоведение"
+      ],
+      "event_start": "2026-09-15",
+      "event_end": "2026-09-15",
+      "submission_deadline": "2026-09-15",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.883,
+      "field_flags": [
+        "title",
+        "organizer",
+        "disciplines",
+        "event_start",
+        "event_end",
+        "format"
+      ],
+      "first_seen": "2026-10-17",
+      "status": "past",
+      "sources": [
+        {
+          "source": "eusp",
+          "source_name": "ЕУСПб",
+          "url": "https://eusp.org/news/priglashaem-pouchastvovat-v-rezhisserskoy-laboratorii-proyavka",
+          "published_date": "2026-08-20"
+        }
+      ]
+    },
+    {
       "id": "d27e6de39ca4",
       "title": "XXI международная молодежная научная конференция «Экологические проблемы природопользования. Геоэкология — 2026»",
       "organizer": "Санкт-Петербургский государственный университет",
       "disciplines": [
-        "Науки о земле"
+        "Науки о земле",
+        "Экономика и менеджмент"
       ],
       "event_start": "2026-10-05",
       "event_end": "2026-10-08",
@@ -5728,7 +6512,7 @@
       "location": "Санкт-Петербург",
       "format": "гибрид",
       "official_url": null,
-      "confidence": 0.933,
+      "confidence": 0.9,
       "field_flags": [
         "organizer",
         "location",
@@ -5748,93 +6532,30 @@
       ]
     },
     {
-      "id": "fcbe20b8858a",
-      "title": "Счастье как социокультурная ценность и пространство взаимопонимания",
-      "organizer": "Центр исследований гражданского общества и некоммерческого сектора Национального исследовательского университета «Высшая школа экономики» (НИУ ВШЭ)",
+      "id": "138b4f46d1de",
+      "title": "X межвузовская научная студенческая конференция по антиковедению",
+      "organizer": "Институт классического Востока и античности",
       "disciplines": [
-        "Психология",
-        "Социология (включая демографию и антропологию)"
+        "История и археология"
       ],
-      "event_start": "2026-09-17",
-      "event_end": "2026-09-17",
-      "submission_deadline": "2026-09-16",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "organizer",
-        "disciplines",
-        "submission_deadline"
-      ],
-      "first_seen": "2026-09-12",
-      "status": "past",
-      "sources": [
-        {
-          "source": "hse_ann_sci",
-          "source_name": "НИУ ВШЭ",
-          "url": "https://grans.hse.ru/announcements/1199410571.html",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "207bac139f47",
-      "title": "Гражданское общество в странах Африки и участие молодежи в народной дипломатии",
-      "organizer": "Центр исследований гражданского общества и некоммерческого сектора Национального исследовательского университета «Высшая школа экономики»",
-      "disciplines": [
-        "Политология и международные отношения (включая ГМУ)"
-      ],
-      "event_start": "2026-09-21",
-      "event_end": "2026-09-21",
-      "submission_deadline": "2026-09-18",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "disciplines"
-      ],
-      "first_seen": "2026-09-18",
-      "status": "past",
-      "sources": [
-        {
-          "source": "hse_ann_sci",
-          "source_name": "НИУ ВШЭ",
-          "url": "https://grans.hse.ru/announcements/1200810331.html",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "217131ad0b56",
-      "title": "Стратегическая автономия Индонезии в многополярном мире",
-      "organizer": "Центром АСЕАН в сотрудничестве с Посольством Республики Индонезии в Москве",
-      "disciplines": [
-        "Политология и международные отношения (включая ГМУ)"
-      ],
-      "event_start": "2026-09-24",
-      "event_end": "2026-09-24",
-      "submission_deadline": "2026-09-18",
+      "event_start": "2026-10-16",
+      "event_end": "2026-10-16",
+      "submission_deadline": "2026-09-15",
       "location": "Москва",
       "format": "очно",
       "official_url": null,
-      "confidence": 0.85,
+      "confidence": 0.883,
       "field_flags": [
-        "title",
-        "organizer",
-        "location",
         "disciplines",
-        "submission_deadline",
         "format"
       ],
-      "first_seen": "2026-09-16",
+      "first_seen": "2026-09-04",
       "status": "past",
       "sources": [
         {
-          "source": "mgimo_ann",
-          "source_name": "МГИМО",
-          "url": "https://mgimo.ru/about/news/announce/indo-day-26/",
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://iocs.hse.ru/announcements/1196561721.html",
           "published_date": null
         }
       ]
@@ -5855,7 +6576,6 @@
       "official_url": null,
       "confidence": 0.933,
       "field_flags": [
-        "title",
         "disciplines"
       ],
       "first_seen": "2026-09-05",
@@ -5930,66 +6650,64 @@
       ]
     },
     {
-      "id": "24b58cf90d74",
-      "title": "IV Всероссийская научная конференция «Турецкая Республика в эпоху глобальных трансформаций»",
-      "organizer": "Отдел Ближнего и Постсоветского Востока ИНИОН РАН",
+      "id": "ba99913d1c63",
+      "title": "Дни Ибероамериканского центра МГИМО",
+      "organizer": "кафедра испанского языка совместно с Ибероамериканским центром МГИМО, Ибероамериканским клубом HCO, редакцией научного журнала «Ибероамериканские тетради»",
       "disciplines": [
         "Политология и международные отношения (включая ГМУ)",
-        "История и археология"
+        "Филология и лингвистика"
       ],
-      "event_start": "2026-10-13",
-      "event_end": "2026-10-13",
-      "submission_deadline": "2026-09-30",
-      "location": null,
-      "format": null,
-      "official_url": null,
-      "confidence": 0.85,
-      "field_flags": [
-        "organizer",
-        "location",
-        "disciplines",
-        "format"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "past",
-      "sources": [
-        {
-          "source": "inion",
-          "source_name": "ИНИОН РАН",
-          "url": "https://inion.ru/ru/about/news/iv-vserossiiskaia-nauchnaia-konferentciia-turetckaia-respublika-v-epokhu-global-nykh-transformatcii-informatcionnoe-pis-mo/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "421de03f504d",
-      "title": "День Филиппин в МГИМО",
-      "organizer": "Центр АСЕАН при поддержке Посольства Республики Филиппин в Москве и Посольства Российской Федерации в Маниле",
-      "disciplines": [
-        "Политология и международные отношения (включая ГМУ)"
-      ],
-      "event_start": "2026-10-06",
-      "event_end": "2026-10-06",
-      "submission_deadline": "2026-10-02",
+      "event_start": "2026-09-30",
+      "event_end": "2026-10-01",
+      "submission_deadline": "2026-09-21",
       "location": "Москва",
-      "format": "очно",
+      "format": "гибрид",
       "official_url": null,
-      "confidence": 0.883,
+      "confidence": 0.933,
       "field_flags": [
-        "title",
         "organizer",
-        "location",
-        "disciplines",
-        "format",
-        "official_url"
+        "disciplines"
       ],
-      "first_seen": "2026-09-30",
+      "first_seen": "2026-10-17",
       "status": "past",
       "sources": [
         {
           "source": "mgimo_ann",
           "source_name": "МГИМО",
-          "url": "https://mgimo.ru/about/news/announce/philippines-day-2026/",
+          "url": "https://mgimo.ru/about/news/announce/centro-iberoamericano-2026/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "31ec8be8a587",
+      "title": "Второй открытый студенческий семинар «Искусственный интеллект и алгоритмические культуры в современной коммуникации»",
+      "organizer": "лаборатории",
+      "disciplines": [
+        "Компьютерные науки",
+        "Медиа и коммуникации",
+        "Философия, этика, религиоведение"
+      ],
+      "event_start": "2026-09-29",
+      "event_end": "2026-09-29",
+      "submission_deadline": "2026-09-22",
+      "location": "онлайн",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.967,
+      "field_flags": [
+        "title",
+        "organizer",
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-10-17",
+      "status": "past",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://cmd.hse.ru/media/announcements/1194580743.html",
           "published_date": null
         }
       ]
@@ -5999,8 +6717,8 @@
       "title": "Гидроминеральное сырьё нефтегазовых месторождений: технологии добычи и извлечения ценных компонентов",
       "organizer": "Санкт-Петербургский государственный университет",
       "disciplines": [
+        "Физика",
         "Химия",
-        "Науки о земле",
         "Экономика и менеджмент"
       ],
       "event_start": "2026-10-08",
@@ -6009,7 +6727,7 @@
       "location": "Санкт-Петербург",
       "format": "очно",
       "official_url": null,
-      "confidence": 0.933,
+      "confidence": 0.9,
       "field_flags": [
         "disciplines"
       ],
@@ -6055,29 +6773,35 @@
       ]
     },
     {
-      "id": "d4a8d4cd54eb",
-      "title": "Достижение национальной цели «Сохранение населения, укрепление здоровья и повышение благополучия людей, поддержка семьи»: динамика ключевых показателей, возможности мониторинга и системной экспертизы определяющих их факторов",
-      "organizer": "Институт социальной политики НИУ ВШЭ",
+      "id": "6af073230d7e",
+      "title": "Конкурс научно-исследовательских работ «Российская идентичность»",
+      "organizer": "Институт гражданской идентичности",
       "disciplines": [
-        "Социология (включая демографию и антропологию)"
+        "Психология",
+        "Социология (включая демографию и антропологию)",
+        "История и археология"
       ],
-      "event_start": "2026-10-13",
-      "event_end": "2026-10-13",
-      "submission_deadline": "2026-10-12",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.967,
+      "event_start": "2026-10-15",
+      "event_end": "2026-10-15",
+      "submission_deadline": "2026-10-15",
+      "location": null,
+      "format": "онлайн",
+      "official_url": "https://identitas.ru/nir",
+      "confidence": 0.917,
       "field_flags": [
-        "disciplines"
+        "title",
+        "location",
+        "disciplines",
+        "event_start",
+        "event_end"
       ],
-      "first_seen": "2026-10-09",
+      "first_seen": "2026-10-17",
       "status": "past",
       "sources": [
         {
-          "source": "hse_ann_sci",
-          "source_name": "НИУ ВШЭ",
-          "url": "https://isp.hse.ru/announcements/1207390947.html",
+          "source": "tsu",
+          "source_name": "ТГУ",
+          "url": "https://news.tsu.ru/calendar-of-events/do-15-oktyabrya-priem-zayavok-na-konkurs-nauchno-issledovatelskikh-rabot-rossiyskaya-identichnost/",
           "published_date": null
         }
       ]
@@ -6097,7 +6821,8 @@
       "official_url": null,
       "confidence": 0.9,
       "field_flags": [
-        "organizer"
+        "organizer",
+        "format"
       ],
       "first_seen": "2026-07-15",
       "status": "past",
