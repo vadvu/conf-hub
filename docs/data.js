@@ -1,8 +1,8 @@
 window.CONF_DATA = {
   "version": "0.22.2",
-  "generated_at": "2026-10-17T04:59:50+00:00",
-  "crawled_at": "2026-10-17T04:57:20+00:00",
-  "today": "2026-10-17",
+  "generated_at": "2026-10-18T03:02:13+00:00",
+  "crawled_at": "2026-10-18T03:01:06+00:00",
+  "today": "2026-10-18",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -115,36 +115,6 @@ window.CONF_DATA = {
           "source": "spbu_events",
           "source_name": "СПбГУ",
           "url": "https://events.spbu.ru/slav_congress",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "aa9c7834fb41",
-      "title": "Неделя МО: конкурс студенческой аналитики",
-      "organizer": "кафедра прикладного анализа международных проблем",
-      "disciplines": [
-        "Политология и международные отношения (включая ГМУ)"
-      ],
-      "event_start": "2026-10-19",
-      "event_end": "2026-10-19",
-      "submission_deadline": "2026-10-19",
-      "location": null,
-      "format": "онлайн",
-      "official_url": null,
-      "confidence": 0.9,
-      "field_flags": [
-        "location",
-        "disciplines",
-        "format"
-      ],
-      "first_seen": "2026-10-17",
-      "status": "open",
-      "sources": [
-        {
-          "source": "mgimo_ann",
-          "source_name": "МГИМО",
-          "url": "https://mgimo.ru/about/news/announce/student-analytics-competition-mo-week-10-26/",
           "published_date": null
         }
       ]
@@ -536,6 +506,39 @@ window.CONF_DATA = {
           "source_name": "ЕУСПб",
           "url": "https://eusp.org/news/starit-priema-zayavok-konferenciya-zhizn-i-tekhnika-buduschego-issledovaniya-tekhnoutopiy",
           "published_date": "2026-09-10"
+        }
+      ]
+    },
+    {
+      "id": "c1c1a5645ce9",
+      "title": "Дни студенческой науки",
+      "organizer": "Университетский колледж МГИМО",
+      "disciplines": [
+        "Экономика и менеджмент",
+        "Право",
+        "Политология и международные отношения (включая ГМУ)",
+        "История и археология"
+      ],
+      "event_start": "2026-11-02",
+      "event_end": "2026-11-13",
+      "submission_deadline": "2026-10-26",
+      "location": "Одинцово",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "disciplines",
+        "submission_deadline"
+      ],
+      "first_seen": "2026-10-18",
+      "status": "open",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/science-days-college-2026/",
+          "published_date": null
         }
       ]
     },
@@ -1763,36 +1766,6 @@ window.CONF_DATA = {
       ]
     },
     {
-      "id": "4146aa99060d",
-      "title": "Три царства естества",
-      "organizer": "Отдел Фитонимическая группа",
-      "disciplines": [
-        "История и археология",
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-10-16",
-      "event_end": "2026-10-17",
-      "submission_deadline": "2026-07-15",
-      "location": "Санкт-Петербург",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.917,
-      "field_flags": [
-        "location",
-        "disciplines"
-      ],
-      "first_seen": "2026-07-18",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "iling_ras",
-          "source_name": "ИЛИ РАН",
-          "url": "https://iling.spb.ru/conferences/2026/4964",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "2b7a09c20013",
       "title": "VIII научно-практический семинар «Школа сербистики. Доминанты сербской культуры»",
       "organizer": "Филологический факультет Московского государственного университета имени М. В. Ломоносова, Институт лингвистических исследований РАН, Институт славяноведения РАН, филологический факультет Белградского университета, филологический факультет Банялукского университета и филологический факультет Нижегородского государственного университета им. Н.И. Лобачевского",
@@ -2760,37 +2733,6 @@ window.CONF_DATA = {
       ]
     },
     {
-      "id": "f25a771fd6c3",
-      "title": "Архивный воркшоп к столетию Мишеля Фуко: «Что остается после дискурса? Историческая экология (и сопротивление) архива»",
-      "organizer": "НИУ ВШЭ",
-      "disciplines": [
-        "Философия, этика, религиоведение"
-      ],
-      "event_start": "2026-10-17",
-      "event_end": "2026-10-17",
-      "submission_deadline": "2026-09-30",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "organizer",
-        "disciplines",
-        "official_url"
-      ],
-      "first_seen": "2026-10-17",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "hse_ann_sci",
-          "source_name": "НИУ ВШЭ",
-          "url": "https://hist.hse.ru/announcements/1194560986.html",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "13c4aea3e011",
       "title": "XVIII Мелетинские чтения",
       "organizer": "Институт высших гуманитарных исследований им. Е. М. Мелетинского РГГУ, Центр типологии и семиотики фольклора РГГУ",
@@ -3329,36 +3271,6 @@ window.CONF_DATA = {
           "source_name": "ЦенСИБ НИУ ВШЭ",
           "url": "https://lcsr.hse.ru/news/1186439389.html",
           "published_date": "2026-08-04"
-        }
-      ]
-    },
-    {
-      "id": "927c510667c0",
-      "title": "Россия и АСЕАН в АТР: динамика взаимодействия, региональные процессы и глобальный контекст",
-      "organizer": "МГИМО",
-      "disciplines": [
-        "Политология и международные отношения (включая ГМУ)"
-      ],
-      "event_start": "2026-10-15",
-      "event_end": "2026-10-17",
-      "submission_deadline": "2026-10-05",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "location",
-        "disciplines"
-      ],
-      "first_seen": "2026-09-26",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "mgimo_ann",
-          "source_name": "МГИМО",
-          "url": "https://mgimo.ru/about/news/announce/russia-asean-ap-10-26/",
-          "published_date": null
         }
       ]
     },
@@ -5598,6 +5510,36 @@ window.CONF_DATA = {
       ]
     },
     {
+      "id": "4146aa99060d",
+      "title": "Три царства естества",
+      "organizer": "Отдел Фитонимическая группа",
+      "disciplines": [
+        "История и археология",
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-10-16",
+      "event_end": "2026-10-17",
+      "submission_deadline": "2026-07-15",
+      "location": "Санкт-Петербург",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.917,
+      "field_flags": [
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-07-18",
+      "status": "past",
+      "sources": [
+        {
+          "source": "iling_ras",
+          "source_name": "ИЛИ РАН",
+          "url": "https://iling.spb.ru/conferences/2026/4964",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "7d34dd3c40dd",
       "title": "X Балтийская научно-практическая конференция BalticPetroModel-2026 Петрофизическое моделирование осадочных пород",
       "organizer": "Евро-Азиатское геофизическое общество, Институт физики Земли им. О. Ю. Шмидта Российской академии наук, Передовая инженерная школа СПбГУ",
@@ -6713,6 +6655,37 @@ window.CONF_DATA = {
       ]
     },
     {
+      "id": "f25a771fd6c3",
+      "title": "Архивный воркшоп к столетию Мишеля Фуко: «Что остается после дискурса? Историческая экология (и сопротивление) архива»",
+      "organizer": "НИУ ВШЭ",
+      "disciplines": [
+        "Философия, этика, религиоведение"
+      ],
+      "event_start": "2026-10-17",
+      "event_end": "2026-10-17",
+      "submission_deadline": "2026-09-30",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "organizer",
+        "disciplines",
+        "official_url"
+      ],
+      "first_seen": "2026-10-17",
+      "status": "past",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://hist.hse.ru/announcements/1194560986.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "a36ae6ef0652",
       "title": "Гидроминеральное сырьё нефтегазовых месторождений: технологии добычи и извлечения ценных компонентов",
       "organizer": "Санкт-Петербургский государственный университет",
@@ -6738,6 +6711,36 @@ window.CONF_DATA = {
           "source": "spbu_events",
           "source_name": "СПбГУ",
           "url": "https://events.spbu.ru/hydromin",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "927c510667c0",
+      "title": "Россия и АСЕАН в АТР: динамика взаимодействия, региональные процессы и глобальный контекст",
+      "organizer": "МГИМО",
+      "disciplines": [
+        "Политология и международные отношения (включая ГМУ)"
+      ],
+      "event_start": "2026-10-15",
+      "event_end": "2026-10-17",
+      "submission_deadline": "2026-10-05",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-09-26",
+      "status": "past",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/russia-asean-ap-10-26/",
           "published_date": null
         }
       ]
