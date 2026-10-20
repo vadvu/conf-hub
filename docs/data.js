@@ -1,6 +1,6 @@
 window.CONF_DATA = {
   "version": "0.22.3",
-  "generated_at": "2026-10-20T03:04:58+00:00",
+  "generated_at": "2026-10-20T07:53:49+00:00",
   "crawled_at": "2026-10-20T03:02:05+00:00",
   "today": "2026-10-20",
   "sources_info": [
@@ -237,34 +237,6 @@ window.CONF_DATA = {
           "source_name": "НИУ ВШЭ (Пермь)",
           "url": "https://perm.hse.ru/creativ/industrialculture/announcements/1167909302.html",
           "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "889f490c8644",
-      "title": "Конкурс на участие в научных мероприятиях для обучающихся ЕУСПб",
-      "organizer": "Комиссия по научному планированию",
-      "disciplines": [],
-      "event_start": null,
-      "event_end": null,
-      "submission_deadline": "2026-10-21",
-      "location": null,
-      "format": null,
-      "official_url": null,
-      "confidence": 0.7,
-      "field_flags": [
-        "organizer",
-        "event_end",
-        "submission_deadline"
-      ],
-      "first_seen": "2026-10-17",
-      "status": "open",
-      "sources": [
-        {
-          "source": "eusp",
-          "source_name": "ЕУСПб",
-          "url": "https://eusp.org/news/strat-priema-zayavok-konkurs-na-uchastie-v-nauchnykh-meropriyatiyakh-dlya-obuchayuschikhsya-euspb",
-          "published_date": "2026-09-21"
         }
       ]
     },
@@ -1417,35 +1389,6 @@ window.CONF_DATA = {
           "source_name": "СПбГУ",
           "url": "https://events.spbu.ru/konferenciya-molodyh-uchenyh-lingvistov",
           "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "b54af607c569",
-      "title": "Конкурс на лучшую студенческую работу по истории обороны и блокады Ленинграда",
-      "organizer": "Центр изучения культурной памяти и символической политики; Факультет истории Европейского университета в Санкт-Петербурге и Фонд поддержки изучения истории блокады Ленинграда",
-      "disciplines": [
-        "История и археология"
-      ],
-      "event_start": null,
-      "event_end": null,
-      "submission_deadline": "2026-12-01",
-      "location": "Санкт-Петербург",
-      "format": "онлайн",
-      "official_url": null,
-      "confidence": 0.917,
-      "field_flags": [
-        "organizer",
-        "format"
-      ],
-      "first_seen": "2026-10-17",
-      "status": "open",
-      "sources": [
-        {
-          "source": "eusp",
-          "source_name": "ЕУСПб",
-          "url": "https://eusp.org/news/start-priema-zayavok-konkurs-na-luchshuyu-studencheskuyu-rabotu-po-istorii-oborony-i-blokady-leningrada-0",
-          "published_date": "2026-09-16"
         }
       ]
     },
@@ -2767,40 +2710,6 @@ window.CONF_DATA = {
       ]
     },
     {
-      "id": "abbb297dfde8",
-      "title": "Третий сезон конкурса «Учитель МГИМО»",
-      "organizer": "Одинцовский филиал МГИМО (на базе Горчаковского лицея)",
-      "disciplines": [
-        "Математика",
-        "Физика",
-        "Химия"
-      ],
-      "event_start": "2026-12-09",
-      "event_end": "2026-12-10",
-      "submission_deadline": "2026-09-24",
-      "location": "Москва, Одинцово",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "location",
-        "disciplines",
-        "event_start",
-        "format"
-      ],
-      "first_seen": "2026-10-17",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "mgimo_ann",
-          "source_name": "МГИМО",
-          "url": "https://mgimo.ru/about/news/announce/teacheraward-2026/",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "0a4af65a0428",
       "title": "II Всероссийская научно-практическая конференция «Актуальные вопросы применения законодательства о наследовании»",
       "organizer": "Департамент частного права НИУ ВШЭ",
@@ -3004,36 +2913,6 @@ window.CONF_DATA = {
           "source": "msu_events",
           "source_name": "МГУ",
           "url": "https://conf.msu.ru/rus/event/10383/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "f9ddffeb3245",
-      "title": "Конкурс научных публикаций молодых учёных «Моя первая монография»",
-      "organizer": "Совет молодых учёных РГГУ",
-      "disciplines": [
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-10-02",
-      "event_end": "2026-11-01",
-      "submission_deadline": "2026-10-01",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.917,
-      "field_flags": [
-        "title",
-        "location",
-        "disciplines"
-      ],
-      "first_seen": "2026-10-17",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "rsuh",
-          "source_name": "РГГУ",
-          "url": "https://www.rsuh.ru/anons/konkurs-moya-pervaya-monografiya-otkryt-priyem-zayavok/",
           "published_date": null
         }
       ]
@@ -7071,40 +6950,6 @@ window.CONF_DATA = {
           "source": "inion",
           "source_name": "ИНИОН РАН",
           "url": "https://inion.ru/ru/about/news/nauchno-prakticheskii-kruglyi-stol-na-temu-netraditcionnye-ugrozy-bezopasnosti-v-stranakh-zapada-informatcionnoe-pis-mo/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "6af073230d7e",
-      "title": "Конкурс научно-исследовательских работ «Российская идентичность»",
-      "organizer": "Институт гражданской идентичности",
-      "disciplines": [
-        "Психология",
-        "Социология (включая демографию и антропологию)",
-        "История и археология"
-      ],
-      "event_start": "2026-10-15",
-      "event_end": "2026-10-15",
-      "submission_deadline": "2026-10-15",
-      "location": null,
-      "format": "онлайн",
-      "official_url": "https://identitas.ru/nir",
-      "confidence": 0.917,
-      "field_flags": [
-        "title",
-        "location",
-        "disciplines",
-        "event_start",
-        "event_end"
-      ],
-      "first_seen": "2026-10-17",
-      "status": "past",
-      "sources": [
-        {
-          "source": "tsu",
-          "source_name": "ТГУ",
-          "url": "https://news.tsu.ru/calendar-of-events/do-15-oktyabrya-priem-zayavok-na-konkurs-nauchno-issledovatelskikh-rabot-rossiyskaya-identichnost/",
           "published_date": null
         }
       ]
