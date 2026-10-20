@@ -1,6 +1,6 @@
 window.CONF_DATA = {
   "version": "0.22.3",
-  "generated_at": "2026-10-20T07:53:49+00:00",
+  "generated_at": "2026-10-20T07:59:21+00:00",
   "crawled_at": "2026-10-20T03:02:05+00:00",
   "today": "2026-10-20",
   "sources_info": [
@@ -357,36 +357,6 @@ window.CONF_DATA = {
           "source_name": "НИУ ВШЭ (конференции)",
           "url": "https://urban.hse.ru/canorus/iac_conference_2026",
           "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "c57b3fee26e2",
-      "title": "Всероссийские студенческие киберучения",
-      "organizer": "Уральский федеральный университет",
-      "disciplines": [
-        "Компьютерные науки"
-      ],
-      "event_start": "2026-11-26",
-      "event_end": "2026-11-27",
-      "submission_deadline": "2026-10-25",
-      "location": "Екатеринбург",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "location",
-        "disciplines"
-      ],
-      "first_seen": "2026-10-17",
-      "status": "open",
-      "sources": [
-        {
-          "source": "urfu",
-          "source_name": "УрФУ",
-          "url": "https://urfu.ru/ru/news/60325/",
-          "published_date": "2026-10-14"
         }
       ]
     },
@@ -1481,33 +1451,6 @@ window.CONF_DATA = {
           "source_name": "РАН",
           "url": "https://new.ras.ru/press-center/events-additional/khvii-mezhdunarodnaya-konferentsiya-afrika-vosstanovlenie-istoricheskoy-spravedlivosti-i-dostizhenie/",
           "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "a3291f59d5a2",
-      "title": "Премия имени Бориса Максимовича Фирсова",
-      "organizer": "Европейский университет",
-      "disciplines": [],
-      "event_start": null,
-      "event_end": null,
-      "submission_deadline": "2027-02-15",
-      "location": null,
-      "format": null,
-      "official_url": null,
-      "confidence": 0.767,
-      "field_flags": [
-        "organizer",
-        "disciplines"
-      ],
-      "first_seen": "2026-10-17",
-      "status": "open",
-      "sources": [
-        {
-          "source": "eusp",
-          "source_name": "ЕУСПб",
-          "url": "https://eusp.org/news/start-priema-zayavok-premiya-imeni-borisa-maksimovicha-firsova-0",
-          "published_date": "2026-09-30"
         }
       ]
     },
@@ -2798,34 +2741,6 @@ window.CONF_DATA = {
       ]
     },
     {
-      "id": "020fad98e0fb",
-      "title": "Лаборатория ИИ-педагогики для преподавателей вузов",
-      "organizer": "Яндекс Образование",
-      "disciplines": [
-        "Образование"
-      ],
-      "event_start": "2026-10-27",
-      "event_end": "2026-10-27",
-      "submission_deadline": "2026-09-28",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": "https://forms.yandex.ru/cloud/65d4991643f74f394eecbef2/",
-      "confidence": 0.967,
-      "field_flags": [
-        "disciplines"
-      ],
-      "first_seen": "2026-09-24",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "tsu",
-          "source_name": "ТГУ",
-          "url": "https://news.tsu.ru/calendar-of-events/27-oktyabrya-laboratoriya-ii-pedagogiki-dlya-prepodavateley-vuzov/",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "13c4aea3e011",
       "title": "XVIII Мелетинские чтения",
       "organizer": "Институт высших гуманитарных исследований им. Е. М. Мелетинского РГГУ, Центр типологии и семиотики фольклора РГГУ",
@@ -3233,35 +3148,6 @@ window.CONF_DATA = {
           "source": "rsuh",
           "source_name": "РГГУ",
           "url": "https://www.rsuh.ru/anons/v-rggu-obsudyat-istochnikovedcheskie-podkhody-k-izucheniyu-istorii-povsednevnosti/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "848dfbaf5559",
-      "title": "Модель Полномочной конференции Международного союза электросвязи",
-      "organizer": "Центр искусственного интеллекта МГИМО совместно с магистратурой «Искусственный интеллект» МГИМО–МФТИ",
-      "disciplines": [
-        "Электроника и электротехника"
-      ],
-      "event_start": "2026-10-26",
-      "event_end": "2026-10-28",
-      "submission_deadline": "2026-10-04",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": "itumodel.mgimo.ru",
-      "confidence": 0.933,
-      "field_flags": [
-        "disciplines",
-        "official_url"
-      ],
-      "first_seen": "2026-09-25",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "mgimo_ann",
-          "source_name": "МГИМО",
-          "url": "https://mgimo.ru/about/news/announce/itu-model-10-26/",
           "published_date": null
         }
       ]
