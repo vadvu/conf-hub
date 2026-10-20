@@ -1,7 +1,7 @@
 {
   "version": "0.22.3",
-  "generated_at": "2026-10-20T07:59:21+00:00",
-  "crawled_at": "2026-10-20T03:02:05+00:00",
+  "generated_at": "2026-10-20T19:19:02+00:00",
+  "crawled_at": "2026-10-20T19:14:02+00:00",
   "today": "2026-10-20",
   "sources_info": [
     {
@@ -1124,6 +1124,37 @@
       ]
     },
     {
+      "id": "3b82184edb6f",
+      "title": "Философия в XXI веке: новые стратегии философского поиска",
+      "organizer": "Совет молодых ученых философского факультета МГУ имени М.В. Ломоносова",
+      "disciplines": [
+        "Философия, этика, религиоведение"
+      ],
+      "event_start": "2026-12-07",
+      "event_end": "2026-12-11",
+      "submission_deadline": "2026-11-15",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": "https://vk.com/smu_xxi",
+      "confidence": 0.933,
+      "field_flags": [
+        "location",
+        "disciplines",
+        "format",
+        "official_url"
+      ],
+      "first_seen": "2026-10-20",
+      "status": "open",
+      "sources": [
+        {
+          "source": "msu_events",
+          "source_name": "МГУ",
+          "url": "https://conf.msu.ru/rus/event/10747/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "741dfae67455",
       "title": "Горизонты нанофотоники",
       "organizer": "МФТИ",
@@ -1149,6 +1180,35 @@
           "source_name": "МФТИ",
           "url": "https://mipt.ru/institute/events/konferentsiya-gorizonty-nanofotoniki-2026",
           "published_date": "2026-07-27"
+        }
+      ]
+    },
+    {
+      "id": "becef2ea336f",
+      "title": "Всероссийская научная конференция «Н.М. Карамзин и русская литература»",
+      "organizer": "Филологический факультет МГУ имени М.В. Ломоносова и кафедра истории русской литературы",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-12-23",
+      "event_end": "2026-12-23",
+      "submission_deadline": "2026-11-15",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": "https://forms.yandex.ru/u/6ac922009029028116c43a4c",
+      "confidence": 0.95,
+      "field_flags": [
+        "organizer",
+        "disciplines"
+      ],
+      "first_seen": "2026-10-20",
+      "status": "open",
+      "sources": [
+        {
+          "source": "msu_events",
+          "source_name": "МГУ",
+          "url": "https://conf.msu.ru/rus/event/10748/",
+          "published_date": null
         }
       ]
     },
@@ -1450,6 +1510,37 @@
           "source": "ras_events",
           "source_name": "РАН",
           "url": "https://new.ras.ru/press-center/events-additional/khvii-mezhdunarodnaya-konferentsiya-afrika-vosstanovlenie-istoricheskoy-spravedlivosti-i-dostizhenie/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "089e0b2d7b9c",
+      "title": "XXI Международная научная конференция «Сорокинские чтения»: «Традиции в современности: социологические перспективы изучения ценностных основ российского общества»",
+      "organizer": "Московский государственный университет имени М.В. Ломоносова, Социологический факультет, Кафедра современной социологии МГУ имени М.В. Ломоносова",
+      "disciplines": [
+        "Социология (включая демографию и антропологию)"
+      ],
+      "event_start": "2027-02-18",
+      "event_end": "2027-02-18",
+      "submission_deadline": "2027-01-30",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "organizer",
+        "location",
+        "format"
+      ],
+      "first_seen": "2026-10-20",
+      "status": "open",
+      "sources": [
+        {
+          "source": "msu_events",
+          "source_name": "МГУ",
+          "url": "https://conf.msu.ru/rus/event/10753/",
           "published_date": null
         }
       ]
@@ -2894,6 +2985,37 @@
       ]
     },
     {
+      "id": "85f31a19c394",
+      "title": "IX Международная научно-практическая конференция «Актуальные проблемы экранных и интерактивных медиа. Трансформация языка аудиовизуальных медиа»",
+      "organizer": "Московский государственный университет имени М.В. Ломоносова",
+      "disciplines": [
+        "Медиа и коммуникации",
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-10-23",
+      "event_end": "2026-10-24",
+      "submission_deadline": "2026-10-01",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "organizer",
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-10-20",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "msu_events",
+          "source_name": "МГУ",
+          "url": "https://conf.msu.ru/rus/event/10635/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "05eec17a5694",
       "title": "Международный межвузовский цифровой триатлон",
       "organizer": "МГИМО",
@@ -3281,6 +3403,37 @@
           "source": "rsuh",
           "source_name": "РГГУ",
           "url": "https://www.rsuh.ru/anons/ix-finatlon-forum-professionaly-budushchego/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "3526eb60d496",
+      "title": "Феномен М. Ю. Лермонтова",
+      "organizer": "Московский государственный университет имени М.В.Ломоносова, Филологический факультет, Кафедра истории русской литературы, Московское лермонтовское общество",
+      "disciplines": [
+        "История и археология",
+        "Филология и лингвистика",
+        "Искусствоведение"
+      ],
+      "event_start": "2026-10-23",
+      "event_end": "2026-10-24",
+      "submission_deadline": "2026-10-10",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": "https://forms.gle/djDW8tWsjDcdHibt7",
+      "confidence": 0.967,
+      "field_flags": [
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-10-20",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "msu_events",
+          "source_name": "МГУ",
+          "url": "https://conf.msu.ru/rus/event/10751/",
           "published_date": null
         }
       ]
