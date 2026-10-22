@@ -1,8 +1,8 @@
 {
   "version": "0.22.4",
-  "generated_at": "2026-10-21T03:01:06+00:00",
-  "crawled_at": "2026-10-21T03:00:51+00:00",
-  "today": "2026-10-21",
+  "generated_at": "2026-10-22T03:02:57+00:00",
+  "crawled_at": "2026-10-22T03:01:53+00:00",
+  "today": "2026-10-22",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -355,37 +355,6 @@
           "source": "perm_ann_sci",
           "source_name": "НИУ ВШЭ (Пермь)",
           "url": "https://perm.hse.ru/announcements/1198710772.html",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "2b2802c87f80",
-      "title": "Хакатон «Современная визуальная аналитика на Luxms BI»",
-      "organizer": "СПбГУ",
-      "disciplines": [
-        "Компьютерные науки",
-        "Экономика и менеджмент"
-      ],
-      "event_start": "2026-11-12",
-      "event_end": "2026-11-12",
-      "submission_deadline": "2026-10-31",
-      "location": "Санкт-Петербург",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "organizer",
-        "disciplines",
-        "official_url"
-      ],
-      "first_seen": "2026-10-20",
-      "status": "open",
-      "sources": [
-        {
-          "source": "spbu_events",
-          "source_name": "СПбГУ",
-          "url": "https://events.spbu.ru/luxms_hack",
           "published_date": null
         }
       ]
@@ -1808,36 +1777,6 @@
           "source_name": "ИЭА РАН",
           "url": "https://iea-ras.ru/?p=22297",
           "published_date": "2026-08-18"
-        }
-      ]
-    },
-    {
-      "id": "2b7a09c20013",
-      "title": "VIII научно-практический семинар «Школа сербистики. Доминанты сербской культуры»",
-      "organizer": "Филологический факультет Московского государственного университета имени М. В. Ломоносова, Институт лингвистических исследований РАН, Институт славяноведения РАН, филологический факультет Белградского университета, филологический факультет Банялукского университета и филологический факультет Нижегородского государственного университета им. Н.И. Лобачевского",
-      "disciplines": [
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-10-19",
-      "event_end": "2026-10-21",
-      "submission_deadline": "2026-08-02",
-      "location": "Нижний Новгород",
-      "format": "очно",
-      "official_url": "https://serb.philol.msu.ru/",
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "disciplines",
-        "official_url"
-      ],
-      "first_seen": "2026-10-17",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "iling_ras",
-          "source_name": "ИЛИ РАН",
-          "url": "https://iling.spb.ru/conferences/2026/5107",
-          "published_date": null
         }
       ]
     },
@@ -5890,6 +5829,36 @@
           "source": "ion_ranepa",
           "source_name": "ИОН РАНХиГС",
           "url": "https://ion.ranepa.ru/announcement/10-oktyabrya-proydyet-studencheskaya-konferentsiya-prava-originala-i-prava-perevodchika-chto-perevod/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "2b7a09c20013",
+      "title": "VIII научно-практический семинар «Школа сербистики. Доминанты сербской культуры»",
+      "organizer": "Филологический факультет Московского государственного университета имени М. В. Ломоносова, Институт лингвистических исследований РАН, Институт славяноведения РАН, филологический факультет Белградского университета, филологический факультет Банялукского университета и филологический факультет Нижегородского государственного университета им. Н.И. Лобачевского",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-10-19",
+      "event_end": "2026-10-21",
+      "submission_deadline": "2026-08-02",
+      "location": "Нижний Новгород",
+      "format": "очно",
+      "official_url": "https://serb.philol.msu.ru/",
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "disciplines",
+        "official_url"
+      ],
+      "first_seen": "2026-10-17",
+      "status": "past",
+      "sources": [
+        {
+          "source": "iling_ras",
+          "source_name": "ИЛИ РАН",
+          "url": "https://iling.spb.ru/conferences/2026/5107",
           "published_date": null
         }
       ]
