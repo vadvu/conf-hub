@@ -1,6 +1,6 @@
 window.CONF_DATA = {
   "version": "0.22.4",
-  "generated_at": "2026-10-23T03:08:16+00:00",
+  "generated_at": "2026-10-23T15:20:38+00:00",
   "crawled_at": "2026-10-23T03:04:43+00:00",
   "today": "2026-10-23",
   "sources_info": [
@@ -1363,38 +1363,6 @@ window.CONF_DATA = {
           "source": "spbu_events",
           "source_name": "СПбГУ",
           "url": "https://events.spbu.ru/molodezhnaya-arkticheskaya-nauchnaya-sessiya",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "f52fd98c295b",
-      "title": "Всероссийский конкурс лучших практик сохранения исторической памяти",
-      "organizer": "Министерство науки и высшего образования Российской Федерации",
-      "disciplines": [
-        "История и археология"
-      ],
-      "event_start": "2026-12-12",
-      "event_end": "2026-12-26",
-      "submission_deadline": "2026-12-12",
-      "location": "Онлайн",
-      "format": "онлайн",
-      "official_url": "https://forms.yandex.ru/u/6ababff26d2d735142253e4b",
-      "confidence": 0.967,
-      "field_flags": [
-        "organizer",
-        "location",
-        "disciplines",
-        "event_start",
-        "event_end"
-      ],
-      "first_seen": "2026-10-23",
-      "status": "open",
-      "sources": [
-        {
-          "source": "tsu",
-          "source_name": "ТГУ",
-          "url": "https://news.tsu.ru/calendar-of-events/studentov-priglashayut-na-konkurs-luchshikh-praktik-sokhraneniya-istoricheskoy-pamyati/",
           "published_date": null
         }
       ]
