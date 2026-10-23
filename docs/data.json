@@ -1,8 +1,8 @@
 {
   "version": "0.22.4",
-  "generated_at": "2026-10-22T03:02:57+00:00",
-  "crawled_at": "2026-10-22T03:01:53+00:00",
-  "today": "2026-10-22",
+  "generated_at": "2026-10-23T03:08:16+00:00",
+  "crawled_at": "2026-10-23T03:04:43+00:00",
+  "today": "2026-10-23",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -1304,6 +1304,39 @@
       ]
     },
     {
+      "id": "153fb4ed3524",
+      "title": "Студенческая научно-практическая конференция им. Л.Л. Любимова",
+      "organizer": "НИУ ВШЭ – Пермь",
+      "disciplines": [
+        "Экономика и менеджмент",
+        "Право",
+        "История и археология",
+        "Филология и лингвистика"
+      ],
+      "event_start": "2027-01-25",
+      "event_end": "2027-01-25",
+      "submission_deadline": "2026-12-01",
+      "location": "Пермь",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines",
+        "format",
+        "official_url"
+      ],
+      "first_seen": "2026-10-23",
+      "status": "open",
+      "sources": [
+        {
+          "source": "perm_ann_sci",
+          "source_name": "НИУ ВШЭ (Пермь)",
+          "url": "https://perm.hse.ru/lyubimov/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "cca808c46c72",
       "title": "Молодежная Арктическая научная сессия",
       "organizer": "Санкт-Петербургский государственный университет",
@@ -1330,6 +1363,38 @@
           "source": "spbu_events",
           "source_name": "СПбГУ",
           "url": "https://events.spbu.ru/molodezhnaya-arkticheskaya-nauchnaya-sessiya",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "f52fd98c295b",
+      "title": "Всероссийский конкурс лучших практик сохранения исторической памяти",
+      "organizer": "Министерство науки и высшего образования Российской Федерации",
+      "disciplines": [
+        "История и археология"
+      ],
+      "event_start": "2026-12-12",
+      "event_end": "2026-12-26",
+      "submission_deadline": "2026-12-12",
+      "location": "Онлайн",
+      "format": "онлайн",
+      "official_url": "https://forms.yandex.ru/u/6ababff26d2d735142253e4b",
+      "confidence": 0.967,
+      "field_flags": [
+        "organizer",
+        "location",
+        "disciplines",
+        "event_start",
+        "event_end"
+      ],
+      "first_seen": "2026-10-23",
+      "status": "open",
+      "sources": [
+        {
+          "source": "tsu",
+          "source_name": "ТГУ",
+          "url": "https://news.tsu.ru/calendar-of-events/studentov-priglashayut-na-konkurs-luchshikh-praktik-sokhraneniya-istoricheskoy-pamyati/",
           "published_date": null
         }
       ]
@@ -1674,36 +1739,6 @@
           "source_name": "НИУ ВШЭ",
           "url": "https://educonf.hse.ru/2026/",
           "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "a805e101cbde",
-      "title": "IX Школа-конференция молодых ученых «Прохоровские недели»",
-      "organizer": "Институт общей физики им. А. М. Прохорова Российской академии наук",
-      "disciplines": [
-        "Физика"
-      ],
-      "event_start": "2026-10-20",
-      "event_end": "2026-10-22",
-      "submission_deadline": "2026-06-17",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.917,
-      "field_flags": [
-        "location",
-        "disciplines",
-        "format"
-      ],
-      "first_seen": "2026-07-14",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "mipt_events",
-          "source_name": "МФТИ",
-          "url": "https://mipt.ru/institute/events/priem-tezisov-na-ix-shkolu-konferentsiyu-molodykh-uchenykh-prokhorovskie-nedeli",
-          "published_date": "2026-06-12"
         }
       ]
     },
@@ -3321,36 +3356,6 @@
           "source": "msu_events",
           "source_name": "МГУ",
           "url": "https://conf.msu.ru/rus/event/10574/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "5abc0fc780e3",
-      "title": "VI Международная научно-практическая конференция «Лингвокультурные аспекты глобализационных процессов: Cтолкновение и взаимопроникновение культурных кодов»",
-      "organizer": "ИНИОН РАН",
-      "disciplines": [
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-10-22",
-      "event_end": "2026-10-22",
-      "submission_deadline": "2026-10-15",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "disciplines",
-        "official_url"
-      ],
-      "first_seen": "2026-10-08",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "inion",
-          "source_name": "ИНИОН РАН",
-          "url": "https://inion.ru/ru/about/news/vi-mezhdunarodnaia-nauchno-prakticheskaia-konferentciia-lingvokul-turnye-aspekty-globalizatcionnykh-protcessov-ctolknovenie-i/",
           "published_date": null
         }
       ]
@@ -5253,6 +5258,36 @@
       ]
     },
     {
+      "id": "a805e101cbde",
+      "title": "IX Школа-конференция молодых ученых «Прохоровские недели»",
+      "organizer": "Институт общей физики им. А. М. Прохорова Российской академии наук",
+      "disciplines": [
+        "Физика"
+      ],
+      "event_start": "2026-10-20",
+      "event_end": "2026-10-22",
+      "submission_deadline": "2026-06-17",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.917,
+      "field_flags": [
+        "location",
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-07-14",
+      "status": "past",
+      "sources": [
+        {
+          "source": "mipt_events",
+          "source_name": "МФТИ",
+          "url": "https://mipt.ru/institute/events/priem-tezisov-na-ix-shkolu-konferentsiyu-molodykh-uchenykh-prokhorovskie-nedeli",
+          "published_date": "2026-06-12"
+        }
+      ]
+    },
+    {
       "id": "2ede7706b98e",
       "title": "XXIV Славистические чтения памяти профессора П. А. Дмитриева и профессора Г. И. Сафронова",
       "organizer": "Санкт-Петербургский государственный университет",
@@ -7029,6 +7064,36 @@
           "source": "spbu_events",
           "source_name": "СПбГУ",
           "url": "https://events.spbu.ru/peterburgskij-seminar-po-analiticheskoj-himii",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "5abc0fc780e3",
+      "title": "VI Международная научно-практическая конференция «Лингвокультурные аспекты глобализационных процессов: Cтолкновение и взаимопроникновение культурных кодов»",
+      "organizer": "ИНИОН РАН",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-10-22",
+      "event_end": "2026-10-22",
+      "submission_deadline": "2026-10-15",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "disciplines",
+        "official_url"
+      ],
+      "first_seen": "2026-10-08",
+      "status": "past",
+      "sources": [
+        {
+          "source": "inion",
+          "source_name": "ИНИОН РАН",
+          "url": "https://inion.ru/ru/about/news/vi-mezhdunarodnaia-nauchno-prakticheskaia-konferentciia-lingvokul-turnye-aspekty-globalizatcionnykh-protcessov-ctolknovenie-i/",
           "published_date": null
         }
       ]
