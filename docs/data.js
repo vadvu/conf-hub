@@ -1,6 +1,6 @@
 window.CONF_DATA = {
   "version": "0.23.0",
-  "generated_at": "2026-10-24T10:45:46+00:00",
+  "generated_at": "2026-10-24T11:21:23+00:00",
   "crawled_at": "2026-10-24T03:04:19+00:00",
   "today": "2026-10-24",
   "sources_info": [
@@ -507,6 +507,36 @@ window.CONF_DATA = {
           "source": "socinst",
           "source_name": "Социологический институт РАН",
           "url": "https://socinst.ru/conferences/errors2026/#files",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "1f81097a9a33",
+      "title": "Журналистика XXI века: Общественный долг",
+      "organizer": "Институт «Высшая школа журналистики и массовых коммуникаций» СПбГУ",
+      "disciplines": [
+        "Медиа и коммуникации"
+      ],
+      "event_start": "2026-11-20",
+      "event_end": "2026-11-21",
+      "submission_deadline": "2026-11-01",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": "https://j21.tb.ru/",
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines",
+        "format",
+        "official_url"
+      ],
+      "first_seen": "2026-10-24",
+      "status": "open",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/journ_duty",
           "published_date": null
         }
       ]
@@ -2532,6 +2562,35 @@ window.CONF_DATA = {
           "source": "msu_events",
           "source_name": "МГУ",
           "url": "https://conf.msu.ru/rus/event/10521/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "83f14bb2f787",
+      "title": "Управление образованием на основе данных. В поисках точки опоры",
+      "organizer": "Санкт-Петербургский государственный университет, Институт педагогики СПбГУ, Санкт-Петербургский центр оценки качества образования и информационных технологий (СПбЦОКОиИТ)",
+      "disciplines": [
+        "Образование"
+      ],
+      "event_start": "2026-10-30",
+      "event_end": "2026-10-30",
+      "submission_deadline": "2026-09-29",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "format"
+      ],
+      "first_seen": "2026-10-24",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/tochka-opory",
           "published_date": null
         }
       ]
