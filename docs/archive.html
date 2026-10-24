@@ -63,6 +63,21 @@
       Сайт автоматически собирает новости и анонсы с сайтов российских вузов.
       Среди них отбираются только те, которые содержат объявления о будущих конференциях: 
       это делается через первичный фильтр, а далее через (мажоритарное) голосование трех open-source LLM:
+      <a href="https://ollama.com/library/gemma4:12b"
+         target="_blank"
+         rel="noopener noreferrer">Gemma 4 12B</a>,
+      <a href="https://ollama.com/library/qwen3.5:9b"
+         target="_blank"
+         rel="noopener noreferrer">Qwen3.5-9B</a>
+      и
+      <a href="https://ollama.com/library/clef-flash"
+         target="_blank"
+         rel="noopener noreferrer">Clef-Flash</a>.
+    </p>
+    
+    <p>
+      После этого среди отобранных новостей о конференциях извлекаются ключевые поля: даты проведения, дедлайн подачи заявки и прочее.
+      Это делает другая тройка моделей:
       <a href="https://ollama.com/library/qwen3:8b"
          target="_blank"
          rel="noopener noreferrer">Qwen3-8B</a>,
@@ -72,11 +87,7 @@
       и
       <a href="https://ollama.com/library/mistral-nemo:12b"
          target="_blank"
-         rel="noopener noreferrer">Mistral NeMo 12B</a>.
-    </p>
-    
-    <p>
-      После этого среди отобранных новостей о конференциях извлекаются ключевые поля: даты проведения, дедлайн подачи заявки и прочее. 
+         rel="noopener noreferrer">Mistral NeMo 12B</a>. 
       Каждому мероприятию присваивается уникальный номер (тыкните на 🔗 после названия, чтобы получить уникальную ссылку на карточку),
       а также научное направление на основе рубрикатора OECD, немного переосмысленного Вышкой (см. 
       <a href="https://www.hse.ru/science/scifund/klass_new"
