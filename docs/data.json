@@ -1,8 +1,8 @@
 {
   "version": "0.23.0",
-  "generated_at": "2026-10-24T11:21:23+00:00",
-  "crawled_at": "2026-10-24T03:04:19+00:00",
-  "today": "2026-10-24",
+  "generated_at": "2026-10-25T03:03:37+00:00",
+  "crawled_at": "2026-10-25T03:02:54+00:00",
+  "today": "2026-10-25",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -355,6 +355,35 @@
           "source": "perm_ann_sci",
           "source_name": "НИУ ВШЭ (Пермь)",
           "url": "https://perm.hse.ru/announcements/1198710772.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "ba4aff43e3b6",
+      "title": "Индия: диалог между цивилизацией и возможностями. Экономические успехи XXI века",
+      "organizer": "Экономический клуб Oeconomicus им. А.В.Макаренко",
+      "disciplines": [
+        "Экономика и менеджмент"
+      ],
+      "event_start": "2026-11-06",
+      "event_end": "2026-11-06",
+      "submission_deadline": "2026-10-28",
+      "location": "Не указан",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.917,
+      "field_flags": [
+        "location",
+        "format"
+      ],
+      "first_seen": "2026-10-25",
+      "status": "open",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/india-conf/",
           "published_date": null
         }
       ]
@@ -2385,63 +2414,6 @@
       ]
     },
     {
-      "id": "03afa6bb2b03",
-      "title": "XXXVII международная научно-практическая конференция по методике преподавания японского языка «Японский язык в вузе: актуальные проблемы преподавания»",
-      "organizer": "Московский государственный университет имени М.В.Ломоносова, Институт стран Азии и Африки, Кафедра японской филологии Институт научной информации по общественным наукам РАН",
-      "disciplines": [
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-10-22",
-      "event_end": "2026-10-24",
-      "submission_deadline": "2026-09-20",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": "https://forms.gle/sUUUEP4b1cEG4ap79",
-      "confidence": 0.983,
-      "field_flags": [
-        "title",
-        "organizer",
-        "location",
-        "format"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "msu_events",
-          "source_name": "МГУ",
-          "url": "https://conf.msu.ru/rus/event/10587/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "91d566b0f491",
-      "title": "VII Международная научная конференция «Русский язык XIX в.: слово и текст»",
-      "organizer": "Группа «Словаря русского языка XIX в.» Института лингвистических исследований Российской академии наук",
-      "disciplines": [
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-10-23",
-      "event_end": "2026-10-24",
-      "submission_deadline": "2026-09-20",
-      "location": "Санкт-Петербург",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [],
-      "first_seen": "2026-07-23",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "iling_ras",
-          "source_name": "ИЛИ РАН",
-          "url": "https://iling.spb.ru/conferences/2026/5002",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "bd3a9efac058",
       "title": "Конференция по визуальным исследованиям истории и теории фотографии «После (пост)фотографии»",
       "organizer": "Школа искусств и культурного наследия ЕУ",
@@ -2624,37 +2596,6 @@
           "source": "msu_events",
           "source_name": "МГУ",
           "url": "https://conf.msu.ru/rus/event/10383/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "85f31a19c394",
-      "title": "IX Международная научно-практическая конференция «Актуальные проблемы экранных и интерактивных медиа. Трансформация языка аудиовизуальных медиа»",
-      "organizer": "Московский государственный университет имени М.В. Ломоносова",
-      "disciplines": [
-        "Медиа и коммуникации",
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-10-23",
-      "event_end": "2026-10-24",
-      "submission_deadline": "2026-10-01",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "organizer",
-        "location",
-        "disciplines"
-      ],
-      "first_seen": "2026-10-20",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "msu_events",
-          "source_name": "МГУ",
-          "url": "https://conf.msu.ru/rus/event/10635/",
           "published_date": null
         }
       ]
@@ -2967,37 +2908,6 @@
       ]
     },
     {
-      "id": "3526eb60d496",
-      "title": "Феномен М. Ю. Лермонтова",
-      "organizer": "Московский государственный университет имени М.В.Ломоносова, Филологический факультет, Кафедра истории русской литературы, Московское лермонтовское общество",
-      "disciplines": [
-        "История и археология",
-        "Филология и лингвистика",
-        "Искусствоведение"
-      ],
-      "event_start": "2026-10-23",
-      "event_end": "2026-10-24",
-      "submission_deadline": "2026-10-10",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": "https://forms.gle/djDW8tWsjDcdHibt7",
-      "confidence": 0.967,
-      "field_flags": [
-        "location",
-        "disciplines"
-      ],
-      "first_seen": "2026-10-20",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "msu_events",
-          "source_name": "МГУ",
-          "url": "https://conf.msu.ru/rus/event/10751/",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "6eaf52fb77cc",
       "title": "Международная научно-практическая конференция Gesamtkunstwerk в художественных практиках XIX–XXI веков",
       "organizer": "Государственный институт искусствознания, Московская государственная консерватория им. П.И. Чайковского, Российская академия музыки им. Гнесиных, Российский институт театрального искусства — ГИТИС",
@@ -3086,37 +2996,6 @@
           "source": "msu_events",
           "source_name": "МГУ",
           "url": "https://conf.msu.ru/rus/event/10574/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "68a722b19561",
-      "title": "5-я конференция по машинному обучению и искусственному интелекту «Погружение в машинное обучение (Fall into ML 2026)",
-      "organizer": "НИУ ВШЭ",
-      "disciplines": [
-        "Компьютерные науки"
-      ],
-      "event_start": "2026-10-23",
-      "event_end": "2026-10-24",
-      "submission_deadline": "2026-10-15",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "organizer",
-        "submission_deadline",
-        "official_url"
-      ],
-      "first_seen": "2026-07-14",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "hse_ann_sci",
-          "source_name": "НИУ ВШЭ",
-          "url": "https://cs.hse.ru/ml2026/",
           "published_date": null
         }
       ]
@@ -3268,35 +3147,6 @@
           "source": "ras_events",
           "source_name": "РАН",
           "url": "https://new.ras.ru/press-center/events-additional/ii-mezhdistsiplinarnaya-nauchnaya-konferentsiya-chemnet-/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "12c57a158b1a",
-      "title": "Международная научно-практическая конференция «Синергия языков и культур: междисциплинарные исследования»",
-      "organizer": "Санкт-Петербургский государственный университет",
-      "disciplines": [
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-10-22",
-      "event_end": "2026-10-24",
-      "submission_deadline": "2026-10-16",
-      "location": "Санкт-Петербург",
-      "format": "гибрид",
-      "official_url": "https://events.spbu.ru/synergiya",
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "disciplines"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "spbu_events",
-          "source_name": "СПбГУ",
-          "url": "https://events.spbu.ru/synergiya",
           "published_date": null
         }
       ]
@@ -6495,6 +6345,37 @@
       ]
     },
     {
+      "id": "03afa6bb2b03",
+      "title": "XXXVII международная научно-практическая конференция по методике преподавания японского языка «Японский язык в вузе: актуальные проблемы преподавания»",
+      "organizer": "Московский государственный университет имени М.В.Ломоносова, Институт стран Азии и Африки, Кафедра японской филологии Институт научной информации по общественным наукам РАН",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-10-22",
+      "event_end": "2026-10-24",
+      "submission_deadline": "2026-09-20",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": "https://forms.gle/sUUUEP4b1cEG4ap79",
+      "confidence": 0.983,
+      "field_flags": [
+        "title",
+        "organizer",
+        "location",
+        "format"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "past",
+      "sources": [
+        {
+          "source": "msu_events",
+          "source_name": "МГУ",
+          "url": "https://conf.msu.ru/rus/event/10587/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "36823336d5f9",
       "title": "Новые горизонты исторической науки: вызовы и ответы",
       "organizer": "Институт всеобщей истории РАН",
@@ -6519,6 +6400,32 @@
           "source": "rsuh",
           "source_name": "РГГУ",
           "url": "https://www.rsuh.ru/anons/mezhdunarodnaya-nauchno-metodologicheskaya-konferentsiya-novye-gorizonty-istoricheskoy-nauki-vyzovy-i-otvety/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "91d566b0f491",
+      "title": "VII Международная научная конференция «Русский язык XIX в.: слово и текст»",
+      "organizer": "Группа «Словаря русского языка XIX в.» Института лингвистических исследований Российской академии наук",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-10-23",
+      "event_end": "2026-10-24",
+      "submission_deadline": "2026-09-20",
+      "location": "Санкт-Петербург",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [],
+      "first_seen": "2026-07-23",
+      "status": "past",
+      "sources": [
+        {
+          "source": "iling_ras",
+          "source_name": "ИЛИ РАН",
+          "url": "https://iling.spb.ru/conferences/2026/5002",
           "published_date": null
         }
       ]
@@ -6856,6 +6763,37 @@
       ]
     },
     {
+      "id": "85f31a19c394",
+      "title": "IX Международная научно-практическая конференция «Актуальные проблемы экранных и интерактивных медиа. Трансформация языка аудиовизуальных медиа»",
+      "organizer": "Московский государственный университет имени М.В. Ломоносова",
+      "disciplines": [
+        "Медиа и коммуникации",
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-10-23",
+      "event_end": "2026-10-24",
+      "submission_deadline": "2026-10-01",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "organizer",
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-10-20",
+      "status": "past",
+      "sources": [
+        {
+          "source": "msu_events",
+          "source_name": "МГУ",
+          "url": "https://conf.msu.ru/rus/event/10635/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "a36ae6ef0652",
       "title": "Научно-практическая конференция «Гидроминеральное сырьё нефтегазовых месторождений: технологии добычи и извлечения ценных компонентов»",
       "organizer": "Санкт-Петербургский государственный университет",
@@ -7034,6 +6972,37 @@
       ]
     },
     {
+      "id": "3526eb60d496",
+      "title": "Феномен М. Ю. Лермонтова",
+      "organizer": "Московский государственный университет имени М.В.Ломоносова, Филологический факультет, Кафедра истории русской литературы, Московское лермонтовское общество",
+      "disciplines": [
+        "История и археология",
+        "Филология и лингвистика",
+        "Искусствоведение"
+      ],
+      "event_start": "2026-10-23",
+      "event_end": "2026-10-24",
+      "submission_deadline": "2026-10-10",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": "https://forms.gle/djDW8tWsjDcdHibt7",
+      "confidence": 0.967,
+      "field_flags": [
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-10-20",
+      "status": "past",
+      "sources": [
+        {
+          "source": "msu_events",
+          "source_name": "МГУ",
+          "url": "https://conf.msu.ru/rus/event/10751/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "5abc0fc780e3",
       "title": "VI Международная научно-практическая конференция «Лингвокультурные аспекты глобализационных процессов: Cтолкновение и взаимопроникновение культурных кодов»",
       "organizer": "ИНИОН РАН",
@@ -7059,6 +7028,66 @@
           "source": "inion",
           "source_name": "ИНИОН РАН",
           "url": "https://inion.ru/ru/about/news/vi-mezhdunarodnaia-nauchno-prakticheskaia-konferentciia-lingvokul-turnye-aspekty-globalizatcionnykh-protcessov-ctolknovenie-i/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "68a722b19561",
+      "title": "5-я конференция по машинному обучению и искусственному интелекту «Погружение в машинное обучение (Fall into ML 2026)",
+      "organizer": "НИУ ВШЭ",
+      "disciplines": [
+        "Компьютерные науки"
+      ],
+      "event_start": "2026-10-23",
+      "event_end": "2026-10-24",
+      "submission_deadline": "2026-10-15",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "organizer",
+        "submission_deadline",
+        "official_url"
+      ],
+      "first_seen": "2026-07-14",
+      "status": "past",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://cs.hse.ru/ml2026/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "12c57a158b1a",
+      "title": "Международная научно-практическая конференция «Синергия языков и культур: междисциплинарные исследования»",
+      "organizer": "Санкт-Петербургский государственный университет",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-10-22",
+      "event_end": "2026-10-24",
+      "submission_deadline": "2026-10-16",
+      "location": "Санкт-Петербург",
+      "format": "гибрид",
+      "official_url": "https://events.spbu.ru/synergiya",
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "disciplines"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "past",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/synergiya",
           "published_date": null
         }
       ]
