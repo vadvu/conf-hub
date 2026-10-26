@@ -1,8 +1,8 @@
 window.CONF_DATA = {
   "version": "0.23.0",
-  "generated_at": "2026-10-25T03:03:37+00:00",
-  "crawled_at": "2026-10-25T03:02:54+00:00",
-  "today": "2026-10-25",
+  "generated_at": "2026-10-26T03:04:02+00:00",
+  "crawled_at": "2026-10-26T03:03:16+00:00",
+  "today": "2026-10-26",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -90,157 +90,6 @@ window.CONF_DATA = {
     }
   ],
   "conferences": [
-    {
-      "id": "bbb8be406878",
-      "title": "II Международная научно-практическая конференция памяти профессора Л. Н. Галенской",
-      "organizer": "Санкт-Петербургский государственный университет",
-      "disciplines": [
-        "Право"
-      ],
-      "event_start": "2026-10-29",
-      "event_end": "2026-10-29",
-      "submission_deadline": "2026-10-25",
-      "location": "Санкт-Петербург",
-      "format": "очно",
-      "official_url": "reg.spbu.ru/galenskaya_2026",
-      "confidence": 0.933,
-      "field_flags": [
-        "official_url"
-      ],
-      "first_seen": "2026-09-30",
-      "status": "open",
-      "sources": [
-        {
-          "source": "spbu_events",
-          "source_name": "СПбГУ",
-          "url": "https://events.spbu.ru/galenskaya_2026",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "be32c153f617",
-      "title": "IX Международная конференция «Федерализм в современном публичном праве»",
-      "organizer": "Юридический клуб Международно-правовой факультет МГИМО",
-      "disciplines": [
-        "Право"
-      ],
-      "event_start": "2026-11-02",
-      "event_end": "2026-11-14",
-      "submission_deadline": "2026-10-25",
-      "location": "Москва, Санкт-Петербург",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "organizer",
-        "location",
-        "disciplines"
-      ],
-      "first_seen": "2026-10-03",
-      "status": "open",
-      "sources": [
-        {
-          "source": "mgimo_ann",
-          "source_name": "МГИМО",
-          "url": "https://mgimo.ru/about/news/announce/federalism-modern-public-law-11-26/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "56f1e6b50c41",
-      "title": "Женщина и мир: агентность и забота",
-      "organizer": "МГИМО",
-      "disciplines": [
-        "Экономика и менеджмент",
-        "Социология (включая демографию и антропологию)",
-        "Политология и международные отношения (включая ГМУ)",
-        "Философия, этика, религиоведение"
-      ],
-      "event_start": "2026-11-12",
-      "event_end": "2026-11-12",
-      "submission_deadline": "2026-10-25",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "disciplines"
-      ],
-      "first_seen": "2026-10-04",
-      "status": "open",
-      "sources": [
-        {
-          "source": "mgimo_ann",
-          "source_name": "МГИМО",
-          "url": "https://mgimo.ru/about/news/announce/woman-12-11-26/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "28bfde55d888",
-      "title": "Динамическая урбанистика: проблемы роста городов",
-      "organizer": "Центр арктической и северной урбанистики Высшей школы урбанистики имени А.А. Высоковского ФГРР НИУ ВШЭ и Тяньцзиньский университет",
-      "disciplines": [
-        "Социальная и экономическая география (включая урбанистику и транспорт)"
-      ],
-      "event_start": "2026-11-19",
-      "event_end": "2026-11-19",
-      "submission_deadline": "2026-10-25",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "disciplines",
-        "format"
-      ],
-      "first_seen": "2026-10-13",
-      "status": "open",
-      "sources": [
-        {
-          "source": "hse_conf",
-          "source_name": "НИУ ВШЭ (конференции)",
-          "url": "https://urban.hse.ru/canorus/iac_conference_2026",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "4bf028467638",
-      "title": "Жизнь и техника будущего: исследования техноутопий",
-      "organizer": "Факультет антропологии и центр исследований науки и технологий (STS-Центр) Европейского университета",
-      "disciplines": [
-        "Социология (включая демографию и антропологию)",
-        "История и археология",
-        "Философия, этика, религиоведение"
-      ],
-      "event_start": "2026-12-04",
-      "event_end": "2026-12-04",
-      "submission_deadline": "2026-10-25",
-      "location": "Санкт-Петербург",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "organizer",
-        "disciplines"
-      ],
-      "first_seen": "2026-09-11",
-      "status": "open",
-      "sources": [
-        {
-          "source": "eusp",
-          "source_name": "ЕУСПб",
-          "url": "https://eusp.org/news/starit-priema-zayavok-konferenciya-zhizn-i-tekhnika-buduschego-issledovaniya-tekhnoutopiy",
-          "published_date": "2026-09-10"
-        }
-      ]
-    },
     {
       "id": "c1c1a5645ce9",
       "title": "Дни студенческой науки",
@@ -3363,6 +3212,157 @@ window.CONF_DATA = {
           "source_name": "НИУ ВШЭ (Пермь)",
           "url": "https://perm.hse.ru/creativ/industrialculture/announcements/1167909302.html",
           "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "bbb8be406878",
+      "title": "II Международная научно-практическая конференция памяти профессора Л. Н. Галенской",
+      "organizer": "Санкт-Петербургский государственный университет",
+      "disciplines": [
+        "Право"
+      ],
+      "event_start": "2026-10-29",
+      "event_end": "2026-10-29",
+      "submission_deadline": "2026-10-25",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": "reg.spbu.ru/galenskaya_2026",
+      "confidence": 0.933,
+      "field_flags": [
+        "official_url"
+      ],
+      "first_seen": "2026-09-30",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/galenskaya_2026",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "be32c153f617",
+      "title": "IX Международная конференция «Федерализм в современном публичном праве»",
+      "organizer": "Юридический клуб Международно-правовой факультет МГИМО",
+      "disciplines": [
+        "Право"
+      ],
+      "event_start": "2026-11-02",
+      "event_end": "2026-11-14",
+      "submission_deadline": "2026-10-25",
+      "location": "Москва, Санкт-Петербург",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "organizer",
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-10-03",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/federalism-modern-public-law-11-26/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "56f1e6b50c41",
+      "title": "Женщина и мир: агентность и забота",
+      "organizer": "МГИМО",
+      "disciplines": [
+        "Экономика и менеджмент",
+        "Социология (включая демографию и антропологию)",
+        "Политология и международные отношения (включая ГМУ)",
+        "Философия, этика, религиоведение"
+      ],
+      "event_start": "2026-11-12",
+      "event_end": "2026-11-12",
+      "submission_deadline": "2026-10-25",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-10-04",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/woman-12-11-26/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "28bfde55d888",
+      "title": "Динамическая урбанистика: проблемы роста городов",
+      "organizer": "Центр арктической и северной урбанистики Высшей школы урбанистики имени А.А. Высоковского ФГРР НИУ ВШЭ и Тяньцзиньский университет",
+      "disciplines": [
+        "Социальная и экономическая география (включая урбанистику и транспорт)"
+      ],
+      "event_start": "2026-11-19",
+      "event_end": "2026-11-19",
+      "submission_deadline": "2026-10-25",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-10-13",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "hse_conf",
+          "source_name": "НИУ ВШЭ (конференции)",
+          "url": "https://urban.hse.ru/canorus/iac_conference_2026",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "4bf028467638",
+      "title": "Жизнь и техника будущего: исследования техноутопий",
+      "organizer": "Факультет антропологии и центр исследований науки и технологий (STS-Центр) Европейского университета",
+      "disciplines": [
+        "Социология (включая демографию и антропологию)",
+        "История и археология",
+        "Философия, этика, религиоведение"
+      ],
+      "event_start": "2026-12-04",
+      "event_end": "2026-12-04",
+      "submission_deadline": "2026-10-25",
+      "location": "Санкт-Петербург",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "organizer",
+        "disciplines"
+      ],
+      "first_seen": "2026-09-11",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "eusp",
+          "source_name": "ЕУСПб",
+          "url": "https://eusp.org/news/starit-priema-zayavok-konferenciya-zhizn-i-tekhnika-buduschego-issledovaniya-tekhnoutopiy",
+          "published_date": "2026-09-10"
         }
       ]
     },
@@ -6818,6 +6818,34 @@ window.CONF_DATA = {
           "source": "spbu_events",
           "source_name": "СПбГУ",
           "url": "https://events.spbu.ru/hydromin",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "a73fd8994d5a",
+      "title": "Международная научно-практическая конференция «Социология управления: актуальные вопросы современности»",
+      "organizer": "Санкт-Петербургский университет технологий управления и экономики, Социологический институт РАН – филиал ФНИСЦ РАН",
+      "disciplines": [
+        "Социология (включая демографию и антропологию)"
+      ],
+      "event_start": "2026-10-15",
+      "event_end": "2026-10-16",
+      "submission_deadline": "2026-10-04",
+      "location": "Санкт-Петербург",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-10-26",
+      "status": "past",
+      "sources": [
+        {
+          "source": "socinst",
+          "source_name": "Социологический институт РАН",
+          "url": "https://socinst.ru/conferences/socrule2026/#files",
           "published_date": null
         }
       ]
