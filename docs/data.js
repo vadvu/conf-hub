@@ -1,8 +1,8 @@
 window.CONF_DATA = {
   "version": "0.23.0",
-  "generated_at": "2026-10-26T03:04:02+00:00",
-  "crawled_at": "2026-10-26T03:03:16+00:00",
-  "today": "2026-10-26",
+  "generated_at": "2026-10-27T03:05:12+00:00",
+  "crawled_at": "2026-10-27T03:02:38+00:00",
+  "today": "2026-10-27",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -90,67 +90,6 @@ window.CONF_DATA = {
     }
   ],
   "conferences": [
-    {
-      "id": "c1c1a5645ce9",
-      "title": "Дни студенческой науки",
-      "organizer": "Университетский колледж МГИМО",
-      "disciplines": [
-        "Экономика и менеджмент",
-        "Право",
-        "Политология и международные отношения (включая ГМУ)",
-        "История и археология"
-      ],
-      "event_start": "2026-11-02",
-      "event_end": "2026-11-13",
-      "submission_deadline": "2026-10-26",
-      "location": "Одинцово",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "disciplines",
-        "submission_deadline"
-      ],
-      "first_seen": "2026-10-18",
-      "status": "open",
-      "sources": [
-        {
-          "source": "mgimo_ann",
-          "source_name": "МГИМО",
-          "url": "https://mgimo.ru/about/news/announce/science-days-college-2026/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "4a7cb1d4dec4",
-      "title": "Исторический опыт взаимодействия России и Афганистана: уроки прошлого и перспективы будущего",
-      "organizer": "Кафедра международной безопасности факультета международных отношений Института международных отношений и политических наук; Университетский российско-афганский центр",
-      "disciplines": [
-        "Политология и международные отношения (включая ГМУ)"
-      ],
-      "event_start": "2026-11-03",
-      "event_end": "2026-11-03",
-      "submission_deadline": "2026-10-26",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.967,
-      "field_flags": [
-        "disciplines"
-      ],
-      "first_seen": "2026-09-24",
-      "status": "open",
-      "sources": [
-        {
-          "source": "rsuh",
-          "source_name": "РГГУ",
-          "url": "https://www.rsuh.ru/anons/istoriyu-i-perspektivy-vzaimodeystviya-rossii-i-afganistana-obsudyat-v-rggu/",
-          "published_date": null
-        }
-      ]
-    },
     {
       "id": "2a30274f761d",
       "title": "Генетические данные человека: понятие и правовые аспекты оборота в сфере здравоохранения",
@@ -483,6 +422,37 @@ window.CONF_DATA = {
       ]
     },
     {
+      "id": "88d7f1e481bc",
+      "title": "Fields and Strings 2026",
+      "organizer": "Математический институт им. М. А. Стеклова РАН",
+      "disciplines": [
+        "Математика",
+        "Физика"
+      ],
+      "event_start": "2026-12-07",
+      "event_end": "2026-12-13",
+      "submission_deadline": "2026-11-01",
+      "location": null,
+      "format": null,
+      "official_url": null,
+      "confidence": 0.95,
+      "field_flags": [
+        "disciplines",
+        "format",
+        "official_url"
+      ],
+      "first_seen": "2026-10-27",
+      "status": "open",
+      "sources": [
+        {
+          "source": "mipt_events",
+          "source_name": "МФТИ",
+          "url": "https://mipt.ru/institute/events/priem-tezisov-na-konferentsiyu-mian-fields-and-strings-2026",
+          "published_date": "2026-10-26"
+        }
+      ]
+    },
+    {
       "id": "795e8ec2aca9",
       "title": "XIII Международная научная конференция «Культура и общество: новые тенденции в социальной и кросс-культурной психологии»",
       "organizer": "Центр социокультурных исследований НИУ ВШЭ",
@@ -666,6 +636,37 @@ window.CONF_DATA = {
           "source_name": "НИУ ВШЭ (конференции)",
           "url": "https://lepp.hse.ru/ysconf/",
           "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "15d6e4c0f456",
+      "title": "Физика элементарных частиц и космология 2026",
+      "organizer": "НИУ ВШЭ",
+      "disciplines": [
+        "Физика"
+      ],
+      "event_start": "2026-12-03",
+      "event_end": "2026-12-04",
+      "submission_deadline": "2026-11-05",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.917,
+      "field_flags": [
+        "title",
+        "location",
+        "format",
+        "official_url"
+      ],
+      "first_seen": "2026-10-27",
+      "status": "open",
+      "sources": [
+        {
+          "source": "mipt_events",
+          "source_name": "МФТИ",
+          "url": "https://mipt.ru/institute/events/priem-tezisov-na-xv-molodezhnuyu-konferentsiyu-fizika-elementarnykh-chastits-i-kosmologiya-2026",
+          "published_date": "2026-10-26"
         }
       ]
     },
@@ -906,6 +907,36 @@ window.CONF_DATA = {
           "source_name": "РГГУ",
           "url": "https://www.rsuh.ru/anons/konferentsiya-aleshinskie-chteniya-2026-realnost-i-illyuzii-v-filosofii-i-literature/",
           "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "bf03f1fc2877",
+      "title": "Четвертая междисциплинарная конференция «Чувства дают сдачи 4.0»",
+      "organizer": "Центр практической философии «Стасис»",
+      "disciplines": [
+        "Философия, этика, религиоведение"
+      ],
+      "event_start": "2026-12-09",
+      "event_end": "2026-12-10",
+      "submission_deadline": "2026-11-12",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-10-27",
+      "status": "open",
+      "sources": [
+        {
+          "source": "eusp",
+          "source_name": "ЕУСПб",
+          "url": "https://eusp.org/news/start-priema-zayavok-chetvertaya-mezhdisciplinarnaya-konferenciya-chuvstva-dayut-sdachi-40",
+          "published_date": "2026-10-26"
         }
       ]
     },
@@ -3363,6 +3394,67 @@ window.CONF_DATA = {
           "source_name": "ЕУСПб",
           "url": "https://eusp.org/news/starit-priema-zayavok-konferenciya-zhizn-i-tekhnika-buduschego-issledovaniya-tekhnoutopiy",
           "published_date": "2026-09-10"
+        }
+      ]
+    },
+    {
+      "id": "c1c1a5645ce9",
+      "title": "Дни студенческой науки",
+      "organizer": "Университетский колледж МГИМО",
+      "disciplines": [
+        "Экономика и менеджмент",
+        "Право",
+        "Политология и международные отношения (включая ГМУ)",
+        "История и археология"
+      ],
+      "event_start": "2026-11-02",
+      "event_end": "2026-11-13",
+      "submission_deadline": "2026-10-26",
+      "location": "Одинцово",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "disciplines",
+        "submission_deadline"
+      ],
+      "first_seen": "2026-10-18",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/science-days-college-2026/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "4a7cb1d4dec4",
+      "title": "Исторический опыт взаимодействия России и Афганистана: уроки прошлого и перспективы будущего",
+      "organizer": "Кафедра международной безопасности факультета международных отношений Института международных отношений и политических наук; Университетский российско-афганский центр",
+      "disciplines": [
+        "Политология и международные отношения (включая ГМУ)"
+      ],
+      "event_start": "2026-11-03",
+      "event_end": "2026-11-03",
+      "submission_deadline": "2026-10-26",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.967,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-09-24",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "rsuh",
+          "source_name": "РГГУ",
+          "url": "https://www.rsuh.ru/anons/istoriyu-i-perspektivy-vzaimodeystviya-rossii-i-afganistana-obsudyat-v-rggu/",
+          "published_date": null
         }
       ]
     },
