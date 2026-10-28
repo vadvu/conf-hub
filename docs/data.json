@@ -1,8 +1,8 @@
 {
   "version": "0.23.0",
-  "generated_at": "2026-10-27T03:05:12+00:00",
-  "crawled_at": "2026-10-27T03:02:38+00:00",
-  "today": "2026-10-27",
+  "generated_at": "2026-10-28T06:39:57+00:00",
+  "crawled_at": "2026-10-28T03:55:40+00:00",
+  "today": "2026-10-28",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -90,63 +90,6 @@
     }
   ],
   "conferences": [
-    {
-      "id": "2a30274f761d",
-      "title": "Генетические данные человека: понятие и правовые аспекты оборота в сфере здравоохранения",
-      "organizer": "Факультет права Национального исследовательского университета «Высшая школа экономики»",
-      "disciplines": [
-        "Право"
-      ],
-      "event_start": "2026-10-29",
-      "event_end": "2026-10-29",
-      "submission_deadline": "2026-10-27",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.967,
-      "field_flags": [
-        "disciplines"
-      ],
-      "first_seen": "2026-10-20",
-      "status": "open",
-      "sources": [
-        {
-          "source": "hse_ann_sci",
-          "source_name": "НИУ ВШЭ",
-          "url": "https://pravo.hse.ru/techlaw/announcements/1210136628.html",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "a8c2f9087345",
-      "title": "V симпозиум по корпусной лингвистике НИУ ВШЭ – Пермь «Корпусная лингвистика и дискурс анализ»",
-      "organizer": "НИУ ВШЭ",
-      "disciplines": [
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-11-13",
-      "event_end": "2026-11-13",
-      "submission_deadline": "2026-10-27",
-      "location": "Пермь",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "organizer"
-      ],
-      "first_seen": "2026-09-09",
-      "status": "open",
-      "sources": [
-        {
-          "source": "perm_ann_sci",
-          "source_name": "НИУ ВШЭ (Пермь)",
-          "url": "https://perm.hse.ru/announcements/1198710772.html",
-          "published_date": null
-        }
-      ]
-    },
     {
       "id": "ba4aff43e3b6",
       "title": "Индия: диалог между цивилизацией и возможностями. Экономические успехи XXI века",
@@ -262,6 +205,41 @@
           "source": "spbu_events",
           "source_name": "СПбГУ",
           "url": "https://events.spbu.ru/hist-bio",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "6912bc1610ca",
+      "title": "V Международная конференция «Цифровая трансформация международной экономической системы»",
+      "organizer": "МГИМО",
+      "disciplines": [
+        "Экономика и менеджмент",
+        "Образование",
+        "Право"
+      ],
+      "event_start": "2026-11-10",
+      "event_end": "2026-11-10",
+      "submission_deadline": "2026-11-01",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "organizer",
+        "location",
+        "disciplines",
+        "submission_deadline",
+        "official_url"
+      ],
+      "first_seen": "2026-10-28",
+      "status": "open",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/digital-transformation-international-economic-system-2026/",
           "published_date": null
         }
       ]
@@ -941,6 +919,37 @@
       ]
     },
     {
+      "id": "a1cbd6b34ff0",
+      "title": "VI Международная конференция по социальной нейронауке в экологически валидных условиях «Городские пространства и мозг человека»",
+      "organizer": "Международная лаборатория социальной нейробиологии Института когнитивных нейронаук НИУ ВШЭ",
+      "disciplines": [
+        "Фундаментальная медицина (включая нейронауки)",
+        "Психология"
+      ],
+      "event_start": "2026-11-26",
+      "event_end": "2026-11-26",
+      "submission_deadline": "2026-11-15",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "disciplines",
+        "submission_deadline"
+      ],
+      "first_seen": "2026-10-28",
+      "status": "open",
+      "sources": [
+        {
+          "source": "hse_conf",
+          "source_name": "НИУ ВШЭ (конференции)",
+          "url": "https://neuro.hse.ru/ilsn/snevc/2026/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "51bf8a20edb2",
       "title": "Немцы в Санкт-Петербурге (XVIII-XX вв.): исторический, биографический и коммуникативный аспекты",
       "organizer": "Федеральный научно-исследовательский социологический центр Российской академии наук",
@@ -1546,39 +1555,6 @@
           "source": "ion_ranepa",
           "source_name": "ИОН РАНХиГС",
           "url": "https://ion.ranepa.ru/announcement/vserossiyskaya-nauchnaya-konferentsiya-po-issledovaniyam-psikhologicheskogo-konsultirovaniya-i-psikh/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "febe81e7edcb",
-      "title": "XVII международная конференция «Философия, культура, ценности в современном мире»",
-      "organizer": "Школа философии и культурологии ФГН НИУ ВШЭ",
-      "disciplines": [
-        "Социология (включая демографию и антропологию)",
-        "Медиа и коммуникации",
-        "Филология и лингвистика",
-        "Философия, этика, религиоведение"
-      ],
-      "event_start": "2026-10-26",
-      "event_end": "2026-10-27",
-      "submission_deadline": "2026-05-01",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "disciplines",
-        "submission_deadline"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "hse_ann_sci",
-          "source_name": "НИУ ВШЭ",
-          "url": "https://hum.hse.ru/announcements/1136946780.html",
           "published_date": null
         }
       ]
@@ -3459,6 +3435,63 @@
       ]
     },
     {
+      "id": "2a30274f761d",
+      "title": "Генетические данные человека: понятие и правовые аспекты оборота в сфере здравоохранения",
+      "organizer": "Факультет права Национального исследовательского университета «Высшая школа экономики»",
+      "disciplines": [
+        "Право"
+      ],
+      "event_start": "2026-10-29",
+      "event_end": "2026-10-29",
+      "submission_deadline": "2026-10-27",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.967,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-10-20",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://pravo.hse.ru/techlaw/announcements/1210136628.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "a8c2f9087345",
+      "title": "V симпозиум по корпусной лингвистике НИУ ВШЭ – Пермь «Корпусная лингвистика и дискурс анализ»",
+      "organizer": "НИУ ВШЭ",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-11-13",
+      "event_end": "2026-11-13",
+      "submission_deadline": "2026-10-27",
+      "location": "Пермь",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "organizer"
+      ],
+      "first_seen": "2026-09-09",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "perm_ann_sci",
+          "source_name": "НИУ ВШЭ (Пермь)",
+          "url": "https://perm.hse.ru/announcements/1198710772.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "59bc066474f3",
       "title": "Международная научная конференция «Археология, история и этнография скотоводов и кочевников Сибири и Центральной Азии»",
       "organizer": "Санкт-Петербургский государственный университет, Институт истории материальной культуры РАН, Государственный Эрмитаж, Музей антропологии и этнографии им. Петра Великого РАН и Российский этнографический музей",
@@ -4570,6 +4603,39 @@
           "source": "ras_events",
           "source_name": "РАН",
           "url": "https://new.ras.ru/press-center/events-additional/mezhdunarodnaya-konferentsiya-synchrotron-radiation-science-knowledge-innovations-future-skif-2026/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "febe81e7edcb",
+      "title": "XVII международная конференция «Философия, культура, ценности в современном мире»",
+      "organizer": "Школа философии и культурологии ФГН НИУ ВШЭ",
+      "disciplines": [
+        "Социология (включая демографию и антропологию)",
+        "Медиа и коммуникации",
+        "Филология и лингвистика",
+        "Философия, этика, религиоведение"
+      ],
+      "event_start": "2026-10-26",
+      "event_end": "2026-10-27",
+      "submission_deadline": "2026-05-01",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "disciplines",
+        "submission_deadline"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "past",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://hum.hse.ru/announcements/1136946780.html",
           "published_date": null
         }
       ]
