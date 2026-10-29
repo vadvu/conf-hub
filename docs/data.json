@@ -1,8 +1,8 @@
 {
   "version": "0.23.0",
-  "generated_at": "2026-10-28T06:39:57+00:00",
-  "crawled_at": "2026-10-28T03:55:40+00:00",
-  "today": "2026-10-28",
+  "generated_at": "2026-10-29T03:04:34+00:00",
+  "crawled_at": "2026-10-29T03:01:58+00:00",
+  "today": "2026-10-29",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -90,35 +90,6 @@
     }
   ],
   "conferences": [
-    {
-      "id": "ba4aff43e3b6",
-      "title": "Индия: диалог между цивилизацией и возможностями. Экономические успехи XXI века",
-      "organizer": "Экономический клуб Oeconomicus им. А.В.Макаренко",
-      "disciplines": [
-        "Экономика и менеджмент"
-      ],
-      "event_start": "2026-11-06",
-      "event_end": "2026-11-06",
-      "submission_deadline": "2026-10-28",
-      "location": "Не указан",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.917,
-      "field_flags": [
-        "location",
-        "format"
-      ],
-      "first_seen": "2026-10-25",
-      "status": "open",
-      "sources": [
-        {
-          "source": "mgimo_ann",
-          "source_name": "МГИМО",
-          "url": "https://mgimo.ru/about/news/announce/india-conf/",
-          "published_date": null
-        }
-      ]
-    },
     {
       "id": "6d3930728dbb",
       "title": "VIII Международная конференция имени Е.Н.Солововой «Обучение иностранным языкам — современные проблемы и решения»",
@@ -732,6 +703,12 @@
           "source_name": "ИЭА РАН",
           "url": "https://iea-ras.ru/?p=22453",
           "published_date": "2026-09-11"
+        },
+        {
+          "source": "iea_ras",
+          "source_name": "ИЭА РАН",
+          "url": "https://iea-ras.ru/?p=22734",
+          "published_date": "2026-10-29"
         }
       ]
     },
@@ -1584,38 +1561,6 @@
           "source": "ras_events",
           "source_name": "РАН",
           "url": "https://new.ras.ru/press-center/events-additional/ii-mezhdunarodnaya-nauchnaya-konferentsiya-sudba-arkheologii-v-1930-e-gody-uchrezhdeniya-i-sotrudnik/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "c184d695a215",
-      "title": "XIX «Лосевские чтения»",
-      "organizer": "Научный совет РАН «История мировой культуры», Библиотека-музей «Дом А.Ф. Лосева» при поддержке Института мировой литературы им. А.М. Горького РАН, Института философии РАН, Московского педагогического государственного университета, филологического и философского факультетов МГУ, Литературного института им. А.М. Горького, Научного совета РАН по классической филологии, сравнительному изучению языков и литературы, «Дома русского зарубежья им. А.И. Солженицына», Православного Свято-Тихоновского гуманитарного университета, Культурно-просветительского общества «Лосевские беседы»",
-      "disciplines": [
-        "История и археология",
-        "Филология и лингвистика",
-        "Философия, этика, религиоведение"
-      ],
-      "event_start": "2026-10-26",
-      "event_end": "2026-10-28",
-      "submission_deadline": "2026-06-01",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "organizer",
-        "disciplines"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "ras_events",
-          "source_name": "РАН",
-          "url": "https://new.ras.ru/press-center/events-additional/mezhdunarodnaya-nauchnaya-konferentsiya-xix-losevskie-chteniya/",
           "published_date": null
         }
       ]
@@ -2857,6 +2802,37 @@
       ]
     },
     {
+      "id": "6646ffa63385",
+      "title": "Центральная и Юго-Восточная Европа: язык, литература, общество, история, культура, дипломатия",
+      "organizer": "Кафедра языков стран Центральной и Юго-Восточной Европы Факультета международных отношений",
+      "disciplines": [
+        "История и археология",
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-11-12",
+      "event_end": "2026-11-12",
+      "submission_deadline": "2026-10-15",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "organizer",
+        "disciplines"
+      ],
+      "first_seen": "2026-10-29",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/zuve-conf-11-26/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "e42bb159902d",
       "title": "Чтения памяти Александра Владимировича Бондарко «Актуальные проблемы функциональной грамматики»",
       "organizer": "Отдел теории грамматики",
@@ -3487,6 +3463,35 @@
           "source": "perm_ann_sci",
           "source_name": "НИУ ВШЭ (Пермь)",
           "url": "https://perm.hse.ru/announcements/1198710772.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "ba4aff43e3b6",
+      "title": "Индия: диалог между цивилизацией и возможностями. Экономические успехи XXI века",
+      "organizer": "Экономический клуб Oeconomicus им. А.В.Макаренко",
+      "disciplines": [
+        "Экономика и менеджмент"
+      ],
+      "event_start": "2026-11-06",
+      "event_end": "2026-11-06",
+      "submission_deadline": "2026-10-28",
+      "location": "Не указан",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.917,
+      "field_flags": [
+        "location",
+        "format"
+      ],
+      "first_seen": "2026-10-25",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/india-conf/",
           "published_date": null
         }
       ]
@@ -4993,6 +4998,38 @@
           "source": "spbu_events",
           "source_name": "СПбГУ",
           "url": "https://events.spbu.ru/sensomotor",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "c184d695a215",
+      "title": "XIX «Лосевские чтения»",
+      "organizer": "Научный совет РАН «История мировой культуры», Библиотека-музей «Дом А.Ф. Лосева» при поддержке Института мировой литературы им. А.М. Горького РАН, Института философии РАН, Московского педагогического государственного университета, филологического и философского факультетов МГУ, Литературного института им. А.М. Горького, Научного совета РАН по классической филологии, сравнительному изучению языков и литературы, «Дома русского зарубежья им. А.И. Солженицына», Православного Свято-Тихоновского гуманитарного университета, Культурно-просветительского общества «Лосевские беседы»",
+      "disciplines": [
+        "История и археология",
+        "Филология и лингвистика",
+        "Философия, этика, религиоведение"
+      ],
+      "event_start": "2026-10-26",
+      "event_end": "2026-10-28",
+      "submission_deadline": "2026-06-01",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "organizer",
+        "disciplines"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "past",
+      "sources": [
+        {
+          "source": "ras_events",
+          "source_name": "РАН",
+          "url": "https://new.ras.ru/press-center/events-additional/mezhdunarodnaya-nauchnaya-konferentsiya-xix-losevskie-chteniya/",
           "published_date": null
         }
       ]
