@@ -1,8 +1,8 @@
 window.CONF_DATA = {
   "version": "0.23.0",
-  "generated_at": "2026-10-29T03:04:34+00:00",
-  "crawled_at": "2026-10-29T03:01:58+00:00",
-  "today": "2026-10-29",
+  "generated_at": "2026-10-30T03:04:29+00:00",
+  "crawled_at": "2026-10-30T03:01:53+00:00",
+  "today": "2026-10-30",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -211,6 +211,36 @@ window.CONF_DATA = {
           "source": "mgimo_ann",
           "source_name": "МГИМО",
           "url": "https://mgimo.ru/about/news/announce/digital-transformation-international-economic-system-2026/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "c709242b6354",
+      "title": "Геослёт 2026",
+      "organizer": "Факультет географии и геоинформационных технологий НИУ ВШЭ совместно с ГАОУ ДПО «Центр педагогического мастерства» г. Москвы и РОО «Ассоциация победителей олимпиад»",
+      "disciplines": [
+        "Образование"
+      ],
+      "event_start": "2026-11-13",
+      "event_end": "2026-11-14",
+      "submission_deadline": "2026-11-01",
+      "location": "Москва",
+      "format": "онлайн",
+      "official_url": null,
+      "confidence": 0.967,
+      "field_flags": [
+        "disciplines",
+        "submission_deadline",
+        "format"
+      ],
+      "first_seen": "2026-10-30",
+      "status": "open",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://geography.hse.ru/announcements/1213418291.html",
           "published_date": null
         }
       ]
@@ -559,6 +589,37 @@ window.CONF_DATA = {
       ]
     },
     {
+      "id": "bbd18bb78eb1",
+      "title": "I Международная научная конференция «Семиотика культуры и культурного ландшафта»",
+      "organizer": "НИТУ МИСИС, ИНИОН РАН, МГИК, IASSp+T",
+      "disciplines": [
+        "Филология и лингвистика",
+        "Философия, этика, религиоведение"
+      ],
+      "event_start": "2026-11-27",
+      "event_end": "2026-11-28",
+      "submission_deadline": "2026-11-05",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": "https://forms.yandex.ru/u/6aae3106eb61465b86ae89d0/",
+      "confidence": 0.933,
+      "field_flags": [
+        "organizer",
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-10-30",
+      "status": "open",
+      "sources": [
+        {
+          "source": "inion",
+          "source_name": "ИНИОН РАН",
+          "url": "https://inion.ru/ru/about/news/i-mezhdunarodnaia-nauchnaia-konferentciia-semiotika-kul-tury-i-kul-turnogo-landshafta/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "24b72b31386e",
       "title": "Молодёжная конференция «Физика элементарных частиц и космология»",
       "organizer": "Московский институт электроники и математики им. А.Н. Тихонова",
@@ -861,6 +922,36 @@ window.CONF_DATA = {
           "source": "rsuh",
           "source_name": "РГГУ",
           "url": "https://www.rsuh.ru/anons/konferentsiya-aleshinskie-chteniya-2026-realnost-i-illyuzii-v-filosofii-i-literature/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "d2bffd79546b",
+      "title": "IX Межвузовская студенческая научная конференция «Язык профессии — язык для профессии»",
+      "organizer": "Кафедра немецкого языка МГИМО МИД России",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-12-04",
+      "event_end": "2026-12-04",
+      "submission_deadline": "2026-11-12",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": "https://forms.gle/KXNrV4GwvQT41guM8",
+      "confidence": 0.933,
+      "field_flags": [
+        "organizer",
+        "disciplines",
+        "official_url"
+      ],
+      "first_seen": "2026-10-30",
+      "status": "open",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/berufssprache-2026/",
           "published_date": null
         }
       ]
@@ -1410,6 +1501,34 @@ window.CONF_DATA = {
           "source_name": "РАН",
           "url": "https://new.ras.ru/press-center/events-additional/khvii-mezhdunarodnaya-konferentsiya-afrika-vosstanovlenie-istoricheskoy-spravedlivosti-i-dostizhenie/",
           "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "97289dfbcc22",
+      "title": "Общее место: теория и практика паблик-арта",
+      "organizer": "Школа искусств и культурного наследия Европейского университета, Институт исследования стрит-арта и бюро НОВЬ",
+      "disciplines": [
+        "Искусствоведение"
+      ],
+      "event_start": "2027-03-24",
+      "event_end": "2027-03-25",
+      "submission_deadline": "2027-01-10",
+      "location": null,
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-10-30",
+      "status": "open",
+      "sources": [
+        {
+          "source": "eusp",
+          "source_name": "ЕУСПб",
+          "url": "https://eusp.org/news/start-priema-zayavok-konferenciya-obschee-mesto-teoriya-i-praktika-pablik-arta",
+          "published_date": "2026-10-29"
         }
       ]
     },
@@ -3199,34 +3318,6 @@ window.CONF_DATA = {
       ]
     },
     {
-      "id": "bbb8be406878",
-      "title": "II Международная научно-практическая конференция памяти профессора Л. Н. Галенской",
-      "organizer": "Санкт-Петербургский государственный университет",
-      "disciplines": [
-        "Право"
-      ],
-      "event_start": "2026-10-29",
-      "event_end": "2026-10-29",
-      "submission_deadline": "2026-10-25",
-      "location": "Санкт-Петербург",
-      "format": "очно",
-      "official_url": "reg.spbu.ru/galenskaya_2026",
-      "confidence": 0.933,
-      "field_flags": [
-        "official_url"
-      ],
-      "first_seen": "2026-09-30",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "spbu_events",
-          "source_name": "СПбГУ",
-          "url": "https://events.spbu.ru/galenskaya_2026",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "be32c153f617",
       "title": "IX Международная конференция «Федерализм в современном публичном праве»",
       "organizer": "Юридический клуб Международно-правовой факультет МГИМО",
@@ -3406,34 +3497,6 @@ window.CONF_DATA = {
           "source": "rsuh",
           "source_name": "РГГУ",
           "url": "https://www.rsuh.ru/anons/istoriyu-i-perspektivy-vzaimodeystviya-rossii-i-afganistana-obsudyat-v-rggu/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "2a30274f761d",
-      "title": "Генетические данные человека: понятие и правовые аспекты оборота в сфере здравоохранения",
-      "organizer": "Факультет права Национального исследовательского университета «Высшая школа экономики»",
-      "disciplines": [
-        "Право"
-      ],
-      "event_start": "2026-10-29",
-      "event_end": "2026-10-29",
-      "submission_deadline": "2026-10-27",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.967,
-      "field_flags": [
-        "disciplines"
-      ],
-      "first_seen": "2026-10-20",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "hse_ann_sci",
-          "source_name": "НИУ ВШЭ",
-          "url": "https://pravo.hse.ru/techlaw/announcements/1210136628.html",
           "published_date": null
         }
       ]
@@ -7311,6 +7374,62 @@ window.CONF_DATA = {
           "source": "spbu_events",
           "source_name": "СПбГУ",
           "url": "https://events.spbu.ru/synergiya",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "bbb8be406878",
+      "title": "II Международная научно-практическая конференция памяти профессора Л. Н. Галенской",
+      "organizer": "Санкт-Петербургский государственный университет",
+      "disciplines": [
+        "Право"
+      ],
+      "event_start": "2026-10-29",
+      "event_end": "2026-10-29",
+      "submission_deadline": "2026-10-25",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": "reg.spbu.ru/galenskaya_2026",
+      "confidence": 0.933,
+      "field_flags": [
+        "official_url"
+      ],
+      "first_seen": "2026-09-30",
+      "status": "past",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/galenskaya_2026",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "2a30274f761d",
+      "title": "Генетические данные человека: понятие и правовые аспекты оборота в сфере здравоохранения",
+      "organizer": "Факультет права Национального исследовательского университета «Высшая школа экономики»",
+      "disciplines": [
+        "Право"
+      ],
+      "event_start": "2026-10-29",
+      "event_end": "2026-10-29",
+      "submission_deadline": "2026-10-27",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.967,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-10-20",
+      "status": "past",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://pravo.hse.ru/techlaw/announcements/1210136628.html",
           "published_date": null
         }
       ]
