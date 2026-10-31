@@ -1,8 +1,8 @@
 {
   "version": "0.23.0",
-  "generated_at": "2026-10-30T03:04:29+00:00",
-  "crawled_at": "2026-10-30T03:01:53+00:00",
-  "today": "2026-10-30",
+  "generated_at": "2026-10-31T03:03:59+00:00",
+  "crawled_at": "2026-10-31T03:02:30+00:00",
+  "today": "2026-10-31",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -90,35 +90,6 @@
     }
   ],
   "conferences": [
-    {
-      "id": "6d3930728dbb",
-      "title": "VIII Международная конференция имени Е.Н.Солововой «Обучение иностранным языкам — современные проблемы и решения»",
-      "organizer": "Управление языковой подготовки и кафедра английского языка №4",
-      "disciplines": [
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-11-06",
-      "event_end": "2026-11-07",
-      "submission_deadline": "2026-10-30",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "location",
-        "disciplines"
-      ],
-      "first_seen": "2026-10-24",
-      "status": "open",
-      "sources": [
-        {
-          "source": "mgimo_ann",
-          "source_name": "МГИМО",
-          "url": "https://mgimo.ru/about/news/announce/viii-solovova-conf/",
-          "published_date": null
-        }
-      ]
-    },
     {
       "id": "680932f3b186",
       "title": "Принцип равенства: юридические и социальные аспекты",
@@ -1227,6 +1198,37 @@
       ]
     },
     {
+      "id": "40ad45f47d00",
+      "title": "Социальные технологии в меняющемся мире: ценности, наука, образование",
+      "organizer": "Кафедра социологии",
+      "disciplines": [
+        "Образование",
+        "Социология (включая демографию и антропологию)"
+      ],
+      "event_start": "2026-12-04",
+      "event_end": "2026-12-04",
+      "submission_deadline": "2026-11-16",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": "https://forms.gle/59shkxwBbJeeqc7B6",
+      "confidence": 0.933,
+      "field_flags": [
+        "organizer",
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-10-31",
+      "status": "open",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/conf-sociology-12-26/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "4246e307aa4e",
       "title": "Х Всероссийская конференция «Экология и управление природопользованием»",
       "organizer": "Национальный исследовательский Томский государственный университет, Биологический институт, Кафедра экологии, природопользования и экологической инженерии, Верхне-Обское Бассейновое Водное Управление, Департамент природных ресурсов и охраны окружающей среды Томской области, ОГБУ «Облкомприрода»",
@@ -1685,39 +1687,6 @@
       ]
     },
     {
-      "id": "6df787c87763",
-      "title": "XVII Международная конференция исследователей высшего образования",
-      "organizer": "НИУ ВШЭ",
-      "disciplines": [
-        "Экономика и менеджмент",
-        "Образование",
-        "Социология (включая демографию и антропологию)"
-      ],
-      "event_start": "2026-10-28",
-      "event_end": "2026-10-30",
-      "submission_deadline": "2026-06-10",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "organizer",
-        "disciplines",
-        "official_url"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "hse_ann_sci",
-          "source_name": "НИУ ВШЭ",
-          "url": "https://educonf.hse.ru/2026/",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "ed5385fe194a",
       "title": "Современные проблемы фундаментальной и прикладной математики",
       "organizer": "Московский государственный университет имени М.В.Ломоносова, Факультет вычислительной математики и кибернетики",
@@ -2146,42 +2115,6 @@
       ]
     },
     {
-      "id": "3b21b2a02bdc",
-      "title": "Миграции в России и СССР в социально-экономическом, демографическом, культурном и человеческом измерении: история и современность",
-      "organizer": "НИУ ВШЭ – Пермь",
-      "disciplines": [
-        "Социология (включая демографию и антропологию)",
-        "История и археология"
-      ],
-      "event_start": "2026-10-29",
-      "event_end": "2026-10-30",
-      "submission_deadline": "2026-09-15",
-      "location": "Пермь",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "organizer",
-        "disciplines"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "hse_ann_sci",
-          "source_name": "НИУ ВШЭ",
-          "url": "https://perm.hse.ru/migration-conference",
-          "published_date": null
-        },
-        {
-          "source": "perm_ann_sci",
-          "source_name": "НИУ ВШЭ (Пермь)",
-          "url": "https://perm.hse.ru/announcements/1167554677.html",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "3223c7d607a7",
       "title": "Международный молодежный генетический форум — 2026",
       "organizer": "Московский государственный университет имени М.В. Ломоносова, биологический факультет, кафедра генетики; Санкт-Петербургский государственный университет, биологический факультет, кафедра генетики и биотехнологии имени М.Е. Лобашева",
@@ -2454,35 +2387,6 @@
           "source": "msu_events",
           "source_name": "МГУ",
           "url": "https://conf.msu.ru/rus/event/10521/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "83f14bb2f787",
-      "title": "Управление образованием на основе данных. В поисках точки опоры",
-      "organizer": "Санкт-Петербургский государственный университет, Институт педагогики СПбГУ, Санкт-Петербургский центр оценки качества образования и информационных технологий (СПбЦОКОиИТ)",
-      "disciplines": [
-        "Образование"
-      ],
-      "event_start": "2026-10-30",
-      "event_end": "2026-10-30",
-      "submission_deadline": "2026-09-29",
-      "location": "Санкт-Петербург",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "format"
-      ],
-      "first_seen": "2026-10-24",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "spbu_events",
-          "source_name": "СПбГУ",
-          "url": "https://events.spbu.ru/tochka-opory",
           "published_date": null
         }
       ]
@@ -3555,6 +3459,35 @@
           "source": "mgimo_ann",
           "source_name": "МГИМО",
           "url": "https://mgimo.ru/about/news/announce/india-conf/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "6d3930728dbb",
+      "title": "VIII Международная конференция имени Е.Н.Солововой «Обучение иностранным языкам — современные проблемы и решения»",
+      "organizer": "Управление языковой подготовки и кафедра английского языка №4",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-11-06",
+      "event_end": "2026-11-07",
+      "submission_deadline": "2026-10-30",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-10-24",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/viii-solovova-conf/",
           "published_date": null
         }
       ]
@@ -5160,6 +5093,39 @@
       ]
     },
     {
+      "id": "6df787c87763",
+      "title": "XVII Международная конференция исследователей высшего образования",
+      "organizer": "НИУ ВШЭ",
+      "disciplines": [
+        "Экономика и менеджмент",
+        "Образование",
+        "Социология (включая демографию и антропологию)"
+      ],
+      "event_start": "2026-10-28",
+      "event_end": "2026-10-30",
+      "submission_deadline": "2026-06-10",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "organizer",
+        "disciplines",
+        "official_url"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "past",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://educonf.hse.ru/2026/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "a93b220822c4",
       "title": "Международный симпозиум «Молекулярная фотоника»",
       "organizer": "НИИ Физики СПбГУ",
@@ -6514,6 +6480,42 @@
       ]
     },
     {
+      "id": "3b21b2a02bdc",
+      "title": "Миграции в России и СССР в социально-экономическом, демографическом, культурном и человеческом измерении: история и современность",
+      "organizer": "НИУ ВШЭ – Пермь",
+      "disciplines": [
+        "Социология (включая демографию и антропологию)",
+        "История и археология"
+      ],
+      "event_start": "2026-10-29",
+      "event_end": "2026-10-30",
+      "submission_deadline": "2026-09-15",
+      "location": "Пермь",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "organizer",
+        "disciplines"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "past",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://perm.hse.ru/migration-conference",
+          "published_date": null
+        },
+        {
+          "source": "perm_ann_sci",
+          "source_name": "НИУ ВШЭ (Пермь)",
+          "url": "https://perm.hse.ru/announcements/1167554677.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "f6c71f3455dc",
       "title": "Четвертые Новиковские чтения: Феномен текста в современном гуманитарном знании: границы понятия",
       "organizer": "ИНИОН РАН",
@@ -6836,6 +6838,35 @@
           "source": "hse_ann_sci",
           "source_name": "НИУ ВШЭ",
           "url": "https://pravo.hse.ru/grpravo/announcements/1166455017.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "83f14bb2f787",
+      "title": "Управление образованием на основе данных. В поисках точки опоры",
+      "organizer": "Санкт-Петербургский государственный университет, Институт педагогики СПбГУ, Санкт-Петербургский центр оценки качества образования и информационных технологий (СПбЦОКОиИТ)",
+      "disciplines": [
+        "Образование"
+      ],
+      "event_start": "2026-10-30",
+      "event_end": "2026-10-30",
+      "submission_deadline": "2026-09-29",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "format"
+      ],
+      "first_seen": "2026-10-24",
+      "status": "past",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/tochka-opory",
           "published_date": null
         }
       ]
