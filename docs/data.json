@@ -1,8 +1,8 @@
 {
   "version": "0.23.0",
-  "generated_at": "2026-10-31T03:03:59+00:00",
-  "crawled_at": "2026-10-31T03:02:30+00:00",
-  "today": "2026-10-31",
+  "generated_at": "2026-11-01T03:01:04+00:00",
+  "crawled_at": "2026-11-01T03:00:48+00:00",
+  "today": "2026-11-01",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -90,67 +90,6 @@
     }
   ],
   "conferences": [
-    {
-      "id": "680932f3b186",
-      "title": "Принцип равенства: юридические и социальные аспекты",
-      "organizer": "Юридический факультет Московского государственного университета имени М.В. Ломоносова, Московский государственный юридический университет имени О.Е. Кутафина (МГЮА), Российская академия юридических наук, Московское отделение Ассоциации юристов России",
-      "disciplines": [
-        "Право"
-      ],
-      "event_start": "2026-11-24",
-      "event_end": "2026-11-27",
-      "submission_deadline": "2026-10-31",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "organizer",
-        "location",
-        "submission_deadline",
-        "format"
-      ],
-      "first_seen": "2026-10-19",
-      "status": "open",
-      "sources": [
-        {
-          "source": "msu_events",
-          "source_name": "МГУ",
-          "url": "https://conf.msu.ru/rus/event/10606/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "3fb1aa29807f",
-      "title": "Всероссийская научная конференция «Научная биография — вид исторического исследования Нового и новейшего времени»",
-      "organizer": "Санкт-Петербургский государственный университет",
-      "disciplines": [
-        "История и археология"
-      ],
-      "event_start": "2026-12-02",
-      "event_end": "2026-12-02",
-      "submission_deadline": "2026-10-31",
-      "location": "Санкт-Петербург",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "official_url"
-      ],
-      "first_seen": "2026-10-20",
-      "status": "open",
-      "sources": [
-        {
-          "source": "spbu_events",
-          "source_name": "СПбГУ",
-          "url": "https://events.spbu.ru/hist-bio",
-          "published_date": null
-        }
-      ]
-    },
     {
       "id": "6912bc1610ca",
       "title": "V Международная конференция «Цифровая трансформация международной экономической системы»",
@@ -2425,65 +2364,6 @@
       ]
     },
     {
-      "id": "f25ea28231d0",
-      "title": "Политико-географические чтения им. О.В. Витковского",
-      "organizer": "Институт Латинской Америки РАН и лаборатория геополитических исследований Института географии РАН",
-      "disciplines": [
-        "Политология и международные отношения (включая ГМУ)"
-      ],
-      "event_start": "2026-10-29",
-      "event_end": "2026-10-31",
-      "submission_deadline": "2026-10-01",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.967,
-      "field_flags": [
-        "disciplines"
-      ],
-      "first_seen": "2026-09-19",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "ras_events",
-          "source_name": "РАН",
-          "url": "https://new.ras.ru/press-center/events-additional/vii-politiko-geograficheskie-chteniya-im-o-v-vitkovskogo/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "e7baa02c1a50",
-      "title": "Современные коммуникации: вызовы, стратегии, перспективы",
-      "organizer": "кафедра рекламы и связей с общественностью",
-      "disciplines": [
-        "Медиа и коммуникации"
-      ],
-      "event_start": "2026-10-30",
-      "event_end": "2026-10-31",
-      "submission_deadline": "2026-10-01",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.883,
-      "field_flags": [
-        "location",
-        "disciplines",
-        "submission_deadline",
-        "format"
-      ],
-      "first_seen": "2026-10-23",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "mgimo_ann",
-          "source_name": "МГИМО",
-          "url": "https://mgimo.ru/about/news/announce/konf-sovremennye-kommunikatsii-vyzovy-strategii-perspektivy/",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "aa5c072a1a12",
       "title": "IV Международная научная конференция «Армия, элиты и общество на Ближнем Востоке и в Северной Африке. Кому принадлежит время?»",
       "organizer": "Институт востоковедения и африканистики НИУ ВШЭ – Санкт-Петербург",
@@ -3488,6 +3368,67 @@
           "source": "mgimo_ann",
           "source_name": "МГИМО",
           "url": "https://mgimo.ru/about/news/announce/viii-solovova-conf/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "680932f3b186",
+      "title": "Принцип равенства: юридические и социальные аспекты",
+      "organizer": "Юридический факультет Московского государственного университета имени М.В. Ломоносова, Московский государственный юридический университет имени О.Е. Кутафина (МГЮА), Российская академия юридических наук, Московское отделение Ассоциации юристов России",
+      "disciplines": [
+        "Право"
+      ],
+      "event_start": "2026-11-24",
+      "event_end": "2026-11-27",
+      "submission_deadline": "2026-10-31",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "organizer",
+        "location",
+        "submission_deadline",
+        "format"
+      ],
+      "first_seen": "2026-10-19",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "msu_events",
+          "source_name": "МГУ",
+          "url": "https://conf.msu.ru/rus/event/10606/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "3fb1aa29807f",
+      "title": "Всероссийская научная конференция «Научная биография — вид исторического исследования Нового и новейшего времени»",
+      "organizer": "Санкт-Петербургский государственный университет",
+      "disciplines": [
+        "История и археология"
+      ],
+      "event_start": "2026-12-02",
+      "event_end": "2026-12-02",
+      "submission_deadline": "2026-10-31",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "official_url"
+      ],
+      "first_seen": "2026-10-20",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/hist-bio",
           "published_date": null
         }
       ]
@@ -7078,6 +7019,65 @@
           "source": "msu_events",
           "source_name": "МГУ",
           "url": "https://conf.msu.ru/rus/event/10635/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "f25ea28231d0",
+      "title": "Политико-географические чтения им. О.В. Витковского",
+      "organizer": "Институт Латинской Америки РАН и лаборатория геополитических исследований Института географии РАН",
+      "disciplines": [
+        "Политология и международные отношения (включая ГМУ)"
+      ],
+      "event_start": "2026-10-29",
+      "event_end": "2026-10-31",
+      "submission_deadline": "2026-10-01",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.967,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-09-19",
+      "status": "past",
+      "sources": [
+        {
+          "source": "ras_events",
+          "source_name": "РАН",
+          "url": "https://new.ras.ru/press-center/events-additional/vii-politiko-geograficheskie-chteniya-im-o-v-vitkovskogo/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "e7baa02c1a50",
+      "title": "Современные коммуникации: вызовы, стратегии, перспективы",
+      "organizer": "кафедра рекламы и связей с общественностью",
+      "disciplines": [
+        "Медиа и коммуникации"
+      ],
+      "event_start": "2026-10-30",
+      "event_end": "2026-10-31",
+      "submission_deadline": "2026-10-01",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.883,
+      "field_flags": [
+        "location",
+        "disciplines",
+        "submission_deadline",
+        "format"
+      ],
+      "first_seen": "2026-10-23",
+      "status": "past",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/konf-sovremennye-kommunikatsii-vyzovy-strategii-perspektivy/",
           "published_date": null
         }
       ]
