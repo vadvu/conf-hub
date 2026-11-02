@@ -1,8 +1,8 @@
 window.CONF_DATA = {
   "version": "0.23.0",
-  "generated_at": "2026-11-01T03:01:04+00:00",
-  "crawled_at": "2026-11-01T03:00:48+00:00",
-  "today": "2026-11-01",
+  "generated_at": "2026-11-02T03:03:02+00:00",
+  "crawled_at": "2026-11-02T03:01:31+00:00",
+  "today": "2026-11-02",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -90,288 +90,6 @@ window.CONF_DATA = {
     }
   ],
   "conferences": [
-    {
-      "id": "6912bc1610ca",
-      "title": "V Международная конференция «Цифровая трансформация международной экономической системы»",
-      "organizer": "МГИМО",
-      "disciplines": [
-        "Экономика и менеджмент",
-        "Образование",
-        "Право"
-      ],
-      "event_start": "2026-11-10",
-      "event_end": "2026-11-10",
-      "submission_deadline": "2026-11-01",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "organizer",
-        "location",
-        "disciplines",
-        "submission_deadline",
-        "official_url"
-      ],
-      "first_seen": "2026-10-28",
-      "status": "open",
-      "sources": [
-        {
-          "source": "mgimo_ann",
-          "source_name": "МГИМО",
-          "url": "https://mgimo.ru/about/news/announce/digital-transformation-international-economic-system-2026/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "c709242b6354",
-      "title": "Геослёт 2026",
-      "organizer": "Факультет географии и геоинформационных технологий НИУ ВШЭ совместно с ГАОУ ДПО «Центр педагогического мастерства» г. Москвы и РОО «Ассоциация победителей олимпиад»",
-      "disciplines": [
-        "Образование"
-      ],
-      "event_start": "2026-11-13",
-      "event_end": "2026-11-14",
-      "submission_deadline": "2026-11-01",
-      "location": "Москва",
-      "format": "онлайн",
-      "official_url": null,
-      "confidence": 0.967,
-      "field_flags": [
-        "disciplines",
-        "submission_deadline",
-        "format"
-      ],
-      "first_seen": "2026-10-30",
-      "status": "open",
-      "sources": [
-        {
-          "source": "hse_ann_sci",
-          "source_name": "НИУ ВШЭ",
-          "url": "https://geography.hse.ru/announcements/1213418291.html",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "1d8af2d6126d",
-      "title": "Конференция молодых исследователей «Экономическая преступность и средства противодействия ей»",
-      "organizer": "Юридический клуб МГИМО при научной поддержке кафедры уголовного права, уголовного процесса и криминалистики МГИМО",
-      "disciplines": [
-        "Право"
-      ],
-      "event_start": "2026-11-16",
-      "event_end": "2026-11-16",
-      "submission_deadline": "2026-11-01",
-      "location": null,
-      "format": null,
-      "official_url": null,
-      "confidence": 0.917,
-      "field_flags": [
-        "title",
-        "location",
-        "disciplines",
-        "format"
-      ],
-      "first_seen": "2026-10-24",
-      "status": "open",
-      "sources": [
-        {
-          "source": "mgimo_ann",
-          "source_name": "МГИМО",
-          "url": "https://mgimo.ru/about/news/announce/economic-crime-countermeasures-16-11-26/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "b65253db9223",
-      "title": "Вторая Конференция неудач",
-      "organizer": "СПб ГБУ «Городской информационно-методический центр «Семья»», Социологический институт РАН – филиал ФНИСЦ РАН",
-      "disciplines": [
-        "Психология",
-        "Социология (включая демографию и антропологию)"
-      ],
-      "event_start": "2026-11-20",
-      "event_end": "2026-11-20",
-      "submission_deadline": "2026-11-01",
-      "location": "Санкт-Петербург",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "disciplines",
-        "format"
-      ],
-      "first_seen": "2026-09-12",
-      "status": "open",
-      "sources": [
-        {
-          "source": "socinst",
-          "source_name": "Социологический институт РАН",
-          "url": "https://socinst.ru/conferences/errors2026/#files",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "1f81097a9a33",
-      "title": "Журналистика XXI века: Общественный долг",
-      "organizer": "Институт «Высшая школа журналистики и массовых коммуникаций» СПбГУ",
-      "disciplines": [
-        "Медиа и коммуникации"
-      ],
-      "event_start": "2026-11-20",
-      "event_end": "2026-11-21",
-      "submission_deadline": "2026-11-01",
-      "location": "Санкт-Петербург",
-      "format": "очно",
-      "official_url": "https://j21.tb.ru/",
-      "confidence": 0.933,
-      "field_flags": [
-        "disciplines",
-        "format",
-        "official_url"
-      ],
-      "first_seen": "2026-10-24",
-      "status": "open",
-      "sources": [
-        {
-          "source": "spbu_events",
-          "source_name": "СПбГУ",
-          "url": "https://events.spbu.ru/journ_duty",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "b9cef332a398",
-      "title": "VIII Международная научно-практическая конференция «Искусственный интеллект в науке, образовании и технологиях»",
-      "organizer": "Департамент иностранных языков и Центр прикладных лингвистических исследований и тестирования «ИСТОК»",
-      "disciplines": [
-        "Компьютерные науки",
-        "Образование",
-        "Медиа и коммуникации"
-      ],
-      "event_start": "2026-12-01",
-      "event_end": "2026-12-02",
-      "submission_deadline": "2026-11-01",
-      "location": "Долгопрудный",
-      "format": "гибрид",
-      "official_url": "https://nwcc-conference.com/icaiset2026",
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "disciplines",
-        "event_start",
-        "event_end"
-      ],
-      "first_seen": "2026-10-19",
-      "status": "open",
-      "sources": [
-        {
-          "source": "mipt_events",
-          "source_name": "МФТИ",
-          "url": "https://mipt.ru/institute/events/viii-mezhdunarodnaya-nauchno-prakticheskaya-konferentsiya-iskusstvennyy-intellekt-v-nauke-obrazovani",
-          "published_date": "2026-09-29"
-        }
-      ]
-    },
-    {
-      "id": "7f846ac7afce",
-      "title": "Изображение и культ: сакральные образы в христианских традициях",
-      "organizer": "ИОН РАНХиГС, РГГУ и МАЭ РАН",
-      "disciplines": [
-        "История и археология",
-        "Филология и лингвистика",
-        "Философия, этика, религиоведение"
-      ],
-      "event_start": "2026-12-04",
-      "event_end": "2026-12-05",
-      "submission_deadline": "2026-11-01",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "disciplines"
-      ],
-      "first_seen": "2026-09-16",
-      "status": "open",
-      "sources": [
-        {
-          "source": "ion_ranepa",
-          "source_name": "ИОН РАНХиГС",
-          "url": "https://ion.ranepa.ru/announcement/nauchnaya-konferentsiya-izobrazhenie-i-kult-sakralnye-obrazy-v-khristianskikh-traditsiyakh-proydet-4/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "88d7f1e481bc",
-      "title": "Fields and Strings 2026",
-      "organizer": "Математический институт им. М. А. Стеклова РАН",
-      "disciplines": [
-        "Математика",
-        "Физика"
-      ],
-      "event_start": "2026-12-07",
-      "event_end": "2026-12-13",
-      "submission_deadline": "2026-11-01",
-      "location": null,
-      "format": null,
-      "official_url": null,
-      "confidence": 0.95,
-      "field_flags": [
-        "disciplines",
-        "format",
-        "official_url"
-      ],
-      "first_seen": "2026-10-27",
-      "status": "open",
-      "sources": [
-        {
-          "source": "mipt_events",
-          "source_name": "МФТИ",
-          "url": "https://mipt.ru/institute/events/priem-tezisov-na-konferentsiyu-mian-fields-and-strings-2026",
-          "published_date": "2026-10-26"
-        }
-      ]
-    },
-    {
-      "id": "795e8ec2aca9",
-      "title": "XIII Международная научная конференция «Культура и общество: новые тенденции в социальной и кросс-культурной психологии»",
-      "organizer": "Центр социокультурных исследований НИУ ВШЭ",
-      "disciplines": [
-        "Психология",
-        "Социология (включая демографию и антропологию)"
-      ],
-      "event_start": "2026-12-08",
-      "event_end": "2026-12-09",
-      "submission_deadline": "2026-11-01",
-      "location": null,
-      "format": "онлайн",
-      "official_url": "https://forms.yandex.ru/u/650180046938723b838ab58c/",
-      "confidence": 0.983,
-      "field_flags": [
-        "title",
-        "disciplines",
-        "official_url"
-      ],
-      "first_seen": "2026-10-03",
-      "status": "open",
-      "sources": [
-        {
-          "source": "hse_conf",
-          "source_name": "НИУ ВШЭ (конференции)",
-          "url": "https://scr.hse.ru/announcements/1205756691.html",
-          "published_date": null
-        }
-      ]
-    },
     {
       "id": "997337512948",
       "title": "XI Международная научная конференция «Конвергентные когнитивно-информационные технологии»",
@@ -775,6 +493,35 @@ window.CONF_DATA = {
       ]
     },
     {
+      "id": "bc0ee32c347f",
+      "title": "Развитие современной экономической науки: проблемы, тенденции, перспективы",
+      "organizer": "Кафедра финансов и финансового менеджмента и кафедра национальной экономики и государственного регулирования Одинцовского филиала МГИМО, Департамент статистики и анализа данных факультета экономических наук Национального исследовательского университета «Высшая школа экономики, студенческий научный клуб «Инвестор Финтеха» Одинцовского филиала МГИМО",
+      "disciplines": [
+        "Экономика и менеджмент"
+      ],
+      "event_start": "2026-11-26",
+      "event_end": "2026-11-28",
+      "submission_deadline": "2026-11-10",
+      "location": "Одинцово",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "organizer",
+        "official_url"
+      ],
+      "first_seen": "2026-11-02",
+      "status": "open",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/development-of-modern-economic-science-11-26/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "4f3cd46b1840",
       "title": "III Студенческая научная конференция «Terra Scientiarum: гуманитарные и междисциплинарные исследования»",
       "organizer": "Отдел литературоведения ИНИОН РАН; Кафедра истории зарубежной литературы МГУ им. М.В. Ломоносова",
@@ -1163,6 +910,36 @@ window.CONF_DATA = {
           "source": "mgimo_ann",
           "source_name": "МГИМО",
           "url": "https://mgimo.ru/about/news/announce/conf-sociology-12-26/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "48f2c46c569f",
+      "title": "Новые вызовы национальной экономической безопасности",
+      "organizer": "кафедра управления рисками и страхования МГИМО, МЦУР, Risk and Insurance Community, Русское общество управления рисками",
+      "disciplines": [
+        "Экономика и менеджмент"
+      ],
+      "event_start": "2026-11-25",
+      "event_end": "2026-11-26",
+      "submission_deadline": "2026-11-17",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "location",
+        "disciplines",
+        "official_url"
+      ],
+      "first_seen": "2026-11-02",
+      "status": "open",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/conf-national-economic-security-11-26/",
           "published_date": null
         }
       ]
@@ -2054,37 +1831,6 @@ window.CONF_DATA = {
       ]
     },
     {
-      "id": "3223c7d607a7",
-      "title": "Международный молодежный генетический форум — 2026",
-      "organizer": "Московский государственный университет имени М.В. Ломоносова, биологический факультет, кафедра генетики; Санкт-Петербургский государственный университет, биологический факультет, кафедра генетики и биотехнологии имени М.Е. Лобашева",
-      "disciplines": [
-        "Биология"
-      ],
-      "event_start": "2026-10-30",
-      "event_end": "2026-11-01",
-      "submission_deadline": "2026-09-15",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": "https://confhub.ru/rus/event/10569/",
-      "confidence": 0.95,
-      "field_flags": [
-        "title",
-        "location",
-        "disciplines",
-        "format"
-      ],
-      "first_seen": "2026-08-27",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "msu_events",
-          "source_name": "МГУ",
-          "url": "https://conf.msu.ru/rus/event/10569/",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "757e1453f8dc",
       "title": "Российское Просвещение: к 315-летию М. В. Ломоносова и С. П. Крашенинникова",
       "organizer": "Институт лингвистических исследований РАН, Музей антропологии и этнографии им. Петра Великого (Кунсткамера) РАН, Санкт-Петербургское отделение РАН, Санкт-Петербургский филиал Института истории естествознания и техники РАН",
@@ -2607,38 +2353,6 @@ window.CONF_DATA = {
           "source": "rsuh",
           "source_name": "РГГУ",
           "url": "https://www.rsuh.ru/anons/ix-finatlon-forum-professionaly-budushchego/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "6eaf52fb77cc",
-      "title": "Международная научно-практическая конференция Gesamtkunstwerk в художественных практиках XIX–XXI веков",
-      "organizer": "Государственный институт искусствознания, Московская государственная консерватория им. П.И. Чайковского, Российская академия музыки им. Гнесиных, Российский институт театрального искусства — ГИТИС",
-      "disciplines": [
-        "История и археология",
-        "Филология и лингвистика",
-        "Искусствоведение"
-      ],
-      "event_start": "2026-10-30",
-      "event_end": "2026-11-01",
-      "submission_deadline": "2026-10-10",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "disciplines",
-        "format",
-        "official_url"
-      ],
-      "first_seen": "2026-09-25",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "ras_events",
-          "source_name": "РАН",
-          "url": "https://new.ras.ru/press-center/events-additional/mezhdunarodnaya-nauchno-prakticheskaya-konferentsiya-gesamtkunstwerk-v-khudozhestvennykh-praktikakh/",
           "published_date": null
         }
       ]
@@ -3429,6 +3143,288 @@ window.CONF_DATA = {
           "source": "spbu_events",
           "source_name": "СПбГУ",
           "url": "https://events.spbu.ru/hist-bio",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "6912bc1610ca",
+      "title": "V Международная конференция «Цифровая трансформация международной экономической системы»",
+      "organizer": "МГИМО",
+      "disciplines": [
+        "Экономика и менеджмент",
+        "Образование",
+        "Право"
+      ],
+      "event_start": "2026-11-10",
+      "event_end": "2026-11-10",
+      "submission_deadline": "2026-11-01",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "organizer",
+        "location",
+        "disciplines",
+        "submission_deadline",
+        "official_url"
+      ],
+      "first_seen": "2026-10-28",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/digital-transformation-international-economic-system-2026/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "c709242b6354",
+      "title": "Геослёт 2026",
+      "organizer": "Факультет географии и геоинформационных технологий НИУ ВШЭ совместно с ГАОУ ДПО «Центр педагогического мастерства» г. Москвы и РОО «Ассоциация победителей олимпиад»",
+      "disciplines": [
+        "Образование"
+      ],
+      "event_start": "2026-11-13",
+      "event_end": "2026-11-14",
+      "submission_deadline": "2026-11-01",
+      "location": "Москва",
+      "format": "онлайн",
+      "official_url": null,
+      "confidence": 0.967,
+      "field_flags": [
+        "disciplines",
+        "submission_deadline",
+        "format"
+      ],
+      "first_seen": "2026-10-30",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://geography.hse.ru/announcements/1213418291.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "1d8af2d6126d",
+      "title": "Конференция молодых исследователей «Экономическая преступность и средства противодействия ей»",
+      "organizer": "Юридический клуб МГИМО при научной поддержке кафедры уголовного права, уголовного процесса и криминалистики МГИМО",
+      "disciplines": [
+        "Право"
+      ],
+      "event_start": "2026-11-16",
+      "event_end": "2026-11-16",
+      "submission_deadline": "2026-11-01",
+      "location": null,
+      "format": null,
+      "official_url": null,
+      "confidence": 0.917,
+      "field_flags": [
+        "title",
+        "location",
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-10-24",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/economic-crime-countermeasures-16-11-26/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "b65253db9223",
+      "title": "Вторая Конференция неудач",
+      "organizer": "СПб ГБУ «Городской информационно-методический центр «Семья»», Социологический институт РАН – филиал ФНИСЦ РАН",
+      "disciplines": [
+        "Психология",
+        "Социология (включая демографию и антропологию)"
+      ],
+      "event_start": "2026-11-20",
+      "event_end": "2026-11-20",
+      "submission_deadline": "2026-11-01",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-09-12",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "socinst",
+          "source_name": "Социологический институт РАН",
+          "url": "https://socinst.ru/conferences/errors2026/#files",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "1f81097a9a33",
+      "title": "Журналистика XXI века: Общественный долг",
+      "organizer": "Институт «Высшая школа журналистики и массовых коммуникаций» СПбГУ",
+      "disciplines": [
+        "Медиа и коммуникации"
+      ],
+      "event_start": "2026-11-20",
+      "event_end": "2026-11-21",
+      "submission_deadline": "2026-11-01",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": "https://j21.tb.ru/",
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines",
+        "format",
+        "official_url"
+      ],
+      "first_seen": "2026-10-24",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/journ_duty",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "b9cef332a398",
+      "title": "VIII Международная научно-практическая конференция «Искусственный интеллект в науке, образовании и технологиях»",
+      "organizer": "Департамент иностранных языков и Центр прикладных лингвистических исследований и тестирования «ИСТОК»",
+      "disciplines": [
+        "Компьютерные науки",
+        "Образование",
+        "Медиа и коммуникации"
+      ],
+      "event_start": "2026-12-01",
+      "event_end": "2026-12-02",
+      "submission_deadline": "2026-11-01",
+      "location": "Долгопрудный",
+      "format": "гибрид",
+      "official_url": "https://nwcc-conference.com/icaiset2026",
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "disciplines",
+        "event_start",
+        "event_end"
+      ],
+      "first_seen": "2026-10-19",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "mipt_events",
+          "source_name": "МФТИ",
+          "url": "https://mipt.ru/institute/events/viii-mezhdunarodnaya-nauchno-prakticheskaya-konferentsiya-iskusstvennyy-intellekt-v-nauke-obrazovani",
+          "published_date": "2026-09-29"
+        }
+      ]
+    },
+    {
+      "id": "7f846ac7afce",
+      "title": "Изображение и культ: сакральные образы в христианских традициях",
+      "organizer": "ИОН РАНХиГС, РГГУ и МАЭ РАН",
+      "disciplines": [
+        "История и археология",
+        "Филология и лингвистика",
+        "Философия, этика, религиоведение"
+      ],
+      "event_start": "2026-12-04",
+      "event_end": "2026-12-05",
+      "submission_deadline": "2026-11-01",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-09-16",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "ion_ranepa",
+          "source_name": "ИОН РАНХиГС",
+          "url": "https://ion.ranepa.ru/announcement/nauchnaya-konferentsiya-izobrazhenie-i-kult-sakralnye-obrazy-v-khristianskikh-traditsiyakh-proydet-4/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "88d7f1e481bc",
+      "title": "Fields and Strings 2026",
+      "organizer": "Математический институт им. М. А. Стеклова РАН",
+      "disciplines": [
+        "Математика",
+        "Физика"
+      ],
+      "event_start": "2026-12-07",
+      "event_end": "2026-12-13",
+      "submission_deadline": "2026-11-01",
+      "location": null,
+      "format": null,
+      "official_url": null,
+      "confidence": 0.95,
+      "field_flags": [
+        "disciplines",
+        "format",
+        "official_url"
+      ],
+      "first_seen": "2026-10-27",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "mipt_events",
+          "source_name": "МФТИ",
+          "url": "https://mipt.ru/institute/events/priem-tezisov-na-konferentsiyu-mian-fields-and-strings-2026",
+          "published_date": "2026-10-26"
+        }
+      ]
+    },
+    {
+      "id": "795e8ec2aca9",
+      "title": "XIII Международная научная конференция «Культура и общество: новые тенденции в социальной и кросс-культурной психологии»",
+      "organizer": "Центр социокультурных исследований НИУ ВШЭ",
+      "disciplines": [
+        "Психология",
+        "Социология (включая демографию и антропологию)"
+      ],
+      "event_start": "2026-12-08",
+      "event_end": "2026-12-09",
+      "submission_deadline": "2026-11-01",
+      "location": null,
+      "format": "онлайн",
+      "official_url": "https://forms.yandex.ru/u/650180046938723b838ab58c/",
+      "confidence": 0.983,
+      "field_flags": [
+        "title",
+        "disciplines",
+        "official_url"
+      ],
+      "first_seen": "2026-10-03",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "hse_conf",
+          "source_name": "НИУ ВШЭ (конференции)",
+          "url": "https://scr.hse.ru/announcements/1205756691.html",
           "published_date": null
         }
       ]
@@ -6457,6 +6453,37 @@ window.CONF_DATA = {
       ]
     },
     {
+      "id": "3223c7d607a7",
+      "title": "Международный молодежный генетический форум — 2026",
+      "organizer": "Московский государственный университет имени М.В. Ломоносова, биологический факультет, кафедра генетики; Санкт-Петербургский государственный университет, биологический факультет, кафедра генетики и биотехнологии имени М.Е. Лобашева",
+      "disciplines": [
+        "Биология"
+      ],
+      "event_start": "2026-10-30",
+      "event_end": "2026-11-01",
+      "submission_deadline": "2026-09-15",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": "https://confhub.ru/rus/event/10569/",
+      "confidence": 0.95,
+      "field_flags": [
+        "title",
+        "location",
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-08-27",
+      "status": "past",
+      "sources": [
+        {
+          "source": "msu_events",
+          "source_name": "МГУ",
+          "url": "https://conf.msu.ru/rus/event/10569/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "f6c71f3455dc",
       "title": "Четвертые Новиковские чтения: Феномен текста в современном гуманитарном знании: границы понятия",
       "organizer": "ИНИОН РАН",
@@ -7315,6 +7342,38 @@ window.CONF_DATA = {
           "source": "msu_events",
           "source_name": "МГУ",
           "url": "https://conf.msu.ru/rus/event/10751/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "6eaf52fb77cc",
+      "title": "Международная научно-практическая конференция Gesamtkunstwerk в художественных практиках XIX–XXI веков",
+      "organizer": "Государственный институт искусствознания, Московская государственная консерватория им. П.И. Чайковского, Российская академия музыки им. Гнесиных, Российский институт театрального искусства — ГИТИС",
+      "disciplines": [
+        "История и археология",
+        "Филология и лингвистика",
+        "Искусствоведение"
+      ],
+      "event_start": "2026-10-30",
+      "event_end": "2026-11-01",
+      "submission_deadline": "2026-10-10",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines",
+        "format",
+        "official_url"
+      ],
+      "first_seen": "2026-09-25",
+      "status": "past",
+      "sources": [
+        {
+          "source": "ras_events",
+          "source_name": "РАН",
+          "url": "https://new.ras.ru/press-center/events-additional/mezhdunarodnaya-nauchno-prakticheskaya-konferentsiya-gesamtkunstwerk-v-khudozhestvennykh-praktikakh/",
           "published_date": null
         }
       ]
