@@ -1,8 +1,8 @@
 {
   "version": "0.23.0",
-  "generated_at": "2026-11-03T08:24:00+00:00",
-  "crawled_at": "2026-11-03T05:11:05+00:00",
-  "today": "2026-11-03",
+  "generated_at": "2026-11-04T04:48:26+00:00",
+  "crawled_at": "2026-11-04T04:20:13+00:00",
+  "today": "2026-11-04",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -1367,37 +1367,6 @@
       ]
     },
     {
-      "id": "ed5385fe194a",
-      "title": "Современные проблемы фундаментальной и прикладной математики",
-      "organizer": "Московский государственный университет имени М.В.Ломоносова, Факультет вычислительной математики и кибернетики",
-      "disciplines": [
-        "Математика"
-      ],
-      "event_start": "2026-11-02",
-      "event_end": "2026-11-03",
-      "submission_deadline": "2026-06-30",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.967,
-      "field_flags": [
-        "title",
-        "location",
-        "disciplines",
-        "format"
-      ],
-      "first_seen": "2026-10-17",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "msu_events",
-          "source_name": "МГУ",
-          "url": "https://conf.msu.ru/rus/event/10480/",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "ec8d0531d6f8",
       "title": "Наука о народах: история, теория, методология",
       "organizer": "Ассоциация этнологов и антропологов России, Институт этнологии и антропологии им. Н.Н. Миклухо-Маклая РАН, Российский государственный гуманитарный университет (Учебно-научный институт антропологии и этнологии), Исторический факультет МГУ им. М.В. Ломоносова (Кафедра этнологии), Факультет гуманитарных наук НИУ Высшая школа экономики (Лаборатория региональных этнологических исследований)",
@@ -2069,36 +2038,6 @@
           "source": "msu_events",
           "source_name": "МГУ",
           "url": "https://conf.msu.ru/rus/event/10383/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "aa5c072a1a12",
-      "title": "IV Международная научная конференция «Армия, элиты и общество на Ближнем Востоке и в Северной Африке. Кому принадлежит время?»",
-      "organizer": "Институт востоковедения и африканистики НИУ ВШЭ – Санкт-Петербург",
-      "disciplines": [
-        "Социология (включая демографию и антропологию)",
-        "Политология и международные отношения (включая ГМУ)",
-        "История и археология"
-      ],
-      "event_start": "2026-10-31",
-      "event_end": "2026-11-03",
-      "submission_deadline": "2026-10-01",
-      "location": "Санкт-Петербург",
-      "format": "гибрид",
-      "official_url": "https://vk.cc/d1kK5E",
-      "confidence": 0.933,
-      "field_flags": [
-        "disciplines"
-      ],
-      "first_seen": "2026-09-22",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "hse_conf",
-          "source_name": "НИУ ВШЭ (конференции)",
-          "url": "https://spb.hse.ru/iaas/dmeas/announcements/1202059409.html",
           "published_date": null
         }
       ]
@@ -2931,34 +2870,6 @@
           "source": "mgimo_ann",
           "source_name": "МГИМО",
           "url": "https://mgimo.ru/about/news/announce/science-days-college-2026/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "4a7cb1d4dec4",
-      "title": "Исторический опыт взаимодействия России и Афганистана: уроки прошлого и перспективы будущего",
-      "organizer": "Кафедра международной безопасности факультета международных отношений Института международных отношений и политических наук; Университетский российско-афганский центр",
-      "disciplines": [
-        "Политология и международные отношения (включая ГМУ)"
-      ],
-      "event_start": "2026-11-03",
-      "event_end": "2026-11-03",
-      "submission_deadline": "2026-10-26",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.967,
-      "field_flags": [
-        "disciplines"
-      ],
-      "first_seen": "2026-09-24",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "rsuh",
-          "source_name": "РГГУ",
-          "url": "https://www.rsuh.ru/anons/istoriyu-i-perspektivy-vzaimodeystviya-rossii-i-afganistana-obsudyat-v-rggu/",
           "published_date": null
         }
       ]
@@ -5332,6 +5243,37 @@
       ]
     },
     {
+      "id": "ed5385fe194a",
+      "title": "Современные проблемы фундаментальной и прикладной математики",
+      "organizer": "Московский государственный университет имени М.В.Ломоносова, Факультет вычислительной математики и кибернетики",
+      "disciplines": [
+        "Математика"
+      ],
+      "event_start": "2026-11-02",
+      "event_end": "2026-11-03",
+      "submission_deadline": "2026-06-30",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.967,
+      "field_flags": [
+        "title",
+        "location",
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-10-17",
+      "status": "past",
+      "sources": [
+        {
+          "source": "msu_events",
+          "source_name": "МГУ",
+          "url": "https://conf.msu.ru/rus/event/10480/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "69f88043c1dc",
       "title": "VI Международный полевой этнографический симпозиум «ИНБАМ: Народные астрономические знания в культуре народов Урало-Поволжья»",
       "organizer": "Удмуртский институт истории, языка и литературы УдмФИЦ УрО РАН и Архитектурно-этнографический музей-заповедник «Лудорвай»",
@@ -7169,6 +7111,36 @@
       ]
     },
     {
+      "id": "aa5c072a1a12",
+      "title": "IV Международная научная конференция «Армия, элиты и общество на Ближнем Востоке и в Северной Африке. Кому принадлежит время?»",
+      "organizer": "Институт востоковедения и африканистики НИУ ВШЭ – Санкт-Петербург",
+      "disciplines": [
+        "Социология (включая демографию и антропологию)",
+        "Политология и международные отношения (включая ГМУ)",
+        "История и археология"
+      ],
+      "event_start": "2026-10-31",
+      "event_end": "2026-11-03",
+      "submission_deadline": "2026-10-01",
+      "location": "Санкт-Петербург",
+      "format": "гибрид",
+      "official_url": "https://vk.cc/d1kK5E",
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-09-22",
+      "status": "past",
+      "sources": [
+        {
+          "source": "hse_conf",
+          "source_name": "НИУ ВШЭ (конференции)",
+          "url": "https://spb.hse.ru/iaas/dmeas/announcements/1202059409.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "a36ae6ef0652",
       "title": "Научно-практическая конференция «Гидроминеральное сырьё нефтегазовых месторождений: технологии добычи и извлечения ценных компонентов»",
       "organizer": "Санкт-Петербургский государственный университет",
@@ -7551,6 +7523,34 @@
           "source": "spbu_events",
           "source_name": "СПбГУ",
           "url": "https://events.spbu.ru/galenskaya_2026",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "4a7cb1d4dec4",
+      "title": "Исторический опыт взаимодействия России и Афганистана: уроки прошлого и перспективы будущего",
+      "organizer": "Кафедра международной безопасности факультета международных отношений Института международных отношений и политических наук; Университетский российско-афганский центр",
+      "disciplines": [
+        "Политология и международные отношения (включая ГМУ)"
+      ],
+      "event_start": "2026-11-03",
+      "event_end": "2026-11-03",
+      "submission_deadline": "2026-10-26",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.967,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-09-24",
+      "status": "past",
+      "sources": [
+        {
+          "source": "rsuh",
+          "source_name": "РГГУ",
+          "url": "https://www.rsuh.ru/anons/istoriyu-i-perspektivy-vzaimodeystviya-rossii-i-afganistana-obsudyat-v-rggu/",
           "published_date": null
         }
       ]
