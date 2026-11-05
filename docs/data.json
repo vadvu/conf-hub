@@ -1,8 +1,8 @@
 {
   "version": "0.23.0",
-  "generated_at": "2026-11-04T04:48:26+00:00",
-  "crawled_at": "2026-11-04T04:20:13+00:00",
-  "today": "2026-11-04",
+  "generated_at": "2026-11-05T03:03:28+00:00",
+  "crawled_at": "2026-11-05T03:03:11+00:00",
+  "today": "2026-11-05",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -90,37 +90,6 @@
     }
   ],
   "conferences": [
-    {
-      "id": "836904cb4f4c",
-      "title": "VII Юткевичевские чтения «Неуловимый реализм: грани явления и проблема термина»",
-      "organizer": "кафедра истории театра и кино Института филологии и истории РГГУ, Государственный институт искусствознания",
-      "disciplines": [
-        "Филология и лингвистика",
-        "Искусствоведение"
-      ],
-      "event_start": "2026-11-26",
-      "event_end": "2026-11-27",
-      "submission_deadline": "2026-11-04",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "location",
-        "disciplines"
-      ],
-      "first_seen": "2026-10-19",
-      "status": "open",
-      "sources": [
-        {
-          "source": "rsuh",
-          "source_name": "РГГУ",
-          "url": "https://www.rsuh.ru/anons/v-rggu-proydut-vii-yutkevichevskie-chteniya-neulovimyy-realizm-grani-yavleniya-i-problema-termina/",
-          "published_date": null
-        }
-      ]
-    },
     {
       "id": "bbd18bb78eb1",
       "title": "I Международная научная конференция «Семиотика культуры и культурного ландшафта»",
@@ -3395,6 +3364,37 @@
           "source": "msu_events",
           "source_name": "МГУ",
           "url": "https://conf.msu.ru/rus/event/3801/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "836904cb4f4c",
+      "title": "VII Юткевичевские чтения «Неуловимый реализм: грани явления и проблема термина»",
+      "organizer": "кафедра истории театра и кино Института филологии и истории РГГУ, Государственный институт искусствознания",
+      "disciplines": [
+        "Филология и лингвистика",
+        "Искусствоведение"
+      ],
+      "event_start": "2026-11-26",
+      "event_end": "2026-11-27",
+      "submission_deadline": "2026-11-04",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-10-19",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "rsuh",
+          "source_name": "РГГУ",
+          "url": "https://www.rsuh.ru/anons/v-rggu-proydut-vii-yutkevichevskie-chteniya-neulovimyy-realizm-grani-yavleniya-i-problema-termina/",
           "published_date": null
         }
       ]
