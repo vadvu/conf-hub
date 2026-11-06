@@ -1,8 +1,8 @@
 {
   "version": "0.23.0",
-  "generated_at": "2026-11-05T03:03:28+00:00",
-  "crawled_at": "2026-11-05T03:03:11+00:00",
-  "today": "2026-11-05",
+  "generated_at": "2026-11-06T03:05:28+00:00",
+  "crawled_at": "2026-11-06T03:04:20+00:00",
+  "today": "2026-11-06",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -90,128 +90,6 @@
     }
   ],
   "conferences": [
-    {
-      "id": "bbd18bb78eb1",
-      "title": "I Международная научная конференция «Семиотика культуры и культурного ландшафта»",
-      "organizer": "НИТУ МИСИС, ИНИОН РАН, МГИК, IASSp+T",
-      "disciplines": [
-        "Филология и лингвистика",
-        "Философия, этика, религиоведение"
-      ],
-      "event_start": "2026-11-27",
-      "event_end": "2026-11-28",
-      "submission_deadline": "2026-11-05",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": "https://forms.yandex.ru/u/6aae3106eb61465b86ae89d0/",
-      "confidence": 0.933,
-      "field_flags": [
-        "organizer",
-        "location",
-        "disciplines"
-      ],
-      "first_seen": "2026-10-30",
-      "status": "open",
-      "sources": [
-        {
-          "source": "inion",
-          "source_name": "ИНИОН РАН",
-          "url": "https://inion.ru/ru/about/news/i-mezhdunarodnaia-nauchnaia-konferentciia-semiotika-kul-tury-i-kul-turnogo-landshafta/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "24b72b31386e",
-      "title": "Молодёжная конференция «Физика элементарных частиц и космология»",
-      "organizer": "Московский институт электроники и математики им. А.Н. Тихонова",
-      "disciplines": [
-        "Физика"
-      ],
-      "event_start": "2026-12-03",
-      "event_end": "2026-12-04",
-      "submission_deadline": "2026-11-05",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "organizer",
-        "disciplines",
-        "format"
-      ],
-      "first_seen": "2026-09-29",
-      "status": "open",
-      "sources": [
-        {
-          "source": "hse_conf",
-          "source_name": "НИУ ВШЭ (конференции)",
-          "url": "https://lepp.hse.ru/ysconf/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "15d6e4c0f456",
-      "title": "Физика элементарных частиц и космология 2026",
-      "organizer": "НИУ ВШЭ",
-      "disciplines": [
-        "Физика"
-      ],
-      "event_start": "2026-12-03",
-      "event_end": "2026-12-04",
-      "submission_deadline": "2026-11-05",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.917,
-      "field_flags": [
-        "title",
-        "location",
-        "format",
-        "official_url"
-      ],
-      "first_seen": "2026-10-27",
-      "status": "open",
-      "sources": [
-        {
-          "source": "mipt_events",
-          "source_name": "МФТИ",
-          "url": "https://mipt.ru/institute/events/priem-tezisov-na-xv-molodezhnuyu-konferentsiyu-fizika-elementarnykh-chastits-i-kosmologiya-2026",
-          "published_date": "2026-10-26"
-        }
-      ]
-    },
-    {
-      "id": "2c35f2a843a3",
-      "title": "Всероссийская научная конференция «Цифровизация общества: трансформация повседневных практик и исследовательских перспектив»",
-      "organizer": "Институт статистических исследований и экономики знаний НИУ ВШЭ",
-      "disciplines": [
-        "Экономика и менеджмент",
-        "Образование",
-        "Социология (включая демографию и антропологию)"
-      ],
-      "event_start": "2026-12-10",
-      "event_end": "2026-12-11",
-      "submission_deadline": "2026-11-05",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.967,
-      "field_flags": [
-        "disciplines"
-      ],
-      "first_seen": "2026-09-30",
-      "status": "open",
-      "sources": [
-        {
-          "source": "hse_conf",
-          "source_name": "НИУ ВШЭ (конференции)",
-          "url": "https://issek.hse.ru/announcements/1204749257.html",
-          "published_date": null
-        }
-      ]
-    },
     {
       "id": "a2ac84a99d9e",
       "title": "V Oeconomicus Forum",
@@ -2012,32 +1890,6 @@
       ]
     },
     {
-      "id": "ed092b94d151",
-      "title": "Всероссийская Школа-семинар молодых лексикологов, лексикографов и лингвогеографов",
-      "organizer": "Институт лингвистических исследований РАН",
-      "disciplines": [
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-11-04",
-      "event_end": "2026-11-05",
-      "submission_deadline": "2026-10-01",
-      "location": "Санкт-Петербург",
-      "format": "онлайн",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [],
-      "first_seen": "2026-09-09",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "iling_ras",
-          "source_name": "ИЛИ РАН",
-          "url": "https://iling.spb.ru/conferences/2026/5119",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "ee36d2836549",
       "title": "Всероссийская межвузовская научная конференция «Курбатовские чтения»",
       "organizer": "кафедра истории Средних веков СПбГУ",
@@ -3395,6 +3247,128 @@
           "source": "rsuh",
           "source_name": "РГГУ",
           "url": "https://www.rsuh.ru/anons/v-rggu-proydut-vii-yutkevichevskie-chteniya-neulovimyy-realizm-grani-yavleniya-i-problema-termina/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "bbd18bb78eb1",
+      "title": "I Международная научная конференция «Семиотика культуры и культурного ландшафта»",
+      "organizer": "НИТУ МИСИС, ИНИОН РАН, МГИК, IASSp+T",
+      "disciplines": [
+        "Филология и лингвистика",
+        "Философия, этика, религиоведение"
+      ],
+      "event_start": "2026-11-27",
+      "event_end": "2026-11-28",
+      "submission_deadline": "2026-11-05",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": "https://forms.yandex.ru/u/6aae3106eb61465b86ae89d0/",
+      "confidence": 0.933,
+      "field_flags": [
+        "organizer",
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-10-30",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "inion",
+          "source_name": "ИНИОН РАН",
+          "url": "https://inion.ru/ru/about/news/i-mezhdunarodnaia-nauchnaia-konferentciia-semiotika-kul-tury-i-kul-turnogo-landshafta/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "24b72b31386e",
+      "title": "Молодёжная конференция «Физика элементарных частиц и космология»",
+      "organizer": "Московский институт электроники и математики им. А.Н. Тихонова",
+      "disciplines": [
+        "Физика"
+      ],
+      "event_start": "2026-12-03",
+      "event_end": "2026-12-04",
+      "submission_deadline": "2026-11-05",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "organizer",
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-09-29",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "hse_conf",
+          "source_name": "НИУ ВШЭ (конференции)",
+          "url": "https://lepp.hse.ru/ysconf/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "15d6e4c0f456",
+      "title": "Физика элементарных частиц и космология 2026",
+      "organizer": "НИУ ВШЭ",
+      "disciplines": [
+        "Физика"
+      ],
+      "event_start": "2026-12-03",
+      "event_end": "2026-12-04",
+      "submission_deadline": "2026-11-05",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.917,
+      "field_flags": [
+        "title",
+        "location",
+        "format",
+        "official_url"
+      ],
+      "first_seen": "2026-10-27",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "mipt_events",
+          "source_name": "МФТИ",
+          "url": "https://mipt.ru/institute/events/priem-tezisov-na-xv-molodezhnuyu-konferentsiyu-fizika-elementarnykh-chastits-i-kosmologiya-2026",
+          "published_date": "2026-10-26"
+        }
+      ]
+    },
+    {
+      "id": "2c35f2a843a3",
+      "title": "Всероссийская научная конференция «Цифровизация общества: трансформация повседневных практик и исследовательских перспектив»",
+      "organizer": "Институт статистических исследований и экономики знаний НИУ ВШЭ",
+      "disciplines": [
+        "Экономика и менеджмент",
+        "Образование",
+        "Социология (включая демографию и антропологию)"
+      ],
+      "event_start": "2026-12-10",
+      "event_end": "2026-12-11",
+      "submission_deadline": "2026-11-05",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.967,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-09-30",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "hse_conf",
+          "source_name": "НИУ ВШЭ (конференции)",
+          "url": "https://issek.hse.ru/announcements/1204749257.html",
           "published_date": null
         }
       ]
@@ -7136,6 +7110,32 @@
           "source": "hse_conf",
           "source_name": "НИУ ВШЭ (конференции)",
           "url": "https://spb.hse.ru/iaas/dmeas/announcements/1202059409.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "ed092b94d151",
+      "title": "Всероссийская Школа-семинар молодых лексикологов, лексикографов и лингвогеографов",
+      "organizer": "Институт лингвистических исследований РАН",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-11-04",
+      "event_end": "2026-11-05",
+      "submission_deadline": "2026-10-01",
+      "location": "Санкт-Петербург",
+      "format": "онлайн",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [],
+      "first_seen": "2026-09-09",
+      "status": "past",
+      "sources": [
+        {
+          "source": "iling_ras",
+          "source_name": "ИЛИ РАН",
+          "url": "https://iling.spb.ru/conferences/2026/5119",
           "published_date": null
         }
       ]
