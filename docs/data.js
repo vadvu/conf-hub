@@ -1,8 +1,8 @@
 window.CONF_DATA = {
   "version": "0.23.0",
-  "generated_at": "2026-11-06T03:05:28+00:00",
-  "crawled_at": "2026-11-06T03:04:20+00:00",
-  "today": "2026-11-06",
+  "generated_at": "2026-11-07T09:01:55+00:00",
+  "crawled_at": "2026-11-07T04:57:41+00:00",
+  "today": "2026-11-07",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -90,37 +90,6 @@ window.CONF_DATA = {
     }
   ],
   "conferences": [
-    {
-      "id": "a2ac84a99d9e",
-      "title": "V Oeconomicus Forum",
-      "organizer": "Экономический клуб Oeconomicus им. А.В.Макаренко и факультет МЭО при поддержке Эндаумента МГИМО",
-      "disciplines": [
-        "Экономика и менеджмент"
-      ],
-      "event_start": "2026-11-24",
-      "event_end": "2026-11-24",
-      "submission_deadline": "2026-11-06",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": "https://forms.yandex.ru/u/6ac919136d2d73ba13d71d10/",
-      "confidence": 0.967,
-      "field_flags": [
-        "organizer",
-        "location",
-        "submission_deadline",
-        "official_url"
-      ],
-      "first_seen": "2026-11-03",
-      "status": "open",
-      "sources": [
-        {
-          "source": "mgimo_ann",
-          "source_name": "МГИМО",
-          "url": "https://mgimo.ru/about/news/announce/v-oeconomicus-forum/",
-          "published_date": null
-        }
-      ]
-    },
     {
       "id": "f87958cd3184",
       "title": "V Международный форум «Право будущего»",
@@ -728,6 +697,63 @@ window.CONF_DATA = {
       ]
     },
     {
+      "id": "d8dd753b0c49",
+      "title": "XIV Ежегодная конференция по мировой экономике",
+      "organizer": "Департамент мировой экономики Факультета мировой экономики и мировой политики НИУ ВШЭ совместно с Евразийским фондом стабилизации и развития (ЕФСР)",
+      "disciplines": [
+        "Экономика и менеджмент"
+      ],
+      "event_start": "2026-12-02",
+      "event_end": "2026-12-04",
+      "submission_deadline": "2026-11-17",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.983,
+      "field_flags": [
+        "official_url"
+      ],
+      "first_seen": "2026-11-07",
+      "status": "open",
+      "sources": [
+        {
+          "source": "hse_conf",
+          "source_name": "НИУ ВШЭ (конференции)",
+          "url": "https://we.hse.ru/announcements/1215795412.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "6b0e691942ba",
+      "title": "Юридический язык: проблемы изучения и преподавания",
+      "organizer": "Департамент теории права и сравнительного правоведения факультета права Национального исследовательского университета «Высшая школа экономики»",
+      "disciplines": [
+        "Право"
+      ],
+      "event_start": "2026-11-23",
+      "event_end": "2026-11-23",
+      "submission_deadline": "2026-11-18",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": "https://pravo.hse.ru/legalst/polls/1203605231.html",
+      "confidence": 0.967,
+      "field_flags": [
+        "title",
+        "disciplines"
+      ],
+      "first_seen": "2026-11-07",
+      "status": "open",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://pravo.hse.ru/announcements/1203656682.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "4246e307aa4e",
       "title": "Х Всероссийская конференция «Экология и управление природопользованием»",
       "organizer": "Национальный исследовательский Томский государственный университет, Биологический институт, Кафедра экологии, природопользования и экологической инженерии, Верхне-Обское Бассейновое Водное Управление, Департамент природных ресурсов и охраны окружающей среды Томской области, ОГБУ «Облкомприрода»",
@@ -872,6 +898,35 @@ window.CONF_DATA = {
           "source": "spbu_events",
           "source_name": "СПбГУ",
           "url": "https://events.spbu.ru/fizcult",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "2684fab29c00",
+      "title": "История современной России: методологические подходы, источниковая база, историографические дискуссии и новые исследовательские инструменты",
+      "organizer": "кафедра истории России новейшего времени и Учебно-научный центр «Новая Россия. История постсоветской России» РГГУ",
+      "disciplines": [
+        "История и археология"
+      ],
+      "event_start": "2026-11-30",
+      "event_end": "2026-11-30",
+      "submission_deadline": "2026-11-25",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 1.0,
+      "field_flags": [
+        "location",
+        "official_url"
+      ],
+      "first_seen": "2026-11-07",
+      "status": "open",
+      "sources": [
+        {
+          "source": "rsuh",
+          "source_name": "РГГУ",
+          "url": "https://www.rsuh.ru/anons/ot-perestroyki-do-sovremennosti-v-rggu-obsudyat-novye-podkhody-k-izucheniyu-istorii-rossii/",
           "published_date": null
         }
       ]
@@ -1395,34 +1450,6 @@ window.CONF_DATA = {
           "source": "iling_ras",
           "source_name": "ИЛИ РАН",
           "url": "https://iling.spb.ru/conferences/2026/5058",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "3f6e9aa172bb",
-      "title": "Прагматика в семантике. Оценка: реклейминг и другие механизмы сдвига",
-      "organizer": "Научно-учебная лаборатория лингвистической конфликтологии и современных коммуникативных практик факультета гуманитарных наук НИУ ВШЭ",
-      "disciplines": [
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-11-05",
-      "event_end": "2026-11-06",
-      "submission_deadline": "2026-09-10",
-      "location": "Москва",
-      "format": "онлайн",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "location"
-      ],
-      "first_seen": "2026-09-03",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "hse_conf",
-          "source_name": "НИУ ВШЭ (конференции)",
-          "url": "https://philology.hse.ru/conflictology/conference",
           "published_date": null
         }
       ]
@@ -2725,35 +2752,6 @@ window.CONF_DATA = {
       ]
     },
     {
-      "id": "ba4aff43e3b6",
-      "title": "Индия: диалог между цивилизацией и возможностями. Экономические успехи XXI века",
-      "organizer": "Экономический клуб Oeconomicus им. А.В.Макаренко",
-      "disciplines": [
-        "Экономика и менеджмент"
-      ],
-      "event_start": "2026-11-06",
-      "event_end": "2026-11-06",
-      "submission_deadline": "2026-10-28",
-      "location": "Не указан",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.917,
-      "field_flags": [
-        "location",
-        "format"
-      ],
-      "first_seen": "2026-10-25",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "mgimo_ann",
-          "source_name": "МГИМО",
-          "url": "https://mgimo.ru/about/news/announce/india-conf/",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "6d3930728dbb",
       "title": "VIII Международная конференция имени Е.Н.Солововой «Обучение иностранным языкам — современные проблемы и решения»",
       "organizer": "Управление языковой подготовки и кафедра английского языка №4",
@@ -3369,6 +3367,37 @@ window.CONF_DATA = {
           "source": "hse_conf",
           "source_name": "НИУ ВШЭ (конференции)",
           "url": "https://issek.hse.ru/announcements/1204749257.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "a2ac84a99d9e",
+      "title": "V Oeconomicus Forum",
+      "organizer": "Экономический клуб Oeconomicus им. А.В.Макаренко и факультет МЭО при поддержке Эндаумента МГИМО",
+      "disciplines": [
+        "Экономика и менеджмент"
+      ],
+      "event_start": "2026-11-24",
+      "event_end": "2026-11-24",
+      "submission_deadline": "2026-11-06",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": "https://forms.yandex.ru/u/6ac919136d2d73ba13d71d10/",
+      "confidence": 0.967,
+      "field_flags": [
+        "organizer",
+        "location",
+        "submission_deadline",
+        "official_url"
+      ],
+      "first_seen": "2026-11-03",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/v-oeconomicus-forum/",
           "published_date": null
         }
       ]
@@ -6269,6 +6298,34 @@ window.CONF_DATA = {
       ]
     },
     {
+      "id": "3f6e9aa172bb",
+      "title": "Прагматика в семантике. Оценка: реклейминг и другие механизмы сдвига",
+      "organizer": "Научно-учебная лаборатория лингвистической конфликтологии и современных коммуникативных практик факультета гуманитарных наук НИУ ВШЭ",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-11-05",
+      "event_end": "2026-11-06",
+      "submission_deadline": "2026-09-10",
+      "location": "Москва",
+      "format": "онлайн",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "location"
+      ],
+      "first_seen": "2026-09-03",
+      "status": "past",
+      "sources": [
+        {
+          "source": "hse_conf",
+          "source_name": "НИУ ВШЭ (конференции)",
+          "url": "https://philology.hse.ru/conflictology/conference",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "e0c673d0b62e",
       "title": "Институты публичной власти в Российской Федерации: история и современность",
       "organizer": "Исторический факультет",
@@ -7579,6 +7636,35 @@ window.CONF_DATA = {
           "source": "hse_ann_sci",
           "source_name": "НИУ ВШЭ",
           "url": "https://pravo.hse.ru/techlaw/announcements/1210136628.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "ba4aff43e3b6",
+      "title": "Индия: диалог между цивилизацией и возможностями. Экономические успехи XXI века",
+      "organizer": "Экономический клуб Oeconomicus им. А.В.Макаренко",
+      "disciplines": [
+        "Экономика и менеджмент"
+      ],
+      "event_start": "2026-11-06",
+      "event_end": "2026-11-06",
+      "submission_deadline": "2026-10-28",
+      "location": "Не указан",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.917,
+      "field_flags": [
+        "location",
+        "format"
+      ],
+      "first_seen": "2026-10-25",
+      "status": "past",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/india-conf/",
           "published_date": null
         }
       ]
