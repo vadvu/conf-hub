@@ -1,8 +1,8 @@
 window.CONF_DATA = {
   "version": "0.23.0",
-  "generated_at": "2026-11-07T09:01:55+00:00",
-  "crawled_at": "2026-11-07T04:57:41+00:00",
-  "today": "2026-11-07",
+  "generated_at": "2026-11-08T05:14:58+00:00",
+  "crawled_at": "2026-11-08T04:04:30+00:00",
+  "today": "2026-11-08",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -1307,38 +1307,6 @@ window.CONF_DATA = {
           "source_name": "ИЭА РАН",
           "url": "https://iea-ras.ru/?p=22297",
           "published_date": "2026-08-18"
-        }
-      ]
-    },
-    {
-      "id": "cc59ae201636",
-      "title": "Литература, язык и компьютерные технологии LiLaC (Literature - Language - Computing: Russian Contribution)",
-      "organizer": "Санкт-Петербургский государственный университет",
-      "disciplines": [
-        "Компьютерные науки",
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-11-05",
-      "event_end": "2026-11-07",
-      "submission_deadline": "2026-08-30",
-      "location": "Санкт-Петербург",
-      "format": null,
-      "official_url": "https://reg.spbu.ru/lilac-2026",
-      "confidence": 0.95,
-      "field_flags": [
-        "location",
-        "disciplines",
-        "format",
-        "official_url"
-      ],
-      "first_seen": "2026-07-23",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "spbu_events",
-          "source_name": "СПбГУ",
-          "url": "https://events.spbu.ru/lilac-2026",
-          "published_date": null
         }
       ]
     },
@@ -2747,35 +2715,6 @@ window.CONF_DATA = {
           "source": "perm_ann_sci",
           "source_name": "НИУ ВШЭ (Пермь)",
           "url": "https://perm.hse.ru/announcements/1198710772.html",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "6d3930728dbb",
-      "title": "VIII Международная конференция имени Е.Н.Солововой «Обучение иностранным языкам — современные проблемы и решения»",
-      "organizer": "Управление языковой подготовки и кафедра английского языка №4",
-      "disciplines": [
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-11-06",
-      "event_end": "2026-11-07",
-      "submission_deadline": "2026-10-30",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "location",
-        "disciplines"
-      ],
-      "first_seen": "2026-10-24",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "mgimo_ann",
-          "source_name": "МГИМО",
-          "url": "https://mgimo.ru/about/news/announce/viii-solovova-conf/",
           "published_date": null
         }
       ]
@@ -5959,6 +5898,38 @@ window.CONF_DATA = {
       ]
     },
     {
+      "id": "cc59ae201636",
+      "title": "Литература, язык и компьютерные технологии LiLaC (Literature - Language - Computing: Russian Contribution)",
+      "organizer": "Санкт-Петербургский государственный университет",
+      "disciplines": [
+        "Компьютерные науки",
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-11-05",
+      "event_end": "2026-11-07",
+      "submission_deadline": "2026-08-30",
+      "location": "Санкт-Петербург",
+      "format": null,
+      "official_url": "https://reg.spbu.ru/lilac-2026",
+      "confidence": 0.95,
+      "field_flags": [
+        "location",
+        "disciplines",
+        "format",
+        "official_url"
+      ],
+      "first_seen": "2026-07-23",
+      "status": "past",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/lilac-2026",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "0b5f7deead70",
       "title": "Веберовская междисциплинарная научная конференция",
       "organizer": "Центр фундаментальной социологии НИУ ВШЭ и журнал «Социологическое обозрение»",
@@ -7665,6 +7636,35 @@ window.CONF_DATA = {
           "source": "mgimo_ann",
           "source_name": "МГИМО",
           "url": "https://mgimo.ru/about/news/announce/india-conf/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "6d3930728dbb",
+      "title": "VIII Международная конференция имени Е.Н.Солововой «Обучение иностранным языкам — современные проблемы и решения»",
+      "organizer": "Управление языковой подготовки и кафедра английского языка №4",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-11-06",
+      "event_end": "2026-11-07",
+      "submission_deadline": "2026-10-30",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-10-24",
+      "status": "past",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/viii-solovova-conf/",
           "published_date": null
         }
       ]
