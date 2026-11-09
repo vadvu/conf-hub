@@ -1,8 +1,8 @@
 {
   "version": "0.23.0",
-  "generated_at": "2026-11-08T05:14:58+00:00",
-  "crawled_at": "2026-11-08T04:04:30+00:00",
-  "today": "2026-11-08",
+  "generated_at": "2026-11-09T03:02:36+00:00",
+  "crawled_at": "2026-11-09T03:02:35+00:00",
+  "today": "2026-11-09",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -90,69 +90,6 @@
     }
   ],
   "conferences": [
-    {
-      "id": "f87958cd3184",
-      "title": "V Международный форум «Право будущего»",
-      "organizer": "Отдел правоведения ИНИОН РАН и информационно-аналитический журнал «Социальные и гуманитарные науки: Отечественная и зарубежная литература»",
-      "disciplines": [
-        "Право"
-      ],
-      "event_start": "2026-11-18",
-      "event_end": "2026-11-19",
-      "submission_deadline": "2026-11-08",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "disciplines"
-      ],
-      "first_seen": "2026-09-23",
-      "status": "open",
-      "sources": [
-        {
-          "source": "inion",
-          "source_name": "ИНИОН РАН",
-          "url": "https://inion.ru/ru/about/news/v-mezhdunarodnyi-forum-pravo-budushchego-informatcionnoe-pis-mo/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "5ea3e4ee3ac6",
-      "title": "Актуальные вопросы этнологии и антропологии",
-      "organizer": "Институт этнологии и антропологии РАН",
-      "disciplines": [
-        "Социология (включая демографию и антропологию)"
-      ],
-      "event_start": "2026-12-02",
-      "event_end": "2026-12-04",
-      "submission_deadline": "2026-11-08",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "disciplines"
-      ],
-      "first_seen": "2026-09-15",
-      "status": "open",
-      "sources": [
-        {
-          "source": "iea_ras",
-          "source_name": "ИЭА РАН",
-          "url": "https://iea-ras.ru/?p=22453",
-          "published_date": "2026-09-11"
-        },
-        {
-          "source": "iea_ras",
-          "source_name": "ИЭА РАН",
-          "url": "https://iea-ras.ru/?p=22734",
-          "published_date": "2026-10-29"
-        }
-      ]
-    },
     {
       "id": "3418d19cb7a6",
       "title": "Православная культура в позднесоветском городе: проблемы и перспективы исследования",
@@ -3338,6 +3275,69 @@
           "source_name": "МГИМО",
           "url": "https://mgimo.ru/about/news/announce/v-oeconomicus-forum/",
           "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "f87958cd3184",
+      "title": "V Международный форум «Право будущего»",
+      "organizer": "Отдел правоведения ИНИОН РАН и информационно-аналитический журнал «Социальные и гуманитарные науки: Отечественная и зарубежная литература»",
+      "disciplines": [
+        "Право"
+      ],
+      "event_start": "2026-11-18",
+      "event_end": "2026-11-19",
+      "submission_deadline": "2026-11-08",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-09-23",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "inion",
+          "source_name": "ИНИОН РАН",
+          "url": "https://inion.ru/ru/about/news/v-mezhdunarodnyi-forum-pravo-budushchego-informatcionnoe-pis-mo/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "5ea3e4ee3ac6",
+      "title": "Актуальные вопросы этнологии и антропологии",
+      "organizer": "Институт этнологии и антропологии РАН",
+      "disciplines": [
+        "Социология (включая демографию и антропологию)"
+      ],
+      "event_start": "2026-12-02",
+      "event_end": "2026-12-04",
+      "submission_deadline": "2026-11-08",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "disciplines"
+      ],
+      "first_seen": "2026-09-15",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "iea_ras",
+          "source_name": "ИЭА РАН",
+          "url": "https://iea-ras.ru/?p=22453",
+          "published_date": "2026-09-11"
+        },
+        {
+          "source": "iea_ras",
+          "source_name": "ИЭА РАН",
+          "url": "https://iea-ras.ru/?p=22734",
+          "published_date": "2026-10-29"
         }
       ]
     },
