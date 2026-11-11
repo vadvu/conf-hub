@@ -1,8 +1,8 @@
 {
   "version": "0.23.0",
-  "generated_at": "2026-11-10T05:55:27+00:00",
-  "crawled_at": "2026-11-10T03:53:29+00:00",
-  "today": "2026-11-10",
+  "generated_at": "2026-11-11T04:47:44+00:00",
+  "crawled_at": "2026-11-11T03:27:22+00:00",
+  "today": "2026-11-11",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -90,127 +90,6 @@
     }
   ],
   "conferences": [
-    {
-      "id": "4fc874226a53",
-      "title": "Пятая Всероссийская научная конференция «Социальные исследования старения. Старение на месте и повседневность пожилых»",
-      "organizer": "Социологический институт РАН – филиал ФНИСЦ РАН",
-      "disciplines": [
-        "Социология (включая демографию и антропологию)"
-      ],
-      "event_start": "2026-11-20",
-      "event_end": "2026-11-20",
-      "submission_deadline": "2026-11-10",
-      "location": "Санкт-Петербург",
-      "format": "гибрид",
-      "official_url": "https://forms.socinst.ru/form/view?slug=ruraging2026",
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "disciplines",
-        "format"
-      ],
-      "first_seen": "2026-10-19",
-      "status": "open",
-      "sources": [
-        {
-          "source": "socinst",
-          "source_name": "Социологический институт РАН",
-          "url": "https://socinst.ru/conferences/ruraging2026/#files",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "bc0ee32c347f",
-      "title": "Развитие современной экономической науки: проблемы, тенденции, перспективы",
-      "organizer": "Кафедра финансов и финансового менеджмента и кафедра национальной экономики и государственного регулирования Одинцовского филиала МГИМО, Департамент статистики и анализа данных факультета экономических наук Национального исследовательского университета «Высшая школа экономики, студенческий научный клуб «Инвестор Финтеха» Одинцовского филиала МГИМО",
-      "disciplines": [
-        "Экономика и менеджмент"
-      ],
-      "event_start": "2026-11-26",
-      "event_end": "2026-11-28",
-      "submission_deadline": "2026-11-10",
-      "location": "Одинцово",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "organizer",
-        "official_url"
-      ],
-      "first_seen": "2026-11-02",
-      "status": "open",
-      "sources": [
-        {
-          "source": "mgimo_ann",
-          "source_name": "МГИМО",
-          "url": "https://mgimo.ru/about/news/announce/development-of-modern-economic-science-11-26/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "4f3cd46b1840",
-      "title": "III Студенческая научная конференция «Terra Scientiarum: гуманитарные и междисциплинарные исследования»",
-      "organizer": "Отдел литературоведения ИНИОН РАН; Кафедра истории зарубежной литературы МГУ им. М.В. Ломоносова",
-      "disciplines": [
-        "Филология и лингвистика",
-        "Философия, этика, религиоведение",
-        "Искусствоведение"
-      ],
-      "event_start": "2026-12-01",
-      "event_end": "2026-12-02",
-      "submission_deadline": "2026-11-10",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.9,
-      "field_flags": [
-        "disciplines"
-      ],
-      "first_seen": "2026-10-17",
-      "status": "open",
-      "sources": [
-        {
-          "source": "inion",
-          "source_name": "ИНИОН РАН",
-          "url": "https://inion.ru/ru/about/news/iii-studencheskaia-nauchnaia-konferentciia-terra-scientiarum-gumanitarnye-i-mezhdistciplinarnye-issledovaniia-2026-anons/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "dbd2e2a4f23c",
-      "title": "Алешинские чтения - 2026. Реальность и иллюзии в философии и литературе",
-      "organizer": "Философский факультет",
-      "disciplines": [
-        "Психология",
-        "История и археология",
-        "Филология и лингвистика",
-        "Философия, этика, религиоведение"
-      ],
-      "event_start": "2026-12-17",
-      "event_end": "2026-12-19",
-      "submission_deadline": "2026-11-10",
-      "location": "Аудитория 273 и другие",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "location",
-        "disciplines"
-      ],
-      "first_seen": "2026-09-19",
-      "status": "open",
-      "sources": [
-        {
-          "source": "rsuh",
-          "source_name": "РГГУ",
-          "url": "https://www.rsuh.ru/anons/konferentsiya-aleshinskie-chteniya-2026-realnost-i-illyuzii-v-filosofii-i-literature/",
-          "published_date": null
-        }
-      ]
-    },
     {
       "id": "d2bffd79546b",
       "title": "IX Межвузовская студенческая научная конференция «Язык профессии — язык для профессии»",
@@ -1208,36 +1087,6 @@
           "source": "iling_ras",
           "source_name": "ИЛИ РАН",
           "url": "https://iling.spb.ru/conferences/2026/4970",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "f40450c1b951",
-      "title": "Отражение или искажение? Проблема подлинности в текстах и исследованиях светской и религиозной культуры",
-      "organizer": "Школа актуальных гуманитарных исследований Института общественных наук Президентской академии и Институт истории религий и духовной культуры Российского государственного гуманитарного университета",
-      "disciplines": [
-        "История и археология",
-        "Филология и лингвистика",
-        "Философия, этика, религиоведение"
-      ],
-      "event_start": "2026-11-09",
-      "event_end": "2026-11-10",
-      "submission_deadline": "2026-09-01",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "disciplines"
-      ],
-      "first_seen": "2026-08-19",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "ion_ranepa",
-          "source_name": "ИОН РАНХиГС",
-          "url": "https://ion.ranepa.ru/announcement/9-10-noyabrya-sostoitsya-nauchnaya-konferentsiya-otrazhenie-ili-iskazhenie-problema-podlinnosti-v-te/",
           "published_date": null
         }
       ]
@@ -2323,34 +2172,6 @@
       ]
     },
     {
-      "id": "3cdcf70c9fb1",
-      "title": "XIV Всероссийская Московская Платоновская конференция",
-      "organizer": "Платоновский исследовательский научный центр (ПИНЦ) РГГУ; сектор античной философии Института философии РАН",
-      "disciplines": [
-        "Философия, этика, религиоведение"
-      ],
-      "event_start": "2026-11-10",
-      "event_end": "2026-11-10",
-      "submission_deadline": "2026-10-20",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "disciplines"
-      ],
-      "first_seen": "2026-09-15",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "rsuh",
-          "source_name": "РГГУ",
-          "url": "https://www.rsuh.ru/anons/v-rggu-obsudyat-nasledie-platona-i-ego-znachenie-dlya-sovremennoy-filosofii/",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "68532d42e35d",
       "title": "I Всероссийская конференция «Дни научных коммуникаций»",
       "organizer": "Библиотека по естественным наукам РАН",
@@ -2652,41 +2473,6 @@
           "source": "spbu_events",
           "source_name": "СПбГУ",
           "url": "https://events.spbu.ru/hist-bio",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "6912bc1610ca",
-      "title": "V Международная конференция «Цифровая трансформация международной экономической системы»",
-      "organizer": "МГИМО",
-      "disciplines": [
-        "Экономика и менеджмент",
-        "Образование",
-        "Право"
-      ],
-      "event_start": "2026-11-10",
-      "event_end": "2026-11-10",
-      "submission_deadline": "2026-11-01",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "organizer",
-        "location",
-        "disciplines",
-        "submission_deadline",
-        "official_url"
-      ],
-      "first_seen": "2026-10-28",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "mgimo_ann",
-          "source_name": "МГИМО",
-          "url": "https://mgimo.ru/about/news/announce/digital-transformation-international-economic-system-2026/",
           "published_date": null
         }
       ]
@@ -3337,6 +3123,127 @@
           "source": "socinst",
           "source_name": "Социологический институт РАН",
           "url": "https://socinst.ru/conferences/spbconf2026/#files",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "4fc874226a53",
+      "title": "Пятая Всероссийская научная конференция «Социальные исследования старения. Старение на месте и повседневность пожилых»",
+      "organizer": "Социологический институт РАН – филиал ФНИСЦ РАН",
+      "disciplines": [
+        "Социология (включая демографию и антропологию)"
+      ],
+      "event_start": "2026-11-20",
+      "event_end": "2026-11-20",
+      "submission_deadline": "2026-11-10",
+      "location": "Санкт-Петербург",
+      "format": "гибрид",
+      "official_url": "https://forms.socinst.ru/form/view?slug=ruraging2026",
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-10-19",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "socinst",
+          "source_name": "Социологический институт РАН",
+          "url": "https://socinst.ru/conferences/ruraging2026/#files",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "bc0ee32c347f",
+      "title": "Развитие современной экономической науки: проблемы, тенденции, перспективы",
+      "organizer": "Кафедра финансов и финансового менеджмента и кафедра национальной экономики и государственного регулирования Одинцовского филиала МГИМО, Департамент статистики и анализа данных факультета экономических наук Национального исследовательского университета «Высшая школа экономики, студенческий научный клуб «Инвестор Финтеха» Одинцовского филиала МГИМО",
+      "disciplines": [
+        "Экономика и менеджмент"
+      ],
+      "event_start": "2026-11-26",
+      "event_end": "2026-11-28",
+      "submission_deadline": "2026-11-10",
+      "location": "Одинцово",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "organizer",
+        "official_url"
+      ],
+      "first_seen": "2026-11-02",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/development-of-modern-economic-science-11-26/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "4f3cd46b1840",
+      "title": "III Студенческая научная конференция «Terra Scientiarum: гуманитарные и междисциплинарные исследования»",
+      "organizer": "Отдел литературоведения ИНИОН РАН; Кафедра истории зарубежной литературы МГУ им. М.В. Ломоносова",
+      "disciplines": [
+        "Филология и лингвистика",
+        "Философия, этика, религиоведение",
+        "Искусствоведение"
+      ],
+      "event_start": "2026-12-01",
+      "event_end": "2026-12-02",
+      "submission_deadline": "2026-11-10",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.9,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-10-17",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "inion",
+          "source_name": "ИНИОН РАН",
+          "url": "https://inion.ru/ru/about/news/iii-studencheskaia-nauchnaia-konferentciia-terra-scientiarum-gumanitarnye-i-mezhdistciplinarnye-issledovaniia-2026-anons/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "dbd2e2a4f23c",
+      "title": "Алешинские чтения - 2026. Реальность и иллюзии в философии и литературе",
+      "organizer": "Философский факультет",
+      "disciplines": [
+        "Психология",
+        "История и археология",
+        "Филология и лингвистика",
+        "Философия, этика, религиоведение"
+      ],
+      "event_start": "2026-12-17",
+      "event_end": "2026-12-19",
+      "submission_deadline": "2026-11-10",
+      "location": "Аудитория 273 и другие",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-09-19",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "rsuh",
+          "source_name": "РГГУ",
+          "url": "https://www.rsuh.ru/anons/konferentsiya-aleshinskie-chteniya-2026-realnost-i-illyuzii-v-filosofii-i-literature/",
           "published_date": null
         }
       ]
@@ -6145,6 +6052,36 @@
       ]
     },
     {
+      "id": "f40450c1b951",
+      "title": "Отражение или искажение? Проблема подлинности в текстах и исследованиях светской и религиозной культуры",
+      "organizer": "Школа актуальных гуманитарных исследований Института общественных наук Президентской академии и Институт истории религий и духовной культуры Российского государственного гуманитарного университета",
+      "disciplines": [
+        "История и археология",
+        "Филология и лингвистика",
+        "Философия, этика, религиоведение"
+      ],
+      "event_start": "2026-11-09",
+      "event_end": "2026-11-10",
+      "submission_deadline": "2026-09-01",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-08-19",
+      "status": "past",
+      "sources": [
+        {
+          "source": "ion_ranepa",
+          "source_name": "ИОН РАНХиГС",
+          "url": "https://ion.ranepa.ru/announcement/9-10-noyabrya-sostoitsya-nauchnaya-konferentsiya-otrazhenie-ili-iskazhenie-problema-podlinnosti-v-te/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "12240a8cb9a8",
       "title": "Третья Всероссийская конференция медиапедагогов",
       "organizer": "Факультет журналистики МГУ имени М.В. Ломоносова",
@@ -7528,6 +7465,34 @@
       ]
     },
     {
+      "id": "3cdcf70c9fb1",
+      "title": "XIV Всероссийская Московская Платоновская конференция",
+      "organizer": "Платоновский исследовательский научный центр (ПИНЦ) РГГУ; сектор античной философии Института философии РАН",
+      "disciplines": [
+        "Философия, этика, религиоведение"
+      ],
+      "event_start": "2026-11-10",
+      "event_end": "2026-11-10",
+      "submission_deadline": "2026-10-20",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-09-15",
+      "status": "past",
+      "sources": [
+        {
+          "source": "rsuh",
+          "source_name": "РГГУ",
+          "url": "https://www.rsuh.ru/anons/v-rggu-obsudyat-nasledie-platona-i-ego-znachenie-dlya-sovremennoy-filosofii/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "bbb8be406878",
       "title": "II Международная научно-практическая конференция памяти профессора Л. Н. Галенской",
       "organizer": "Санкт-Петербургский государственный университет",
@@ -7665,6 +7630,41 @@
           "source": "mgimo_ann",
           "source_name": "МГИМО",
           "url": "https://mgimo.ru/about/news/announce/viii-solovova-conf/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "6912bc1610ca",
+      "title": "V Международная конференция «Цифровая трансформация международной экономической системы»",
+      "organizer": "МГИМО",
+      "disciplines": [
+        "Экономика и менеджмент",
+        "Образование",
+        "Право"
+      ],
+      "event_start": "2026-11-10",
+      "event_end": "2026-11-10",
+      "submission_deadline": "2026-11-01",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "organizer",
+        "location",
+        "disciplines",
+        "submission_deadline",
+        "official_url"
+      ],
+      "first_seen": "2026-10-28",
+      "status": "past",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/digital-transformation-international-economic-system-2026/",
           "published_date": null
         }
       ]
