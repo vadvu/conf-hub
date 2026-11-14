@@ -1,8 +1,8 @@
 window.CONF_DATA = {
   "version": "0.23.0",
-  "generated_at": "2026-11-13T03:03:51+00:00",
-  "crawled_at": "2026-11-13T03:02:19+00:00",
-  "today": "2026-11-13",
+  "generated_at": "2026-11-14T06:44:33+00:00",
+  "crawled_at": "2026-11-14T04:41:53+00:00",
+  "today": "2026-11-14",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -654,6 +654,37 @@ window.CONF_DATA = {
           "source": "spbu_events",
           "source_name": "СПбГУ",
           "url": "https://events.spbu.ru/konferenciya-molodyh-uchenyh-lingvistov",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "2348f4f6c593",
+      "title": "Х Чтения памяти В.Т. Лисовского «Молодежь как субъект социальных отношений: от мировоззренческих установок к деятельности»",
+      "organizer": "Научный совет «Демографическое развитие и демографическая политика Российской Федерации» Федеральный научно-исследовательский социологический центр Российской академии наук Координационный центр развития кадрового потенциала в области демографии Санкт-Петербургский центр развития кадрового потенциала в области демографии",
+      "disciplines": [
+        "Социология (включая демографию и антропологию)"
+      ],
+      "event_start": "2026-12-17",
+      "event_end": "2026-12-18",
+      "submission_deadline": "2026-11-25",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "organizer",
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-11-14",
+      "status": "open",
+      "sources": [
+        {
+          "source": "socinst",
+          "source_name": "Социологический институт РАН",
+          "url": "https://socinst.ru/conferences/youngsoc2026/#files",
           "published_date": null
         }
       ]
@@ -1938,37 +1969,6 @@ window.CONF_DATA = {
       ]
     },
     {
-      "id": "b98117500da0",
-      "title": "Конференция имени А.А. Высоковского: «Путь преемственности»",
-      "organizer": "Факультет городского и регионального развития НИУ ВШЭ",
-      "disciplines": [
-        "Экономика и менеджмент",
-        "Социология (включая демографию и антропологию)"
-      ],
-      "event_start": "2026-11-11",
-      "event_end": "2026-11-13",
-      "submission_deadline": "2026-10-18",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.883,
-      "field_flags": [
-        "title",
-        "disciplines",
-        "format"
-      ],
-      "first_seen": "2026-10-19",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "hse_conf",
-          "source_name": "НИУ ВШЭ (конференции)",
-          "url": "https://vysokovsky.hse.ru/",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "b3feed14146f",
       "title": "Славянская взаимность в ХХ веке: К 80-летию проведения Славянского конгресса в Белграде в 1946 г.",
       "organizer": "Санкт-Петербургский государственный университет",
@@ -1994,69 +1994,6 @@ window.CONF_DATA = {
           "source": "spbu_events",
           "source_name": "СПбГУ",
           "url": "https://events.spbu.ru/slav_congress",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "d92bdf5f091c",
-      "title": "Форум генетических технологий «Сириус.ТехноГенетика»",
-      "organizer": "МФТИ",
-      "disciplines": [
-        "Биология",
-        "Медиа и коммуникации"
-      ],
-      "event_start": "2026-11-09",
-      "event_end": "2026-11-13",
-      "submission_deadline": "2026-10-20",
-      "location": "федеральная территория «Сириус»",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.95,
-      "field_flags": [
-        "location",
-        "disciplines",
-        "format",
-        "official_url"
-      ],
-      "first_seen": "2026-09-19",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "mipt_events",
-          "source_name": "МФТИ",
-          "url": "https://mipt.ru/institute/events/registratsiya-na-ii-forum-geneticheskikh-tekhnologiy-sirius-tekhnogenetika",
-          "published_date": "2026-09-18"
-        }
-      ]
-    },
-    {
-      "id": "68532d42e35d",
-      "title": "I Всероссийская конференция «Дни научных коммуникаций»",
-      "organizer": "Библиотека по естественным наукам РАН",
-      "disciplines": [
-        "Образование"
-      ],
-      "event_start": "2026-11-12",
-      "event_end": "2026-11-13",
-      "submission_deadline": "2026-10-20",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.917,
-      "field_flags": [
-        "title",
-        "disciplines",
-        "submission_deadline",
-        "format"
-      ],
-      "first_seen": "2026-10-17",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "ras_events",
-          "source_name": "РАН",
-          "url": "https://new.ras.ru/press-center/events-additional/i-vserossiyskaya-konferentsiya-dni-nauchnykh-kommunikatsiy/",
           "published_date": null
         }
       ]
@@ -2179,68 +2116,6 @@ window.CONF_DATA = {
           "source_name": "ЕУСПб",
           "url": "https://eusp.org/news/starit-priema-zayavok-konferenciya-zhizn-i-tekhnika-buduschego-issledovaniya-tekhnoutopiy",
           "published_date": "2026-09-10"
-        }
-      ]
-    },
-    {
-      "id": "c1c1a5645ce9",
-      "title": "Дни студенческой науки",
-      "organizer": "Университетский колледж МГИМО",
-      "disciplines": [
-        "Экономика и менеджмент",
-        "Право",
-        "Политология и международные отношения (включая ГМУ)",
-        "История и археология"
-      ],
-      "event_start": "2026-11-02",
-      "event_end": "2026-11-13",
-      "submission_deadline": "2026-10-26",
-      "location": "Одинцово",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "disciplines",
-        "submission_deadline"
-      ],
-      "first_seen": "2026-10-18",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "mgimo_ann",
-          "source_name": "МГИМО",
-          "url": "https://mgimo.ru/about/news/announce/science-days-college-2026/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "a8c2f9087345",
-      "title": "V симпозиум по корпусной лингвистике НИУ ВШЭ – Пермь «Корпусная лингвистика и дискурс анализ»",
-      "organizer": "НИУ ВШЭ",
-      "disciplines": [
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-11-13",
-      "event_end": "2026-11-13",
-      "submission_deadline": "2026-10-27",
-      "location": "Пермь",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "organizer"
-      ],
-      "first_seen": "2026-09-09",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "perm_ann_sci",
-          "source_name": "НИУ ВШЭ (Пермь)",
-          "url": "https://perm.hse.ru/announcements/1198710772.html",
-          "published_date": null
         }
       ]
     },
@@ -7410,6 +7285,69 @@ window.CONF_DATA = {
       ]
     },
     {
+      "id": "b98117500da0",
+      "title": "Конференция имени А.А. Высоковского: «Путь преемственности»",
+      "organizer": "Факультет городского и регионального развития НИУ ВШЭ",
+      "disciplines": [
+        "Экономика и менеджмент",
+        "Социология (включая демографию и антропологию)"
+      ],
+      "event_start": "2026-11-11",
+      "event_end": "2026-11-13",
+      "submission_deadline": "2026-10-18",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.883,
+      "field_flags": [
+        "title",
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-10-19",
+      "status": "past",
+      "sources": [
+        {
+          "source": "hse_conf",
+          "source_name": "НИУ ВШЭ (конференции)",
+          "url": "https://vysokovsky.hse.ru/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "d92bdf5f091c",
+      "title": "Форум генетических технологий «Сириус.ТехноГенетика»",
+      "organizer": "МФТИ",
+      "disciplines": [
+        "Биология",
+        "Медиа и коммуникации"
+      ],
+      "event_start": "2026-11-09",
+      "event_end": "2026-11-13",
+      "submission_deadline": "2026-10-20",
+      "location": "федеральная территория «Сириус»",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.95,
+      "field_flags": [
+        "location",
+        "disciplines",
+        "format",
+        "official_url"
+      ],
+      "first_seen": "2026-09-19",
+      "status": "past",
+      "sources": [
+        {
+          "source": "mipt_events",
+          "source_name": "МФТИ",
+          "url": "https://mipt.ru/institute/events/registratsiya-na-ii-forum-geneticheskikh-tekhnologiy-sirius-tekhnogenetika",
+          "published_date": "2026-09-18"
+        }
+      ]
+    },
+    {
       "id": "3cdcf70c9fb1",
       "title": "XIV Всероссийская Московская Платоновская конференция",
       "organizer": "Платоновский исследовательский научный центр (ПИНЦ) РГГУ; сектор античной философии Института философии РАН",
@@ -7433,6 +7371,37 @@ window.CONF_DATA = {
           "source": "rsuh",
           "source_name": "РГГУ",
           "url": "https://www.rsuh.ru/anons/v-rggu-obsudyat-nasledie-platona-i-ego-znachenie-dlya-sovremennoy-filosofii/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "68532d42e35d",
+      "title": "I Всероссийская конференция «Дни научных коммуникаций»",
+      "organizer": "Библиотека по естественным наукам РАН",
+      "disciplines": [
+        "Образование"
+      ],
+      "event_start": "2026-11-12",
+      "event_end": "2026-11-13",
+      "submission_deadline": "2026-10-20",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.917,
+      "field_flags": [
+        "title",
+        "disciplines",
+        "submission_deadline",
+        "format"
+      ],
+      "first_seen": "2026-10-17",
+      "status": "past",
+      "sources": [
+        {
+          "source": "ras_events",
+          "source_name": "РАН",
+          "url": "https://new.ras.ru/press-center/events-additional/i-vserossiyskaya-konferentsiya-dni-nauchnykh-kommunikatsiy/",
           "published_date": null
         }
       ]
@@ -7497,6 +7466,39 @@ window.CONF_DATA = {
       ]
     },
     {
+      "id": "c1c1a5645ce9",
+      "title": "Дни студенческой науки",
+      "organizer": "Университетский колледж МГИМО",
+      "disciplines": [
+        "Экономика и менеджмент",
+        "Право",
+        "Политология и международные отношения (включая ГМУ)",
+        "История и археология"
+      ],
+      "event_start": "2026-11-02",
+      "event_end": "2026-11-13",
+      "submission_deadline": "2026-10-26",
+      "location": "Одинцово",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "disciplines",
+        "submission_deadline"
+      ],
+      "first_seen": "2026-10-18",
+      "status": "past",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/science-days-college-2026/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "4a7cb1d4dec4",
       "title": "Исторический опыт взаимодействия России и Афганистана: уроки прошлого и перспективы будущего",
       "organizer": "Кафедра международной безопасности факультета международных отношений Института международных отношений и политических наук; Университетский российско-афганский центр",
@@ -7548,6 +7550,35 @@ window.CONF_DATA = {
           "source": "hse_ann_sci",
           "source_name": "НИУ ВШЭ",
           "url": "https://pravo.hse.ru/techlaw/announcements/1210136628.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "a8c2f9087345",
+      "title": "V симпозиум по корпусной лингвистике НИУ ВШЭ – Пермь «Корпусная лингвистика и дискурс анализ»",
+      "organizer": "НИУ ВШЭ",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-11-13",
+      "event_end": "2026-11-13",
+      "submission_deadline": "2026-10-27",
+      "location": "Пермь",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "organizer"
+      ],
+      "first_seen": "2026-09-09",
+      "status": "past",
+      "sources": [
+        {
+          "source": "perm_ann_sci",
+          "source_name": "НИУ ВШЭ (Пермь)",
+          "url": "https://perm.hse.ru/announcements/1198710772.html",
           "published_date": null
         }
       ]
