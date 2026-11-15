@@ -1,8 +1,8 @@
 {
   "version": "0.23.0",
-  "generated_at": "2026-11-14T06:44:33+00:00",
-  "crawled_at": "2026-11-14T04:41:53+00:00",
-  "today": "2026-11-14",
+  "generated_at": "2026-11-15T04:04:52+00:00",
+  "crawled_at": "2026-11-15T03:35:59+00:00",
+  "today": "2026-11-15",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -1723,34 +1723,6 @@
       ]
     },
     {
-      "id": "d0ff86016efc",
-      "title": "XX Ковалевские чтения «Жизненные миры новой современности»",
-      "organizer": "Санкт-Петербургский государственный университет",
-      "disciplines": [
-        "Социология (включая демографию и антропологию)"
-      ],
-      "event_start": "2026-11-12",
-      "event_end": "2026-11-14",
-      "submission_deadline": "2026-10-12",
-      "location": "Санкт-Петербург",
-      "format": "очно",
-      "official_url": "https://reg.spbu.ru/kovalev-2026/",
-      "confidence": 0.95,
-      "field_flags": [
-        "disciplines"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "spbu_events",
-          "source_name": "СПбГУ",
-          "url": "https://events.spbu.ru/kovalev-2026",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "59cf5d39bfbe",
       "title": "X Международный форум «Аrs Sacra Audit»",
       "organizer": "Московский государственный университет имени М.В.Ломоносова, Высшая школа государственного аудита, Студенческое научное общество ВШГА",
@@ -2028,37 +2000,6 @@
       ]
     },
     {
-      "id": "be32c153f617",
-      "title": "IX Международная конференция «Федерализм в современном публичном праве»",
-      "organizer": "Юридический клуб Международно-правовой факультет МГИМО",
-      "disciplines": [
-        "Право"
-      ],
-      "event_start": "2026-11-02",
-      "event_end": "2026-11-14",
-      "submission_deadline": "2026-10-25",
-      "location": "Москва, Санкт-Петербург",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "organizer",
-        "location",
-        "disciplines"
-      ],
-      "first_seen": "2026-10-03",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "mgimo_ann",
-          "source_name": "МГИМО",
-          "url": "https://mgimo.ru/about/news/announce/federalism-modern-public-law-11-26/",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "28bfde55d888",
       "title": "Динамическая урбанистика: проблемы роста городов",
       "organizer": "Центр арктической и северной урбанистики Высшей школы урбанистики имени А.А. Высоковского ФГРР НИУ ВШЭ и Тяньцзиньский университет",
@@ -2176,36 +2117,6 @@
           "source": "spbu_events",
           "source_name": "СПбГУ",
           "url": "https://events.spbu.ru/hist-bio",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "c709242b6354",
-      "title": "Геослёт 2026",
-      "organizer": "Факультет географии и геоинформационных технологий НИУ ВШЭ совместно с ГАОУ ДПО «Центр педагогического мастерства» г. Москвы и РОО «Ассоциация победителей олимпиад»",
-      "disciplines": [
-        "Образование"
-      ],
-      "event_start": "2026-11-13",
-      "event_end": "2026-11-14",
-      "submission_deadline": "2026-11-01",
-      "location": "Москва",
-      "format": "онлайн",
-      "official_url": null,
-      "confidence": 0.967,
-      "field_flags": [
-        "disciplines",
-        "submission_deadline",
-        "format"
-      ],
-      "first_seen": "2026-10-30",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "hse_ann_sci",
-          "source_name": "НИУ ВШЭ",
-          "url": "https://geography.hse.ru/announcements/1213418291.html",
           "published_date": null
         }
       ]
@@ -7164,6 +7075,34 @@
       ]
     },
     {
+      "id": "d0ff86016efc",
+      "title": "XX Ковалевские чтения «Жизненные миры новой современности»",
+      "organizer": "Санкт-Петербургский государственный университет",
+      "disciplines": [
+        "Социология (включая демографию и антропологию)"
+      ],
+      "event_start": "2026-11-12",
+      "event_end": "2026-11-14",
+      "submission_deadline": "2026-10-12",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": "https://reg.spbu.ru/kovalev-2026/",
+      "confidence": 0.95,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "past",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/kovalev-2026",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "5abc0fc780e3",
       "title": "VI Международная научно-практическая конференция «Лингвокультурные аспекты глобализационных процессов: Cтолкновение и взаимопроникновение культурных кодов»",
       "organizer": "ИНИОН РАН",
@@ -7435,6 +7374,37 @@
       ]
     },
     {
+      "id": "be32c153f617",
+      "title": "IX Международная конференция «Федерализм в современном публичном праве»",
+      "organizer": "Юридический клуб Международно-правовой факультет МГИМО",
+      "disciplines": [
+        "Право"
+      ],
+      "event_start": "2026-11-02",
+      "event_end": "2026-11-14",
+      "submission_deadline": "2026-10-25",
+      "location": "Москва, Санкт-Петербург",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "organizer",
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-10-03",
+      "status": "past",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/federalism-modern-public-law-11-26/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "56f1e6b50c41",
       "title": "Женщина и мир: агентность и забота",
       "organizer": "МГИМО",
@@ -7672,6 +7642,36 @@
           "source": "mgimo_ann",
           "source_name": "МГИМО",
           "url": "https://mgimo.ru/about/news/announce/digital-transformation-international-economic-system-2026/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "c709242b6354",
+      "title": "Геослёт 2026",
+      "organizer": "Факультет географии и геоинформационных технологий НИУ ВШЭ совместно с ГАОУ ДПО «Центр педагогического мастерства» г. Москвы и РОО «Ассоциация победителей олимпиад»",
+      "disciplines": [
+        "Образование"
+      ],
+      "event_start": "2026-11-13",
+      "event_end": "2026-11-14",
+      "submission_deadline": "2026-11-01",
+      "location": "Москва",
+      "format": "онлайн",
+      "official_url": null,
+      "confidence": 0.967,
+      "field_flags": [
+        "disciplines",
+        "submission_deadline",
+        "format"
+      ],
+      "first_seen": "2026-10-30",
+      "status": "past",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://geography.hse.ru/announcements/1213418291.html",
           "published_date": null
         }
       ]
