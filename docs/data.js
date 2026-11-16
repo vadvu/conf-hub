@@ -1,8 +1,8 @@
 window.CONF_DATA = {
   "version": "0.23.0",
-  "generated_at": "2026-11-15T04:04:52+00:00",
-  "crawled_at": "2026-11-15T03:35:59+00:00",
-  "today": "2026-11-15",
+  "generated_at": "2026-11-16T05:32:45+00:00",
+  "crawled_at": "2026-11-16T05:32:44+00:00",
+  "today": "2026-11-16",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -90,187 +90,6 @@ window.CONF_DATA = {
     }
   ],
   "conferences": [
-    {
-      "id": "a1cbd6b34ff0",
-      "title": "VI Международная конференция по социальной нейронауке в экологически валидных условиях «Городские пространства и мозг человека»",
-      "organizer": "Международная лаборатория социальной нейробиологии Института когнитивных нейронаук НИУ ВШЭ",
-      "disciplines": [
-        "Фундаментальная медицина (включая нейронауки)",
-        "Психология"
-      ],
-      "event_start": "2026-11-26",
-      "event_end": "2026-11-26",
-      "submission_deadline": "2026-11-15",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "disciplines",
-        "submission_deadline"
-      ],
-      "first_seen": "2026-10-28",
-      "status": "open",
-      "sources": [
-        {
-          "source": "hse_conf",
-          "source_name": "НИУ ВШЭ (конференции)",
-          "url": "https://neuro.hse.ru/ilsn/snevc/2026/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "51bf8a20edb2",
-      "title": "Немцы в Санкт-Петербурге (XVIII-XX вв.): исторический, биографический и коммуникативный аспекты",
-      "organizer": "Федеральный научно-исследовательский социологический центр Российской академии наук",
-      "disciplines": [
-        "История и археология"
-      ],
-      "event_start": "2026-11-27",
-      "event_end": "2026-11-27",
-      "submission_deadline": "2026-11-15",
-      "location": "Санкт-Петербург",
-      "format": "гибрид",
-      "official_url": "https://forms.socinst.ru/form/view?id=14",
-      "confidence": 0.933,
-      "field_flags": [
-        "organizer",
-        "disciplines",
-        "format",
-        "official_url"
-      ],
-      "first_seen": "2026-09-20",
-      "status": "open",
-      "sources": [
-        {
-          "source": "socinst",
-          "source_name": "Социологический институт РАН",
-          "url": "https://socinst.ru/conferences/germansspb2026/#files",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "ecd57b04eb51",
-      "title": "Неология. Неография — 2026",
-      "organizer": "Группа Словарей новых слов Отдела лексикографии современного русского языка Института лингвистических исследований Российской академии наук",
-      "disciplines": [
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-12-01",
-      "event_end": "2026-12-03",
-      "submission_deadline": "2026-11-15",
-      "location": null,
-      "format": "онлайн",
-      "official_url": null,
-      "confidence": 0.983,
-      "field_flags": [
-        "title",
-        "disciplines",
-        "official_url"
-      ],
-      "first_seen": "2026-07-18",
-      "status": "open",
-      "sources": [
-        {
-          "source": "iling_ras",
-          "source_name": "ИЛИ РАН",
-          "url": "https://iling.spb.ru/conferences/2026/5060",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "3b82184edb6f",
-      "title": "Философия в XXI веке: новые стратегии философского поиска",
-      "organizer": "Совет молодых ученых философского факультета МГУ имени М.В. Ломоносова",
-      "disciplines": [
-        "Философия, этика, религиоведение"
-      ],
-      "event_start": "2026-12-07",
-      "event_end": "2026-12-11",
-      "submission_deadline": "2026-11-15",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": "https://vk.com/smu_xxi",
-      "confidence": 0.933,
-      "field_flags": [
-        "location",
-        "disciplines",
-        "format",
-        "official_url"
-      ],
-      "first_seen": "2026-10-20",
-      "status": "open",
-      "sources": [
-        {
-          "source": "msu_events",
-          "source_name": "МГУ",
-          "url": "https://conf.msu.ru/rus/event/10747/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "741dfae67455",
-      "title": "Горизонты нанофотоники",
-      "organizer": "МФТИ",
-      "disciplines": [
-        "Физика"
-      ],
-      "event_start": "2026-12-22",
-      "event_end": "2026-12-24",
-      "submission_deadline": "2026-11-15",
-      "location": "Долгопрудный",
-      "format": "очно",
-      "official_url": "https://nanophotonics-conf.mipt.ru/",
-      "confidence": 0.883,
-      "field_flags": [
-        "disciplines",
-        "format"
-      ],
-      "first_seen": "2026-10-19",
-      "status": "open",
-      "sources": [
-        {
-          "source": "mipt_events",
-          "source_name": "МФТИ",
-          "url": "https://mipt.ru/institute/events/konferentsiya-gorizonty-nanofotoniki-2026",
-          "published_date": "2026-07-27"
-        }
-      ]
-    },
-    {
-      "id": "becef2ea336f",
-      "title": "Всероссийская научная конференция «Н.М. Карамзин и русская литература»",
-      "organizer": "Филологический факультет МГУ имени М.В. Ломоносова и кафедра истории русской литературы",
-      "disciplines": [
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-12-23",
-      "event_end": "2026-12-23",
-      "submission_deadline": "2026-11-15",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": "https://forms.yandex.ru/u/6ac922009029028116c43a4c",
-      "confidence": 0.95,
-      "field_flags": [
-        "organizer",
-        "disciplines"
-      ],
-      "first_seen": "2026-10-20",
-      "status": "open",
-      "sources": [
-        {
-          "source": "msu_events",
-          "source_name": "МГУ",
-          "url": "https://conf.msu.ru/rus/event/10748/",
-          "published_date": null
-        }
-      ]
-    },
     {
       "id": "63ff6b810421",
       "title": "Тринадцатая международная научно-практическая конференция «Бизнес-психология: теория и практика»",
@@ -2889,6 +2708,187 @@ window.CONF_DATA = {
           "source_name": "ЕУСПб",
           "url": "https://eusp.org/news/start-priema-zayavok-chetvertaya-mezhdisciplinarnaya-konferenciya-chuvstva-dayut-sdachi-40",
           "published_date": "2026-10-26"
+        }
+      ]
+    },
+    {
+      "id": "a1cbd6b34ff0",
+      "title": "VI Международная конференция по социальной нейронауке в экологически валидных условиях «Городские пространства и мозг человека»",
+      "organizer": "Международная лаборатория социальной нейробиологии Института когнитивных нейронаук НИУ ВШЭ",
+      "disciplines": [
+        "Фундаментальная медицина (включая нейронауки)",
+        "Психология"
+      ],
+      "event_start": "2026-11-26",
+      "event_end": "2026-11-26",
+      "submission_deadline": "2026-11-15",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "disciplines",
+        "submission_deadline"
+      ],
+      "first_seen": "2026-10-28",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "hse_conf",
+          "source_name": "НИУ ВШЭ (конференции)",
+          "url": "https://neuro.hse.ru/ilsn/snevc/2026/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "51bf8a20edb2",
+      "title": "Немцы в Санкт-Петербурге (XVIII-XX вв.): исторический, биографический и коммуникативный аспекты",
+      "organizer": "Федеральный научно-исследовательский социологический центр Российской академии наук",
+      "disciplines": [
+        "История и археология"
+      ],
+      "event_start": "2026-11-27",
+      "event_end": "2026-11-27",
+      "submission_deadline": "2026-11-15",
+      "location": "Санкт-Петербург",
+      "format": "гибрид",
+      "official_url": "https://forms.socinst.ru/form/view?id=14",
+      "confidence": 0.933,
+      "field_flags": [
+        "organizer",
+        "disciplines",
+        "format",
+        "official_url"
+      ],
+      "first_seen": "2026-09-20",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "socinst",
+          "source_name": "Социологический институт РАН",
+          "url": "https://socinst.ru/conferences/germansspb2026/#files",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "ecd57b04eb51",
+      "title": "Неология. Неография — 2026",
+      "organizer": "Группа Словарей новых слов Отдела лексикографии современного русского языка Института лингвистических исследований Российской академии наук",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-12-01",
+      "event_end": "2026-12-03",
+      "submission_deadline": "2026-11-15",
+      "location": null,
+      "format": "онлайн",
+      "official_url": null,
+      "confidence": 0.983,
+      "field_flags": [
+        "title",
+        "disciplines",
+        "official_url"
+      ],
+      "first_seen": "2026-07-18",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "iling_ras",
+          "source_name": "ИЛИ РАН",
+          "url": "https://iling.spb.ru/conferences/2026/5060",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "3b82184edb6f",
+      "title": "Философия в XXI веке: новые стратегии философского поиска",
+      "organizer": "Совет молодых ученых философского факультета МГУ имени М.В. Ломоносова",
+      "disciplines": [
+        "Философия, этика, религиоведение"
+      ],
+      "event_start": "2026-12-07",
+      "event_end": "2026-12-11",
+      "submission_deadline": "2026-11-15",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": "https://vk.com/smu_xxi",
+      "confidence": 0.933,
+      "field_flags": [
+        "location",
+        "disciplines",
+        "format",
+        "official_url"
+      ],
+      "first_seen": "2026-10-20",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "msu_events",
+          "source_name": "МГУ",
+          "url": "https://conf.msu.ru/rus/event/10747/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "741dfae67455",
+      "title": "Горизонты нанофотоники",
+      "organizer": "МФТИ",
+      "disciplines": [
+        "Физика"
+      ],
+      "event_start": "2026-12-22",
+      "event_end": "2026-12-24",
+      "submission_deadline": "2026-11-15",
+      "location": "Долгопрудный",
+      "format": "очно",
+      "official_url": "https://nanophotonics-conf.mipt.ru/",
+      "confidence": 0.883,
+      "field_flags": [
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-10-19",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "mipt_events",
+          "source_name": "МФТИ",
+          "url": "https://mipt.ru/institute/events/konferentsiya-gorizonty-nanofotoniki-2026",
+          "published_date": "2026-07-27"
+        }
+      ]
+    },
+    {
+      "id": "becef2ea336f",
+      "title": "Всероссийская научная конференция «Н.М. Карамзин и русская литература»",
+      "organizer": "Филологический факультет МГУ имени М.В. Ломоносова и кафедра истории русской литературы",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-12-23",
+      "event_end": "2026-12-23",
+      "submission_deadline": "2026-11-15",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": "https://forms.yandex.ru/u/6ac922009029028116c43a4c",
+      "confidence": 0.95,
+      "field_flags": [
+        "organizer",
+        "disciplines"
+      ],
+      "first_seen": "2026-10-20",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "msu_events",
+          "source_name": "МГУ",
+          "url": "https://conf.msu.ru/rus/event/10748/",
+          "published_date": null
         }
       ]
     },
