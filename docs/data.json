@@ -1,8 +1,8 @@
 {
   "version": "0.23.0",
-  "generated_at": "2026-11-16T05:32:45+00:00",
-  "crawled_at": "2026-11-16T05:32:44+00:00",
-  "today": "2026-11-16",
+  "generated_at": "2026-11-17T03:06:33+00:00",
+  "crawled_at": "2026-11-17T03:03:41+00:00",
+  "today": "2026-11-17",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -90,96 +90,6 @@
     }
   ],
   "conferences": [
-    {
-      "id": "63ff6b810421",
-      "title": "Тринадцатая международная научно-практическая конференция «Бизнес-психология: теория и практика»",
-      "organizer": "Не указано",
-      "disciplines": [
-        "Психология"
-      ],
-      "event_start": "2026-11-26",
-      "event_end": "2026-11-28",
-      "submission_deadline": "2026-11-16",
-      "location": null,
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.883,
-      "field_flags": [
-        "title",
-        "organizer",
-        "disciplines"
-      ],
-      "first_seen": "2026-07-16",
-      "status": "open",
-      "sources": [
-        {
-          "source": "hse_ann_sci",
-          "source_name": "НИУ ВШЭ",
-          "url": "https://www.hse.ru/ma/pb/announcements/1179766260.html",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "9d26e154f4bf",
-      "title": "СМИ и журналистика: слово молодым",
-      "organizer": "Факультет журналистики МГУ имени М.В. Ломоносова",
-      "disciplines": [
-        "Медиа и коммуникации"
-      ],
-      "event_start": "2026-12-03",
-      "event_end": "2026-12-03",
-      "submission_deadline": "2026-11-16",
-      "location": "Москва",
-      "format": "онлайн",
-      "official_url": "https://forms.yandex.ru/u/6abce4be1f1eb51f1d875d80/",
-      "confidence": 0.967,
-      "field_flags": [
-        "location",
-        "disciplines"
-      ],
-      "first_seen": "2026-10-02",
-      "status": "open",
-      "sources": [
-        {
-          "source": "msu_events",
-          "source_name": "МГУ",
-          "url": "https://conf.msu.ru/rus/event/9088/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "40ad45f47d00",
-      "title": "Социальные технологии в меняющемся мире: ценности, наука, образование",
-      "organizer": "Кафедра социологии",
-      "disciplines": [
-        "Образование",
-        "Социология (включая демографию и антропологию)"
-      ],
-      "event_start": "2026-12-04",
-      "event_end": "2026-12-04",
-      "submission_deadline": "2026-11-16",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": "https://forms.gle/59shkxwBbJeeqc7B6",
-      "confidence": 0.933,
-      "field_flags": [
-        "organizer",
-        "location",
-        "disciplines"
-      ],
-      "first_seen": "2026-10-31",
-      "status": "open",
-      "sources": [
-        {
-          "source": "mgimo_ann",
-          "source_name": "МГИМО",
-          "url": "https://mgimo.ru/about/news/announce/conf-sociology-12-26/",
-          "published_date": null
-        }
-      ]
-    },
     {
       "id": "48f2c46c569f",
       "title": "Новые вызовы национальной экономической безопасности",
@@ -606,6 +516,36 @@
       ]
     },
     {
+      "id": "205ee2fa6d70",
+      "title": "XXV Зимняя школа по механике сплошных сред",
+      "organizer": "Российский национальный комитет по теоретической и прикладной механике, Секция механики Отделения энергетики, машиностроения, механики и процессов управления РАН, Уральское отделение РАН, «Институт механики сплошных сред Уральского отделения Российской академии наук» – филиал Пермского федерального исследовательского центра Уральского отделения Российской академии наук",
+      "disciplines": [
+        "Математика",
+        "Физика"
+      ],
+      "event_start": "2027-02-16",
+      "event_end": "2027-02-19",
+      "submission_deadline": "2026-12-18",
+      "location": "Пермь",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "organizer",
+        "disciplines"
+      ],
+      "first_seen": "2026-11-17",
+      "status": "open",
+      "sources": [
+        {
+          "source": "ras_events",
+          "source_name": "РАН",
+          "url": "https://new.ras.ru/press-center/events-additional/xxv-zimnyaya-shkola-po-mekhanike-sploshnykh-sred/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "4d2dd4605d40",
       "title": "ХVII международная конференция «Африка: восстановление исторической справедливости и достижение подлинного суверенитета»",
       "organizer": "Институт Африки Российской академии наук и Министерство науки и высшего образования Российской Федерации",
@@ -688,6 +628,37 @@
           "source": "msu_events",
           "source_name": "МГУ",
           "url": "https://conf.msu.ru/rus/event/10753/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "50960fe2d03c",
+      "title": "Всероссийская научная конференция «Границы политического в меняющихся обществах (100-летию выхода «Понятия политического» Карла Шмитта посвящается)",
+      "organizer": "Социологический институт РАН – филиал ФНИСЦ РАН",
+      "disciplines": [
+        "Политология и международные отношения (включая ГМУ)"
+      ],
+      "event_start": "2027-03-25",
+      "event_end": "2027-03-26",
+      "submission_deadline": "2027-02-15",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": "https://forms.socinst.ru/form/view?id=20",
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "organizer",
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-11-17",
+      "status": "open",
+      "sources": [
+        {
+          "source": "socinst",
+          "source_name": "Социологический институт РАН",
+          "url": "https://socinst.ru/conferences/politicalborders2027/#files",
           "published_date": null
         }
       ]
@@ -1941,37 +1912,6 @@
       ]
     },
     {
-      "id": "1d8af2d6126d",
-      "title": "Конференция молодых исследователей «Экономическая преступность и средства противодействия ей»",
-      "organizer": "Юридический клуб МГИМО при научной поддержке кафедры уголовного права, уголовного процесса и криминалистики МГИМО",
-      "disciplines": [
-        "Право"
-      ],
-      "event_start": "2026-11-16",
-      "event_end": "2026-11-16",
-      "submission_deadline": "2026-11-01",
-      "location": null,
-      "format": null,
-      "official_url": null,
-      "confidence": 0.917,
-      "field_flags": [
-        "title",
-        "location",
-        "disciplines",
-        "format"
-      ],
-      "first_seen": "2026-10-24",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "mgimo_ann",
-          "source_name": "МГИМО",
-          "url": "https://mgimo.ru/about/news/announce/economic-crime-countermeasures-16-11-26/",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "b65253db9223",
       "title": "Вторая Конференция неудач",
       "organizer": "СПб ГБУ «Городской информационно-методический центр «Семья»», Социологический институт РАН – филиал ФНИСЦ РАН",
@@ -2888,6 +2828,96 @@
           "source": "msu_events",
           "source_name": "МГУ",
           "url": "https://conf.msu.ru/rus/event/10748/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "63ff6b810421",
+      "title": "Тринадцатая международная научно-практическая конференция «Бизнес-психология: теория и практика»",
+      "organizer": "Не указано",
+      "disciplines": [
+        "Психология"
+      ],
+      "event_start": "2026-11-26",
+      "event_end": "2026-11-28",
+      "submission_deadline": "2026-11-16",
+      "location": null,
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.883,
+      "field_flags": [
+        "title",
+        "organizer",
+        "disciplines"
+      ],
+      "first_seen": "2026-07-16",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://www.hse.ru/ma/pb/announcements/1179766260.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "9d26e154f4bf",
+      "title": "СМИ и журналистика: слово молодым",
+      "organizer": "Факультет журналистики МГУ имени М.В. Ломоносова",
+      "disciplines": [
+        "Медиа и коммуникации"
+      ],
+      "event_start": "2026-12-03",
+      "event_end": "2026-12-03",
+      "submission_deadline": "2026-11-16",
+      "location": "Москва",
+      "format": "онлайн",
+      "official_url": "https://forms.yandex.ru/u/6abce4be1f1eb51f1d875d80/",
+      "confidence": 0.967,
+      "field_flags": [
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-10-02",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "msu_events",
+          "source_name": "МГУ",
+          "url": "https://conf.msu.ru/rus/event/9088/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "40ad45f47d00",
+      "title": "Социальные технологии в меняющемся мире: ценности, наука, образование",
+      "organizer": "Кафедра социологии",
+      "disciplines": [
+        "Образование",
+        "Социология (включая демографию и антропологию)"
+      ],
+      "event_start": "2026-12-04",
+      "event_end": "2026-12-04",
+      "submission_deadline": "2026-11-16",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": "https://forms.gle/59shkxwBbJeeqc7B6",
+      "confidence": 0.933,
+      "field_flags": [
+        "organizer",
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-10-31",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/conf-sociology-12-26/",
           "published_date": null
         }
       ]
@@ -7672,6 +7702,37 @@
           "source": "hse_ann_sci",
           "source_name": "НИУ ВШЭ",
           "url": "https://geography.hse.ru/announcements/1213418291.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "1d8af2d6126d",
+      "title": "Конференция молодых исследователей «Экономическая преступность и средства противодействия ей»",
+      "organizer": "Юридический клуб МГИМО при научной поддержке кафедры уголовного права, уголовного процесса и криминалистики МГИМО",
+      "disciplines": [
+        "Право"
+      ],
+      "event_start": "2026-11-16",
+      "event_end": "2026-11-16",
+      "submission_deadline": "2026-11-01",
+      "location": null,
+      "format": null,
+      "official_url": null,
+      "confidence": 0.917,
+      "field_flags": [
+        "title",
+        "location",
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-10-24",
+      "status": "past",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/economic-crime-countermeasures-16-11-26/",
           "published_date": null
         }
       ]
