@@ -1,8 +1,8 @@
 {
   "version": "0.23.0",
-  "generated_at": "2026-11-17T03:06:33+00:00",
-  "crawled_at": "2026-11-17T03:03:41+00:00",
-  "today": "2026-11-17",
+  "generated_at": "2026-11-18T06:43:10+00:00",
+  "crawled_at": "2026-11-18T03:46:11+00:00",
+  "today": "2026-11-18",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -90,64 +90,6 @@
     }
   ],
   "conferences": [
-    {
-      "id": "48f2c46c569f",
-      "title": "Новые вызовы национальной экономической безопасности",
-      "organizer": "кафедра управления рисками и страхования МГИМО, МЦУР, Risk and Insurance Community, Русское общество управления рисками",
-      "disciplines": [
-        "Экономика и менеджмент"
-      ],
-      "event_start": "2026-11-25",
-      "event_end": "2026-11-26",
-      "submission_deadline": "2026-11-17",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "location",
-        "disciplines",
-        "official_url"
-      ],
-      "first_seen": "2026-11-02",
-      "status": "open",
-      "sources": [
-        {
-          "source": "mgimo_ann",
-          "source_name": "МГИМО",
-          "url": "https://mgimo.ru/about/news/announce/conf-national-economic-security-11-26/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "d8dd753b0c49",
-      "title": "XIV Ежегодная конференция по мировой экономике",
-      "organizer": "Департамент мировой экономики Факультета мировой экономики и мировой политики НИУ ВШЭ совместно с Евразийским фондом стабилизации и развития (ЕФСР)",
-      "disciplines": [
-        "Экономика и менеджмент"
-      ],
-      "event_start": "2026-12-02",
-      "event_end": "2026-12-04",
-      "submission_deadline": "2026-11-17",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.983,
-      "field_flags": [
-        "official_url"
-      ],
-      "first_seen": "2026-11-07",
-      "status": "open",
-      "sources": [
-        {
-          "source": "hse_conf",
-          "source_name": "НИУ ВШЭ (конференции)",
-          "url": "https://we.hse.ru/announcements/1215795412.html",
-          "published_date": null
-        }
-      ]
-    },
     {
       "id": "6b0e691942ba",
       "title": "Юридический язык: проблемы изучения и преподавания",
@@ -756,6 +698,35 @@
       ]
     },
     {
+      "id": "3b58096a1a15",
+      "title": "Четвертая международная научная конференция «Исламская Республика Иран в эпоху глобальных трансформаций»",
+      "organizer": "Отдел Ближнего и Постсоветского Востока ИНИОН РАН",
+      "disciplines": [
+        "Политология и международные отношения (включая ГМУ)"
+      ],
+      "event_start": "2027-03-23",
+      "event_end": "2027-03-23",
+      "submission_deadline": "2026-03-13",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": "https://forms.yandex.ru/u/6a9fbdf895add516c12d9a85",
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "disciplines"
+      ],
+      "first_seen": "2026-11-18",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "inion",
+          "source_name": "ИНИОН РАН",
+          "url": "https://inion.ru/ru/about/news/chetvertaia-mezhdunarodnaia-nauchnaia-konferentciia-islamskaia-respublika-iran-v-epokhu-global-nykh-transformatcii/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "f46fd713c9b9",
       "title": "II Международная научная конференция «Судьба археологии в 1930-е годы: учреждения и сотрудники»",
       "organizer": "Институт истории материальной культуры РАН, Санкт-Петербургское отделение РАН, Государственный Эрмитаж, Санкт-Петербургский филиал Архива РАН, Музей антропологии и этнографии им. Петра Великого (Кунсткамера) РАН",
@@ -1062,35 +1033,6 @@
           "source_name": "МФТИ",
           "url": "https://mipt.ru/institute/events/registratsiya-na-8-mezhdunarodnuyu-konferentsiyu-po-fizike-chastits-i-astrofizike-icppa-2026",
           "published_date": "2026-07-13"
-        }
-      ]
-    },
-    {
-      "id": "757e1453f8dc",
-      "title": "Российское Просвещение: к 315-летию М. В. Ломоносова и С. П. Крашенинникова",
-      "organizer": "Институт лингвистических исследований РАН, Музей антропологии и этнографии им. Петра Великого (Кунсткамера) РАН, Санкт-Петербургское отделение РАН, Санкт-Петербургский филиал Института истории естествознания и техники РАН",
-      "disciplines": [
-        "История и археология",
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-11-16",
-      "event_end": "2026-11-17",
-      "submission_deadline": "2026-09-15",
-      "location": "Санкт-Петербург",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "disciplines"
-      ],
-      "first_seen": "2026-07-23",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "iling_ras",
-          "source_name": "ИЛИ РАН",
-          "url": "https://iling.spb.ru/conferences/2026/5067",
-          "published_date": null
         }
       ]
     },
@@ -1541,32 +1483,6 @@
           "source": "msu_events",
           "source_name": "МГУ",
           "url": "https://conf.msu.ru/rus/event/10574/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "e42bb159902d",
-      "title": "Чтения памяти Александра Владимировича Бондарко «Актуальные проблемы функциональной грамматики»",
-      "organizer": "Отдел теории грамматики",
-      "disciplines": [
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-11-17",
-      "event_end": "2026-11-17",
-      "submission_deadline": "2026-10-15",
-      "location": null,
-      "format": "онлайн",
-      "official_url": null,
-      "confidence": 0.95,
-      "field_flags": [],
-      "first_seen": "2026-09-03",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "iling_ras",
-          "source_name": "ИЛИ РАН",
-          "url": "https://iling.spb.ru/conferences/2026/5118",
           "published_date": null
         }
       ]
@@ -2918,6 +2834,64 @@
           "source": "mgimo_ann",
           "source_name": "МГИМО",
           "url": "https://mgimo.ru/about/news/announce/conf-sociology-12-26/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "48f2c46c569f",
+      "title": "Новые вызовы национальной экономической безопасности",
+      "organizer": "кафедра управления рисками и страхования МГИМО, МЦУР, Risk and Insurance Community, Русское общество управления рисками",
+      "disciplines": [
+        "Экономика и менеджмент"
+      ],
+      "event_start": "2026-11-25",
+      "event_end": "2026-11-26",
+      "submission_deadline": "2026-11-17",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "location",
+        "disciplines",
+        "official_url"
+      ],
+      "first_seen": "2026-11-02",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/conf-national-economic-security-11-26/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "d8dd753b0c49",
+      "title": "XIV Ежегодная конференция по мировой экономике",
+      "organizer": "Департамент мировой экономики Факультета мировой экономики и мировой политики НИУ ВШЭ совместно с Евразийским фондом стабилизации и развития (ЕФСР)",
+      "disciplines": [
+        "Экономика и менеджмент"
+      ],
+      "event_start": "2026-12-02",
+      "event_end": "2026-12-04",
+      "submission_deadline": "2026-11-17",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.983,
+      "field_flags": [
+        "official_url"
+      ],
+      "first_seen": "2026-11-07",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "hse_conf",
+          "source_name": "НИУ ВШЭ (конференции)",
+          "url": "https://we.hse.ru/announcements/1215795412.html",
           "published_date": null
         }
       ]
@@ -6124,6 +6098,35 @@
       ]
     },
     {
+      "id": "757e1453f8dc",
+      "title": "Российское Просвещение: к 315-летию М. В. Ломоносова и С. П. Крашенинникова",
+      "organizer": "Институт лингвистических исследований РАН, Музей антропологии и этнографии им. Петра Великого (Кунсткамера) РАН, Санкт-Петербургское отделение РАН, Санкт-Петербургский филиал Института истории естествознания и техники РАН",
+      "disciplines": [
+        "История и археология",
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-11-16",
+      "event_end": "2026-11-17",
+      "submission_deadline": "2026-09-15",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-07-23",
+      "status": "past",
+      "sources": [
+        {
+          "source": "iling_ras",
+          "source_name": "ИЛИ РАН",
+          "url": "https://iling.spb.ru/conferences/2026/5067",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "f6c71f3455dc",
       "title": "Четвертые Новиковские чтения: Феномен текста в современном гуманитарном знании: границы понятия",
       "organizer": "ИНИОН РАН",
@@ -7220,6 +7223,32 @@
           "source": "mgimo_ann",
           "source_name": "МГИМО",
           "url": "https://mgimo.ru/about/news/announce/zuve-conf-11-26/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "e42bb159902d",
+      "title": "Чтения памяти Александра Владимировича Бондарко «Актуальные проблемы функциональной грамматики»",
+      "organizer": "Отдел теории грамматики",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-11-17",
+      "event_end": "2026-11-17",
+      "submission_deadline": "2026-10-15",
+      "location": null,
+      "format": "онлайн",
+      "official_url": null,
+      "confidence": 0.95,
+      "field_flags": [],
+      "first_seen": "2026-09-03",
+      "status": "past",
+      "sources": [
+        {
+          "source": "iling_ras",
+          "source_name": "ИЛИ РАН",
+          "url": "https://iling.spb.ru/conferences/2026/5118",
           "published_date": null
         }
       ]
