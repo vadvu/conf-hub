@@ -1,8 +1,8 @@
 {
   "version": "0.23.0",
-  "generated_at": "2026-11-18T06:43:10+00:00",
-  "crawled_at": "2026-11-18T03:46:11+00:00",
-  "today": "2026-11-18",
+  "generated_at": "2026-11-19T09:09:52+00:00",
+  "crawled_at": "2026-11-19T09:09:51+00:00",
+  "today": "2026-11-19",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -90,35 +90,6 @@
     }
   ],
   "conferences": [
-    {
-      "id": "6b0e691942ba",
-      "title": "Юридический язык: проблемы изучения и преподавания",
-      "organizer": "Департамент теории права и сравнительного правоведения факультета права Национального исследовательского университета «Высшая школа экономики»",
-      "disciplines": [
-        "Право"
-      ],
-      "event_start": "2026-11-23",
-      "event_end": "2026-11-23",
-      "submission_deadline": "2026-11-18",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": "https://pravo.hse.ru/legalst/polls/1203605231.html",
-      "confidence": 0.967,
-      "field_flags": [
-        "title",
-        "disciplines"
-      ],
-      "first_seen": "2026-11-07",
-      "status": "open",
-      "sources": [
-        {
-          "source": "hse_ann_sci",
-          "source_name": "НИУ ВШЭ",
-          "url": "https://pravo.hse.ru/announcements/1203656682.html",
-          "published_date": null
-        }
-      ]
-    },
     {
       "id": "4246e307aa4e",
       "title": "Х Всероссийская конференция «Экология и управление природопользованием»",
@@ -756,48 +727,6 @@
       ]
     },
     {
-      "id": "ec8d0531d6f8",
-      "title": "Наука о народах: история, теория, методология",
-      "organizer": "Ассоциация этнологов и антропологов России, Институт этнологии и антропологии им. Н.Н. Миклухо-Маклая РАН, Российский государственный гуманитарный университет (Учебно-научный институт антропологии и этнологии), Исторический факультет МГУ им. М.В. Ломоносова (Кафедра этнологии), Факультет гуманитарных наук НИУ Высшая школа экономики (Лаборатория региональных этнологических исследований)",
-      "disciplines": [
-        "Социология (включая демографию и антропологию)",
-        "Политология и международные отношения (включая ГМУ)",
-        "История и археология"
-      ],
-      "event_start": "2026-11-17",
-      "event_end": "2026-11-18",
-      "submission_deadline": "2026-07-06",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "disciplines"
-      ],
-      "first_seen": "2026-07-14",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "iea_ras",
-          "source_name": "ИЭА РАН",
-          "url": "https://iea-ras.ru/?p=21863",
-          "published_date": "2026-06-11"
-        },
-        {
-          "source": "iea_ras",
-          "source_name": "ИЭА РАН",
-          "url": "https://iea-ras.ru/?p=21684",
-          "published_date": "2026-05-21"
-        },
-        {
-          "source": "iea_ras",
-          "source_name": "ИЭА РАН",
-          "url": "https://iea-ras.ru/?p=22297",
-          "published_date": "2026-08-18"
-        }
-      ]
-    },
-    {
       "id": "3ed59fa0d2ef",
       "title": "Шестая конференция по уральским, алтайским и палеоазиатским языкам",
       "organizer": "Институт лингвистических исследований РАН",
@@ -1389,36 +1318,6 @@
           "source_name": "ЦенСИБ НИУ ВШЭ",
           "url": "https://lcsr.hse.ru/news/1186439389.html",
           "published_date": "2026-08-04"
-        }
-      ]
-    },
-    {
-      "id": "b7f2310f85d1",
-      "title": "XV Международная научная конференция исследователей гражданского общества «Общественная самоорганизация, государственное управление и местное самоуправление в России и за рубежом»",
-      "organizer": "Центр исследований гражданского общества и некоммерческого сектора НИУ ВШЭ",
-      "disciplines": [
-        "Политология и международные отношения (включая ГМУ)"
-      ],
-      "event_start": "2026-11-17",
-      "event_end": "2026-11-18",
-      "submission_deadline": "2026-10-05",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "organizer",
-        "disciplines"
-      ],
-      "first_seen": "2026-09-05",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "hse_conf",
-          "source_name": "НИУ ВШЭ (конференции)",
-          "url": "https://grans.hse.ru/announcements/1197306557.html",
-          "published_date": null
         }
       ]
     },
@@ -2892,6 +2791,35 @@
           "source": "hse_conf",
           "source_name": "НИУ ВШЭ (конференции)",
           "url": "https://we.hse.ru/announcements/1215795412.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "6b0e691942ba",
+      "title": "Юридический язык: проблемы изучения и преподавания",
+      "organizer": "Департамент теории права и сравнительного правоведения факультета права Национального исследовательского университета «Высшая школа экономики»",
+      "disciplines": [
+        "Право"
+      ],
+      "event_start": "2026-11-23",
+      "event_end": "2026-11-23",
+      "submission_deadline": "2026-11-18",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": "https://pravo.hse.ru/legalst/polls/1203605231.html",
+      "confidence": 0.967,
+      "field_flags": [
+        "title",
+        "disciplines"
+      ],
+      "first_seen": "2026-11-07",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://pravo.hse.ru/announcements/1203656682.html",
           "published_date": null
         }
       ]
@@ -4857,6 +4785,48 @@
           "source_name": "НИУ ВШЭ",
           "url": "https://www.hse.ru/neuroling/announcements/1167666696.html",
           "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "ec8d0531d6f8",
+      "title": "Наука о народах: история, теория, методология",
+      "organizer": "Ассоциация этнологов и антропологов России, Институт этнологии и антропологии им. Н.Н. Миклухо-Маклая РАН, Российский государственный гуманитарный университет (Учебно-научный институт антропологии и этнологии), Исторический факультет МГУ им. М.В. Ломоносова (Кафедра этнологии), Факультет гуманитарных наук НИУ Высшая школа экономики (Лаборатория региональных этнологических исследований)",
+      "disciplines": [
+        "Социология (включая демографию и антропологию)",
+        "Политология и международные отношения (включая ГМУ)",
+        "История и археология"
+      ],
+      "event_start": "2026-11-17",
+      "event_end": "2026-11-18",
+      "submission_deadline": "2026-07-06",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-07-14",
+      "status": "past",
+      "sources": [
+        {
+          "source": "iea_ras",
+          "source_name": "ИЭА РАН",
+          "url": "https://iea-ras.ru/?p=21863",
+          "published_date": "2026-06-11"
+        },
+        {
+          "source": "iea_ras",
+          "source_name": "ИЭА РАН",
+          "url": "https://iea-ras.ru/?p=21684",
+          "published_date": "2026-05-21"
+        },
+        {
+          "source": "iea_ras",
+          "source_name": "ИЭА РАН",
+          "url": "https://iea-ras.ru/?p=22297",
+          "published_date": "2026-08-18"
         }
       ]
     },
@@ -7011,6 +6981,36 @@
           "source": "mgimo_ann",
           "source_name": "МГИМО",
           "url": "https://mgimo.ru/about/news/announce/russia-asean-ap-10-26/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "b7f2310f85d1",
+      "title": "XV Международная научная конференция исследователей гражданского общества «Общественная самоорганизация, государственное управление и местное самоуправление в России и за рубежом»",
+      "organizer": "Центр исследований гражданского общества и некоммерческого сектора НИУ ВШЭ",
+      "disciplines": [
+        "Политология и международные отношения (включая ГМУ)"
+      ],
+      "event_start": "2026-11-17",
+      "event_end": "2026-11-18",
+      "submission_deadline": "2026-10-05",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "organizer",
+        "disciplines"
+      ],
+      "first_seen": "2026-09-05",
+      "status": "past",
+      "sources": [
+        {
+          "source": "hse_conf",
+          "source_name": "НИУ ВШЭ (конференции)",
+          "url": "https://grans.hse.ru/announcements/1197306557.html",
           "published_date": null
         }
       ]
