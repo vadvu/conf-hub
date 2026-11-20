@@ -1,8 +1,8 @@
 {
   "version": "0.23.0",
-  "generated_at": "2026-11-19T09:09:52+00:00",
-  "crawled_at": "2026-11-19T09:09:51+00:00",
-  "today": "2026-11-19",
+  "generated_at": "2026-11-20T06:13:16+00:00",
+  "crawled_at": "2026-11-20T04:11:34+00:00",
+  "today": "2026-11-20",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -1605,36 +1605,6 @@
       ]
     },
     {
-      "id": "28bfde55d888",
-      "title": "Динамическая урбанистика: проблемы роста городов",
-      "organizer": "Центр арктической и северной урбанистики Высшей школы урбанистики имени А.А. Высоковского ФГРР НИУ ВШЭ и Тяньцзиньский университет",
-      "disciplines": [
-        "Социальная и экономическая география (включая урбанистику и транспорт)"
-      ],
-      "event_start": "2026-11-19",
-      "event_end": "2026-11-19",
-      "submission_deadline": "2026-10-25",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "disciplines",
-        "format"
-      ],
-      "first_seen": "2026-10-13",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "hse_conf",
-          "source_name": "НИУ ВШЭ (конференции)",
-          "url": "https://urban.hse.ru/canorus/iac_conference_2026",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "4bf028467638",
       "title": "Жизнь и техника будущего: исследования техноутопий",
       "organizer": "Факультет антропологии и центр исследований науки и технологий (STS-Центр) Европейского университета",
@@ -2187,34 +2157,6 @@
           "source": "mgimo_ann",
           "source_name": "МГИМО",
           "url": "https://mgimo.ru/about/news/announce/v-oeconomicus-forum/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "f87958cd3184",
-      "title": "V Международный форум «Право будущего»",
-      "organizer": "Отдел правоведения ИНИОН РАН и информационно-аналитический журнал «Социальные и гуманитарные науки: Отечественная и зарубежная литература»",
-      "disciplines": [
-        "Право"
-      ],
-      "event_start": "2026-11-18",
-      "event_end": "2026-11-19",
-      "submission_deadline": "2026-11-08",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "disciplines"
-      ],
-      "first_seen": "2026-09-23",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "inion",
-          "source_name": "ИНИОН РАН",
-          "url": "https://inion.ru/ru/about/news/v-mezhdunarodnyi-forum-pravo-budushchego-informatcionnoe-pis-mo/",
           "published_date": null
         }
       ]
@@ -7495,6 +7437,36 @@
       ]
     },
     {
+      "id": "28bfde55d888",
+      "title": "Динамическая урбанистика: проблемы роста городов",
+      "organizer": "Центр арктической и северной урбанистики Высшей школы урбанистики имени А.А. Высоковского ФГРР НИУ ВШЭ и Тяньцзиньский университет",
+      "disciplines": [
+        "Социальная и экономическая география (включая урбанистику и транспорт)"
+      ],
+      "event_start": "2026-11-19",
+      "event_end": "2026-11-19",
+      "submission_deadline": "2026-10-25",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-10-13",
+      "status": "past",
+      "sources": [
+        {
+          "source": "hse_conf",
+          "source_name": "НИУ ВШЭ (конференции)",
+          "url": "https://urban.hse.ru/canorus/iac_conference_2026",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "c1c1a5645ce9",
       "title": "Дни студенческой науки",
       "organizer": "Университетский колледж МГИМО",
@@ -7762,6 +7734,34 @@
           "source": "mgimo_ann",
           "source_name": "МГИМО",
           "url": "https://mgimo.ru/about/news/announce/economic-crime-countermeasures-16-11-26/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "f87958cd3184",
+      "title": "V Международный форум «Право будущего»",
+      "organizer": "Отдел правоведения ИНИОН РАН и информационно-аналитический журнал «Социальные и гуманитарные науки: Отечественная и зарубежная литература»",
+      "disciplines": [
+        "Право"
+      ],
+      "event_start": "2026-11-18",
+      "event_end": "2026-11-19",
+      "submission_deadline": "2026-11-08",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-09-23",
+      "status": "past",
+      "sources": [
+        {
+          "source": "inion",
+          "source_name": "ИНИОН РАН",
+          "url": "https://inion.ru/ru/about/news/v-mezhdunarodnyi-forum-pravo-budushchego-informatcionnoe-pis-mo/",
           "published_date": null
         }
       ]
