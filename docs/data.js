@@ -1,8 +1,8 @@
 window.CONF_DATA = {
   "version": "0.23.0",
-  "generated_at": "2026-11-20T06:13:16+00:00",
-  "crawled_at": "2026-11-20T04:11:34+00:00",
-  "today": "2026-11-20",
+  "generated_at": "2026-11-21T07:17:55+00:00",
+  "crawled_at": "2026-11-21T05:15:12+00:00",
+  "today": "2026-11-21",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -90,124 +90,6 @@ window.CONF_DATA = {
     }
   ],
   "conferences": [
-    {
-      "id": "4246e307aa4e",
-      "title": "Х Всероссийская конференция «Экология и управление природопользованием»",
-      "organizer": "Национальный исследовательский Томский государственный университет, Биологический институт, Кафедра экологии, природопользования и экологической инженерии, Верхне-Обское Бассейновое Водное Управление, Департамент природных ресурсов и охраны окружающей среды Томской области, ОГБУ «Облкомприрода»",
-      "disciplines": [
-        "Экономика и менеджмент"
-      ],
-      "event_start": "2026-11-27",
-      "event_end": "2026-11-27",
-      "submission_deadline": "2026-11-20",
-      "location": "Томск",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "organizer",
-        "disciplines",
-        "official_url"
-      ],
-      "first_seen": "2026-10-13",
-      "status": "open",
-      "sources": [
-        {
-          "source": "tsu",
-          "source_name": "ТГУ",
-          "url": "https://news.tsu.ru/calendar-of-events/27-noyabrya-kh-vserossiyskaya-konferentsiya-ekologiya-i-upravlenie-prirodopolzovaniem/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "91c72ae25be6",
-      "title": "Шестая Всероссийская научно-практическая конференция «Цивилизационный потенциал российских регионов: внутренняя динамика и межтерриториальное взаимодействие»",
-      "organizer": "Западный филиал Российской академии народного хозяйства и государственной службы при Президенте Российской Федерации (г. Калининград), Социологический институт РАН – филиал ФНИСЦ РАН, Челябинский государственный институт культуры (г. Челябинск)",
-      "disciplines": [
-        "Социология (включая демографию и антропологию)"
-      ],
-      "event_start": "2026-12-04",
-      "event_end": "2026-12-04",
-      "submission_deadline": "2026-11-20",
-      "location": "Калининград",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "disciplines",
-        "format"
-      ],
-      "first_seen": "2026-09-16",
-      "status": "open",
-      "sources": [
-        {
-          "source": "socinst",
-          "source_name": "Социологический институт РАН",
-          "url": "https://socinst.ru/conferences/civpotential2026/#files",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "ba3ca4e39f9a",
-      "title": "Искусство памяти",
-      "organizer": "Научно-учебная лаборатория трансцендентальной философии НИУ ВШЭ и Сектор философии культуры ИФ РАН",
-      "disciplines": [
-        "Философия, этика, религиоведение"
-      ],
-      "event_start": "2026-12-09",
-      "event_end": "2026-12-09",
-      "submission_deadline": "2026-11-20",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "disciplines"
-      ],
-      "first_seen": "2026-11-03",
-      "status": "open",
-      "sources": [
-        {
-          "source": "hse_conf",
-          "source_name": "НИУ ВШЭ (конференции)",
-          "url": "https://hum.hse.ru/transcendental/announcements/1214100361.html",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "dba8b7acdeee",
-      "title": "Медиаправо – 2026",
-      "organizer": "Международный научно-образовательный центр «Кафедра ЮНЕСКО по авторскому праву, смежным, культурным и информационным правам» НИУ ВШЭ",
-      "disciplines": [
-        "Право",
-        "Медиа и коммуникации"
-      ],
-      "event_start": "2026-12-14",
-      "event_end": "2026-12-15",
-      "submission_deadline": "2026-11-20",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "disciplines"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "open",
-      "sources": [
-        {
-          "source": "hse_ann_sci",
-          "source_name": "НИУ ВШЭ",
-          "url": "https://www.hse.ru/unesco/announcements/1172055508.html",
-          "published_date": null
-        }
-      ]
-    },
     {
       "id": "9d3dc42caa27",
       "title": "Физическая культура и спорт в системе образования: инновации и перспективы развития",
@@ -783,67 +665,6 @@ window.CONF_DATA = {
       ]
     },
     {
-      "id": "7de7fe640c4c",
-      "title": "Всероссийская конференция по прикладной геофизике AppGeo-2026",
-      "organizer": "Санкт-Петербургский университет",
-      "disciplines": [
-        "Науки о земле"
-      ],
-      "event_start": "2026-11-16",
-      "event_end": "2026-11-20",
-      "submission_deadline": "2026-09-10",
-      "location": "Санкт-Петербург",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "organizer",
-        "location",
-        "disciplines",
-        "format"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "spbu_events",
-          "source_name": "СПбГУ",
-          "url": "https://events.spbu.ru/appgeo-2026",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "6d69fdd9d69d",
-      "title": "Всероссийская конференция «Молекулярные и системные механизмы адаптаций»",
-      "organizer": "Санкт-Петербургский государственный университет, Институт физиологии им. И.П. Павлова РАН",
-      "disciplines": [
-        "Биология"
-      ],
-      "event_start": "2026-11-17",
-      "event_end": "2026-11-20",
-      "submission_deadline": "2026-09-10",
-      "location": "Санкт-Петербург",
-      "format": "очно",
-      "official_url": "https://ucp.academy/events/nozdrachev2026",
-      "confidence": 0.983,
-      "field_flags": [
-        "organizer",
-        "disciplines",
-        "format"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "spbu_events",
-          "source_name": "СПбГУ",
-          "url": "https://events.spbu.ru/adaptation",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "5d7a9e96c4df",
       "title": "Управление и управляемость в Российской империи XVIII — начала XX века",
       "organizer": "Факультет истории и Центр изучения культурной памяти и символической политики Европейского университета",
@@ -870,36 +691,6 @@ window.CONF_DATA = {
           "source_name": "ЕУСПб",
           "url": "https://eusp.org/news/start-priema-zayavok-vi-ezhegodnaya-nauchnaya-konferenciya-upravlenie-i-upravlyaemost-v-rossiyskoy-imperii-xviii-nachala-xx-veka",
           "published_date": "2026-06-26"
-        }
-      ]
-    },
-    {
-      "id": "70d85999eaea",
-      "title": "Историко-правовая научная конференция памяти Дмитрия Олеговича Серова «Суд и правосудие в России XVII - начала XX вв.: роль личностного фактора»",
-      "organizer": "Центр цифровых социально-исторических исследований Школы исторических наук Факультета гуманитарных наук Национального исследовательского университета «Высшая школа экономики»",
-      "disciplines": [
-        "Право",
-        "История и археология"
-      ],
-      "event_start": "2026-11-19",
-      "event_end": "2026-11-20",
-      "submission_deadline": "2026-09-13",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "location"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "hse_ann_sci",
-          "source_name": "НИУ ВШЭ",
-          "url": "https://hist.hse.ru/announcements/1175799981.html",
-          "published_date": null
         }
       ]
     },
@@ -1576,35 +1367,6 @@ window.CONF_DATA = {
       ]
     },
     {
-      "id": "8a1376be7868",
-      "title": "Круглый стол «Антропология входа в профессию»",
-      "organizer": "Организаторы круглого стола",
-      "disciplines": [
-        "Социология (включая демографию и антропологию)"
-      ],
-      "event_start": "2026-11-20",
-      "event_end": "2026-11-20",
-      "submission_deadline": "2026-10-20",
-      "location": null,
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.9,
-      "field_flags": [
-        "title",
-        "organizer"
-      ],
-      "first_seen": "2026-07-15",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "perm_ann_sci",
-          "source_name": "НИУ ВШЭ (Пермь)",
-          "url": "https://perm.hse.ru/creativ/industrialculture/announcements/1167909302.html",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "4bf028467638",
       "title": "Жизнь и техника будущего: исследования техноутопий",
       "organizer": "Факультет антропологии и центр исследований науки и технологий (STS-Центр) Европейского университета",
@@ -1692,37 +1454,6 @@ window.CONF_DATA = {
           "source": "spbu_events",
           "source_name": "СПбГУ",
           "url": "https://events.spbu.ru/hist-bio",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "b65253db9223",
-      "title": "Вторая Конференция неудач",
-      "organizer": "СПб ГБУ «Городской информационно-методический центр «Семья»», Социологический институт РАН – филиал ФНИСЦ РАН",
-      "disciplines": [
-        "Психология",
-        "Социология (включая демографию и антропологию)"
-      ],
-      "event_start": "2026-11-20",
-      "event_end": "2026-11-20",
-      "submission_deadline": "2026-11-01",
-      "location": "Санкт-Петербург",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "disciplines",
-        "format"
-      ],
-      "first_seen": "2026-09-12",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "socinst",
-          "source_name": "Социологический институт РАН",
-          "url": "https://socinst.ru/conferences/errors2026/#files",
           "published_date": null
         }
       ]
@@ -2223,36 +1954,6 @@ window.CONF_DATA = {
           "source": "socinst",
           "source_name": "Социологический институт РАН",
           "url": "https://socinst.ru/conferences/spbconf2026/#files",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "4fc874226a53",
-      "title": "Пятая Всероссийская научная конференция «Социальные исследования старения. Старение на месте и повседневность пожилых»",
-      "organizer": "Социологический институт РАН – филиал ФНИСЦ РАН",
-      "disciplines": [
-        "Социология (включая демографию и антропологию)"
-      ],
-      "event_start": "2026-11-20",
-      "event_end": "2026-11-20",
-      "submission_deadline": "2026-11-10",
-      "location": "Санкт-Петербург",
-      "format": "гибрид",
-      "official_url": "https://forms.socinst.ru/form/view?slug=ruraging2026",
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "disciplines",
-        "format"
-      ],
-      "first_seen": "2026-10-19",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "socinst",
-          "source_name": "Социологический институт РАН",
-          "url": "https://socinst.ru/conferences/ruraging2026/#files",
           "published_date": null
         }
       ]
@@ -2762,6 +2463,152 @@ window.CONF_DATA = {
           "source": "hse_ann_sci",
           "source_name": "НИУ ВШЭ",
           "url": "https://pravo.hse.ru/announcements/1203656682.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "4246e307aa4e",
+      "title": "Х Всероссийская конференция «Экология и управление природопользованием»",
+      "organizer": "Национальный исследовательский Томский государственный университет, Биологический институт, Кафедра экологии, природопользования и экологической инженерии, Верхне-Обское Бассейновое Водное Управление, Департамент природных ресурсов и охраны окружающей среды Томской области, ОГБУ «Облкомприрода»",
+      "disciplines": [
+        "Экономика и менеджмент"
+      ],
+      "event_start": "2026-11-27",
+      "event_end": "2026-11-27",
+      "submission_deadline": "2026-11-20",
+      "location": "Томск",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "organizer",
+        "disciplines",
+        "official_url"
+      ],
+      "first_seen": "2026-10-13",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "tsu",
+          "source_name": "ТГУ",
+          "url": "https://news.tsu.ru/calendar-of-events/27-noyabrya-kh-vserossiyskaya-konferentsiya-ekologiya-i-upravlenie-prirodopolzovaniem/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "91c72ae25be6",
+      "title": "Шестая Всероссийская научно-практическая конференция «Цивилизационный потенциал российских регионов: внутренняя динамика и межтерриториальное взаимодействие»",
+      "organizer": "Западный филиал Российской академии народного хозяйства и государственной службы при Президенте Российской Федерации (г. Калининград), Социологический институт РАН – филиал ФНИСЦ РАН, Челябинский государственный институт культуры (г. Челябинск)",
+      "disciplines": [
+        "Социология (включая демографию и антропологию)"
+      ],
+      "event_start": "2026-12-04",
+      "event_end": "2026-12-04",
+      "submission_deadline": "2026-11-20",
+      "location": "Калининград",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-09-16",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "socinst",
+          "source_name": "Социологический институт РАН",
+          "url": "https://socinst.ru/conferences/civpotential2026/#files",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "ba3ca4e39f9a",
+      "title": "Искусство памяти",
+      "organizer": "Научно-учебная лаборатория трансцендентальной философии НИУ ВШЭ и Сектор философии культуры ИФ РАН",
+      "disciplines": [
+        "Философия, этика, религиоведение"
+      ],
+      "event_start": "2026-12-09",
+      "event_end": "2026-12-09",
+      "submission_deadline": "2026-11-20",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines"
+      ],
+      "first_seen": "2026-11-03",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "hse_conf",
+          "source_name": "НИУ ВШЭ (конференции)",
+          "url": "https://hum.hse.ru/transcendental/announcements/1214100361.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "e8b7cb9394bc",
+      "title": "Международная научная конференция «Битва за Москву — пролог Великой Победы» к 85-летию Московской битвы",
+      "organizer": "Институт научной информации по общественным наукам Российской академии наук",
+      "disciplines": [
+        "История и археология"
+      ],
+      "event_start": "2026-12-11",
+      "event_end": "2026-12-11",
+      "submission_deadline": "2026-11-20",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title"
+      ],
+      "first_seen": "2026-11-21",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "inion",
+          "source_name": "ИНИОН РАН",
+          "url": "https://inion.ru/ru/about/news/mezhdunarodnaia-nauchnaia-konferentciia-bitva-za-moskvu-prolog-velikoi-pobedy-k-85-letiiu-moskovskoi-bitvy-anons/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "dba8b7acdeee",
+      "title": "Медиаправо – 2026",
+      "organizer": "Международный научно-образовательный центр «Кафедра ЮНЕСКО по авторскому праву, смежным, культурным и информационным правам» НИУ ВШЭ",
+      "disciplines": [
+        "Право",
+        "Медиа и коммуникации"
+      ],
+      "event_start": "2026-12-14",
+      "event_end": "2026-12-15",
+      "submission_deadline": "2026-11-20",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "disciplines"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://www.hse.ru/unesco/announcements/1172055508.html",
           "published_date": null
         }
       ]
@@ -5820,6 +5667,67 @@ window.CONF_DATA = {
       ]
     },
     {
+      "id": "7de7fe640c4c",
+      "title": "Всероссийская конференция по прикладной геофизике AppGeo-2026",
+      "organizer": "Санкт-Петербургский университет",
+      "disciplines": [
+        "Науки о земле"
+      ],
+      "event_start": "2026-11-16",
+      "event_end": "2026-11-20",
+      "submission_deadline": "2026-09-10",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "organizer",
+        "location",
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "past",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/appgeo-2026",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "6d69fdd9d69d",
+      "title": "Всероссийская конференция «Молекулярные и системные механизмы адаптаций»",
+      "organizer": "Санкт-Петербургский государственный университет, Институт физиологии им. И.П. Павлова РАН",
+      "disciplines": [
+        "Биология"
+      ],
+      "event_start": "2026-11-17",
+      "event_end": "2026-11-20",
+      "submission_deadline": "2026-09-10",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": "https://ucp.academy/events/nozdrachev2026",
+      "confidence": 0.983,
+      "field_flags": [
+        "organizer",
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "past",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/adaptation",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "e0c673d0b62e",
       "title": "Институты публичной власти в Российской Федерации: история и современность",
       "organizer": "Исторический факультет",
@@ -5877,6 +5785,36 @@ window.CONF_DATA = {
           "source": "socinst",
           "source_name": "Социологический институт РАН",
           "url": "https://socinst.ru/conferences/civilchange2026/#files",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "70d85999eaea",
+      "title": "Историко-правовая научная конференция памяти Дмитрия Олеговича Серова «Суд и правосудие в России XVII - начала XX вв.: роль личностного фактора»",
+      "organizer": "Центр цифровых социально-исторических исследований Школы исторических наук Факультета гуманитарных наук Национального исследовательского университета «Высшая школа экономики»",
+      "disciplines": [
+        "Право",
+        "История и археология"
+      ],
+      "event_start": "2026-11-19",
+      "event_end": "2026-11-20",
+      "submission_deadline": "2026-09-13",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "location"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "past",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://hist.hse.ru/announcements/1175799981.html",
           "published_date": null
         }
       ]
@@ -7347,6 +7285,35 @@ window.CONF_DATA = {
       ]
     },
     {
+      "id": "8a1376be7868",
+      "title": "Круглый стол «Антропология входа в профессию»",
+      "organizer": "Организаторы круглого стола",
+      "disciplines": [
+        "Социология (включая демографию и антропологию)"
+      ],
+      "event_start": "2026-11-20",
+      "event_end": "2026-11-20",
+      "submission_deadline": "2026-10-20",
+      "location": null,
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.9,
+      "field_flags": [
+        "title",
+        "organizer"
+      ],
+      "first_seen": "2026-07-15",
+      "status": "past",
+      "sources": [
+        {
+          "source": "perm_ann_sci",
+          "source_name": "НИУ ВШЭ (Пермь)",
+          "url": "https://perm.hse.ru/creativ/industrialculture/announcements/1167909302.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "bbb8be406878",
       "title": "II Международная научно-практическая конференция памяти профессора Л. Н. Галенской",
       "organizer": "Санкт-Петербургский государственный университет",
@@ -7739,6 +7706,37 @@ window.CONF_DATA = {
       ]
     },
     {
+      "id": "b65253db9223",
+      "title": "Вторая Конференция неудач",
+      "organizer": "СПб ГБУ «Городской информационно-методический центр «Семья»», Социологический институт РАН – филиал ФНИСЦ РАН",
+      "disciplines": [
+        "Психология",
+        "Социология (включая демографию и антропологию)"
+      ],
+      "event_start": "2026-11-20",
+      "event_end": "2026-11-20",
+      "submission_deadline": "2026-11-01",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-09-12",
+      "status": "past",
+      "sources": [
+        {
+          "source": "socinst",
+          "source_name": "Социологический институт РАН",
+          "url": "https://socinst.ru/conferences/errors2026/#files",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "f87958cd3184",
       "title": "V Международный форум «Право будущего»",
       "organizer": "Отдел правоведения ИНИОН РАН и информационно-аналитический журнал «Социальные и гуманитарные науки: Отечественная и зарубежная литература»",
@@ -7792,6 +7790,36 @@ window.CONF_DATA = {
           "source": "inion",
           "source_name": "ИНИОН РАН",
           "url": "https://inion.ru/ru/about/news/kruglyi-stol-pravoslavnaia-kul-tura-v-pozdnesovestskom-gorode-problemy-i-perspektivy-issledovaniia-informatcionnoe-pis-mo/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "4fc874226a53",
+      "title": "Пятая Всероссийская научная конференция «Социальные исследования старения. Старение на месте и повседневность пожилых»",
+      "organizer": "Социологический институт РАН – филиал ФНИСЦ РАН",
+      "disciplines": [
+        "Социология (включая демографию и антропологию)"
+      ],
+      "event_start": "2026-11-20",
+      "event_end": "2026-11-20",
+      "submission_deadline": "2026-11-10",
+      "location": "Санкт-Петербург",
+      "format": "гибрид",
+      "official_url": "https://forms.socinst.ru/form/view?slug=ruraging2026",
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-10-19",
+      "status": "past",
+      "sources": [
+        {
+          "source": "socinst",
+          "source_name": "Социологический институт РАН",
+          "url": "https://socinst.ru/conferences/ruraging2026/#files",
           "published_date": null
         }
       ]
