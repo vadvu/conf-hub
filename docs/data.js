@@ -1,8 +1,8 @@
 window.CONF_DATA = {
   "version": "0.23.0",
-  "generated_at": "2026-11-21T07:17:55+00:00",
-  "crawled_at": "2026-11-21T05:15:12+00:00",
-  "today": "2026-11-21",
+  "generated_at": "2026-11-22T03:03:29+00:00",
+  "crawled_at": "2026-11-22T03:02:18+00:00",
+  "today": "2026-11-22",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -214,6 +214,35 @@ window.CONF_DATA = {
       ]
     },
     {
+      "id": "069454ec525b",
+      "title": "The 8th International Conference «Topical Issues of International Political Geography»",
+      "organizer": "Социологический институт РАН – филиал ФНИСЦ РАН",
+      "disciplines": [
+        "Политология и международные отношения (включая ГМУ)"
+      ],
+      "event_start": "2026-12-25",
+      "event_end": "2026-12-26",
+      "submission_deadline": "2026-12-01",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.967,
+      "field_flags": [
+        "title",
+        "disciplines"
+      ],
+      "first_seen": "2026-11-22",
+      "status": "open",
+      "sources": [
+        {
+          "source": "socinst",
+          "source_name": "Социологический институт РАН",
+          "url": "https://socinst.ru/conferences/tipg2026/#files",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "153fb4ed3524",
       "title": "Студенческая научно-практическая конференция им. Л.Л. Любимова",
       "organizer": "НИУ ВШЭ – Пермь",
@@ -336,6 +365,36 @@ window.CONF_DATA = {
           "source": "ras_events",
           "source_name": "РАН",
           "url": "https://new.ras.ru/press-center/events-additional/xxv-zimnyaya-shkola-po-mekhanike-sploshnykh-sred/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "4a56b7786491",
+      "title": "Международная научно-практическая конференция «Современная научная литература: эффективные практики создания, распространения, библиотечной работы»",
+      "organizer": "ИНИОН РАН, РГБ, РБА, ИИЕТ РАН, ЦНБ НАН Беларуси",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2027-03-30",
+      "event_end": "2027-03-31",
+      "submission_deadline": "2026-12-25",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines",
+        "format",
+        "official_url"
+      ],
+      "first_seen": "2026-11-22",
+      "status": "open",
+      "sources": [
+        {
+          "source": "inion",
+          "source_name": "ИНИОН РАН",
+          "url": "https://inion.ru/ru/about/news/konferentciia-sovremennaia-nauchnaia-literatura-effektivnye-praktiki-sozdaniia-rasprostraneniia-bibliotechnoi-raboty-anons/",
           "published_date": null
         }
       ]
@@ -757,36 +816,6 @@ window.CONF_DATA = {
       ]
     },
     {
-      "id": "fe3121dff5f2",
-      "title": "Знание — сила? От Великого восстановления наук к Археологии знания",
-      "organizer": "Центр практической философии «Стасис», Европейский университет в Санкт-Петербурге, Институт философии РАН (Сектор социальной эпистемологии), Русское общество истории и философии науки",
-      "disciplines": [
-        "Философия, этика, религиоведение"
-      ],
-      "event_start": "2026-11-20",
-      "event_end": "2026-11-21",
-      "submission_deadline": "2026-09-15",
-      "location": "Санкт-Петербург",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "organizer",
-        "disciplines",
-        "format"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "eusp",
-          "source_name": "ЕУСПб",
-          "url": "https://eusp.org/news/start-priema-zayavok-vserossiyskaya-konferenciya-znanie-sila-ot-velikogo-vosstanovleniya-nauk-k-arkheologii-znaniya-0",
-          "published_date": "2026-07-06"
-        }
-      ]
-    },
-    {
       "id": "b2688bc507d2",
       "title": "Междисциплинарный форум «Искусственный интеллект в исследованиях голоса и речи»",
       "organizer": "СПбГУ",
@@ -909,66 +938,6 @@ window.CONF_DATA = {
           "source": "hse_ann_sci",
           "source_name": "НИУ ВШЭ",
           "url": "https://hum.hse.ru/announcements/1189063893.html",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "7fa9e6b38576",
-      "title": "XVIII Международная научная конференция «Теоретическая и прикладная этика: традиции и перспективы",
-      "organizer": "Санкт-Петербургский государственный университет",
-      "disciplines": [
-        "Философия, этика, религиоведение"
-      ],
-      "event_start": "2026-11-19",
-      "event_end": "2026-11-21",
-      "submission_deadline": "2026-09-25",
-      "location": "Санкт-Петербург",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "location"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "spbu_events",
-          "source_name": "СПбГУ",
-          "url": "https://events.spbu.ru/ethics-2026",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "f493fe65ebb1",
-      "title": "Юбилейная конференция кафедры прикладной институциональной экономики",
-      "organizer": "Экономический факультет МГУ",
-      "disciplines": [
-        "Экономика и менеджмент"
-      ],
-      "event_start": "2026-11-20",
-      "event_end": "2026-11-21",
-      "submission_deadline": "2026-09-25",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "organizer",
-        "location",
-        "disciplines"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "msu_events",
-          "source_name": "МГУ",
-          "url": "https://conf.msu.ru/rus/event/10521/",
           "published_date": null
         }
       ]
@@ -1173,35 +1142,6 @@ window.CONF_DATA = {
           "source": "msu_events",
           "source_name": "МГУ",
           "url": "https://conf.msu.ru/rus/event/10574/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "c2fe1be8a798",
-      "title": "Воркшоп «Наука о госзакупках»",
-      "organizer": "Высшая школа экономики",
-      "disciplines": [
-        "Экономика и менеджмент"
-      ],
-      "event_start": "2026-11-19",
-      "event_end": "2026-11-21",
-      "submission_deadline": "2026-10-15",
-      "location": "Пермь",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.917,
-      "field_flags": [
-        "title",
-        "disciplines"
-      ],
-      "first_seen": "2026-08-15",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "hse_ann_sci",
-          "source_name": "НИУ ВШЭ",
-          "url": "https://perm.hse.ru/scienceperm/announcements/1189641794.html",
           "published_date": null
         }
       ]
@@ -1459,36 +1399,6 @@ window.CONF_DATA = {
       ]
     },
     {
-      "id": "1f81097a9a33",
-      "title": "Журналистика XXI века: Общественный долг",
-      "organizer": "Институт «Высшая школа журналистики и массовых коммуникаций» СПбГУ",
-      "disciplines": [
-        "Медиа и коммуникации"
-      ],
-      "event_start": "2026-11-20",
-      "event_end": "2026-11-21",
-      "submission_deadline": "2026-11-01",
-      "location": "Санкт-Петербург",
-      "format": "очно",
-      "official_url": "https://j21.tb.ru/",
-      "confidence": 0.933,
-      "field_flags": [
-        "disciplines",
-        "format",
-        "official_url"
-      ],
-      "first_seen": "2026-10-24",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "spbu_events",
-          "source_name": "СПбГУ",
-          "url": "https://events.spbu.ru/journ_duty",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "b9cef332a398",
       "title": "VIII Международная научно-практическая конференция «Искусственный интеллект в науке, образовании и технологиях»",
       "organizer": "Департамент иностранных языков и Центр прикладных лингвистических исследований и тестирования «ИСТОК»",
@@ -1609,101 +1519,6 @@ window.CONF_DATA = {
           "source": "hse_conf",
           "source_name": "НИУ ВШЭ (конференции)",
           "url": "https://scr.hse.ru/announcements/1205756691.html",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "997337512948",
-      "title": "XI Международная научная конференция «Конвергентные когнитивно-информационные технологии»",
-      "organizer": "Московский государственный университет имени М.В. Ломоносова",
-      "disciplines": [
-        "Математика",
-        "Компьютерные науки",
-        "Физика"
-      ],
-      "event_start": "2026-11-19",
-      "event_end": "2026-11-21",
-      "submission_deadline": "2026-11-02",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": "http://it-edu.oit.cmc.msu.ru/index.php/convergent/convergent",
-      "confidence": 0.933,
-      "field_flags": [
-        "location",
-        "disciplines",
-        "official_url"
-      ],
-      "first_seen": "2026-09-12",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "msu_events",
-          "source_name": "МГУ",
-          "url": "https://conf.msu.ru/rus/event/3800/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "36220d71b573",
-      "title": "XVI Международная конференция-конкурс «Инновационные информационно-педагогические технологии в системе ИТ-образования»",
-      "organizer": "Московский государственный университет имени М.В.Ломоносова",
-      "disciplines": [
-        "Компьютерные науки",
-        "Образование"
-      ],
-      "event_start": "2026-11-19",
-      "event_end": "2026-11-21",
-      "submission_deadline": "2026-11-02",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": "http://it-edu.oit.cmc.msu.ru",
-      "confidence": 0.933,
-      "field_flags": [
-        "location",
-        "disciplines",
-        "format"
-      ],
-      "first_seen": "2026-09-13",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "msu_events",
-          "source_name": "МГУ",
-          "url": "https://conf.msu.ru/rus/event/3798/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "6166bcd4bcc7",
-      "title": "XXI Международная научно-практическая конференция «Современные информационные технологии и ИТ-образование»",
-      "organizer": "Московский государственный университет имени М.В. Ломоносова",
-      "disciplines": [
-        "Компьютерные науки",
-        "Образование"
-      ],
-      "event_start": "2026-11-19",
-      "event_end": "2026-11-21",
-      "submission_deadline": "2026-11-02",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": "http://it-edu.oit.cmc.msu.ru",
-      "confidence": 0.933,
-      "field_flags": [
-        "location",
-        "disciplines",
-        "format",
-        "official_url"
-      ],
-      "first_seen": "2026-09-12",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "msu_events",
-          "source_name": "МГУ",
-          "url": "https://conf.msu.ru/rus/event/3801/",
           "published_date": null
         }
       ]
@@ -5977,6 +5792,36 @@ window.CONF_DATA = {
       ]
     },
     {
+      "id": "fe3121dff5f2",
+      "title": "Знание — сила? От Великого восстановления наук к Археологии знания",
+      "organizer": "Центр практической философии «Стасис», Европейский университет в Санкт-Петербурге, Институт философии РАН (Сектор социальной эпистемологии), Русское общество истории и философии науки",
+      "disciplines": [
+        "Философия, этика, религиоведение"
+      ],
+      "event_start": "2026-11-20",
+      "event_end": "2026-11-21",
+      "submission_deadline": "2026-09-15",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "organizer",
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "past",
+      "sources": [
+        {
+          "source": "eusp",
+          "source_name": "ЕУСПб",
+          "url": "https://eusp.org/news/start-priema-zayavok-vserossiyskaya-konferenciya-znanie-sila-ot-velikogo-vosstanovleniya-nauk-k-arkheologii-znaniya-0",
+          "published_date": "2026-07-06"
+        }
+      ]
+    },
+    {
       "id": "f6c71f3455dc",
       "title": "Четвертые Новиковские чтения: Феномен текста в современном гуманитарном знании: границы понятия",
       "organizer": "ИНИОН РАН",
@@ -6299,6 +6144,66 @@ window.CONF_DATA = {
           "source": "hse_ann_sci",
           "source_name": "НИУ ВШЭ",
           "url": "https://pravo.hse.ru/grpravo/announcements/1166455017.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "7fa9e6b38576",
+      "title": "XVIII Международная научная конференция «Теоретическая и прикладная этика: традиции и перспективы",
+      "organizer": "Санкт-Петербургский государственный университет",
+      "disciplines": [
+        "Философия, этика, религиоведение"
+      ],
+      "event_start": "2026-11-19",
+      "event_end": "2026-11-21",
+      "submission_deadline": "2026-09-25",
+      "location": "Санкт-Петербург",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "location"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "past",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/ethics-2026",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "f493fe65ebb1",
+      "title": "Юбилейная конференция кафедры прикладной институциональной экономики",
+      "organizer": "Экономический факультет МГУ",
+      "disciplines": [
+        "Экономика и менеджмент"
+      ],
+      "event_start": "2026-11-20",
+      "event_end": "2026-11-21",
+      "submission_deadline": "2026-09-25",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "organizer",
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "past",
+      "sources": [
+        {
+          "source": "msu_events",
+          "source_name": "МГУ",
+          "url": "https://conf.msu.ru/rus/event/10521/",
           "published_date": null
         }
       ]
@@ -7134,6 +7039,35 @@ window.CONF_DATA = {
       ]
     },
     {
+      "id": "c2fe1be8a798",
+      "title": "Воркшоп «Наука о госзакупках»",
+      "organizer": "Высшая школа экономики",
+      "disciplines": [
+        "Экономика и менеджмент"
+      ],
+      "event_start": "2026-11-19",
+      "event_end": "2026-11-21",
+      "submission_deadline": "2026-10-15",
+      "location": "Пермь",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.917,
+      "field_flags": [
+        "title",
+        "disciplines"
+      ],
+      "first_seen": "2026-08-15",
+      "status": "past",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://perm.hse.ru/scienceperm/announcements/1189641794.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "12c57a158b1a",
       "title": "Международная научно-практическая конференция «Синергия языков и культур: междисциплинарные исследования»",
       "organizer": "Санкт-Петербургский государственный университет",
@@ -7732,6 +7666,131 @@ window.CONF_DATA = {
           "source": "socinst",
           "source_name": "Социологический институт РАН",
           "url": "https://socinst.ru/conferences/errors2026/#files",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "1f81097a9a33",
+      "title": "Журналистика XXI века: Общественный долг",
+      "organizer": "Институт «Высшая школа журналистики и массовых коммуникаций» СПбГУ",
+      "disciplines": [
+        "Медиа и коммуникации"
+      ],
+      "event_start": "2026-11-20",
+      "event_end": "2026-11-21",
+      "submission_deadline": "2026-11-01",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": "https://j21.tb.ru/",
+      "confidence": 0.933,
+      "field_flags": [
+        "disciplines",
+        "format",
+        "official_url"
+      ],
+      "first_seen": "2026-10-24",
+      "status": "past",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/journ_duty",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "997337512948",
+      "title": "XI Международная научная конференция «Конвергентные когнитивно-информационные технологии»",
+      "organizer": "Московский государственный университет имени М.В. Ломоносова",
+      "disciplines": [
+        "Математика",
+        "Компьютерные науки",
+        "Физика"
+      ],
+      "event_start": "2026-11-19",
+      "event_end": "2026-11-21",
+      "submission_deadline": "2026-11-02",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": "http://it-edu.oit.cmc.msu.ru/index.php/convergent/convergent",
+      "confidence": 0.933,
+      "field_flags": [
+        "location",
+        "disciplines",
+        "official_url"
+      ],
+      "first_seen": "2026-09-12",
+      "status": "past",
+      "sources": [
+        {
+          "source": "msu_events",
+          "source_name": "МГУ",
+          "url": "https://conf.msu.ru/rus/event/3800/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "36220d71b573",
+      "title": "XVI Международная конференция-конкурс «Инновационные информационно-педагогические технологии в системе ИТ-образования»",
+      "organizer": "Московский государственный университет имени М.В.Ломоносова",
+      "disciplines": [
+        "Компьютерные науки",
+        "Образование"
+      ],
+      "event_start": "2026-11-19",
+      "event_end": "2026-11-21",
+      "submission_deadline": "2026-11-02",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": "http://it-edu.oit.cmc.msu.ru",
+      "confidence": 0.933,
+      "field_flags": [
+        "location",
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-09-13",
+      "status": "past",
+      "sources": [
+        {
+          "source": "msu_events",
+          "source_name": "МГУ",
+          "url": "https://conf.msu.ru/rus/event/3798/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "6166bcd4bcc7",
+      "title": "XXI Международная научно-практическая конференция «Современные информационные технологии и ИТ-образование»",
+      "organizer": "Московский государственный университет имени М.В. Ломоносова",
+      "disciplines": [
+        "Компьютерные науки",
+        "Образование"
+      ],
+      "event_start": "2026-11-19",
+      "event_end": "2026-11-21",
+      "submission_deadline": "2026-11-02",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": "http://it-edu.oit.cmc.msu.ru",
+      "confidence": 0.933,
+      "field_flags": [
+        "location",
+        "disciplines",
+        "format",
+        "official_url"
+      ],
+      "first_seen": "2026-09-12",
+      "status": "past",
+      "sources": [
+        {
+          "source": "msu_events",
+          "source_name": "МГУ",
+          "url": "https://conf.msu.ru/rus/event/3801/",
           "published_date": null
         }
       ]
