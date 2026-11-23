@@ -1,8 +1,8 @@
 window.CONF_DATA = {
   "version": "0.23.0",
-  "generated_at": "2026-11-22T03:03:29+00:00",
-  "crawled_at": "2026-11-22T03:02:18+00:00",
-  "today": "2026-11-22",
+  "generated_at": "2026-11-23T03:41:11+00:00",
+  "crawled_at": "2026-11-23T03:41:10+00:00",
+  "today": "2026-11-23",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -90,37 +90,6 @@ window.CONF_DATA = {
     }
   ],
   "conferences": [
-    {
-      "id": "9d3dc42caa27",
-      "title": "Физическая культура и спорт в системе образования: инновации и перспективы развития",
-      "organizer": "Санкт-Петербургский государственный университет",
-      "disciplines": [
-        "Физика",
-        "Образование"
-      ],
-      "event_start": "2026-11-26",
-      "event_end": "2026-11-27",
-      "submission_deadline": "2026-11-22",
-      "location": "Санкт-Петербург",
-      "format": "онлайн",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "disciplines",
-        "official_url"
-      ],
-      "first_seen": "2026-10-07",
-      "status": "open",
-      "sources": [
-        {
-          "source": "spbu_events",
-          "source_name": "СПбГУ",
-          "url": "https://events.spbu.ru/fizcult",
-          "published_date": null
-        }
-      ]
-    },
     {
       "id": "2684fab29c00",
       "title": "История современной России: методологические подходы, источниковая база, историографические дискуссии и новые исследовательские инструменты",
@@ -2424,6 +2393,37 @@ window.CONF_DATA = {
           "source": "hse_ann_sci",
           "source_name": "НИУ ВШЭ",
           "url": "https://www.hse.ru/unesco/announcements/1172055508.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "9d3dc42caa27",
+      "title": "Физическая культура и спорт в системе образования: инновации и перспективы развития",
+      "organizer": "Санкт-Петербургский государственный университет",
+      "disciplines": [
+        "Физика",
+        "Образование"
+      ],
+      "event_start": "2026-11-26",
+      "event_end": "2026-11-27",
+      "submission_deadline": "2026-11-22",
+      "location": "Санкт-Петербург",
+      "format": "онлайн",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "disciplines",
+        "official_url"
+      ],
+      "first_seen": "2026-10-07",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/fizcult",
           "published_date": null
         }
       ]
