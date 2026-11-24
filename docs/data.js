@@ -1,8 +1,8 @@
 window.CONF_DATA = {
   "version": "0.23.0",
-  "generated_at": "2026-11-23T03:41:11+00:00",
-  "crawled_at": "2026-11-23T03:41:10+00:00",
-  "today": "2026-11-23",
+  "generated_at": "2026-11-24T03:03:13+00:00",
+  "crawled_at": "2026-11-24T03:02:18+00:00",
+  "today": "2026-11-24",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -2218,35 +2218,6 @@ window.CONF_DATA = {
           "source": "hse_conf",
           "source_name": "НИУ ВШЭ (конференции)",
           "url": "https://we.hse.ru/announcements/1215795412.html",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "6b0e691942ba",
-      "title": "Юридический язык: проблемы изучения и преподавания",
-      "organizer": "Департамент теории права и сравнительного правоведения факультета права Национального исследовательского университета «Высшая школа экономики»",
-      "disciplines": [
-        "Право"
-      ],
-      "event_start": "2026-11-23",
-      "event_end": "2026-11-23",
-      "submission_deadline": "2026-11-18",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": "https://pravo.hse.ru/legalst/polls/1203605231.html",
-      "confidence": 0.967,
-      "field_flags": [
-        "title",
-        "disciplines"
-      ],
-      "first_seen": "2026-11-07",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "hse_ann_sci",
-          "source_name": "НИУ ВШЭ",
-          "url": "https://pravo.hse.ru/announcements/1203656682.html",
           "published_date": null
         }
       ]
@@ -7879,6 +7850,35 @@ window.CONF_DATA = {
           "source": "socinst",
           "source_name": "Социологический институт РАН",
           "url": "https://socinst.ru/conferences/ruraging2026/#files",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "6b0e691942ba",
+      "title": "Юридический язык: проблемы изучения и преподавания",
+      "organizer": "Департамент теории права и сравнительного правоведения факультета права Национального исследовательского университета «Высшая школа экономики»",
+      "disciplines": [
+        "Право"
+      ],
+      "event_start": "2026-11-23",
+      "event_end": "2026-11-23",
+      "submission_deadline": "2026-11-18",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": "https://pravo.hse.ru/legalst/polls/1203605231.html",
+      "confidence": 0.967,
+      "field_flags": [
+        "title",
+        "disciplines"
+      ],
+      "first_seen": "2026-11-07",
+      "status": "past",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://pravo.hse.ru/announcements/1203656682.html",
           "published_date": null
         }
       ]
