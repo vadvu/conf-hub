@@ -1,8 +1,8 @@
 window.CONF_DATA = {
   "version": "0.23.0",
-  "generated_at": "2026-11-24T03:03:13+00:00",
-  "crawled_at": "2026-11-24T03:02:18+00:00",
-  "today": "2026-11-24",
+  "generated_at": "2026-11-25T03:07:29+00:00",
+  "crawled_at": "2026-11-25T03:03:30+00:00",
+  "today": "2026-11-25",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -276,6 +276,67 @@ window.CONF_DATA = {
       ]
     },
     {
+      "id": "b778926b1f1d",
+      "title": "Студенческая конференция «Риски ESG-трансформации в странах БРИКС»",
+      "organizer": "MGIMO Goes Green",
+      "disciplines": [
+        "Экономика и менеджмент"
+      ],
+      "event_start": "2026-12-15",
+      "event_end": "2026-12-15",
+      "submission_deadline": "2026-12-08",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "organizer",
+        "location",
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-11-25",
+      "status": "open",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/esg-brics-15-12-26/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "edcc0fbf2f71",
+      "title": "Управление активами — 2026",
+      "organizer": "кафедра управления активами Факультета международных экономических отношений МГИМО",
+      "disciplines": [
+        "Экономика и менеджмент"
+      ],
+      "event_start": "2026-12-09",
+      "event_end": "2026-12-09",
+      "submission_deadline": "2026-12-09",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "organizer",
+        "location",
+        "submission_deadline"
+      ],
+      "first_seen": "2026-11-25",
+      "status": "open",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/am-2026/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "f69c9c8b48c7",
       "title": "III Международная научная конференция по истории народного хозяйства и экономических учений «Модели регулирования экономики в мировой теории и практике»",
       "organizer": "Кафедра истории народного хозяйства и экономических учений экономического факультета МГУ имени М.В. Ломоносова",
@@ -512,6 +573,40 @@ window.CONF_DATA = {
           "source": "msu_events",
           "source_name": "МГУ",
           "url": "https://conf.msu.ru/rus/event/10531/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "e8120adedfbb",
+      "title": "Литера–2027. Отечественное книгоиздание в области международных отношений и иностранных языков: история и современность",
+      "organizer": "Издательский дом МГИМО и Центр восточной литературы Российской государственной библиотеки",
+      "disciplines": [
+        "Политология и международные отношения (включая ГМУ)",
+        "История и археология",
+        "Филология и лингвистика"
+      ],
+      "event_start": "2027-06-04",
+      "event_end": "2027-06-04",
+      "submission_deadline": "2027-04-15",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.883,
+      "field_flags": [
+        "location",
+        "disciplines",
+        "submission_deadline",
+        "format",
+        "official_url"
+      ],
+      "first_seen": "2026-11-25",
+      "status": "open",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/litera-2027/",
           "published_date": null
         }
       ]
@@ -1551,6 +1646,12 @@ window.CONF_DATA = {
           "source_name": "ИНИОН РАН",
           "url": "https://inion.ru/ru/about/news/i-mezhdunarodnaia-nauchnaia-konferentciia-semiotika-kul-tury-i-kul-turnogo-landshafta/",
           "published_date": null
+        },
+        {
+          "source": "inion",
+          "source_name": "ИНИОН РАН",
+          "url": "https://inion.ru/ru/about/news/i-mezhdunarodnaia-nauchnaia-konferentciia-semiotika-kul-tury-i-kul-turnogo-landshafta-anons/",
+          "published_date": null
         }
       ]
     },
@@ -1646,37 +1747,6 @@ window.CONF_DATA = {
       ]
     },
     {
-      "id": "a2ac84a99d9e",
-      "title": "V Oeconomicus Forum",
-      "organizer": "Экономический клуб Oeconomicus им. А.В.Макаренко и факультет МЭО при поддержке Эндаумента МГИМО",
-      "disciplines": [
-        "Экономика и менеджмент"
-      ],
-      "event_start": "2026-11-24",
-      "event_end": "2026-11-24",
-      "submission_deadline": "2026-11-06",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": "https://forms.yandex.ru/u/6ac919136d2d73ba13d71d10/",
-      "confidence": 0.967,
-      "field_flags": [
-        "organizer",
-        "location",
-        "submission_deadline",
-        "official_url"
-      ],
-      "first_seen": "2026-11-03",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "mgimo_ann",
-          "source_name": "МГИМО",
-          "url": "https://mgimo.ru/about/news/announce/v-oeconomicus-forum/",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "5ea3e4ee3ac6",
       "title": "Актуальные вопросы этнологии и антропологии",
       "organizer": "Институт этнологии и антропологии РАН",
@@ -1708,37 +1778,6 @@ window.CONF_DATA = {
           "source_name": "ИЭА РАН",
           "url": "https://iea-ras.ru/?p=22734",
           "published_date": "2026-10-29"
-        }
-      ]
-    },
-    {
-      "id": "7d1376acb2b6",
-      "title": "Антропология Петербурга: дом — семья — ценности",
-      "organizer": "Федеральный научно-исследовательский социологический центр Российской академии наук, Социологический институт РАН – филиал ФНИСЦ РАН, Музей антропологии и этнографии им. Петра Великого (Кунсткамера) РАН",
-      "disciplines": [
-        "Социология (включая демографию и антропологию)",
-        "История и археология"
-      ],
-      "event_start": "2026-11-23",
-      "event_end": "2026-11-24",
-      "submission_deadline": "2026-11-09",
-      "location": "Санкт-Петербург",
-      "format": "очно",
-      "official_url": "https://forms.socinst.ru/form/view?slug=spbconf2026",
-      "confidence": 0.95,
-      "field_flags": [
-        "title",
-        "disciplines",
-        "official_url"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "socinst",
-          "source_name": "Социологический институт РАН",
-          "url": "https://socinst.ru/conferences/spbconf2026/#files",
-          "published_date": null
         }
       ]
     },
@@ -7767,6 +7806,37 @@ window.CONF_DATA = {
       ]
     },
     {
+      "id": "a2ac84a99d9e",
+      "title": "V Oeconomicus Forum",
+      "organizer": "Экономический клуб Oeconomicus им. А.В.Макаренко и факультет МЭО при поддержке Эндаумента МГИМО",
+      "disciplines": [
+        "Экономика и менеджмент"
+      ],
+      "event_start": "2026-11-24",
+      "event_end": "2026-11-24",
+      "submission_deadline": "2026-11-06",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": "https://forms.yandex.ru/u/6ac919136d2d73ba13d71d10/",
+      "confidence": 0.967,
+      "field_flags": [
+        "organizer",
+        "location",
+        "submission_deadline",
+        "official_url"
+      ],
+      "first_seen": "2026-11-03",
+      "status": "past",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/v-oeconomicus-forum/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "f87958cd3184",
       "title": "V Международный форум «Право будущего»",
       "organizer": "Отдел правоведения ИНИОН РАН и информационно-аналитический журнал «Социальные и гуманитарные науки: Отечественная и зарубежная литература»",
@@ -7820,6 +7890,37 @@ window.CONF_DATA = {
           "source": "inion",
           "source_name": "ИНИОН РАН",
           "url": "https://inion.ru/ru/about/news/kruglyi-stol-pravoslavnaia-kul-tura-v-pozdnesovestskom-gorode-problemy-i-perspektivy-issledovaniia-informatcionnoe-pis-mo/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "7d1376acb2b6",
+      "title": "Антропология Петербурга: дом — семья — ценности",
+      "organizer": "Федеральный научно-исследовательский социологический центр Российской академии наук, Социологический институт РАН – филиал ФНИСЦ РАН, Музей антропологии и этнографии им. Петра Великого (Кунсткамера) РАН",
+      "disciplines": [
+        "Социология (включая демографию и антропологию)",
+        "История и археология"
+      ],
+      "event_start": "2026-11-23",
+      "event_end": "2026-11-24",
+      "submission_deadline": "2026-11-09",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": "https://forms.socinst.ru/form/view?slug=spbconf2026",
+      "confidence": 0.95,
+      "field_flags": [
+        "title",
+        "disciplines",
+        "official_url"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "past",
+      "sources": [
+        {
+          "source": "socinst",
+          "source_name": "Социологический институт РАН",
+          "url": "https://socinst.ru/conferences/spbconf2026/#files",
           "published_date": null
         }
       ]
