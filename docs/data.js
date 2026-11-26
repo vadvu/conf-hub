@@ -1,8 +1,8 @@
 window.CONF_DATA = {
   "version": "0.23.0",
-  "generated_at": "2026-11-25T03:07:29+00:00",
-  "crawled_at": "2026-11-25T03:03:30+00:00",
-  "today": "2026-11-25",
+  "generated_at": "2026-11-26T03:04:50+00:00",
+  "crawled_at": "2026-11-26T03:02:54+00:00",
+  "today": "2026-11-26",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -90,98 +90,6 @@ window.CONF_DATA = {
     }
   ],
   "conferences": [
-    {
-      "id": "2684fab29c00",
-      "title": "История современной России: методологические подходы, источниковая база, историографические дискуссии и новые исследовательские инструменты",
-      "organizer": "кафедра истории России новейшего времени и Учебно-научный центр «Новая Россия. История постсоветской России» РГГУ",
-      "disciplines": [
-        "История и археология"
-      ],
-      "event_start": "2026-11-30",
-      "event_end": "2026-11-30",
-      "submission_deadline": "2026-11-25",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 1.0,
-      "field_flags": [
-        "location",
-        "official_url"
-      ],
-      "first_seen": "2026-11-07",
-      "status": "open",
-      "sources": [
-        {
-          "source": "rsuh",
-          "source_name": "РГГУ",
-          "url": "https://www.rsuh.ru/anons/ot-perestroyki-do-sovremennosti-v-rggu-obsudyat-novye-podkhody-k-izucheniyu-istorii-rossii/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "8170975f25a0",
-      "title": "VII Всероссийская конференция молодых ученых-лингвистов «Традиционное и новое: проблемы и перспективы лингвистики и лингводидактики в условиях культурного взаимодействия»",
-      "organizer": "Кафедра иностранных языков и лингводидактики Санкт-Петербургского государственного университета",
-      "disciplines": [
-        "Образование",
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-12-09",
-      "event_end": "2026-12-11",
-      "submission_deadline": "2026-11-25",
-      "location": "Санкт-Петербург",
-      "format": "гибрид",
-      "official_url": "https://events.spbu.ru/konferenciya-molodyh-uchenyh-lingvistov",
-      "confidence": 0.933,
-      "field_flags": [
-        "organizer",
-        "location",
-        "disciplines",
-        "official_url"
-      ],
-      "first_seen": "2026-09-17",
-      "status": "open",
-      "sources": [
-        {
-          "source": "spbu_events",
-          "source_name": "СПбГУ",
-          "url": "https://events.spbu.ru/konferenciya-molodyh-uchenyh-lingvistov",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "2348f4f6c593",
-      "title": "Х Чтения памяти В.Т. Лисовского «Молодежь как субъект социальных отношений: от мировоззренческих установок к деятельности»",
-      "organizer": "Научный совет «Демографическое развитие и демографическая политика Российской Федерации» Федеральный научно-исследовательский социологический центр Российской академии наук Координационный центр развития кадрового потенциала в области демографии Санкт-Петербургский центр развития кадрового потенциала в области демографии",
-      "disciplines": [
-        "Социология (включая демографию и антропологию)"
-      ],
-      "event_start": "2026-12-17",
-      "event_end": "2026-12-18",
-      "submission_deadline": "2026-11-25",
-      "location": "Санкт-Петербург",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "organizer",
-        "disciplines",
-        "format"
-      ],
-      "first_seen": "2026-11-14",
-      "status": "open",
-      "sources": [
-        {
-          "source": "socinst",
-          "source_name": "Социологический институт РАН",
-          "url": "https://socinst.ru/conferences/youngsoc2026/#files",
-          "published_date": null
-        }
-      ]
-    },
     {
       "id": "069454ec525b",
       "title": "The 8th International Conference «Topical Issues of International Political Geography»",
@@ -395,6 +303,37 @@ window.CONF_DATA = {
           "source": "ras_events",
           "source_name": "РАН",
           "url": "https://new.ras.ru/press-center/events-additional/xxv-zimnyaya-shkola-po-mekhanike-sploshnykh-sred/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "64a8f9a8645c",
+      "title": "XXVI Международная научная конференция «Модернизация России в условиях формирования нового мирового порядка»",
+      "organizer": "ИНИОН РАН",
+      "disciplines": [
+        "Экономика и менеджмент",
+        "Социология (включая демографию и антропологию)",
+        "Политология и международные отношения (включая ГМУ)"
+      ],
+      "event_start": "2027-01-26",
+      "event_end": "2027-01-27",
+      "submission_deadline": "2026-12-23",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "organizer",
+        "disciplines"
+      ],
+      "first_seen": "2026-11-26",
+      "status": "open",
+      "sources": [
+        {
+          "source": "inion",
+          "source_name": "ИНИОН РАН",
+          "url": "https://inion.ru/ru/about/news/xxvi-mezhdunarodnaia-nauchnaia-konferentciia-modernizatciia-rossii-v-usloviiakh-formirovaniia-novogo-mirovogo-poriadka/",
           "published_date": null
         }
       ]
@@ -727,34 +666,6 @@ window.CONF_DATA = {
           "source": "ras_events",
           "source_name": "РАН",
           "url": "https://new.ras.ru/press-center/events-additional/ii-mezhdunarodnaya-nauchnaya-konferentsiya-sudba-arkheologii-v-1930-e-gody-uchrezhdeniya-i-sotrudnik/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "3ed59fa0d2ef",
-      "title": "Шестая конференция по уральским, алтайским и палеоазиатским языкам",
-      "organizer": "Институт лингвистических исследований РАН",
-      "disciplines": [
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-11-23",
-      "event_end": "2026-11-25",
-      "submission_deadline": "2026-09-01",
-      "location": "Санкт-Петербург",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.95,
-      "field_flags": [
-        "submission_deadline"
-      ],
-      "first_seen": "2026-07-18",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "iling_ras",
-          "source_name": "ИЛИ РАН",
-          "url": "https://iling.spb.ru/conferences/2026/5061",
           "published_date": null
         }
       ]
@@ -2434,6 +2345,98 @@ window.CONF_DATA = {
           "source": "spbu_events",
           "source_name": "СПбГУ",
           "url": "https://events.spbu.ru/fizcult",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "2684fab29c00",
+      "title": "История современной России: методологические подходы, источниковая база, историографические дискуссии и новые исследовательские инструменты",
+      "organizer": "кафедра истории России новейшего времени и Учебно-научный центр «Новая Россия. История постсоветской России» РГГУ",
+      "disciplines": [
+        "История и археология"
+      ],
+      "event_start": "2026-11-30",
+      "event_end": "2026-11-30",
+      "submission_deadline": "2026-11-25",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 1.0,
+      "field_flags": [
+        "location",
+        "official_url"
+      ],
+      "first_seen": "2026-11-07",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "rsuh",
+          "source_name": "РГГУ",
+          "url": "https://www.rsuh.ru/anons/ot-perestroyki-do-sovremennosti-v-rggu-obsudyat-novye-podkhody-k-izucheniyu-istorii-rossii/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "8170975f25a0",
+      "title": "VII Всероссийская конференция молодых ученых-лингвистов «Традиционное и новое: проблемы и перспективы лингвистики и лингводидактики в условиях культурного взаимодействия»",
+      "organizer": "Кафедра иностранных языков и лингводидактики Санкт-Петербургского государственного университета",
+      "disciplines": [
+        "Образование",
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-12-09",
+      "event_end": "2026-12-11",
+      "submission_deadline": "2026-11-25",
+      "location": "Санкт-Петербург",
+      "format": "гибрид",
+      "official_url": "https://events.spbu.ru/konferenciya-molodyh-uchenyh-lingvistov",
+      "confidence": 0.933,
+      "field_flags": [
+        "organizer",
+        "location",
+        "disciplines",
+        "official_url"
+      ],
+      "first_seen": "2026-09-17",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/konferenciya-molodyh-uchenyh-lingvistov",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "2348f4f6c593",
+      "title": "Х Чтения памяти В.Т. Лисовского «Молодежь как субъект социальных отношений: от мировоззренческих установок к деятельности»",
+      "organizer": "Научный совет «Демографическое развитие и демографическая политика Российской Федерации» Федеральный научно-исследовательский социологический центр Российской академии наук Координационный центр развития кадрового потенциала в области демографии Санкт-Петербургский центр развития кадрового потенциала в области демографии",
+      "disciplines": [
+        "Социология (включая демографию и антропологию)"
+      ],
+      "event_start": "2026-12-17",
+      "event_end": "2026-12-18",
+      "submission_deadline": "2026-11-25",
+      "location": "Санкт-Петербург",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "organizer",
+        "disciplines",
+        "format"
+      ],
+      "first_seen": "2026-11-14",
+      "status": "closed",
+      "sources": [
+        {
+          "source": "socinst",
+          "source_name": "Социологический институт РАН",
+          "url": "https://socinst.ru/conferences/youngsoc2026/#files",
           "published_date": null
         }
       ]
@@ -5335,6 +5338,34 @@ window.CONF_DATA = {
           "source": "ion_ranepa",
           "source_name": "ИОН РАНХиГС",
           "url": "https://ion.ranepa.ru/announcement/9-10-noyabrya-sostoitsya-nauchnaya-konferentsiya-otrazhenie-ili-iskazhenie-problema-podlinnosti-v-te/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "3ed59fa0d2ef",
+      "title": "Шестая конференция по уральским, алтайским и палеоазиатским языкам",
+      "organizer": "Институт лингвистических исследований РАН",
+      "disciplines": [
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-11-23",
+      "event_end": "2026-11-25",
+      "submission_deadline": "2026-09-01",
+      "location": "Санкт-Петербург",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.95,
+      "field_flags": [
+        "submission_deadline"
+      ],
+      "first_seen": "2026-07-18",
+      "status": "past",
+      "sources": [
+        {
+          "source": "iling_ras",
+          "source_name": "ИЛИ РАН",
+          "url": "https://iling.spb.ru/conferences/2026/5061",
           "published_date": null
         }
       ]
