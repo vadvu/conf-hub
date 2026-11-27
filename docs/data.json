@@ -1,8 +1,8 @@
 {
   "version": "0.23.0",
-  "generated_at": "2026-11-26T03:04:50+00:00",
-  "crawled_at": "2026-11-26T03:02:54+00:00",
-  "today": "2026-11-26",
+  "generated_at": "2026-11-27T11:06:01+00:00",
+  "crawled_at": "2026-11-27T04:43:36+00:00",
+  "today": "2026-11-27",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -369,6 +369,32 @@
       ]
     },
     {
+      "id": "d869423c4636",
+      "title": "Конференция «Прикладная эконометрика»",
+      "organizer": "Департамент прикладной экономики Факультета экономических наук НИУ ВШЭ",
+      "disciplines": [
+        "Экономика и менеджмент"
+      ],
+      "event_start": "2027-04-23",
+      "event_end": "2027-04-24",
+      "submission_deadline": "2026-12-25",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": "https://ae.hse.ru/",
+      "confidence": 0.933,
+      "field_flags": [],
+      "first_seen": "2026-11-27",
+      "status": "open",
+      "sources": [
+        {
+          "source": "hse_conf",
+          "source_name": "НИУ ВШЭ (конференции)",
+          "url": "https://economics.hse.ru/depe/announcements/1221372740.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "4d2dd4605d40",
       "title": "ХVII международная конференция «Африка: восстановление исторической справедливости и достижение подлинного суверенитета»",
       "organizer": "Институт Африки Российской академии наук и Министерство науки и высшего образования Российской Федерации",
@@ -456,6 +482,38 @@
       ]
     },
     {
+      "id": "3c919e6f219e",
+      "title": "Всероссийская научная конференция «П.П. Семенов-Тян-Шанский как выдающийся отечественный экономист-практик и государственный деятель»",
+      "organizer": "ИНИОН РАН",
+      "disciplines": [
+        "Экономика и менеджмент"
+      ],
+      "event_start": "2027-02-16",
+      "event_end": "2027-02-16",
+      "submission_deadline": "2027-02-01",
+      "location": "Не указано (возможно, онлайн или в ИНИОН РАН)",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "organizer",
+        "location",
+        "disciplines",
+        "submission_deadline",
+        "official_url"
+      ],
+      "first_seen": "2026-11-27",
+      "status": "open",
+      "sources": [
+        {
+          "source": "inion",
+          "source_name": "ИНИОН РАН",
+          "url": "https://inion.ru/ru/about/news/vserossiiskaia-nauchnaia-konferentciia-p.p-semenov-tian-shanskii-kak-vydaiushchiisia-otechestvennyi-ekonomist-praktik-i/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "50960fe2d03c",
       "title": "Всероссийская научная конференция «Границы политического в меняющихся обществах (100-летию выхода «Понятия политического» Карла Шмитта посвящается)",
       "organizer": "Социологический институт РАН – филиал ФНИСЦ РАН",
@@ -512,6 +570,38 @@
           "source": "msu_events",
           "source_name": "МГУ",
           "url": "https://conf.msu.ru/rus/event/10531/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "aa6535e1d52c",
+      "title": "Восьмая Международная конференция пользователей данными «Российского мониторинга экономического положения и здоровья населения НИУ ВШЭ»",
+      "organizer": "НИУ ВШЭ",
+      "disciplines": [
+        "Здравоохранение",
+        "Экономика и менеджмент",
+        "Социология (включая демографию и антропологию)",
+        "Политология и международные отношения (включая ГМУ)"
+      ],
+      "event_start": "2027-05-19",
+      "event_end": "2027-05-20",
+      "submission_deadline": "2027-03-21",
+      "location": null,
+      "format": "онлайн",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "organizer",
+        "disciplines"
+      ],
+      "first_seen": "2026-11-27",
+      "status": "open",
+      "sources": [
+        {
+          "source": "hse_conf",
+          "source_name": "НИУ ВШЭ (конференции)",
+          "url": "https://www.hse.ru/rlms/conference2027",
           "published_date": null
         }
       ]
@@ -883,37 +973,6 @@
           "source_name": "ЕУСПб",
           "url": "https://eusp.org/news/start-priema-zayavok-konferenciya-po-vizualnym-issledovaniyam-istorii-i-teorii-fotografii-posle-postfotografii",
           "published_date": "2026-08-31"
-        }
-      ]
-    },
-    {
-      "id": "4cab35fb8025",
-      "title": "IX международная конференция «Еврейское поле: новые открытия, опыт и концептуализация»",
-      "organizer": "Факультет гуманитарных наук НИУ ВШЭ, Еврейский музей и центр толерантности",
-      "disciplines": [
-        "Социология (включая демографию и антропологию)",
-        "История и археология",
-        "Филология и лингвистика"
-      ],
-      "event_start": "2026-11-24",
-      "event_end": "2026-11-26",
-      "submission_deadline": "2026-09-22",
-      "location": "онлайн",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "organizer",
-        "location"
-      ],
-      "first_seen": "2026-08-14",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "hse_ann_sci",
-          "source_name": "НИУ ВШЭ",
-          "url": "https://hum.hse.ru/announcements/1189063893.html",
-          "published_date": null
         }
       ]
     },
@@ -1844,37 +1903,6 @@
       ]
     },
     {
-      "id": "a1cbd6b34ff0",
-      "title": "VI Международная конференция по социальной нейронауке в экологически валидных условиях «Городские пространства и мозг человека»",
-      "organizer": "Международная лаборатория социальной нейробиологии Института когнитивных нейронаук НИУ ВШЭ",
-      "disciplines": [
-        "Фундаментальная медицина (включая нейронауки)",
-        "Психология"
-      ],
-      "event_start": "2026-11-26",
-      "event_end": "2026-11-26",
-      "submission_deadline": "2026-11-15",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "disciplines",
-        "submission_deadline"
-      ],
-      "first_seen": "2026-10-28",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "hse_conf",
-          "source_name": "НИУ ВШЭ (конференции)",
-          "url": "https://neuro.hse.ru/ilsn/snevc/2026/",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "51bf8a20edb2",
       "title": "Немцы в Санкт-Петербурге (XVIII-XX вв.): исторический, биографический и коммуникативный аспекты",
       "organizer": "Федеральный научно-исследовательский социологический центр Российской академии наук",
@@ -2110,36 +2138,6 @@
           "source": "mgimo_ann",
           "source_name": "МГИМО",
           "url": "https://mgimo.ru/about/news/announce/conf-sociology-12-26/",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "48f2c46c569f",
-      "title": "Новые вызовы национальной экономической безопасности",
-      "organizer": "кафедра управления рисками и страхования МГИМО, МЦУР, Risk and Insurance Community, Русское общество управления рисками",
-      "disciplines": [
-        "Экономика и менеджмент"
-      ],
-      "event_start": "2026-11-25",
-      "event_end": "2026-11-26",
-      "submission_deadline": "2026-11-17",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "location",
-        "disciplines",
-        "official_url"
-      ],
-      "first_seen": "2026-11-02",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "mgimo_ann",
-          "source_name": "МГИМО",
-          "url": "https://mgimo.ru/about/news/announce/conf-national-economic-security-11-26/",
           "published_date": null
         }
       ]
@@ -2768,6 +2766,35 @@
           "source": "spbu_events",
           "source_name": "СПбГУ",
           "url": "https://events.spbu.ru/geocosmos2026",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "9c0808ee1c5f",
+      "title": "Международная конференция «Вызовы финансовых рынков в условиях глобальных шоков и кризисов»",
+      "organizer": "Национальный исследовательский университет «Высшая школа экономики» (НИУ ВШЭ), Центр финансовых исследований и анализа данных (ЦФИАнД)",
+      "disciplines": [
+        "Экономика и менеджмент"
+      ],
+      "event_start": "2026-03-26",
+      "event_end": "2026-03-26",
+      "submission_deadline": "2026-02-28",
+      "location": null,
+      "format": "онлайн",
+      "official_url": null,
+      "confidence": 0.967,
+      "field_flags": [
+        "title",
+        "location"
+      ],
+      "first_seen": "2026-11-27",
+      "status": "past",
+      "sources": [
+        {
+          "source": "hse_conf",
+          "source_name": "НИУ ВШЭ (конференции)",
+          "url": "https://fmlab.hse.ru/announcements/1139286595.html",
           "published_date": null
         }
       ]
@@ -6131,6 +6158,37 @@
       ]
     },
     {
+      "id": "4cab35fb8025",
+      "title": "IX международная конференция «Еврейское поле: новые открытия, опыт и концептуализация»",
+      "organizer": "Факультет гуманитарных наук НИУ ВШЭ, Еврейский музей и центр толерантности",
+      "disciplines": [
+        "Социология (включая демографию и антропологию)",
+        "История и археология",
+        "Филология и лингвистика"
+      ],
+      "event_start": "2026-11-24",
+      "event_end": "2026-11-26",
+      "submission_deadline": "2026-09-22",
+      "location": "онлайн",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "organizer",
+        "location"
+      ],
+      "first_seen": "2026-08-14",
+      "status": "past",
+      "sources": [
+        {
+          "source": "hse_ann_sci",
+          "source_name": "НИУ ВШЭ",
+          "url": "https://hum.hse.ru/announcements/1189063893.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "526757ef31b8",
       "title": "Всероссийская научная конференция «Единство народов России в русской философской мысли»",
       "organizer": "Кафедра истории русской философии философского факультета МГУ имени М.В. Ломоносова",
@@ -7982,6 +8040,67 @@
           "source": "socinst",
           "source_name": "Социологический институт РАН",
           "url": "https://socinst.ru/conferences/ruraging2026/#files",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "a1cbd6b34ff0",
+      "title": "VI Международная конференция по социальной нейронауке в экологически валидных условиях «Городские пространства и мозг человека»",
+      "organizer": "Международная лаборатория социальной нейробиологии Института когнитивных нейронаук НИУ ВШЭ",
+      "disciplines": [
+        "Фундаментальная медицина (включая нейронауки)",
+        "Психология"
+      ],
+      "event_start": "2026-11-26",
+      "event_end": "2026-11-26",
+      "submission_deadline": "2026-11-15",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "disciplines",
+        "submission_deadline"
+      ],
+      "first_seen": "2026-10-28",
+      "status": "past",
+      "sources": [
+        {
+          "source": "hse_conf",
+          "source_name": "НИУ ВШЭ (конференции)",
+          "url": "https://neuro.hse.ru/ilsn/snevc/2026/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "48f2c46c569f",
+      "title": "Новые вызовы национальной экономической безопасности",
+      "organizer": "кафедра управления рисками и страхования МГИМО, МЦУР, Risk and Insurance Community, Русское общество управления рисками",
+      "disciplines": [
+        "Экономика и менеджмент"
+      ],
+      "event_start": "2026-11-25",
+      "event_end": "2026-11-26",
+      "submission_deadline": "2026-11-17",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "location",
+        "disciplines",
+        "official_url"
+      ],
+      "first_seen": "2026-11-02",
+      "status": "past",
+      "sources": [
+        {
+          "source": "mgimo_ann",
+          "source_name": "МГИМО",
+          "url": "https://mgimo.ru/about/news/announce/conf-national-economic-security-11-26/",
           "published_date": null
         }
       ]
