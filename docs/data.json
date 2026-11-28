@@ -1,8 +1,8 @@
 {
   "version": "0.23.0",
-  "generated_at": "2026-11-27T11:06:01+00:00",
-  "crawled_at": "2026-11-27T04:43:36+00:00",
-  "today": "2026-11-27",
+  "generated_at": "2026-11-28T06:01:15+00:00",
+  "crawled_at": "2026-11-28T04:33:55+00:00",
+  "today": "2026-11-28",
   "sources_info": [
     {
       "name": "ЕУСПб",
@@ -1181,41 +1181,6 @@
       ]
     },
     {
-      "id": "b2f0870ce4cb",
-      "title": "Российское общество в межстрановых и временных сравнениях",
-      "organizer": "Центр сравнительных исследований социального благополучия НИУ ВШЭ и Институт сравнительных социальных исследований",
-      "disciplines": [
-        "Социология (включая демографию и антропологию)"
-      ],
-      "event_start": "2026-11-26",
-      "event_end": "2026-11-27",
-      "submission_deadline": "2026-10-15",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "disciplines"
-      ],
-      "first_seen": "2026-07-13",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "lcsr",
-          "source_name": "ЦенСИБ НИУ ВШЭ",
-          "url": "https://lcsr.hse.ru/news/1170484895.html",
-          "published_date": "2026-06-17"
-        },
-        {
-          "source": "lcsr",
-          "source_name": "ЦенСИБ НИУ ВШЭ",
-          "url": "https://lcsr.hse.ru/news/1207359592.html",
-          "published_date": "2026-10-07"
-        }
-      ]
-    },
-    {
       "id": "b244afcfbc40",
       "title": "IX Международная научно-практическая конференция «Актуальные проблемы стоматологии»",
       "organizer": "Медицинский институт СПбГУ, направление «Стоматология»",
@@ -1372,38 +1337,6 @@
       ]
     },
     {
-      "id": "680932f3b186",
-      "title": "Принцип равенства: юридические и социальные аспекты",
-      "organizer": "Юридический факультет Московского государственного университета имени М.В. Ломоносова, Московский государственный юридический университет имени О.Е. Кутафина (МГЮА), Российская академия юридических наук, Московское отделение Ассоциации юристов России",
-      "disciplines": [
-        "Право"
-      ],
-      "event_start": "2026-11-24",
-      "event_end": "2026-11-27",
-      "submission_deadline": "2026-10-31",
-      "location": "Москва",
-      "format": "очно",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "organizer",
-        "location",
-        "submission_deadline",
-        "format"
-      ],
-      "first_seen": "2026-10-19",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "msu_events",
-          "source_name": "МГУ",
-          "url": "https://conf.msu.ru/rus/event/10606/",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "3fb1aa29807f",
       "title": "Всероссийская научная конференция «Научная биография — вид исторического исследования Нового и новейшего времени»",
       "organizer": "Санкт-Петербургский государственный университет",
@@ -1553,37 +1486,6 @@
           "source": "hse_conf",
           "source_name": "НИУ ВШЭ (конференции)",
           "url": "https://scr.hse.ru/announcements/1205756691.html",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "836904cb4f4c",
-      "title": "VII Юткевичевские чтения «Неуловимый реализм: грани явления и проблема термина»",
-      "organizer": "кафедра истории театра и кино Института филологии и истории РГГУ, Государственный институт искусствознания",
-      "disciplines": [
-        "Филология и лингвистика",
-        "Искусствоведение"
-      ],
-      "event_start": "2026-11-26",
-      "event_end": "2026-11-27",
-      "submission_deadline": "2026-11-04",
-      "location": "Москва",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "location",
-        "disciplines"
-      ],
-      "first_seen": "2026-10-19",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "rsuh",
-          "source_name": "РГГУ",
-          "url": "https://www.rsuh.ru/anons/v-rggu-proydut-vii-yutkevichevskie-chteniya-neulovimyy-realizm-grani-yavleniya-i-problema-termina/",
           "published_date": null
         }
       ]
@@ -1903,37 +1805,6 @@
       ]
     },
     {
-      "id": "51bf8a20edb2",
-      "title": "Немцы в Санкт-Петербурге (XVIII-XX вв.): исторический, биографический и коммуникативный аспекты",
-      "organizer": "Федеральный научно-исследовательский социологический центр Российской академии наук",
-      "disciplines": [
-        "История и археология"
-      ],
-      "event_start": "2026-11-27",
-      "event_end": "2026-11-27",
-      "submission_deadline": "2026-11-15",
-      "location": "Санкт-Петербург",
-      "format": "гибрид",
-      "official_url": "https://forms.socinst.ru/form/view?id=14",
-      "confidence": 0.933,
-      "field_flags": [
-        "organizer",
-        "disciplines",
-        "format",
-        "official_url"
-      ],
-      "first_seen": "2026-09-20",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "socinst",
-          "source_name": "Социологический институт РАН",
-          "url": "https://socinst.ru/conferences/germansspb2026/#files",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "ecd57b04eb51",
       "title": "Неология. Неография — 2026",
       "organizer": "Группа Словарей новых слов Отдела лексикографии современного русского языка Института лингвистических исследований Российской академии наук",
@@ -2171,36 +2042,6 @@
       ]
     },
     {
-      "id": "4246e307aa4e",
-      "title": "Х Всероссийская конференция «Экология и управление природопользованием»",
-      "organizer": "Национальный исследовательский Томский государственный университет, Биологический институт, Кафедра экологии, природопользования и экологической инженерии, Верхне-Обское Бассейновое Водное Управление, Департамент природных ресурсов и охраны окружающей среды Томской области, ОГБУ «Облкомприрода»",
-      "disciplines": [
-        "Экономика и менеджмент"
-      ],
-      "event_start": "2026-11-27",
-      "event_end": "2026-11-27",
-      "submission_deadline": "2026-11-20",
-      "location": "Томск",
-      "format": "гибрид",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "organizer",
-        "disciplines",
-        "official_url"
-      ],
-      "first_seen": "2026-10-13",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "tsu",
-          "source_name": "ТГУ",
-          "url": "https://news.tsu.ru/calendar-of-events/27-noyabrya-kh-vserossiyskaya-konferentsiya-ekologiya-i-upravlenie-prirodopolzovaniem/",
-          "published_date": null
-        }
-      ]
-    },
-    {
       "id": "91c72ae25be6",
       "title": "Шестая Всероссийская научно-практическая конференция «Цивилизационный потенциал российских регионов: внутренняя динамика и межтерриториальное взаимодействие»",
       "organizer": "Западный филиал Российской академии народного хозяйства и государственной службы при Президенте Российской Федерации (г. Калининград), Социологический институт РАН – филиал ФНИСЦ РАН, Челябинский государственный институт культуры (г. Челябинск)",
@@ -2312,37 +2153,6 @@
           "source": "hse_ann_sci",
           "source_name": "НИУ ВШЭ",
           "url": "https://www.hse.ru/unesco/announcements/1172055508.html",
-          "published_date": null
-        }
-      ]
-    },
-    {
-      "id": "9d3dc42caa27",
-      "title": "Физическая культура и спорт в системе образования: инновации и перспективы развития",
-      "organizer": "Санкт-Петербургский государственный университет",
-      "disciplines": [
-        "Физика",
-        "Образование"
-      ],
-      "event_start": "2026-11-26",
-      "event_end": "2026-11-27",
-      "submission_deadline": "2026-11-22",
-      "location": "Санкт-Петербург",
-      "format": "онлайн",
-      "official_url": null,
-      "confidence": 0.933,
-      "field_flags": [
-        "title",
-        "disciplines",
-        "official_url"
-      ],
-      "first_seen": "2026-10-07",
-      "status": "closed",
-      "sources": [
-        {
-          "source": "spbu_events",
-          "source_name": "СПбГУ",
-          "url": "https://events.spbu.ru/fizcult",
           "published_date": null
         }
       ]
@@ -7167,6 +6977,41 @@
       ]
     },
     {
+      "id": "b2f0870ce4cb",
+      "title": "Российское общество в межстрановых и временных сравнениях",
+      "organizer": "Центр сравнительных исследований социального благополучия НИУ ВШЭ и Институт сравнительных социальных исследований",
+      "disciplines": [
+        "Социология (включая демографию и антропологию)"
+      ],
+      "event_start": "2026-11-26",
+      "event_end": "2026-11-27",
+      "submission_deadline": "2026-10-15",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "disciplines"
+      ],
+      "first_seen": "2026-07-13",
+      "status": "past",
+      "sources": [
+        {
+          "source": "lcsr",
+          "source_name": "ЦенСИБ НИУ ВШЭ",
+          "url": "https://lcsr.hse.ru/news/1170484895.html",
+          "published_date": "2026-06-17"
+        },
+        {
+          "source": "lcsr",
+          "source_name": "ЦенСИБ НИУ ВШЭ",
+          "url": "https://lcsr.hse.ru/news/1207359592.html",
+          "published_date": "2026-10-07"
+        }
+      ]
+    },
+    {
       "id": "12c57a158b1a",
       "title": "Международная научно-практическая конференция «Синергия языков и культур: междисциплинарные исследования»",
       "organizer": "Санкт-Петербургский государственный университет",
@@ -7643,6 +7488,38 @@
       ]
     },
     {
+      "id": "680932f3b186",
+      "title": "Принцип равенства: юридические и социальные аспекты",
+      "organizer": "Юридический факультет Московского государственного университета имени М.В. Ломоносова, Московский государственный юридический университет имени О.Е. Кутафина (МГЮА), Российская академия юридических наук, Московское отделение Ассоциации юристов России",
+      "disciplines": [
+        "Право"
+      ],
+      "event_start": "2026-11-24",
+      "event_end": "2026-11-27",
+      "submission_deadline": "2026-10-31",
+      "location": "Москва",
+      "format": "очно",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "organizer",
+        "location",
+        "submission_deadline",
+        "format"
+      ],
+      "first_seen": "2026-10-19",
+      "status": "past",
+      "sources": [
+        {
+          "source": "msu_events",
+          "source_name": "МГУ",
+          "url": "https://conf.msu.ru/rus/event/10606/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "6912bc1610ca",
       "title": "V Международная конференция «Цифровая трансформация международной экономической системы»",
       "organizer": "МГИМО",
@@ -7895,6 +7772,37 @@
       ]
     },
     {
+      "id": "836904cb4f4c",
+      "title": "VII Юткевичевские чтения «Неуловимый реализм: грани явления и проблема термина»",
+      "organizer": "кафедра истории театра и кино Института филологии и истории РГГУ, Государственный институт искусствознания",
+      "disciplines": [
+        "Филология и лингвистика",
+        "Искусствоведение"
+      ],
+      "event_start": "2026-11-26",
+      "event_end": "2026-11-27",
+      "submission_deadline": "2026-11-04",
+      "location": "Москва",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "location",
+        "disciplines"
+      ],
+      "first_seen": "2026-10-19",
+      "status": "past",
+      "sources": [
+        {
+          "source": "rsuh",
+          "source_name": "РГГУ",
+          "url": "https://www.rsuh.ru/anons/v-rggu-proydut-vii-yutkevichevskie-chteniya-neulovimyy-realizm-grani-yavleniya-i-problema-termina/",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "a2ac84a99d9e",
       "title": "V Oeconomicus Forum",
       "organizer": "Экономический клуб Oeconomicus им. А.В.Макаренко и факультет МЭО при поддержке Эндаумента МГИМО",
@@ -8076,6 +7984,37 @@
       ]
     },
     {
+      "id": "51bf8a20edb2",
+      "title": "Немцы в Санкт-Петербурге (XVIII-XX вв.): исторический, биографический и коммуникативный аспекты",
+      "organizer": "Федеральный научно-исследовательский социологический центр Российской академии наук",
+      "disciplines": [
+        "История и археология"
+      ],
+      "event_start": "2026-11-27",
+      "event_end": "2026-11-27",
+      "submission_deadline": "2026-11-15",
+      "location": "Санкт-Петербург",
+      "format": "гибрид",
+      "official_url": "https://forms.socinst.ru/form/view?id=14",
+      "confidence": 0.933,
+      "field_flags": [
+        "organizer",
+        "disciplines",
+        "format",
+        "official_url"
+      ],
+      "first_seen": "2026-09-20",
+      "status": "past",
+      "sources": [
+        {
+          "source": "socinst",
+          "source_name": "Социологический институт РАН",
+          "url": "https://socinst.ru/conferences/germansspb2026/#files",
+          "published_date": null
+        }
+      ]
+    },
+    {
       "id": "48f2c46c569f",
       "title": "Новые вызовы национальной экономической безопасности",
       "organizer": "кафедра управления рисками и страхования МГИМО, МЦУР, Risk and Insurance Community, Русское общество управления рисками",
@@ -8130,6 +8069,67 @@
           "source": "hse_ann_sci",
           "source_name": "НИУ ВШЭ",
           "url": "https://pravo.hse.ru/announcements/1203656682.html",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "4246e307aa4e",
+      "title": "Х Всероссийская конференция «Экология и управление природопользованием»",
+      "organizer": "Национальный исследовательский Томский государственный университет, Биологический институт, Кафедра экологии, природопользования и экологической инженерии, Верхне-Обское Бассейновое Водное Управление, Департамент природных ресурсов и охраны окружающей среды Томской области, ОГБУ «Облкомприрода»",
+      "disciplines": [
+        "Экономика и менеджмент"
+      ],
+      "event_start": "2026-11-27",
+      "event_end": "2026-11-27",
+      "submission_deadline": "2026-11-20",
+      "location": "Томск",
+      "format": "гибрид",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "organizer",
+        "disciplines",
+        "official_url"
+      ],
+      "first_seen": "2026-10-13",
+      "status": "past",
+      "sources": [
+        {
+          "source": "tsu",
+          "source_name": "ТГУ",
+          "url": "https://news.tsu.ru/calendar-of-events/27-noyabrya-kh-vserossiyskaya-konferentsiya-ekologiya-i-upravlenie-prirodopolzovaniem/",
+          "published_date": null
+        }
+      ]
+    },
+    {
+      "id": "9d3dc42caa27",
+      "title": "Физическая культура и спорт в системе образования: инновации и перспективы развития",
+      "organizer": "Санкт-Петербургский государственный университет",
+      "disciplines": [
+        "Физика",
+        "Образование"
+      ],
+      "event_start": "2026-11-26",
+      "event_end": "2026-11-27",
+      "submission_deadline": "2026-11-22",
+      "location": "Санкт-Петербург",
+      "format": "онлайн",
+      "official_url": null,
+      "confidence": 0.933,
+      "field_flags": [
+        "title",
+        "disciplines",
+        "official_url"
+      ],
+      "first_seen": "2026-10-07",
+      "status": "past",
+      "sources": [
+        {
+          "source": "spbu_events",
+          "source_name": "СПбГУ",
+          "url": "https://events.spbu.ru/fizcult",
           "published_date": null
         }
       ]
